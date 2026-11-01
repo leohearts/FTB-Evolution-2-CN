@@ -24188,7 +24188,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.death.death_reversed.text",
-    "english": "Decay consumes you. Hunger drains constantly (0.5 exhaustion every 10 seconds). At nightfall, 15% chance Death itself manifests to claim your soul. This card expires upon summoning.",
+    "english": "Decay consumes you. Hunger drains constantly (0.5 exhaustion every 10 seconds). At nightfall, 15%% chance Death itself manifests to claim your soul. This card expires upon summoning.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -24206,7 +24206,7 @@
       "chinese": "腐朽吞噬着你。饥饿值会不断下降（每10秒0.5点消耗度）。夜晚到来时，死神本尊有15%%概率前来索取你的灵魂。此牌在召唤后失效。"
     },
     "status": "accepted",
-    "chinese": "腐朽吞噬着你.饥饿值会不断下降(每10秒0.5点消耗度).夜晚到来时, 死神本尊有15%概率前来索取你的灵魂.此牌在召唤后失效.",
+    "chinese": "腐朽吞噬着你.饥饿值会不断下降(每10秒0.5点消耗度).夜晚到来时, 死神本尊有15%%概率前来索取你的灵魂.此牌在召唤后失效.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.death.death_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -24218,6 +24218,11 @@
         "from": "腐朽吞噬着你。饥饿值会不断下降（每10秒0.5点消耗度）。夜晚到来时，死神本尊有15%概率前来索取你的灵魂。此牌在召唤后失效。",
         "to": "腐朽吞噬着你.饥饿值会不断下降(每10秒0.5点消耗度).夜晚到来时, 死神本尊有15%概率前来索取你的灵魂.此牌在召唤后失效.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "腐朽吞噬着你.饥饿值会不断下降(每10秒0.5点消耗度).夜晚到来时, 死神本尊有15%概率前来索取你的灵魂.此牌在召唤后失效.",
+        "to": "腐朽吞噬着你.饥饿值会不断下降(每10秒0.5点消耗度).夜晚到来时, 死神本尊有15%%概率前来索取你的灵魂.此牌在召唤后失效.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -24248,7 +24253,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.death.death_upright.text",
-    "english": "Transformation through endings. Kills on summonable creatures have 5% chance to raise them as 24-hour ethereal servants. Each dawn purges all negative effects. Death renews.",
+    "english": "Transformation through endings. Kills on summonable creatures have 5%% chance to raise them as 24-hour ethereal servants. Each dawn purges all negative effects. Death renews.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -24266,7 +24271,7 @@
       "chinese": "借由终结而转化。击杀可召唤的生物有5%%概率令其复苏，成为24小时留存的空灵仆从。每次清晨都会清除所有负面效果。亡者复生。"
     },
     "status": "accepted",
-    "chinese": "借由终结而转化.击杀可召唤的生物有5%概率令其复苏, 成为24小时留存的空灵仆从.每次清晨都会清除所有负面效果.亡者复生.",
+    "chinese": "借由终结而转化.击杀可召唤的生物有5%%概率令其复苏, 成为24小时留存的空灵仆从.每次清晨都会清除所有负面效果.亡者复生.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.death.death_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -24278,6 +24283,11 @@
         "from": "借由终结而转化。击杀可召唤的生物有5%概率令其复苏，成为24小时留存的空灵仆从。每次清晨都会清除所有负面效果。亡者复生。",
         "to": "借由终结而转化.击杀可召唤的生物有5%概率令其复苏, 成为24小时留存的空灵仆从.每次清晨都会清除所有负面效果.亡者复生.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "借由终结而转化.击杀可召唤的生物有5%概率令其复苏, 成为24小时留存的空灵仆从.每次清晨都会清除所有负面效果.亡者复生.",
+        "to": "借由终结而转化.击杀可召唤的生物有5%%概率令其复苏, 成为24小时留存的空灵仆从.每次清晨都会清除所有负面效果.亡者复生.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -24435,7 +24445,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.judgement.judgement_upright.text",
-    "english": "Rise from the ashes. When lethal damage strikes, 50% chance Judgement spares you at 1 health with Regeneration III, Fire Resistance, and Resistance II for 10 seconds. Kills restore 1 heart. Divine mercy is finite—this card expires after saving you.",
+    "english": "Rise from the ashes. When lethal damage strikes, 50%% chance Judgement spares you at 1 health with Regeneration III, Fire Resistance, and Resistance II for 10 seconds. Kills restore 1 heart. Divine mercy is finite. This card expires after saving you.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -24453,7 +24463,7 @@
       "chinese": "自余灰中复苏。受到致命伤害时，审判会有50%%概率让你免受一死，留下1点生命值，并给予10秒的生命恢复 III、抗火、抗性提升 II。每次击杀恢复1颗心。神圣的慈悲有其限度——此牌在助你逃过死亡后失效。"
     },
     "status": "accepted",
-    "chinese": "自余灰中复苏.受到致命伤害时, 审判会有50%概率让你免受一死, 留下1点生命值, 并给予10秒的生命恢复 III,抗火, 抗性提升 II.每次击杀恢复1颗心.神圣的慈悲有其限度--此牌在助你逃过死亡后失效.",
+    "chinese": "自余灰中复苏.受到致命伤害时, 审判会有50%%概率让你免受一死, 留下1点生命值, 并给予10秒的生命恢复 III,抗火, 抗性提升 II.每次击杀恢复1颗心.神圣的慈悲有其限度. 此牌在助你逃过死亡后失效.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.judgement.judgement_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -24465,6 +24475,11 @@
         "from": "自余灰中复苏。受到致命伤害时，审判会有50%概率让你免受一死，留下1点生命值，并给予10秒的生命恢复 III、抗火、抗性提升 II。每次击杀恢复1颗心。神圣的慈悲有其限度——此牌在助你逃过死亡后失效。",
         "to": "自余灰中复苏.受到致命伤害时, 审判会有50%概率让你免受一死, 留下1点生命值, 并给予10秒的生命恢复 III,抗火, 抗性提升 II.每次击杀恢复1颗心.神圣的慈悲有其限度--此牌在助你逃过死亡后失效.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "自余灰中复苏.受到致命伤害时, 审判会有50%概率让你免受一死, 留下1点生命值, 并给予10秒的生命恢复 III,抗火, 抗性提升 II.每次击杀恢复1颗心.神圣的慈悲有其限度--此牌在助你逃过死亡后失效.",
+        "to": "自余灰中复苏.受到致命伤害时, 审判会有50%%概率让你免受一死, 留下1点生命值, 并给予10秒的生命恢复 III,抗火, 抗性提升 II.每次击杀恢复1颗心.神圣的慈悲有其限度. 此牌在助你逃过死亡后失效.",
+        "reason": "1.6.3: 英文改用 %% 并把破折号改为句号; 中文同步, 含义不变"
       }
     ]
   },
@@ -24543,7 +24558,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.justice.justice_reversed.text",
-    "english": "Injustice prevails cruelly. All damage you receive increases by 30% as the scales tip against you. Punishment comes swiftly and without mercy.",
+    "english": "Injustice prevails cruelly. All damage you receive increases by 30%% as the scales tip against you. Punishment comes swiftly and without mercy.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -24561,7 +24576,7 @@
       "chinese": "不公残酷猖獗。天平已朝敌人倾斜，你受到的所有伤害增加30%%。惩罚迅猛而无情。"
     },
     "status": "accepted",
-    "chinese": "不公残酷猖獗.天平已朝敌人倾斜, 你受到的所有伤害增加30%.惩罚迅猛而无情.",
+    "chinese": "不公残酷猖獗.天平已朝敌人倾斜, 你受到的所有伤害增加30%%.惩罚迅猛而无情.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.justice.justice_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -24573,6 +24588,11 @@
         "from": "不公残酷猖獗。天平已朝敌人倾斜，你受到的所有伤害增加30%。惩罚迅猛而无情。",
         "to": "不公残酷猖獗.天平已朝敌人倾斜, 你受到的所有伤害增加30%.惩罚迅猛而无情.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "不公残酷猖獗.天平已朝敌人倾斜, 你受到的所有伤害增加30%.惩罚迅猛而无情.",
+        "to": "不公残酷猖獗.天平已朝敌人倾斜, 你受到的所有伤害增加30%%.惩罚迅猛而无情.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -24912,7 +24932,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.tarot_reading.tarot_reading.text",
-    "english": "Right-click a Tarot Deck to perform a reading. Three cards will be drawn, revealing your fortune for the next three days. Each card brings powerful effects—both beneficial and perilous. A Crystal Ball reduces the chance of reversed cards appearing. Hold L.Alt to show active cards",
+    "english": "Right-click a Tarot Deck to perform a reading. Three cards will be drawn, revealing your fortune for the next three days. Each card brings powerful effects. A Crystal Ball reduces the chance of reversed cards appearing. Hold L.Alt to show active cards",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -24930,13 +24950,18 @@
       "chinese": "持有塔罗牌组右击以进行占卜。如此操作会抽出三张牌，揭示你在接下来三天内的命运。每张牌都有强大的效果——可以是正面的，也可以是负面的。水晶球会降低逆位牌出现的概率。按住左Alt可显示当前生效的牌。"
     },
     "status": "accepted",
-    "chinese": "持有塔罗牌组右击以进行占卜.如此操作会抽出三张牌, 揭示你在接下来三天内的命运.每张牌都有强大的效果--可以是正面的, 也可以是负面的.水晶球会降低逆位牌出现的概率.按住左Alt可显示当前生效的牌.",
+    "chinese": "持有塔罗牌组右击以进行占卜.如此操作会抽出三张牌, 揭示你在接下来三天内的命运.每张牌都有强大的效果.水晶球会降低逆位牌出现的概率.按住左Alt可显示当前生效的牌.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.tarot_reading.tarot_reading.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
         "from": "持有塔罗牌组右击以进行占卜。如此操作会抽出三张牌，揭示你在接下来三天内的命运。每张牌都有强大的效果——可以是正面的，也可以是负面的。水晶球会降低逆位牌出现的概率。按住左Alt可显示当前生效的牌。",
         "to": "持有塔罗牌组右击以进行占卜.如此操作会抽出三张牌, 揭示你在接下来三天内的命运.每张牌都有强大的效果--可以是正面的, 也可以是负面的.水晶球会降低逆位牌出现的概率.按住左Alt可显示当前生效的牌.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "持有塔罗牌组右击以进行占卜.如此操作会抽出三张牌, 揭示你在接下来三天内的命运.每张牌都有强大的效果--可以是正面的, 也可以是负面的.水晶球会降低逆位牌出现的概率.按住左Alt可显示当前生效的牌.",
+        "to": "持有塔罗牌组右击以进行占卜.如此操作会抽出三张牌, 揭示你在接下来三天内的命运.每张牌都有强大的效果.水晶球会降低逆位牌出现的概率.按住左Alt可显示当前生效的牌.",
+        "reason": "1.6.3: 英文删去 both beneficial and perilous 补充说明; 中文同步删除"
       }
     ]
   },
@@ -25149,7 +25174,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_chariot.name",
-    "english": "The_chariot",
+    "english": "The Chariot",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25168,12 +25193,19 @@
     },
     "status": "accepted",
     "chinese": "战车",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_chariot.name 的标题/提示语义 \"The_chariot\" 与相邻同主题内容; \"战车\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_chariot.name 的标题/提示语义 \"The_chariot\" 与相邻同主题内容; \"战车\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "战车",
+        "to": "战车",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_chariot.the_chariot_reversed.text",
-    "english": "Your path is blocked at every turn. Movement speed decreases by 5% as if wading through deep mud. Each step becomes laborious torment.",
+    "english": "Your path is blocked at every turn. Movement speed decreases by 5%% as if wading through deep mud. Each step becomes laborious torment.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25191,7 +25223,7 @@
       "chinese": "前路处处受阻。移动速度降低5%%，如深陷泥沼般举步维艰。每一步都化作痛苦折磨。"
     },
     "status": "accepted",
-    "chinese": "前路处处受阻.移动速度降低5%,如深陷泥沼般举步维艰.每一步都化作痛苦折磨.",
+    "chinese": "前路处处受阻.移动速度降低5%%,如深陷泥沼般举步维艰.每一步都化作痛苦折磨.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_chariot.the_chariot_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25203,6 +25235,11 @@
         "from": "前路处处受阻。移动速度降低5%，如深陷泥沼般举步维艰。每一步都化作痛苦折磨。",
         "to": "前路处处受阻.移动速度降低5%,如深陷泥沼般举步维艰.每一步都化作痛苦折磨.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "前路处处受阻.移动速度降低5%,如深陷泥沼般举步维艰.每一步都化作痛苦折磨.",
+        "to": "前路处处受阻.移动速度降低5%%,如深陷泥沼般举步维艰.每一步都化作痛苦折磨.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25233,7 +25270,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_chariot.the_chariot_upright.text",
-    "english": "Swift as the wind, unstoppable as a charging steed. Your movement speed increases by 10%, granting you the mobility to chase victory.",
+    "english": "Swift as the wind, unstoppable as a charging steed. Your movement speed increases by 10%%, granting you the mobility to chase victory.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25251,7 +25288,7 @@
       "chinese": "如风般迅捷，如冲锋的骏马般不可阻挡。移动速度增加10%%，赋予你追逐胜利的灵活。"
     },
     "status": "accepted",
-    "chinese": "如风般迅捷, 如冲锋的骏马般不可阻挡.移动速度增加10%,赋予你追逐胜利的灵活.",
+    "chinese": "如风般迅捷, 如冲锋的骏马般不可阻挡.移动速度增加10%%,赋予你追逐胜利的灵活.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_chariot.the_chariot_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25263,6 +25300,11 @@
         "from": "如风般迅捷，如冲锋的骏马般不可阻挡。移动速度增加10%，赋予你追逐胜利的灵活。",
         "to": "如风般迅捷, 如冲锋的骏马般不可阻挡.移动速度增加10%,赋予你追逐胜利的灵活.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "如风般迅捷, 如冲锋的骏马般不可阻挡.移动速度增加10%,赋予你追逐胜利的灵活.",
+        "to": "如风般迅捷, 如冲锋的骏马般不可阻挡.移动速度增加10%%,赋予你追逐胜利的灵活.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25317,7 +25359,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_devil.name",
-    "english": "The_devil",
+    "english": "The Devil",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25336,7 +25378,14 @@
     },
     "status": "accepted",
     "chinese": "恶魔",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_devil.name 的标题/提示语义 \"The_devil\" 与相邻同主题内容; \"恶魔\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_devil.name 的标题/提示语义 \"The_devil\" 与相邻同主题内容; \"恶魔\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "恶魔",
+        "to": "恶魔",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -25475,7 +25524,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_emperor.name",
-    "english": "The_emperor",
+    "english": "The Emperor",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25494,7 +25543,14 @@
     },
     "status": "accepted",
     "chinese": "皇帝",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_emperor.name 的标题/提示语义 \"The_emperor\" 与相邻同主题内容; \"皇帝\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_emperor.name 的标题/提示语义 \"The_emperor\" 与相邻同主题内容; \"皇帝\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "皇帝",
+        "to": "皇帝",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -25554,7 +25610,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_emperor.the_emperor_upright.text",
-    "english": "Command and dominance flow through you. Each dawn grants 10 minutes of Resistance, and your strikes have a 15% chance to inflict Slowness II on enemies for 5 seconds.",
+    "english": "Command and dominance flow through you. Each dawn grants 10 minutes of Resistance, and your strikes have a 15%% chance to inflict Slowness II on enemies for 5 seconds.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25572,7 +25628,7 @@
       "chinese": "权力与支配力于全身奔涌。每个黎明给予10分钟的抗性提升，你的攻击有15%%概率对敌人造成5秒的缓慢 II。"
     },
     "status": "accepted",
-    "chinese": "权力与支配力于全身奔涌.每个黎明给予10分钟的抗性提升, 你的攻击有15%概率对敌人造成5秒的缓慢 II.",
+    "chinese": "权力与支配力于全身奔涌.每个黎明给予10分钟的抗性提升, 你的攻击有15%%概率对敌人造成5秒的缓慢 II.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_emperor.the_emperor_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25584,6 +25640,11 @@
         "from": "权力与支配力于全身奔涌。每个黎明给予10分钟的抗性提升，你的攻击有15%概率对敌人造成5秒的缓慢 II。",
         "to": "权力与支配力于全身奔涌.每个黎明给予10分钟的抗性提升, 你的攻击有15%概率对敌人造成5秒的缓慢 II.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "权力与支配力于全身奔涌.每个黎明给予10分钟的抗性提升, 你的攻击有15%概率对敌人造成5秒的缓慢 II.",
+        "to": "权力与支配力于全身奔涌.每个黎明给予10分钟的抗性提升, 你的攻击有15%%概率对敌人造成5秒的缓慢 II.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25638,7 +25699,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_empress.name",
-    "english": "The_empress",
+    "english": "The Empress",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25657,12 +25718,19 @@
     },
     "status": "accepted",
     "chinese": "皇后",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_empress.name 的标题/提示语义 \"The_empress\" 与相邻同主题内容; \"皇后\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_empress.name 的标题/提示语义 \"The_empress\" 与相邻同主题内容; \"皇后\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "皇后",
+        "to": "皇后",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_empress.the_empress_reversed.text",
-    "english": "The harvest fails utterly. Breaking crops has a 30% chance to destroy them entirely, yielding nothing. Nature withholds its gifts from unworthy hands.",
+    "english": "The harvest fails utterly. Breaking crops has a 30%% chance to destroy them entirely, yielding nothing. Nature withholds its gifts from unworthy hands.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25680,7 +25748,7 @@
       "chinese": "丰收化为泡影。破坏农作物有30%%概率直接摧毁，没有产出。自然的恩赐不会施与不称职者。"
     },
     "status": "accepted",
-    "chinese": "丰收化为泡影.破坏农作物有30%概率直接摧毁, 没有产出.自然的恩赐不会施与不称职者.",
+    "chinese": "丰收化为泡影.破坏农作物有30%%概率直接摧毁, 没有产出.自然的恩赐不会施与不称职者.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_empress.the_empress_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25692,6 +25760,11 @@
         "from": "丰收化为泡影。破坏农作物有30%概率直接摧毁，没有产出。自然的恩赐不会施与不称职者。",
         "to": "丰收化为泡影.破坏农作物有30%概率直接摧毁, 没有产出.自然的恩赐不会施与不称职者.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "丰收化为泡影.破坏农作物有30%概率直接摧毁, 没有产出.自然的恩赐不会施与不称职者.",
+        "to": "丰收化为泡影.破坏农作物有30%%概率直接摧毁, 没有产出.自然的恩赐不会施与不称职者.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25722,7 +25795,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_empress.the_empress_upright.text",
-    "english": "Nature's bounty flows freely. Breaking crops has a 25% chance to yield extra drops, and each dawn restores 4 hunger points. The earth provides generously to those who nurture it.",
+    "english": "Nature's bounty flows freely. Breaking crops has a 25%% chance to yield extra drops, and each dawn restores 4 hunger points. The earth provides generously to those who nurture it.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25740,7 +25813,7 @@
       "chinese": "自然的馈赠显现不息。破坏农作物有25%%概率获得额外产出，每个黎明恢复4点饥饿值。滋养土地者，大地必以慷慨回馈。"
     },
     "status": "accepted",
-    "chinese": "自然的馈赠显现不息.破坏农作物有25%概率获得额外产出, 每个黎明恢复4点饥饿值.滋养土地者, 大地必以慷慨回馈.",
+    "chinese": "自然的馈赠显现不息.破坏农作物有25%%概率获得额外产出, 每个黎明恢复4点饥饿值.滋养土地者, 大地必以慷慨回馈.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_empress.the_empress_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25752,6 +25825,11 @@
         "from": "自然的馈赠显现不息。破坏农作物有25%概率获得额外产出，每个黎明恢复4点饥饿值。滋养土地者，大地必以慷慨回馈。",
         "to": "自然的馈赠显现不息.破坏农作物有25%概率获得额外产出, 每个黎明恢复4点饥饿值.滋养土地者, 大地必以慷慨回馈.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "自然的馈赠显现不息.破坏农作物有25%概率获得额外产出, 每个黎明恢复4点饥饿值.滋养土地者, 大地必以慷慨回馈.",
+        "to": "自然的馈赠显现不息.破坏农作物有25%%概率获得额外产出, 每个黎明恢复4点饥饿值.滋养土地者, 大地必以慷慨回馈.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25806,7 +25884,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_fool.name",
-    "english": "The_fool",
+    "english": "The Fool",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25825,12 +25903,19 @@
     },
     "status": "accepted",
     "chinese": "愚者",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_fool.name 的标题/提示语义 \"The_fool\" 与相邻同主题内容; \"愚者\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_fool.name 的标题/提示语义 \"The_fool\" 与相邻同主题内容; \"愚者\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "愚者",
+        "to": "愚者",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_fool.the_fool_reversed.text",
-    "english": "Recklessness brings misfortune. You occasionally stumble on nothing, taking fall damage while grounded. All damage received increases by 20%. Each step risks painful consequence.",
+    "english": "Recklessness brings misfortune. You occasionally stumble on nothing, taking fall damage while grounded. All damage received increases by 20%%. Each step risks painful consequence.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25848,7 +25933,7 @@
       "chinese": "鲁莽招致不幸。你会时不时平地摔跤，即便已经接触地面也会受到摔落伤害。所受所有伤害增加20%%。每一步都可能带来痛苦。"
     },
     "status": "accepted",
-    "chinese": "鲁莽招致不幸.你会时不时平地摔跤, 即便已经接触地面也会受到摔落伤害.所受所有伤害增加20%.每一步都可能带来痛苦.",
+    "chinese": "鲁莽招致不幸.你会时不时平地摔跤, 即便已经接触地面也会受到摔落伤害.所受所有伤害增加20%%.每一步都可能带来痛苦.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_fool.the_fool_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25860,6 +25945,11 @@
         "from": "鲁莽招致不幸。你会时不时平地摔跤，即便已经接触地面也会受到摔落伤害。所受所有伤害增加20%。每一步都可能带来痛苦。",
         "to": "鲁莽招致不幸.你会时不时平地摔跤, 即便已经接触地面也会受到摔落伤害.所受所有伤害增加20%.每一步都可能带来痛苦.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "鲁莽招致不幸.你会时不时平地摔跤, 即便已经接触地面也会受到摔落伤害.所受所有伤害增加20%.每一步都可能带来痛苦.",
+        "to": "鲁莽招致不幸.你会时不时平地摔跤, 即便已经接触地面也会受到摔落伤害.所受所有伤害增加20%%.每一步都可能带来痛苦.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25890,7 +25980,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_fool.the_fool_upright.text",
-    "english": "Fortune favors the bold. Random beneficial effects occasionally bless you (speed, jump, or luck), and all damage taken is reduced by 10%. Embrace new adventures without fear.",
+    "english": "Fortune favors the bold. Random beneficial effects occasionally bless you (speed, jump, or luck), and all damage taken is reduced by 10%%. Embrace new adventures without fear.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25908,7 +25998,7 @@
       "chinese": "勇者天佑。你会时不时获得随机正面效果（迅捷、跳跃提升、幸运），所受所有伤害降低10%%。无惧前行，拥抱新的旅程。"
     },
     "status": "accepted",
-    "chinese": "勇者天佑.你会时不时获得随机正面效果(迅捷, 跳跃提升, 幸运),所受所有伤害降低10%.无惧前行, 拥抱新的旅程.",
+    "chinese": "勇者天佑.你会时不时获得随机正面效果(迅捷, 跳跃提升, 幸运),所受所有伤害降低10%%.无惧前行, 拥抱新的旅程.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_fool.the_fool_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -25920,6 +26010,11 @@
         "from": "勇者天佑。你会时不时获得随机正面效果（迅捷、跳跃提升、幸运），所受所有伤害降低10%。无惧前行，拥抱新的旅程。",
         "to": "勇者天佑.你会时不时获得随机正面效果(迅捷, 跳跃提升, 幸运),所受所有伤害降低10%.无惧前行, 拥抱新的旅程.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "勇者天佑.你会时不时获得随机正面效果(迅捷, 跳跃提升, 幸运),所受所有伤害降低10%.无惧前行, 拥抱新的旅程.",
+        "to": "勇者天佑.你会时不时获得随机正面效果(迅捷, 跳跃提升, 幸运),所受所有伤害降低10%%.无惧前行, 拥抱新的旅程.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -25974,7 +26069,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_hanged_man.name",
-    "english": "The_hanged_man",
+    "english": "The Hanged Man",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -25993,12 +26088,19 @@
     },
     "status": "accepted",
     "chinese": "倒吊人",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_hanged_man.name 的标题/提示语义 \"The_hanged_man\" 与相邻同主题内容; \"倒吊人\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_hanged_man.name 的标题/提示语义 \"The_hanged_man\" 与相邻同主题内容; \"倒吊人\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "倒吊人",
+        "to": "倒吊人",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_hanged_man.the_hanged_man_reversed.text",
-    "english": "You cannot let go of anything. Items refuse to leave your grasp—dropping and throwing becomes impossible. Complete attachment binds you.",
+    "english": "You cannot let go of anything. Items refuse to leave your grasp. Dropping and throwing becomes impossible. Complete attachment binds you.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26023,6 +26125,11 @@
         "from": "你割舍不下任何东西。物品拒绝离开你，你无法丢弃和投掷。彻底的执念将你牢牢束缚。",
         "to": "你割舍不下任何东西.物品拒绝离开你, 你无法丢弃和投掷.彻底的执念将你牢牢束缚.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "你割舍不下任何东西.物品拒绝离开你, 你无法丢弃和投掷.彻底的执念将你牢牢束缚.",
+        "to": "你割舍不下任何东西.物品拒绝离开你, 你无法丢弃和投掷.彻底的执念将你牢牢束缚.",
+        "reason": "1.6.3: 英文仅把破折号改为句号, 中文已分句, 不变"
       }
     ]
   },
@@ -26053,7 +26160,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_hanged_man.the_hanged_man_upright.text",
-    "english": "Sacrifice brings purpose. Your fall speed decreases by 30% as you drift gently downward. Taking over 5 hearts of damage channels 100 altar power per heart to the nearest altar within 16 blocks.",
+    "english": "Sacrifice brings purpose. Your fall speed decreases by 30%% as you drift gently downward. Taking over 5 hearts of damage channels 100 altar power per heart to the nearest altar within 16 blocks.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26071,13 +26178,18 @@
       "chinese": "牺牲赋予意义。你会缓缓降落，摔落速度降低30%%。受到超过5颗心的伤害时，会给16格内最近的祭坛提供100点祭坛能量。"
     },
     "status": "accepted",
-    "chinese": "牺牲赋予意义. 你会缓缓降落, 下落速度降低30%. 受到超过5颗心的伤害时, 每颗心的伤害会给16格内最近的祭坛提供100点祭坛能量.",
+    "chinese": "牺牲赋予意义. 你会缓缓降落, 下落速度降低30%%. 受到超过5颗心的伤害时, 每颗心的伤害会给16格内最近的祭坛提供100点祭坛能量.",
     "reason": "补回 per heart 的逐心换算, 保留超过5颗心门槛、16格及每颗心100点; 当前英文的百分号为单个 %",
     "changes": [
       {
         "from": "牺牲赋予意义。你会缓缓降落，摔落速度降低30%%。受到超过5颗心的伤害时，会给16格内最近的祭坛提供100点祭坛能量。",
         "to": "牺牲赋予意义. 你会缓缓降落, 下落速度降低30%. 受到超过5颗心的伤害时, 每颗心的伤害会给16格内最近的祭坛提供100点祭坛能量.",
         "reason": "补回 per heart 的逐心换算, 保留超过5颗心门槛、16格及每颗心100点; 当前英文的百分号为单个 %"
+      },
+      {
+        "from": "牺牲赋予意义. 你会缓缓降落, 下落速度降低30%. 受到超过5颗心的伤害时, 每颗心的伤害会给16格内最近的祭坛提供100点祭坛能量.",
+        "to": "牺牲赋予意义. 你会缓缓降落, 下落速度降低30%%. 受到超过5颗心的伤害时, 每颗心的伤害会给16格内最近的祭坛提供100点祭坛能量.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -26132,7 +26244,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_hermit.name",
-    "english": "The_hermit",
+    "english": "The Hermit",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26151,7 +26263,14 @@
     },
     "status": "accepted",
     "chinese": "隐者",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_hermit.name 的标题/提示语义 \"The_hermit\" 与相邻同主题内容; \"隐者\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_hermit.name 的标题/提示语义 \"The_hermit\" 与相邻同主题内容; \"隐者\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "隐者",
+        "to": "隐者",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -26290,7 +26409,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_hierophant.name",
-    "english": "The_hierophant",
+    "english": "The Hierophant",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26309,7 +26428,14 @@
     },
     "status": "accepted",
     "chinese": "教皇",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_hierophant.name 的标题/提示语义 \"The_hierophant\" 与相邻同主题内容; \"教皇\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_hierophant.name 的标题/提示语义 \"The_hierophant\" 与相邻同主题内容; \"教皇\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "教皇",
+        "to": "教皇",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -26451,7 +26577,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_high_priestess.name",
-    "english": "The_high_priestess",
+    "english": "The High Priestess",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26470,12 +26596,19 @@
     },
     "status": "accepted",
     "chinese": "女祭司",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_high_priestess.name 的标题/提示语义 \"The_high_priestess\" 与相邻同主题内容; \"女祭司\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_high_priestess.name 的标题/提示语义 \"The_high_priestess\" 与相邻同主题内容; \"女祭司\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "女祭司",
+        "to": "女祭司",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_high_priestess.the_high_priestess_reversed.text",
-    "english": "Secrets remain hidden. Constant darkness clouds your vision, and mining occasionally drains experience (15% chance). The mysteries turn away from your gaze.",
+    "english": "Secrets remain hidden. Constant darkness clouds your vision, and mining occasionally drains experience (15%% chance). The mysteries turn away from your gaze.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26493,7 +26626,7 @@
       "chinese": "秘密仍被隐藏。永恒的黑暗遮蔽了你的双眼，挖掘会偶尔损失经验（15%%概率）。奥秘远离了你的视野。"
     },
     "status": "accepted",
-    "chinese": "秘密仍被隐藏.永恒的黑暗遮蔽了你的双眼, 挖掘会偶尔损失经验(15%概率).奥秘远离了你的视野.",
+    "chinese": "秘密仍被隐藏.永恒的黑暗遮蔽了你的双眼, 挖掘会偶尔损失经验(15%%概率).奥秘远离了你的视野.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_high_priestess.the_high_priestess_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -26505,6 +26638,11 @@
         "from": "秘密仍被隐藏。永恒的黑暗遮蔽了你的双眼，挖掘会偶尔损失经验（15%概率）。奥秘远离了你的视野。",
         "to": "秘密仍被隐藏.永恒的黑暗遮蔽了你的双眼, 挖掘会偶尔损失经验(15%概率).奥秘远离了你的视野.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "秘密仍被隐藏.永恒的黑暗遮蔽了你的双眼, 挖掘会偶尔损失经验(15%概率).奥秘远离了你的视野.",
+        "to": "秘密仍被隐藏.永恒的黑暗遮蔽了你的双眼, 挖掘会偶尔损失经验(15%%概率).奥秘远离了你的视野.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -26535,7 +26673,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_high_priestess.the_high_priestess_upright.text",
-    "english": "The veil lifts, revealing hidden truths. Perpetual night vision clarifies the darkness, and breaking blocks has a 5% chance to reveal nearby ores within 8 blocks through glowing particles and highlighting.",
+    "english": "The veil lifts, revealing hidden truths. Perpetual night vision clarifies the darkness, and breaking blocks has a 5%% chance to reveal nearby ores within 8 blocks through glowing particles and highlighting.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26553,7 +26691,7 @@
       "chinese": "帷幕升起，揭示隐藏的真相。永恒的夜视让黑暗变得清晰，且破坏方块时有5%%概率以发光粒子和高亮视效揭示附近8格内的矿石。"
     },
     "status": "accepted",
-    "chinese": "帷幕升起, 揭示隐藏的真相.永恒的夜视让黑暗变得清晰, 且破坏方块时有5%概率以发光粒子和高亮视效揭示附近8格内的矿石.",
+    "chinese": "帷幕升起, 揭示隐藏的真相.永恒的夜视让黑暗变得清晰, 且破坏方块时有5%%概率以发光粒子和高亮视效揭示附近8格内的矿石.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_high_priestess.the_high_priestess_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -26565,6 +26703,11 @@
         "from": "帷幕升起，揭示隐藏的真相。永恒的夜视让黑暗变得清晰，且破坏方块时有5%概率以发光粒子和高亮视效揭示附近8格内的矿石。",
         "to": "帷幕升起, 揭示隐藏的真相.永恒的夜视让黑暗变得清晰, 且破坏方块时有5%概率以发光粒子和高亮视效揭示附近8格内的矿石.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "帷幕升起, 揭示隐藏的真相.永恒的夜视让黑暗变得清晰, 且破坏方块时有5%概率以发光粒子和高亮视效揭示附近8格内的矿石.",
+        "to": "帷幕升起, 揭示隐藏的真相.永恒的夜视让黑暗变得清晰, 且破坏方块时有5%%概率以发光粒子和高亮视效揭示附近8格内的矿石.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -26619,7 +26762,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_lovers.name",
-    "english": "The_lovers",
+    "english": "The Lovers",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26638,12 +26781,19 @@
     },
     "status": "accepted",
     "chinese": "恋人",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_lovers.name 的标题/提示语义 \"The_lovers\" 与相邻同主题内容; \"恋人\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_lovers.name 的标题/提示语义 \"The_lovers\" 与相邻同主题内容; \"恋人\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "恋人",
+        "to": "恋人",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_lovers.the_lovers_reversed.text",
-    "english": "Love corrupts into violence. Passive animals within 16 blocks turn hostile with 10% chance per second, attacking you and each other. Harmony shatters into bloody chaos.",
+    "english": "Love corrupts into violence. Passive animals within 16 blocks turn hostile with 10%% chance per second, attacking you and each other. Harmony shatters into bloody chaos.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26661,7 +26811,7 @@
       "chinese": "爱堕落为暴力。16格内的友好动物每秒有10%%概率变得敌对，转而攻击你和其他动物。和谐破裂，染血的混乱已至。"
     },
     "status": "accepted",
-    "chinese": "爱堕落为暴力.16格内的友好动物每秒有10%概率变得敌对, 转而攻击你和其他动物.和谐破裂, 染血的混乱已至.",
+    "chinese": "爱堕落为暴力.16格内的友好动物每秒有10%%概率变得敌对, 转而攻击你和其他动物.和谐破裂, 染血的混乱已至.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_lovers.the_lovers_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -26673,6 +26823,11 @@
         "from": "爱堕落为暴力。16格内的友好动物每秒有10%概率变得敌对，转而攻击你和其他动物。和谐破裂，染血的混乱已至。",
         "to": "爱堕落为暴力.16格内的友好动物每秒有10%概率变得敌对, 转而攻击你和其他动物.和谐破裂, 染血的混乱已至.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "爱堕落为暴力.16格内的友好动物每秒有10%概率变得敌对, 转而攻击你和其他动物.和谐破裂, 染血的混乱已至.",
+        "to": "爱堕落为暴力.16格内的友好动物每秒有10%%概率变得敌对, 转而攻击你和其他动物.和谐破裂, 染血的混乱已至.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -26782,7 +26937,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_magician.name",
-    "english": "The_magician",
+    "english": "The Magician",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26801,7 +26956,14 @@
     },
     "status": "accepted",
     "chinese": "魔术师",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_magician.name 的标题/提示语义 \"The_magician\" 与相邻同主题内容; \"魔术师\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_magician.name 的标题/提示语义 \"The_magician\" 与相邻同主题内容; \"魔术师\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "魔术师",
+        "to": "魔术师",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -26861,7 +27023,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_magician.the_magician_upright.text",
-    "english": "Your magical prowess peaks. Nearby altars gain 1,000 power each dawn, and thrown brews have a 20% chance to return to your inventory, their magic preserved for reuse.",
+    "english": "Your magical prowess peaks. Nearby altars gain 1,000 power each dawn, and thrown brews have a 20%% chance to return to your inventory, their magic preserved for reuse.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26879,7 +27041,7 @@
       "chinese": "你的魔法造诣臻至巅峰。每个黎明，附近的祭坛会获得1000点能量。掷出的精酿有20%%概率重返你的物品栏，保留其魔法效力以供再次使用。"
     },
     "status": "accepted",
-    "chinese": "你的魔法造诣臻至巅峰.每个黎明, 附近的祭坛会获得1000点能量.掷出的精酿有20%概率重返你的物品栏, 保留其魔法效力以供再次使用.",
+    "chinese": "你的魔法造诣臻至巅峰.每个黎明, 附近的祭坛会获得1000点能量.掷出的精酿有20%%概率重返你的物品栏, 保留其魔法效力以供再次使用.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_magician.the_magician_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -26891,6 +27053,11 @@
         "from": "你的魔法造诣臻至巅峰。每个黎明，附近的祭坛会获得1000点能量。掷出的精酿有20%概率重返你的物品栏，保留其魔法效力以供再次使用。",
         "to": "你的魔法造诣臻至巅峰.每个黎明, 附近的祭坛会获得1000点能量.掷出的精酿有20%概率重返你的物品栏, 保留其魔法效力以供再次使用.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "你的魔法造诣臻至巅峰.每个黎明, 附近的祭坛会获得1000点能量.掷出的精酿有20%概率重返你的物品栏, 保留其魔法效力以供再次使用.",
+        "to": "你的魔法造诣臻至巅峰.每个黎明, 附近的祭坛会获得1000点能量.掷出的精酿有20%%概率重返你的物品栏, 保留其魔法效力以供再次使用.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -26945,7 +27112,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_moon.name",
-    "english": "The_moon",
+    "english": "The Moon",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26964,12 +27131,19 @@
     },
     "status": "accepted",
     "chinese": "月亮",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_moon.name 的标题/提示语义 \"The_moon\" 与相邻同主题内容; \"月亮\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_moon.name 的标题/提示语义 \"The_moon\" 与相邻同主题内容; \"月亮\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "月亮",
+        "to": "月亮",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_moon.the_moon_reversed.text",
-    "english": "Harsh daylight overwhelms your senses. During daytime, 5% chance every 5 seconds to suffer 5 seconds of Blindness as clarity obscures truth.",
+    "english": "Harsh daylight overwhelms your senses. During daytime, 5%% chance every 5 seconds to suffer 5 seconds of Blindness as clarity obscures truth.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -26987,7 +27161,7 @@
       "chinese": "刺目日光侵溢感官。白天时，每5秒有5%%概率获得5秒的失明，清晰反而遮蔽真相。"
     },
     "status": "accepted",
-    "chinese": "刺目日光侵溢感官.白天时, 每5秒有5%概率获得5秒的失明, 清晰反而遮蔽真相.",
+    "chinese": "刺目日光侵溢感官.白天时, 每5秒有5%%概率获得5秒的失明, 清晰反而遮蔽真相.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_moon.the_moon_reversed.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -26999,6 +27173,11 @@
         "from": "刺目日光侵溢感官。白天时，每5秒有5%概率获得5秒的失明，清晰反而遮蔽真相。",
         "to": "刺目日光侵溢感官.白天时, 每5秒有5%概率获得5秒的失明, 清晰反而遮蔽真相.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "刺目日光侵溢感官.白天时, 每5秒有5%概率获得5秒的失明, 清晰反而遮蔽真相.",
+        "to": "刺目日光侵溢感官.白天时, 每5秒有5%%概率获得5秒的失明, 清晰反而遮蔽真相.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -27029,7 +27208,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_moon.the_moon_upright.text",
-    "english": "Embrace the shadows completely. Perpetual night vision pierces darkness. Each nightfall grants 10 minutes of Speed II. At night, hostile mobs lose track of you (30% chance every 4 seconds). The moon blesses its children.",
+    "english": "Embrace the shadows completely. Perpetual night vision pierces darkness. Each nightfall grants 10 minutes of Speed II. At night, hostile mobs lose track of you (30%% chance every 4 seconds). The moon blesses its children.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27047,7 +27226,7 @@
       "chinese": "向阴影敞开胸怀。永恒的夜视会穿透黑暗。每次夜幕降临时，都将获得10分钟的迅捷 II。在夜间，敌对生物会丢失你的踪迹（每4秒有30%%概率）。月亮赐福于月之子。"
     },
     "status": "accepted",
-    "chinese": "向阴影敞开胸怀.永恒的夜视会穿透黑暗.每次夜幕降临时, 都将获得10分钟的迅捷 II.在夜间, 敌对生物会丢失你的踪迹(每4秒有30%概率).月亮赐福于月之子.",
+    "chinese": "向阴影敞开胸怀.永恒的夜视会穿透黑暗.每次夜幕降临时, 都将获得10分钟的迅捷 II.在夜间, 敌对生物会丢失你的踪迹(每4秒有30%%概率).月亮赐福于月之子.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_moon.the_moon_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -27059,6 +27238,11 @@
         "from": "向阴影敞开胸怀。永恒的夜视会穿透黑暗。每次夜幕降临时，都将获得10分钟的迅捷 II。在夜间，敌对生物会丢失你的踪迹（每4秒有30%概率）。月亮赐福于月之子。",
         "to": "向阴影敞开胸怀.永恒的夜视会穿透黑暗.每次夜幕降临时, 都将获得10分钟的迅捷 II.在夜间, 敌对生物会丢失你的踪迹(每4秒有30%概率).月亮赐福于月之子.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "向阴影敞开胸怀.永恒的夜视会穿透黑暗.每次夜幕降临时, 都将获得10分钟的迅捷 II.在夜间, 敌对生物会丢失你的踪迹(每4秒有30%概率).月亮赐福于月之子.",
+        "to": "向阴影敞开胸怀.永恒的夜视会穿透黑暗.每次夜幕降临时, 都将获得10分钟的迅捷 II.在夜间, 敌对生物会丢失你的踪迹(每4秒有30%%概率).月亮赐福于月之子.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -27113,7 +27297,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_star.name",
-    "english": "The_star",
+    "english": "The Star",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27132,7 +27316,14 @@
     },
     "status": "accepted",
     "chinese": "星星",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_star.name 的标题/提示语义 \"The_star\" 与相邻同主题内容; \"星星\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_star.name 的标题/提示语义 \"The_star\" 与相邻同主题内容; \"星星\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "星星",
+        "to": "星星",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -27271,7 +27462,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_sun.name",
-    "english": "The_sun",
+    "english": "The Sun",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27290,7 +27481,14 @@
     },
     "status": "accepted",
     "chinese": "太阳",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_sun.name 的标题/提示语义 \"The_sun\" 与相邻同主题内容; \"太阳\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_sun.name 的标题/提示语义 \"The_sun\" 与相邻同主题内容; \"太阳\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "太阳",
+        "to": "太阳",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -27429,7 +27627,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_tower.name",
-    "english": "The_tower",
+    "english": "The Tower",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27448,7 +27646,14 @@
     },
     "status": "accepted",
     "chinese": "高塔",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_tower.name 的标题/提示语义 \"The_tower\" 与相邻同主题内容; \"高塔\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_tower.name 的标题/提示语义 \"The_tower\" 与相邻同主题内容; \"高塔\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "高塔",
+        "to": "高塔",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -27508,7 +27713,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_tower.the_tower_upright.text",
-    "english": "Chaos incarnate awaits. Breaking blocks has 5% chance to trigger small explosions. Rarely (0.1% per tick), Baba Yaga manifests without warning. Catastrophic revelation strikes. This card expires upon summoning.",
+    "english": "Chaos incarnate awaits. Breaking blocks has a 5%% chance to trigger small explosions. Rarely (0.1%% per tick), Baba Yaga manifests without warning. Catastrophic revelation strikes. This card expires upon summoning.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27526,7 +27731,7 @@
       "chinese": "混沌的化身将至。破坏方块有5%%概率产生小型爆炸。芭芭雅嘎会在极少数情况下（0.1%%每刻）不加警示地显现。灾难的启示降临。此牌在召唤后失效。"
     },
     "status": "accepted",
-    "chinese": "混沌的化身将至.破坏方块有5%概率产生小型爆炸.芭芭雅嘎会在极少数情况下(0.1%每刻)不加警示地显现.灾难的启示降临.此牌在召唤后失效.",
+    "chinese": "混沌的化身将至.破坏方块有5%%概率产生小型爆炸.芭芭雅嘎会在极少数情况下(0.1%%每刻)不加警示地显现.灾难的启示降临.此牌在召唤后失效.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_tower.the_tower_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -27538,6 +27743,11 @@
         "from": "混沌的化身将至。破坏方块有5%概率产生小型爆炸。芭芭雅嘎会在极少数情况下（0.1%每刻）不加警示地显现。灾难的启示降临。此牌在召唤后失效。",
         "to": "混沌的化身将至.破坏方块有5%概率产生小型爆炸.芭芭雅嘎会在极少数情况下(0.1%每刻)不加警示地显现.灾难的启示降临.此牌在召唤后失效.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "混沌的化身将至.破坏方块有5%概率产生小型爆炸.芭芭雅嘎会在极少数情况下(0.1%每刻)不加警示地显现.灾难的启示降临.此牌在召唤后失效.",
+        "to": "混沌的化身将至.破坏方块有5%%概率产生小型爆炸.芭芭雅嘎会在极少数情况下(0.1%%每刻)不加警示地显现.灾难的启示降临.此牌在召唤后失效.",
+        "reason": "1.6.3: 英文改用 %% 表示字面百分号并补冠词 a; 中文同步为 %%"
       }
     ]
   },
@@ -27592,7 +27802,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_world.name",
-    "english": "The_world",
+    "english": "The World",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27611,7 +27821,14 @@
     },
     "status": "accepted",
     "chinese": "世界",
-    "reason": "核对手册 book.witchery.guidebook.tarot.the_world.name 的标题/提示语义 \"The_world\" 与相邻同主题内容; \"世界\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.the_world.name 的标题/提示语义 \"The_world\" 与相邻同主题内容; \"世界\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "世界",
+        "to": "世界",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -27671,7 +27888,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.the_world.the_world_upright.text",
-    "english": "Everything exists in perfect harmony. Permanent Speed, Haste, Luck, and Regeneration flow through you. Each dawn brings 10 experience levels. Breaking blocks has 10% chance for bonus drops. Perfection achieved.",
+    "english": "Everything exists in perfect harmony. Permanent Speed, Haste, Luck, and Regeneration flow through you. Each dawn brings 10 experience levels. Breaking blocks has 10%% chance for bonus drops. Perfection achieved.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27689,7 +27906,7 @@
       "chinese": "万物并行而不相悖。永恒的迅捷、急迫、幸运、生命恢复在你体内流转。每个黎明都会获得10级经验。破坏方块有10%%概率额外产出掉落物。臻至完美。"
     },
     "status": "accepted",
-    "chinese": "万物并行而不相悖.永恒的迅捷, 急迫, 幸运, 生命恢复在你体内流转.每个黎明都会获得10级经验.破坏方块有10%概率额外产出掉落物.臻至完美.",
+    "chinese": "万物并行而不相悖.永恒的迅捷, 急迫, 幸运, 生命恢复在你体内流转.每个黎明都会获得10级经验.破坏方块有10%%概率额外产出掉落物.臻至完美.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.the_world.the_world_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -27701,6 +27918,11 @@
         "from": "万物并行而不相悖。永恒的迅捷、急迫、幸运、生命恢复在你体内流转。每个黎明都会获得10级经验。破坏方块有10%概率额外产出掉落物。臻至完美。",
         "to": "万物并行而不相悖.永恒的迅捷, 急迫, 幸运, 生命恢复在你体内流转.每个黎明都会获得10级经验.破坏方块有10%概率额外产出掉落物.臻至完美.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "万物并行而不相悖.永恒的迅捷, 急迫, 幸运, 生命恢复在你体内流转.每个黎明都会获得10级经验.破坏方块有10%概率额外产出掉落物.臻至完美.",
+        "to": "万物并行而不相悖.永恒的迅捷, 急迫, 幸运, 生命恢复在你体内流转.每个黎明都会获得10级经验.破坏方块有10%%概率额外产出掉落物.臻至完美.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -27755,7 +27977,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.wheel_of_fortune.name",
-    "english": "Wheel_of_fortune",
+    "english": "Wheel of Fortune",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27774,7 +27996,14 @@
     },
     "status": "accepted",
     "chinese": "命运之轮",
-    "reason": "核对手册 book.witchery.guidebook.tarot.wheel_of_fortune.name 的标题/提示语义 \"Wheel_of_fortune\" 与相邻同主题内容; \"命运之轮\" 对应本页概念, 未把其他同名条目当作机制依据."
+    "reason": "核对手册 book.witchery.guidebook.tarot.wheel_of_fortune.name 的标题/提示语义 \"Wheel_of_fortune\" 与相邻同主题内容; \"命运之轮\" 对应本页概念, 未把其他同名条目当作机制依据.",
+    "changes": [
+      {
+        "from": "命运之轮",
+        "to": "命运之轮",
+        "reason": "1.6.3: 当前英文仅修正塔罗牌名的下划线与大小写, 中文名称不变"
+      }
+    ]
   },
   {
     "namespace": "witchery",
@@ -27834,7 +28063,7 @@
   {
     "namespace": "witchery",
     "key": "book.witchery.guidebook.tarot.wheel_of_fortune.wheel_of_fortune_upright.text",
-    "english": "Fortune smiles brilliantly. Permanent Luck II increases loot quality. Kills have 10% chance to drop rare treasures (iron, emerald, gold, mutandis, or experience bottles) and 25% chance to double the mob's entire loot table.",
+    "english": "Fortune smiles brilliantly. Permanent Luck II increases loot quality. Kills have 10%% chance to drop rare treasures (iron, emerald, gold, mutandis, or experience bottles) and 25%% chance to double the mob's entire loot table.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -27852,7 +28081,7 @@
       "chinese": "命运的垂青。永恒的幸运 II会增加战利品质量。击杀时有10%%掉落稀有的宝物（铁、绿宝石、金、转生粉、附魔之瓶），且有25%%概率令生物的战利品表翻倍。"
     },
     "status": "accepted",
-    "chinese": "命运的垂青.永恒的幸运 II会增加战利品质量.击杀时有10%掉落稀有的宝物(铁, 绿宝石, 金, 转生粉, 附魔之瓶),且有25%概率令生物的战利品表翻倍.",
+    "chinese": "命运的垂青.永恒的幸运 II会增加战利品质量.击杀时有10%%掉落稀有的宝物(铁, 绿宝石, 金, 转生粉, 附魔之瓶),且有25%%概率令生物的战利品表翻倍.",
     "reason": "逐句核对当前 book.witchery.guidebook.tarot.wheel_of_fortune.wheel_of_fortune_upright.text 的正/逆位的触发条件、效果方向、时长及数值; 候选保留当前所述含义, 在本条上下文可复用.",
     "changes": [
       {
@@ -27864,6 +28093,11 @@
         "from": "命运的垂青。永恒的幸运 II会增加战利品质量。击杀时有10%掉落稀有的宝物（铁、绿宝石、金、转生粉、附魔之瓶），且有25%概率令生物的战利品表翻倍。",
         "to": "命运的垂青.永恒的幸运 II会增加战利品质量.击杀时有10%掉落稀有的宝物(铁, 绿宝石, 金, 转生粉, 附魔之瓶),且有25%概率令生物的战利品表翻倍.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "命运的垂青.永恒的幸运 II会增加战利品质量.击杀时有10%掉落稀有的宝物(铁, 绿宝石, 金, 转生粉, 附魔之瓶),且有25%概率令生物的战利品表翻倍.",
+        "to": "命运的垂青.永恒的幸运 II会增加战利品质量.击杀时有10%%掉落稀有的宝物(铁, 绿宝石, 金, 转生粉, 附魔之瓶),且有25%%概率令生物的战利品表翻倍.",
+        "reason": "1.6.3: 当前英文改用 %% 表示字面百分号; 中文同步为 %%, 数值与含义不变"
       }
     ]
   },
@@ -42086,7 +42320,7 @@
   {
     "namespace": "witchery",
     "key": "witchery:ritual/necro_stone.tooltip",
-    "english": "A stone as cold as the grave and thrice as silent. It is not carved, but called—formed beneath moon-lit skies where the veil is thin. Death clings to it like moss to tombstone.",
+    "english": "A stone as cold as the grave and thrice as silent. It is not carved, but called.Formed beneath moon-lit skies where the veil is thin. Death clings to it like moss to tombstone.",
     "source": {
       "namespace": "witchery",
       "version": "26.1",
@@ -42104,7 +42338,7 @@
       "chinese": "和坟墓一般冰冷的石头，甚至比坟墓还要死寂；它并不是雕刻造成，而是召唤而来——在帷幔弱化的明月夜空下召唤而来；死亡犹如苔藓对圆石般如影随形。"
     },
     "status": "accepted",
-    "chinese": "和坟墓一般冰冷, 比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来--在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
+    "chinese": "和坟墓一般冰冷, 比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来. 在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
     "reason": "补回 thrice 的修辞数量, 修复造成错字, tombstone 是墓碑而不是圆石, 保留月光与帷幔语境",
     "changes": [
       {
@@ -42116,6 +42350,11 @@
         "from": "和坟墓一般冰冷、比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来--在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
         "to": "和坟墓一般冰冷, 比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来--在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
         "reason": "只在本地覆盖中按 STYLE.md 转为英文半角标点, 保留反斜线/格式参数"
+      },
+      {
+        "from": "和坟墓一般冰冷, 比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来--在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
+        "to": "和坟墓一般冰冷, 比坟墓寂静三倍的石头. 它并非雕刻而成, 而是召唤而来. 在帷幔薄弱的月光夜空下成形. 死亡缠绕着它, 犹如墓碑上的苔藓.",
+        "reason": "1.6.3: 英文把破折号改为句号; 中文同步断句"
       }
     ]
   },

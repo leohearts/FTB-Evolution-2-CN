@@ -389,20 +389,6 @@
     },
     "reason": "Reuse the current exact-name Chinese label after per-mod review; do not infer from item substrings."
   },
-  "craftingstation": {
-    "english": "Crafting Station",
-    "translation": "合成站",
-    "jar": "craftingstationjei-26.1.2-NeoForge-2.2.1.jar",
-    "jar_sha256": "642e87a8a19556f74d236034dfcd4fcd5625f49de722132e79725dd495189f4d",
-    "source_evidence": {
-      "kind": "project_output",
-      "path": ".minecraft/resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN/assets/craftingstation/lang/zh_cn.json",
-      "key": "block.craftingstation.crafting_station",
-      "english": "Crafting Station",
-      "chinese": "合成站"
-    },
-    "reason": "Reuse the current exact-name Chinese label after per-mod review; do not infer from item substrings."
-  },
   "craftingtweaks": {
     "english": "Crafting Tweaks",
     "translation": "合成辅助 (CraftingTweaks)",

@@ -1,13 +1,13 @@
 {
   "status": "passed",
-  "build_manifest_sha256": "ad0b7eee04b21fff978740e757cb80b2c71cc8008fb3b796d04682d08a96550e",
-  "json_files": 259,
-  "global_language_keys": 7303,
+  "build_manifest_sha256": "39c0995e78521efe17d1ff0657a793bea0f4e99216b0fdeb76533d82b71591a7",
+  "json_files": 258,
+  "global_language_keys": 7298,
   "patchouli_documents_with_current_source_structure": 151,
   "manual_documents": 205,
   "manual_fields": 508,
   "reviewed_structure_exceptions": 4,
-  "resource_files_verified": 468,
+  "resource_files_verified": 467,
   "source_jars_modified": false,
   "in_game_tested": false,
   "installed_to_game": false

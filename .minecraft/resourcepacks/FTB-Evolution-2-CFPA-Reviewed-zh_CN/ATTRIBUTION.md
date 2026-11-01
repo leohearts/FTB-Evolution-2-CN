@@ -24,7 +24,6 @@ This is a project work-copy artifact. It has not been installed or tested in the
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/applied-cooking/1.18/appliedcooking/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/comforts/1.18/comforts/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/compressium/1.18/compressium/lang/zh_cn.json |
-| cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/crafting-station/1.18/craftingstation/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/enderthing/1.18/enderthing/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/evilcraft/1.18/evilcraft/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.18 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/extreme-sound-muffler/1.18/extremesoundmuffler/lang/zh_cn.json |
@@ -294,7 +293,6 @@ This is a project work-copy artifact. It has not been installed or tested in the
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/cloth-config/1.21/cloth-config2/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/common-capabilities/1.21/commoncapabilities/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/configured/1.21/configured/lang/zh_cn.json |
-| cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/crafting-station-jei-edition-updated/1.21/craftingstation/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/crystalix/1.21/crystalix/lang/zh_cn-base.json |
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/curios/1.21/curios/lang/zh_cn.json |
 | cfpa | CFPA contributors | 1.21 | 719672954d9df4ea51877e3d5ce2912148273682 | CFPA/projects/assets/cyclops-core/1.21/cyclopscore/lang/zh_cn.json |

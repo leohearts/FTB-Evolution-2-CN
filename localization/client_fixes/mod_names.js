@@ -31,7 +31,6 @@ const ftbCnModNames = {
   "compressium": "压缩工艺",
   "cookingforblockheads": "傻瓜烹饪",
   "crafting_on_a_stick": "便携式工具",
-  "craftingstation": "合成站",
   "craftingtweaks": "合成辅助 (CraftingTweaks)",
   "crawl": "爬行",
   "dankstorage": "黑盒存储",

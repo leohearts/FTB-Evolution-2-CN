@@ -1,11 +1,11 @@
 {
   "stats": {
-    "target_pack": "1.5.1",
-    "language_keys": 7303,
+    "target_pack": "1.6.3",
+    "language_keys": 7298,
     "group_labels": 76,
     "language_decisions": {
-      "accepted": 7379,
-      "rejected": 176
+      "accepted": 7374,
+      "rejected": 181
     },
     "manual_decisions": {
       "accepted": 713,
@@ -16,7 +16,7 @@
       "Patchouli": 508
     },
     "patchouli_output_documents": 151,
-    "resource_files": 468,
+    "resource_files": 467,
     "validation_exceptions": [
       {
         "key": "book.witchery.guidebook.general.ender_bramble.ender_bramble.text",
@@ -109,7 +109,7 @@
     "installed_to_game": false
   },
   "files": {
-    "ATTRIBUTION.md": "b728d0546e6f23e8f93f5fe8684c097e5d2160d1cfd42654486d0d66d660e9de",
+    "ATTRIBUTION.md": "a1215e0fb3bf2d7f1a268f1dbe0ee437336dfe15688bd1674720594d74f6a16f",
     "CFPA-LICENSE.txt": "cd9832c492786274823efa8d026ba57f45b51fabf37fc67b85069e1ed0c062b7",
     "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/aae_intro-index.md": "85d090f86ef90be422a4f683321ffc40712490c6675a64ed154da6663696e46b",
     "assets/advanced_ae/ae2guide/_zh_cn/aae_intro/advanced_io_bus.md": "5592eeebbe717b381e40d2cf884e04c2e97aaedccc8e9f4fc69112c8fcd63884",
@@ -297,7 +297,6 @@
     "assets/commoncapabilities/lang/zh_cn.json": "9ca2f66df9398cc5034190b98d4c4526e2dca7598bec0afc2b5df430b32b0daf",
     "assets/compressium/lang/zh_cn.json": "e164d84f80ccf7ef184918a32074560412ede62f28f6fb3c24be043a49f9afc8",
     "assets/configured/lang/zh_cn.json": "71f0c67f4eb27e61d6fedcd73ccad8086597986ff7431500b127c6aec8e44965",
-    "assets/craftingstation/lang/zh_cn.json": "23bd2049f37eeaf8e2d2d6d2e6935e0aa4b8913f72b212bc682503d8e91312c5",
     "assets/creativecore/lang/zh_cn.json": "e89cd7e148182f7784569fdc6804f5a918a0d8cae53ae55f3a778ae053d1b941",
     "assets/crystalix/lang/zh_cn.json": "82fd6e63c89366f3ce78bdd510fec25ae604c372468ce09bcb6954b1b30b30d1",
     "assets/curios/lang/zh_cn.json": "45ae3d309c191107c79518621a05dacfa9b18c8be530df3a3ba99b523d09d649",
@@ -570,7 +569,7 @@
     "assets/travelerstitles/lang/zh_cn.json": "284f490860abcd089d2510910507f6d88dfcbc4c59746e61213c64bb5b47d05f",
     "assets/utilitarian/lang/zh_cn.json": "66cfbd2f9d675cef19faabf1cf2315449aeed31c8dc1a81bacbe4ca07124dac9",
     "assets/weathergate/lang/zh_cn.json": "bd3267f2ef16ca72f1c943f7e13217eac8da3421ff8d456e80ad08be9ad26983",
-    "assets/witchery/lang/zh_cn.json": "9179f486b98f746b305abf23947e4612e9b6472d8c4cb88e62fbd463f8cfdb8d",
+    "assets/witchery/lang/zh_cn.json": "6027c771f1b621509addd9587efdc7f113652bb9a63217bcc120ba00469c4b0c",
     "assets/witchery_forbidden_magic/lang/zh_cn.json": "59062650a9f6f07f49ac022ba5ccbdfa9ffb4b8ae24736fbce1f1d8b6bdfbd77",
     "assets/xycraft_core/lang/zh_cn.json": "4b3fbdce45783fecd894b6a28a70718cc9dd9cc34121e3b3dbddc03a8c51d26f",
     "assets/xycraft_machines/lang/zh_cn.json": "9d12bb32303f5a831f44cc182ebaf5f25340fdb9fb29d24cc5df0b8956306907",
@@ -580,9 +579,9 @@
   },
   "reviewed_decisions_sha256": {
     "primary.json": "9f6a85d07602069a0ff667c63db9ac2beff7aea840998b3a38a36e4eb2ce3bcc",
-    "witchery.json": "e0a7e0140f1bfcd111824508601b75f67f77c0ccdf03e89f73012c92f5c64548",
+    "witchery.json": "a4e78b1652df146894a4d47cac35aff2cb0d1e1ec2e782ae544fdfe6d24739cf",
     "mods.json": "a38e55e430341d8b820be4d81d4c0e7e29e6be91d7b06ad7b7f85fb71ecfc962",
-    "remaining-a.json": "7a0859055a262920b75a3434d064b0a75d3863251046b596bc367e349b7b3644",
+    "remaining-a.json": "0a064691a7aa488ebec857b815dd4cd7e981b5e39b2d8a43d67b41376018acd6",
     "remaining-b.json": "c48d4b8cb7ad2d65658d52f62db68b4b98f05f4f744bd80fe961834174f96441",
     "group-labels.json": "ed2ad9a706c64251767b8a7f2e9df317f372a027da2f68a95f042d4741be8536",
     "manuals.json": "dd7379e702e919455fca15f3d5b896335d3273db2fae26abe179a36d43fd7a1a"
@@ -2013,5 +2012,5 @@
       "sha256_lf": "745d078a51abb537cba1299fb8a50b905469970ff17c325dda30ffa72a6d6eeb"
     }
   },
-  "archive_content_sha256": "4f7b09efe5ed51ceb9c297596e268560330a2ef6984763999e9c7bc6f68e50bf"
+  "archive_content_sha256": "9d1db79e3a72153e0c2da5c45672e508dfb2e00d34fc6b7491b3bf685a4b30f2"
 }

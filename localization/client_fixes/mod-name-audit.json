@@ -2,7 +2,7 @@
   "target_pack_version": "1.4.0",
   "previous_mappings": 33,
   "added_mappings": 112,
-  "total_mappings": 151,
+  "total_mappings": 150,
   "rows": [
     {
       "id": "ae2netanalyser",
@@ -1749,10 +1749,10 @@
           "origin": "release"
         }
       ],
-      "status": "enabled",
+      "status": "retired",
       "translation": "合成站",
       "chosen_key": "block.craftingstation.crafting_station",
-      "reason": "Reuse existing Chinese label; explicit mod-name label/category preferred over ambiguous item labels."
+      "reason": "Pack 1.6.3 removed Crafting Station; Just Enough Crafting Tables replaces it. Mapping retired, not reused for the new mod ID."
     },
     {
       "id": "craftingtweaks",
