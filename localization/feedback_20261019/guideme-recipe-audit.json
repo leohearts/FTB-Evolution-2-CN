@@ -1,9 +1,9 @@
 {
-  "target_pack_version": "1.5.1",
-  "effective_documents": 807,
-  "documents_with_recipe_components": 380,
-  "components": 850,
-  "static_candidates": 832,
+  "target_pack_version": "1.6.3",
+  "effective_documents": 812,
+  "documents_with_recipe_components": 381,
+  "components": 852,
+  "static_candidates": 834,
   "documented_no_recipe": 18,
   "requires_review": [],
   "dynamic_recipe_scripts_not_executed": [
@@ -239,8 +239,7 @@
       "id": "ae2:blue_covered_cable",
       "candidates": [
         "ae2:network/cables/covered_blue",
-        "ftb:ae2/uncraft/blue_covered_dense_cable",
-        "ftb:ae2/uncraft/blue_smart_dense_cable"
+        "ftb:ae2/uncraft/blue_covered_dense_cable"
       ],
       "recipe_types": [
         "minecraft:crafting_shaped",
@@ -311,10 +310,12 @@
       "tag": "RecipeFor",
       "id": "ae2:blue_smart_cable",
       "candidates": [
-        "ae2:network/cables/smart_blue"
+        "ae2:network/cables/smart_blue",
+        "ftb:ae2/uncraft/blue_smart_dense_cable"
       ],
       "recipe_types": [
-        "minecraft:crafting_shaped"
+        "minecraft:crafting_shaped",
+        "minecraft:crafting_shapeless"
       ],
       "status": "static_candidate_found",
       "visible_fallback": null
@@ -9323,11 +9324,39 @@
     },
     {
       "page": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/confined_spawner.md",
-      "line": 76,
+      "line": 39,
+      "tag": "RecipeFor",
+      "id": "nautec:mob_sampler",
+      "candidates": [
+        "nautec:mob_sampler_mixing"
+      ],
+      "recipe_types": [
+        "nautec:mixing"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/confined_spawner.md",
+      "line": 96,
       "tag": "RecipeFor",
       "id": "nautec:spawner_confinement_matrix",
       "candidates": [
         "nautec:spawner_confinement_matrix"
+      ],
+      "recipe_types": [
+        "minecraft:crafting_shaped"
+      ],
+      "status": "static_candidate_found",
+      "visible_fallback": null
+    },
+    {
+      "page": "assets/nautec/guides/nautec/guide/_zh_cn/laser_chemistry/crystal_cultivator.md",
+      "line": 41,
+      "tag": "RecipeFor",
+      "id": "nautec:crystal_cultivator",
+      "candidates": [
+        "nautec:crystal_cultivator"
       ],
       "recipe_types": [
         "minecraft:crafting_shaped"

@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-02",
+  "target_pack": "1.6.3",
+  "static_checks": {
+    "total": 386,
+    "passed": 386,
+    "report": "localization/reports/project-verification-1.6.3.json"
+  },
+  "source_only_build": "passed",
+  "ordinary_batches": 362,
+  "quest_files": 51,
+  "quest_keys": 4194,
+  "quest_reviewed_segments": 14,
+  "core_manual_pages": 165,
+  "core_manual_reviewed_segments": 2,
+  "extra_manual_pages": 322,
+  "extra_manual_changed_lines": 64,
+  "extra_manual_new_pages": 5,
+  "new_project_language_keys": 395,
+  "existing_language_keys_revised": 29,
+  "native_new_keys_reused": 54,
+  "cfpa_decisions_adapted": 41,
+  "cfpa_decisions_retired": 5,
+  "installed_to_game": false,
+  "in_game_tested": false,
+  "artifact_sha256": {
+    "FTB-Evolution-2-1.6.3-zh_CN-install.zip": "cbfb1d952cd8bf4d00ac334c27c976a1b5b1f62f5af7e7f2915644a79138f002",
+    "FTB-Evolution-2-1.6.3-zh_CN.zip": "61e67eac101587d5568b7dfbc44950ed5c76c1b11ec971282a7a96bcb58db14b"
+  }
+}

@@ -1,9 +1,9 @@
 {
   "totals": {
     "files": 51,
-    "keys": 4193,
-    "segments": 8205,
-    "translated": 8205,
+    "keys": 4194,
+    "segments": 8210,
+    "translated": 8210,
     "complete": 51,
     "installed": 51
   },
@@ -211,8 +211,8 @@
     {
       "file": "chapters/ltx_industries.json5",
       "keys": 93,
-      "segments": 204,
-      "translated": 204,
+      "segments": 205,
+      "translated": 205,
       "complete": true,
       "installed": true
     },
@@ -242,9 +242,9 @@
     },
     {
       "file": "chapters/occultism.json5",
-      "keys": 185,
-      "segments": 423,
-      "translated": 423,
+      "keys": 186,
+      "segments": 424,
+      "translated": 424,
       "complete": true,
       "installed": true
     },
@@ -291,8 +291,8 @@
     {
       "file": "chapters/pyramid_challenge.json5",
       "keys": 100,
-      "segments": 137,
-      "translated": 137,
+      "segments": 138,
+      "translated": 138,
       "complete": true,
       "installed": true
     },
@@ -371,8 +371,8 @@
     {
       "file": "chapters/witchery.json5",
       "keys": 105,
-      "segments": 229,
-      "translated": 229,
+      "segments": 231,
+      "translated": 231,
       "complete": true,
       "installed": true
     },
@@ -421,5 +421,5 @@
     "complete": 42,
     "total": 42
   },
-  "installed_keys": 4193
+  "installed_keys": 4194
 }

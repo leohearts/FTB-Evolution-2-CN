@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "source_files": 15288,
+  "project_config_present": false,
+  "game_jars_present": false,
+  "cfpa_checkout_present": false,
+  "command": [
+    "python",
+    "build.py"
+  ],
+  "returncode": 0,
+  "stdout": "{\n  \"status\": \"built\",\n  \"resourcepack\": \"<clean-copy>/repo/dist/FTB-Evolution-2-1.6.3-zh_CN.zip\",\n  \"install_bundle\": \"<clean-copy>/repo/dist/FTB-Evolution-2-1.6.3-zh_CN-install.zip\",\n  \"counts\": [\n    [\n      \"语言键\",\n      32043\n    ],\n    [\n      \"分组名称\",\n      95\n    ],\n    [\n      \"手册/书籍文件\",\n      996\n    ],\n    [\n      \"任务书文件\",\n      51\n    ],\n    [\n      \"整合包数据文件\",\n      64\n    ],\n    [\n      \"运行时脚本\",\n      7\n    ]\n  ]\n}\n{\n  \"status\": \"passed\",\n  \"counts\": [\n    [\n      \"语言键\",\n      32043\n    ],\n    [\n      \"分组名称\",\n      95\n    ],\n    [\n      \"手册/书籍文件\",\n      996\n    ],\n    [\n      \"任务书文件\",\n      51\n    ],\n    [\n      \"整合包数据文件\",\n      64\n    ],\n    [\n      \"运行时脚本\",\n      7\n    ]\n  ],\n  \"resourcepack_members\": 1378,\n  \"bundle_members\": 1501,\n  \"installation_verified\": false\n}\nBuild complete. Open: <clean-copy>/repo/dist\nInstall bundle: FTB-Evolution-2-1.6.3-zh_CN-install.zip\n",
+  "stderr": "",
+  "in_game_tested": false
+}

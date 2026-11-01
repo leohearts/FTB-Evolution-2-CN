@@ -1,5 +1,5 @@
 {
-  "target_pack_version": "1.5.1",
+  "target_pack_version": "1.6.3",
   "source_inputs": {
     "config/ftbmaterials/unifier-db.json": "754fc9bcf63c1d2527cf8f37a176b51dd57c0a95e079f5cdb6f908397c390daf",
     "kubejs/server_scripts/recipes/removals.js": "4915aa65beb1b3490dc861fcda6c0cf50293b6f46545c6c4ce40530ecff79bb5",
@@ -19,16 +19,16 @@
     "data/productivebees/patchouli_books/guide/book.json": "2caa589a53c6479e24773389d9496b9192820db073dc0c9d6948ea372fdc9070"
   },
   "archive_provenance": {
-    "mods/nodeworks-0.11.1.jar": "7bb01adaf3d0a2d1fbe03559336cd291e82e32826fb77180369e079479770e70",
+    "mods/nodeworks-0.11.3.jar": "4807dc38566f7fc937917465e8694486ad768abe216728b3968be121320aacdd",
     "mods/oracle_index-neoforge-2.0.0.jar": "2bb5a5e79e877c7032fa3c09f8dc2e32f00f3f6f9c447e941d0045ecbd6f978b",
     "mods/kindredspirits-26.1.2-1.0.9.jar": "bfaad85e4d2fe2dbb4701722cdc291ea132590bf231e2b48f68b7d01f48d71bc",
     "mods/patchouli-neoforge-26.1-94.jar": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
-    "mods/guideme-26.1.15-beta.jar": "17acb84bff9320b237340b280415029ba950640895343fb2f9c35b7b4416e7d5",
-    "mods/ftb-industrial-contraptions-26.1.2.18.jar": "5f20175602302e51551d8c26d751c2cb9bbc68830c32a6301ab62eb388b9f3c9",
-    "mods/auroral-26.1.2-1.5.10.jar": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+    "mods/guideme-26.1.16-beta.jar": "55bbc0d52e286cbfff21c901bafe02eb22bce442bc7361696d3ec37dd596ce3f",
+    "mods/ftb-industrial-contraptions-26.1.2.20.jar": "b705ab76b4396b7727bc7022a51862869a948c9063b73f1d96f16fc878cfe306",
+    "mods/auroral-26.1.2-1.5.11.jar": "e55c75151c4f989dcaea2cbcd5b138c0bd036ec994856661956130187696ccf7",
     "mods/Powah-7.0.4-alpha.jar": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
     "mods/justdynathings-2.0-alpha-build-13.jar": "7291a42d5e94c0495c1c9ec981a0d611cc1192e36d4574da658d4a052b59f0d9",
-    "mods/animal_pen-neoforge-26.1-2.5.1.jar": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+    "mods/animal_pen-neoforge-26.1-2.5.2.jar": "e2b66773b97548559dcf254f34c7fe3815ac38b62b5cf1585081274681921bd7",
     "mods/laserio-1.10.2.jar": "a23ede2b51180d9b19ee370ed4e0bece14dbc9a4c8055a6e2e6b77589b554e67",
     "mods/justdirethings-1.6.11.jar": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
     "mods/productivebees-26.1.2-15.4.0.jar": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3"

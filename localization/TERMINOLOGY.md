@@ -384,6 +384,16 @@ Refined Storage 统一为精致存储, 类型扩展为精致存储: 类型扩展
 - Nautec Netheritophiles = 嗜下界合金菌, 按实际产物和既有细菌名称体系命名. 新键不是以旧拼法全局替换.
 - 新增键审阅与来源见 `updates/1.5.1/new-language-review.json`, 旧/新译文裁决见 `language-translations.json` 和 `quest-translations.json`.
 
+## 1.6.3 增量裁决 (2026-11-02)
+
+- 巨型反应堆: 新增建造器选项 Website = 网站设计 (第三方 ModDecoded 计算器), Hyperflow = 超流. 涡轮机 closure deck 沿用界面已有的封闭平台; turbine rod / rod controller 继续作转轴 / 转轴控制器, heat sink 继续作散热介质.
+- 海蓝科技 Crystal Cultivator = 晶体培育器, 与晶体培育座 (Crystal Cradle) 同属培育体系; Mob Sampler / Mob Sample = 生物采样器 / 生物样本.
+- AE2-Replication Bridge = AE2-复制桥接器, Matter Assembler = 物质装配机, Matter Storage Cell = 物质存储元件. 物质类型名直接复用 Replication 自带中文 (Precious = 珍宝等); AE2 机器名用游戏内的 ME 前缀名称.
+- Refined Wireless Upgrades: Insert / Export / Block Picker Upgrade = 插入 / 导出 / 方块选取升级, Wireless Grid 沿用 Refined Storage 的无线终端.
+- Just Enough Crafting Tables 的 Crafting Station 沿用被其取代的 Crafting Station 模组译名合成站, Crafting Station Slab 同样沿用台阶型合成站.
+- Witchery 神物 (Fetish) 章节英文为作者占位文本, 按原意译为占位说明; Poltergeist 沿用游戏内吵闹鬼.
+- 新增键审阅与来源见 `updates/1.6.3/new-language-review.json`, 已有译文的源变化裁决见同目录 `language-translations.json`、`quest-translations.json` 与 `cfpa-review-adaptation.json`.
+
 ## 2026-10-23 规范术语库
 
 新增 `glossary/glossary.json` 与 `glossary.py`, 从本文件已有裁决整理 74 条规范条目, 带语言键绑定与禁用变体, 已纳入 `project.py check`. 首次校验发现 4 项不一致, 经用户裁决全部修复:

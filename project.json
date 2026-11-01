@@ -1,7 +1,7 @@
 {
   "project_name": "FTB Evolution 2 CN",
   "translation_baseline": "1.3.2",
-  "target_pack_version": "1.5.1",
+  "target_pack_version": "1.6.3",
   "source_instance": "/home/astronw/.ftba/instances/ftb evolution 2",
   "target_instance": "/home/astronw/.ftba/instances/ftb evolution 2",
   "worktree": ".minecraft",
@@ -18,49 +18,49 @@
     "exclude_decorative_mods": true,
     "updater_mod_required": false
   },
-  "migration_status": "1.5.1_static_passed_not_in_game_tested",
+  "migration_status": "1.6.3_static_passed_not_in_game_tested",
   "component_baselines": {
-    "quests": "1.5.1",
-    "manuals": "1.5.1",
-    "custom": "1.5.1",
-    "ordinary": "1.5.1",
-    "cfpa_review": "1.5.1"
+    "quests": "1.6.3",
+    "manuals": "1.6.3",
+    "custom": "1.6.3",
+    "ordinary": "1.6.3",
+    "cfpa_review": "1.6.3"
   },
   "cfpa_review": {
     "decisions": "localization/cfpa_review/decisions",
     "artifact": ".minecraft/resourcepacks/FTB-Evolution-2-CFPA-Reviewed-zh_CN",
-    "archive": "dist/FTB-Evolution-2-1.5.1-CFPA-Reviewed-zh_CN.zip",
+    "archive": "dist/FTB-Evolution-2-1.6.3-CFPA-Reviewed-zh_CN.zip",
     "status": "built_static_passed",
-    "scope": "approved entries only; not full CFPA or full 1.5.1 adaptation"
+    "scope": "approved entries only; not full CFPA or full 1.6.3 adaptation"
   },
   "custom_adaptation": {
-    "target_pack_version": "1.5.1",
+    "target_pack_version": "1.6.3",
     "status": "partial_batches_static_passed",
     "progress": "localization/custom/progress-1.4.0.json",
-    "source_bindings": "localization/custom/source-bindings-1.5.1.json",
+    "source_bindings": "localization/custom/source-bindings-1.6.3.json",
     "stage_complete": false,
     "in_game_tested": false
   },
   "release_pack": {
-    "target_pack_version": "1.5.1",
+    "target_pack_version": "1.6.3",
     "tool": "localization/release_pack.py",
-    "resourcepack": "dist/FTB-Evolution-2-1.5.1-zh_CN.zip",
-    "install_bundle": "dist/FTB-Evolution-2-1.5.1-zh_CN-install.zip",
-    "manifest": "dist/FTB-Evolution-2-1.5.1-zh_CN-manifest.json",
-    "report": "localization/reports/release-pack-1.5.1.md",
+    "resourcepack": "dist/FTB-Evolution-2-1.6.3-zh_CN.zip",
+    "install_bundle": "dist/FTB-Evolution-2-1.6.3-zh_CN-install.zip",
+    "manifest": "dist/FTB-Evolution-2-1.6.3-zh_CN-manifest.json",
+    "report": "localization/reports/release-pack-1.6.3.md",
     "status": "built_static_passed_not_installed",
     "installed_to_game": false,
-    "installation_record": "dist/FTB-Evolution-2-1.5.1-zh_CN-installation.json",
+    "installation_record": "dist/FTB-Evolution-2-1.6.3-zh_CN-installation.json",
     "in_game_tested": false
   },
   "manual_extra": {
-    "target_pack_version": "1.5.1",
+    "target_pack_version": "1.6.3",
     "status": "complete_static_passed",
-    "pages": 317,
-    "words": 97009,
+    "pages": 322,
+    "words": 98993,
     "translations": "localization/manuals_extra/translations",
     "source_manifest": "localization/manuals_extra/source_manifest.json",
-    "report": "localization/reports/release-pack-1.5.1.md",
+    "report": "localization/reports/release-pack-1.6.3.md",
     "in_game_tested": false
   }
 }

@@ -3,7 +3,7 @@
 ## 项目入口与版本
 
 - 开始工作先读 `project.json`, `README.md` 和 `localization/STYLE.md`. 当前游戏目录从 `project.json` 的 `target_instance` 读取, 不在脚本中另写固定路径. `source_instance` 与 `.minecraft/mods` 的输入也应对应当前目标实例, 不继续读取旧 Prism 实例; 历史版本证据与当前输入分开维护.
-- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 当前目标整合包版本见 `project.json` (本次已适配 1.5.1); 各组件当前基线见 `project.json` 的 `component_baselines`, 不从早期报告推断当前状态. 首次了解版本迁移时读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`, 其中阶段状态属于历史记录. 旧版检查通过不代表新版适配完成.
+- `.minecraft/` 是翻译工作副本, 不是实际游戏目录. 当前目标整合包版本见 `project.json` (本次已适配 1.6.3); 各组件当前基线见 `project.json` 的 `component_baselines`, 不从早期报告推断当前状态. 首次了解版本迁移时读 `localization/reports/update-1.4.0-assessment.md` 和 `localization/reports/quests-1.4.0.md`, 其中阶段状态属于历史记录. 旧版检查通过不代表新版适配完成.
 - 新任务先核对实际游戏版本、模组 JAR、整合包资源覆盖和英文源. 原文变化后先审阅差异, 再更新译文及源清单; 不盲用旧片段编号、行号或强行替换源哈希.
 
 ## 本地依赖与仓库边界
