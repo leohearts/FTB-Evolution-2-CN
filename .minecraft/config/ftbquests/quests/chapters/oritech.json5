@@ -2242,7 +2242,7 @@
         count: 1,
       },
       x: 17.5,
-      y: 4.5,
+      y: 2.5,
       shape: "hexagon",
       dependencies: [
         "091B8E814908DEDF",
@@ -2297,7 +2297,7 @@
         count: 1,
       },
       x: 19.5,
-      y: 6.5,
+      y: 4.5,
       shape: "circle",
       dependencies: [
         "1582865EA8A8091B",
@@ -2353,7 +2353,7 @@
         count: 1,
       },
       x: 21.5,
-      y: 8.5,
+      y: 6.5,
       shape: "hexagon",
       dependencies: [
         "6CE7FB30455E939E",
@@ -2399,7 +2399,7 @@
         count: 1,
       },
       x: 19.5,
-      y: 8.5,
+      y: 6.5,
       shape: "circle",
       dependencies: [
         "6CE7FB30455E939E",
@@ -2445,7 +2445,7 @@
         count: 1,
       },
       x: 17.5,
-      y: 6.5,
+      y: 4.5,
       shape: "circle",
       dependencies: [
         "1582865EA8A8091B",
@@ -2492,7 +2492,7 @@
         count: 1,
       },
       x: 19.5,
-      y: 4.5,
+      y: 2.5,
       shape: "diamond",
       dependencies: [
         "1582865EA8A8091B",
@@ -2525,8 +2525,8 @@
         id: "oritechthings:accelerator_magnetic_field",
         count: 1,
       },
-      x: 19.5,
-      y: 2.5,
+      x: 21.5,
+      y: 3.0,
       shape: "circle",
       dependencies: [
         "778A876616D4638E",
@@ -2664,8 +2664,8 @@
       id: "0DC8D9EAF3C1A1C8",
     },
     {
-      x: 23.5,
-      y: 4.0,
+      x: 26.5,
+      y: 3.5,
       width: 3.8,
       height: 3.55,
       rotation: 0.0,

@@ -1,0 +1,86 @@
+[
+  {
+    "file": "chapters/exploration.json5",
+    "segment": 25,
+    "source": "Wayfarer, Jeweler and Beastmaster",
+    "translation": "旅人, 珠宝商和驯兽师"
+  },
+  {
+    "file": "chapters/exploration.json5",
+    "segment": 54,
+    "source": "- &dThe Jeweler&r: Apotheosis sigils, gem cases, tomes and Artisan Scrolls.",
+    "translation": "- &d珠宝商&r: 神化的印记, 宝石盒, 典籍和工匠卷轴."
+  },
+  {
+    "file": "chapters/exploration.json5",
+    "segment": 60,
+    "source": "&dJeweler&r - Build a Jewelcrafting Station",
+    "translation": "&d珠宝商&r--建造珠宝饰品工作台"
+  },
+  {
+    "file": "chapters/logistics.json5",
+    "segment": 88,
+    "source": "It also stops your &aActivator Module&r from attacking you.",
+    "translation": "它还能防止你的&a执行模块&r攻击你."
+  },
+  {
+    "file": "chapters/ltx_industries.json5",
+    "segment": 57,
+    "source": "To complete the Argon task, pipe 1,000 mB of Argon into an &eFTB Quests&r &2Task Screen&r set to this task.",
+    "translation": "要完成氩气任务, 请将 1,000 mB 氩气输入设为此任务的&eFTB Quests&r &2任务屏幕&r."
+  },
+  {
+    "file": "chapters/occultism.json5",
+    "segment": 399,
+    "source": "Storage Actuator Base",
+    "translation": "存储促动器基座"
+  },
+  {
+    "file": "chapters/pyramid_challenge.json5",
+    "segment": 38,
+    "source": "Each craft uses 2,000,000 AE, drawn at 10,000 AE per tick. Each Acceleration Card raises the draw per tick, and the assembler's own buffer only holds 20,000 AE, so the rest has to come from energy stored in your ME network. If the assembler stalls with its inputs loaded, add Energy Cells to the network or take out some Acceleration Cards.",
+    "translation": "每次合成消耗 2,000,000 AE, 以每刻 10,000 AE 的速度抽取. 每张加速卡都会提高每刻耗能, 而装配器自身缓存只有 20,000 AE, 其余能量必须来自 ME 网络中储存的能量. 如果装配器已放入材料却停止工作, 请为网络添加能源元件, 或取下几张加速卡."
+  },
+  {
+    "file": "chapters/replication.json5",
+    "segment": 53,
+    "source": "&eNote&r: Prints never fail in this pack, so you can run it at 20% for free.",
+    "translation": "&e注意&r: 本整合包中打印永不失败, 因此可以直接以 20% 速度运行, 没有额外代价."
+  },
+  {
+    "file": "chapters/resource_generation.json5",
+    "segment": 293,
+    "source": "&dThe Jeweler&r sells a &2Mystical Enlightenment&r book, one per player. You find the Jeweler at taverns, and the shop opens once you have crafted a &2Jewelcrafting Station&r.",
+    "translation": "&d珠宝商&r出售&2神秘启示&r附魔书, 每位玩家限购一本.你可以在酒馆找到珠宝商, 制作&2珠宝饰品工作台&r后就会开放商店."
+  },
+  {
+    "file": "chapters/stellaris.json5",
+    "segment": 66,
+    "source": "Sets the gravity for the entire chunk it occupies to any value from 0.5 to 20, using 15 FE/t.",
+    "translation": "以15 FE/t将自身所在的整个区块重力设为0.5至20之间的任意值."
+  },
+  {
+    "file": "chapters/stellaris.json5",
+    "segment": 151,
+    "source": "To eat one, hold a &aPotion&r in your other hand. A plain water bottle works.",
+    "translation": "食用时, 另一只手需拿一瓶&a药水&r, 普通水瓶也可以."
+  },
+  {
+    "file": "chapters/witchery.json5",
+    "segment": 163,
+    "source": "The raised dead fight for you, but only for a minute at first. They last longer as you level and stay for good at level 10.",
+    "translation": "复生者替你战斗, 最初只持续一分钟, 随等级延长, 10级永久存在."
+  },
+  {
+    "file": "chapters/witchery.json5",
+    "segment": 164,
+    "source": "The &bRite of Charging Infusion&r refills your charge.",
+    "translation": "&b注魔充能仪式&r可补充充能."
+  },
+  {
+    "file": "chapters/witchery.json5",
+    "segment": 165,
+    "source": "Performing &bInfuse Necromancy&r again also refills it, but it costs another &dNecromantic Soulbind&r and another 100 magic damage to survive.",
+    "translation": "再次进行&b死灵灌注&r也能补充充能, 但需要再消耗一份&d死灵魂剂&r, 并再承受100点魔法伤害."
+  }
+]

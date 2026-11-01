@@ -4,8 +4,8 @@
 
 - 可见章节：42/42。
 - 完整中文文件：51/51（含目录、奖励和额外章节文件）。
-- 已安装文本键：4193/4193。
-- 已解决文本片段：8205/8205（含已明确保留的专名）。
+- 已安装文本键：4194/4194。
+- 已解决文本片段：8210/8210（含已明确保留的专名）。
 - 另有45条奖励标签、38条任务组件名称/描述及5条补充名称。
 - 文件结构与解析检查见reports；游戏内排版、悬停与链接点击尚未验收。
 
@@ -36,17 +36,17 @@
 | chapters/integrated_dynamics.json5 | 86 | 206/206 | 是 |
 | chapters/just_dire_things.json5 | 122 | 203/203 | 是 |
 | chapters/logistics.json5 | 158 | 338/338 | 是 |
-| chapters/ltx_industries.json5 | 93 | 204/204 | 是 |
+| chapters/ltx_industries.json5 | 93 | 205/205 | 是 |
 | chapters/mffs.json5 | 46 | 60/60 | 是 |
 | chapters/nautec.json5 | 313 | 840/840 | 是 |
 | chapters/neo_vitae.json5 | 146 | 262/262 | 是 |
-| chapters/occultism.json5 | 185 | 423/423 | 是 |
+| chapters/occultism.json5 | 186 | 424/424 | 是 |
 | chapters/oritech.json5 | 123 | 224/224 | 是 |
 | chapters/powah.json5 | 55 | 98/98 | 是 |
 | chapters/power.json5 | 63 | 137/137 | 是 |
 | chapters/productive_farming.json5 | 19 | 33/33 | 是 |
 | chapters/progression_tiers.json5 | 34 | 37/37 | 是 |
-| chapters/pyramid_challenge.json5 | 100 | 137/137 | 是 |
+| chapters/pyramid_challenge.json5 | 100 | 138/138 | 是 |
 | chapters/reliquary.json5 | 36 | 76/76 | 是 |
 | chapters/replication.json5 | 35 | 63/63 | 是 |
 | chapters/resonance.json5 | 36 | 68/68 | 是 |
@@ -56,7 +56,7 @@
 | chapters/tips_and_tricks.json5 | 52 | 124/124 | 是 |
 | chapters/utilities.json5 | 51 | 90/90 | 是 |
 | chapters/welcome.json5 | 18 | 58/58 | 是 |
-| chapters/witchery.json5 | 105 | 229/229 | 是 |
+| chapters/witchery.json5 | 105 | 231/231 | 是 |
 | chapters/xycraft.json5 | 24 | 55/55 | 是 |
 | file.json5 | 1 | 1/1 | 是 |
 | image.json5 | 7 | 7/7 | 是 |

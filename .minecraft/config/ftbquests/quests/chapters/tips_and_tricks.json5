@@ -735,7 +735,7 @@
           id: "599640735E2A74EF",
           type: "item",
           item: {
-            id: "craftingstation:crafting_station",
+            id: "justenoughcraftingtables:crafting_station",
             count: 1,
           },
         },

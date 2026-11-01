@@ -3888,7 +3888,7 @@
         count: 1,
       },
       x: -4.0,
-      y: -4.0,
+      y: -3.5,
       shape: "hexagon",
       size: 1.25,
       id: "1E340EC285631E9A",
@@ -3923,7 +3923,7 @@
         count: 1,
       },
       x: -5.0,
-      y: -5.0,
+      y: -4.5,
       dependencies: [
         "1E340EC285631E9A",
       ],
@@ -3960,7 +3960,7 @@
         count: 1,
       },
       x: -4.0,
-      y: -5.5,
+      y: -5.0,
       dependencies: [
         "1E340EC285631E9A",
       ],
@@ -3997,7 +3997,7 @@
         count: 1,
       },
       x: -3.0,
-      y: -5.0,
+      y: -4.5,
       dependencies: [
         "1E340EC285631E9A",
       ],
@@ -4486,8 +4486,8 @@
             count: 1,
             components: {
               "minecraft:stored_enchantments": {
-                "minecraft:unbreaking": 3,
                 "minecraft:fortune": 3,
+                "minecraft:unbreaking": 3,
               },
             },
           },

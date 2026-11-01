@@ -42,9 +42,9 @@
         id: "ftbic:lv_battery",
         count: 1,
       },
-      x: -4.0,
+      x: -2.5,
       y: 0.0,
-      shape: "diamond",
+      shape: "gear",
       dependencies: [
         "754048401D3A6A7B",
       ],
@@ -71,9 +71,9 @@
         id: "nautec:bacterial_fuel_cell",
         count: 1,
       },
-      x: -8.0,
+      x: -5.0,
       y: 0.0,
-      shape: "diamond",
+      shape: "gear",
       dependencies: [
         "0532680A316DBF67",
       ],
@@ -100,9 +100,9 @@
         id: "powah:energy_cell_basic",
         count: 1,
       },
-      x: 4.0,
+      x: 2.5,
       y: 0.0,
-      shape: "hexagon",
+      shape: "rsquare",
       dependencies: [
         "754048401D3A6A7B",
       ],
@@ -145,9 +145,9 @@
         id: "powah:energy_cable_starter",
         count: 1,
       },
-      x: 8.0,
+      x: 5.0,
       y: 0.0,
-      shape: "square",
+      shape: "rsquare",
       dependencies: [
         "5F14BE199B3484CF",
       ],
@@ -190,8 +190,8 @@
         id: "minecraft:coal",
         count: 1,
       },
-      x: -8.0,
-      y: 4.0,
+      x: -5.0,
+      y: 3.0,
       shape: "diamond",
       size: 1.25,
       optional: true,
@@ -216,7 +216,7 @@
         id: "powah:steel_energized",
         count: 1,
       },
-      x: -8.0,
+      x: -5.0,
       y: 8.0,
       shape: "diamond",
       size: 1.25,
@@ -242,7 +242,7 @@
         id: "ftbic:iridium_alloy",
         count: 1,
       },
-      x: -8.0,
+      x: -5.0,
       y: 12.0,
       shape: "diamond",
       size: 1.25,
@@ -268,7 +268,7 @@
         id: "minecraft:nether_star",
         count: 1,
       },
-      x: -8.0,
+      x: -5.0,
       y: 16.0,
       shape: "diamond",
       size: 1.25,
@@ -294,13 +294,13 @@
         id: "ftbic:basic_generator",
         count: 1,
       },
-      x: -4.0,
+      x: -2.5,
       y: 4.0,
       shape: "hexagon",
       dependencies: [
         "754048401D3A6A7B",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "677873EA54068604",
       tasks: [
         {
@@ -345,7 +345,7 @@
       dependencies: [
         "754048401D3A6A7B",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "2F9A9E260BC5061D",
       tasks: [
         {
@@ -384,13 +384,13 @@
         id: "ftbic:lv_solar_panel",
         count: 1,
       },
-      x: 4.0,
+      x: 2.5,
       y: 4.0,
       shape: "hexagon",
       dependencies: [
         "754048401D3A6A7B",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "6393AAFA09F46A77",
       tasks: [
         {
@@ -429,13 +429,13 @@
         id: "horsepowered:generator",
         count: 1,
       },
-      x: -6.0,
-      y: 5.25,
+      x: -5.0,
+      y: 5.0,
       shape: "hexagon",
       dependencies: [
         "677873EA54068604",
       ],
-      size: 1.0,
+      size: 1.25,
       optional: true,
       id: "666CC5BD7E85A79A",
       tasks: [
@@ -469,13 +469,13 @@
         id: "oritech:bio_generator",
         count: 1,
       },
-      x: -4.0,
+      x: -2.5,
       y: 8.0,
       shape: "hexagon",
       dependencies: [
         "677873EA54068604",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "334613FB40021822",
       tasks: [
         {
@@ -520,7 +520,7 @@
       dependencies: [
         "2F9A9E260BC5061D",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "339B63DF5067A4F4",
       tasks: [
         {
@@ -552,13 +552,13 @@
         id: "energizedpower:solar_panel_5",
         count: 1,
       },
-      x: 4.0,
+      x: 2.5,
       y: 8.0,
       shape: "hexagon",
       dependencies: [
         "6393AAFA09F46A77",
       ],
-      size: 1.0,
+      size: 1.25,
       id: "379AF010B6BB7ECA",
       tasks: [
         {
@@ -597,13 +597,13 @@
         id: "oritech:fuel_generator",
         count: 1,
       },
-      x: -4.0,
+      x: -2.5,
       y: 12.0,
       shape: "hexagon",
       dependencies: [
         "334613FB40021822",
       ],
-      size: 1.0,
+      size: 1.5,
       id: "504D47A4397ED4C1",
       tasks: [
         {
@@ -648,7 +648,7 @@
       dependencies: [
         "339B63DF5067A4F4",
       ],
-      size: 1.0,
+      size: 1.5,
       id: "6F54FA28ABED5FDB",
       tasks: [
         {
@@ -687,13 +687,13 @@
         id: "energizedpower:solar_panel_6",
         count: 1,
       },
-      x: 4.0,
+      x: 2.5,
       y: 12.0,
       shape: "hexagon",
       dependencies: [
         "379AF010B6BB7ECA",
       ],
-      size: 1.0,
+      size: 1.5,
       id: "50458106894EDFFF",
       tasks: [
         {
@@ -732,13 +732,13 @@
         id: "justdirethings:refined_t4_fluid_bucket",
         count: 1,
       },
-      x: -4.0,
+      x: -2.5,
       y: 16.0,
       shape: "hexagon",
       dependencies: [
         "504D47A4397ED4C1",
       ],
-      size: 1.25,
+      size: 2.0,
       id: "5FC6E8021F428789",
       tasks: [
         {
@@ -783,7 +783,7 @@
       dependencies: [
         "6F54FA28ABED5FDB",
       ],
-      size: 1.25,
+      size: 2.0,
       id: "2706305DE6477D21",
       tasks: [
         {
@@ -822,13 +822,13 @@
         id: "ftbic:ev_solar_panel",
         count: 1,
       },
-      x: 4.0,
+      x: 2.5,
       y: 16.0,
       shape: "hexagon",
       dependencies: [
         "50458106894EDFFF",
       ],
-      size: 1.25,
+      size: 2.0,
       id: "1A964E72CA3B398D",
       tasks: [
         {
@@ -866,56 +866,56 @@
   quest_links: [
     {
       linked_quest: "1F42537BFD6A6F33",
-      x: 8.0,
+      x: 5.0,
       y: 3.0,
       shape: "gear",
       id: "1F0F79E73CB086C4",
     },
     {
       linked_quest: "39A6CE8A1D5B2D8F",
-      x: 8.0,
+      x: 5.0,
       y: 5.0,
       shape: "gear",
       id: "1BFDAE9FCBA7E00F",
     },
     {
       linked_quest: "659B9311FB49C425",
-      x: 8.0,
+      x: 5.0,
       y: 7.0,
       shape: "gear",
       id: "38B826EF36DB268B",
     },
     {
       linked_quest: "001F0C36B4AB9F5F",
-      x: 8.0,
+      x: 5.0,
       y: 9.0,
       shape: "gear",
       id: "519510236669B54D",
     },
     {
       linked_quest: "48AB0F2C91CA731D",
-      x: 8.0,
+      x: 5.0,
       y: 11.0,
       shape: "gear",
       id: "1F02714705A09AD8",
     },
     {
       linked_quest: "10E9ABD23A1018AC",
-      x: 8.0,
+      x: 5.0,
       y: 13.0,
       shape: "gear",
       id: "71D3574DF6162289",
     },
     {
       linked_quest: "53F8764099C14F93",
-      x: 8.0,
+      x: 5.0,
       y: 15.0,
       shape: "gear",
       id: "3D68B3B34C728C94",
     },
     {
       linked_quest: "4C85D0D1C8143B30",
-      x: 8.0,
+      x: 5.0,
       y: 17.0,
       shape: "gear",
       id: "148FA66DF5645582",
@@ -996,7 +996,7 @@
     {
       x: 0.0,
       y: 4.0,
-      width: 18.6,
+      width: 11.7,
       height: 3.6,
       rotation: 0.0,
       image: "ftb:textures/quests/white_bg.png",
@@ -1008,7 +1008,7 @@
     {
       x: 0.0,
       y: 8.0,
-      width: 18.6,
+      width: 11.7,
       height: 3.6,
       rotation: 0.0,
       image: "ftb:textures/quests/white_bg.png",
@@ -1020,7 +1020,7 @@
     {
       x: 0.0,
       y: 12.0,
-      width: 18.6,
+      width: 11.7,
       height: 3.6,
       rotation: 0.0,
       image: "ftb:textures/quests/white_bg.png",
@@ -1032,7 +1032,7 @@
     {
       x: 0.0,
       y: 16.0,
-      width: 18.6,
+      width: 11.7,
       height: 3.6,
       rotation: 0.0,
       image: "ftb:textures/quests/white_bg.png",

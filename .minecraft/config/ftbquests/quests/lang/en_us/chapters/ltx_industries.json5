@@ -94,6 +94,8 @@
     "Bring back a bucket and fuse your first &aLogic Core&r in the &2Arc Furnace&r on Inert Gas Smelting. Every circuit from here on starts with Logic Cores, and Rhenium and the Nano Logic Core use Argon too.",
     "",
     "&eNote&r: The End Scrubber also turns up the odd &2Chorus Extract&r. Keep them, since the Nano-Core Processor takes eight.",
+    "",
+    "To complete the Argon task, pipe 1,000 mB of Argon into an &eFTB Quests&r &2Task Screen&r set to this task.",
   ],
   "quest.12991E755825749C.quest_desc": [
     "&aSulfuric Acid&r goes into &2Polymer Bars&r, which you need for your first Voltaic Cells.",

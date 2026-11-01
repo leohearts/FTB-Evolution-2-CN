@@ -104,7 +104,7 @@
     "",
     "Replicate a &aReplicator Motor&r from the Terminal, then Sneak + Right-click a Replicator with it. It adds a speed setting, where 100% is normal speed and 20% is the fastest.",
     "",
-    "&eNote&r: The faster it runs, the higher the chance a print fails. A failed print runs again without using more matter.",
+    "&eNote&r: Prints never fail in this pack, so you can run it at 20% for free.",
   ],
   "quest.095B11E487F642F2.quest_desc": [
     "&eReplication&r prints items out of raw matter. Break cheap items down, scan the ones you want, and the network can print copies on request.",

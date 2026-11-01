@@ -76,6 +76,8 @@
     "&aLogic Lattices&r are made in &eExtendedAE&r's &2Crystal Assembler&r, two per craft.",
     "",
     "&eRefined Storage&r's &aAdvanced Processors&r and &eAE2&r's &2Engineering Processors&r both work. Choose the AE2 route if you run AE2, since it takes half as many processors.",
+    "",
+    "Each craft uses 2,000,000 AE, drawn at 10,000 AE per tick. Each Acceleration Card raises the draw per tick, and the assembler's own buffer only holds 20,000 AE, so the rest has to come from energy stored in your ME network. If the assembler stalls with its inputs loaded, add Energy Cells to the network or take out some Acceleration Cards.",
   ],
   "quest.1AF9F40BC39B15E7.title": "&dSoul Covenant",
   "quest.783B31D7CB5FECF3.quest_desc": [

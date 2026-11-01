@@ -532,9 +532,16 @@
         {
           id: "50A7FB14A0508D90",
           type: "item",
-          item: {
+          icon: {
             id: "occultism:storage_controller_base",
             count: 1,
+          },
+          item: {
+            id: "ftbfiltersystem:smart_filter",
+            count: 1,
+            components: {
+              "ftbfiltersystem:filter": "or(item(occultism:storage_controller_base)item(occultism:storage_controller_base_dark))",
+            },
           },
         },
       ],

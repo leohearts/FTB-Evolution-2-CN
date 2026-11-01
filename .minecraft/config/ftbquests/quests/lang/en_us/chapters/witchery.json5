@@ -307,7 +307,11 @@
     "",
     "Hold it and the corpses of undead mobs, villagers and pillagers that died nearby show up as soul particles. Hold right-click and let go to spend 500 infusion charge and raise every corpse within 8 blocks of where you are looking.",
     "",
-    "The raised dead fight for you, but only for a minute at first. They last longer as you level and stay for good at level 10. The &bRite of Charging&r refills your charge.",
+    "The raised dead fight for you, but only for a minute at first. They last longer as you level and stay for good at level 10.",
+    "",
+    "The &bRite of Charging Infusion&r refills your charge.",
+    "",
+    "Performing &bInfuse Necromancy&r again also refills it, but it costs another &dNecromantic Soulbind&r and another 100 magic damage to survive.",
   ],
   "quest.74CB218EFCB2185A.title": "&dJust Another Witchery Remake",
   "quest.4E0BA295792F02DF.quest_desc": [

@@ -120,7 +120,7 @@
   "quest.0E87E42788050B42.title": "&3Electrolyzer",
   "quest.5D751D7FE140340D.title": "&6Oxygen Distributor",
   "quest.7246368D781AF664.quest_desc": [
-    "Sets the gravity for the entire chunk it occupies to any value from 0 to 20, using 1 FE/t.",
+    "Sets the gravity for the entire chunk it occupies to any value from 0.5 to 20, using 15 FE/t.",
     "",
     "Jump height, fall speed and fall damage all change with the setting. The same applies to arrows, thrown potions, dropped items, boats, minecarts and primed TNT.",
     "",
@@ -296,7 +296,7 @@
   "quest.2245CFED83908481.quest_desc": [
     "A small can holds 10 nutrition and a large can holds 20. Neither is a single meal; keep adding food in the &3Vacuumator&r until the can is full.",
     "",
-    "To eat one, hold a &aPotion&r in your other hand. A plain water bottle works, and the potion is not consumed while you eat the can.",
+    "To eat one, hold a &aPotion&r in your other hand. A plain water bottle works.",
     "",
     "Cans come in all 16 dye colors, and you can dye them again later.",
   ],

@@ -4472,8 +4472,8 @@
         id: "nautec:confined_spawner",
         count: 1,
       },
-      x: 13.0,
-      y: -7.0,
+      x: 16.5,
+      y: -6.0,
       shape: "circle",
       dependencies: [
         "732885E121BD83A4",
@@ -5315,8 +5315,8 @@
       id: "7213C86610747EAB",
     },
     {
-      x: 15.25,
-      y: -8.25,
+      x: 13.5,
+      y: -7.5,
       width: 3.0,
       height: 5.4,
       rotation: 0.0,
@@ -5333,8 +5333,8 @@
       id: "0B3F140B5DEC69BF",
     },
     {
-      x: 18.23,
-      y: -5.77,
+      x: 19.0,
+      y: -5.5,
       width: 0.68,
       height: 2.94,
       rotation: 0.0,
@@ -5392,7 +5392,7 @@
       id: "21AA498900F0523A",
     },
     {
-      x: 21.5,
+      x: 20.5,
       y: -9.0,
       width: 2.67,
       height: 2.95,

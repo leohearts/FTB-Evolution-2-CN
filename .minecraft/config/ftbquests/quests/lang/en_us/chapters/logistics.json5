@@ -157,7 +157,7 @@
   "quest.2DA8D6D984D83AC5.quest_desc": [
     "A &aSecurity Upgrade&r limits the &dRouter&r to you and the players listed on it. Right-click a player with the upgrade to add them, and Sneak + Right-click to remove them.",
     "",
-    "It also makes several modules act as you, which helps when chunk claims would otherwise block them. Your own &aActivator Module&r can't attack you either.",
+    "It also stops your &aActivator Module&r from attacking you.",
     "",
     "The &aCamouflage Upgrade&r makes the &dRouter&r look like another block. Sneak + Right-click a solid block with it to copy that block's look.",
   ],
