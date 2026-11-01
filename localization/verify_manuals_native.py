@@ -1,8 +1,7 @@
 """Parse source/Chinese pages using the installed GuideME parser, compare AST structure."""
 import collections,json,pathlib,subprocess,tempfile
 import manual_translation as m
-lib=m.ROOT.parent.parent/'libraries'
-if not lib.is_dir():lib=pathlib.Path('/home/astronw/.local/share/PrismLauncher/libraries')
+from source_archive import guideme_classpath
 def count_nodes(node):
  c=collections.Counter()
  def visit(v):
@@ -19,7 +18,7 @@ with tempfile.TemporaryDirectory(prefix='manual-parser-') as tmp:
  tmp=pathlib.Path(tmp);source=tmp/'source';ast=tmp/'ast'
  for key,text in m.sources().items():
   p=source/key;p.parent.mkdir(parents=True,exist_ok=True);p.write_text(text)
- cp=[str(next((m.ROOT/'.minecraft/mods').glob('guideme-*.jar')))]+[str(next(lib.rglob(name))) for name in ['gson-2.13.2.jar','slf4j-api-2.0.17.jar','guava-33.5.0-jre.jar']]
+ cp=guideme_classpath()
  args=['java',f'-DastOutput={ast}','--class-path',':'.join(cp),str(m.ROOT/'localization/ValidateManuals.java'),str(source),str(m.PACK)]
  result=subprocess.run(args,text=True,capture_output=True)
  (m.BASE/'native-parser-check.txt').write_text(result.stdout+result.stderr)

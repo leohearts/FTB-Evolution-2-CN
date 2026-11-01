@@ -6,6 +6,7 @@ remain runtime acceptance; findings are never hidden with empty fallbackText.
 """
 import collections,json,pathlib,re,sys,zipfile
 from feedback_fixes import ROOT,GAME,BASE,sha,encode
+from source_archive import libraries_directory
 import release_pack
 TAG=re.compile(r'<(RecipeFor|RecipesFor|Recipe)\b[^>]*\bid="([^"]+)"[^>]*>')
 
@@ -33,8 +34,9 @@ def main():
             # Other locales cannot affect the Simplified Chinese effective page.
             if re.search(r'/_([a-z]{2}_[a-z]{2})/',member) and '/_zh_cn/' not in member:return
             pages[member]=(data.decode(),origin)
-    libraries=GAME.parents[1]/'bin/libraries'
-    jars=list(libraries.glob('net/neoforged/minecraft-client-patched/*/*.jar'))+sorted((GAME/'mods').glob('*.jar'))
+    # Only the patched client of the instance's NeoForge build; launchers keep several side by side.
+    neoforge=json.loads((GAME/'instance.json').read_text())['modLoader'].removeprefix('neoforge-')
+    jars=list(libraries_directory().glob(f'net/neoforged/minecraft-client-patched/{neoforge}/*.jar'))+sorted((GAME/'mods').glob('*.jar'))
     for jar in jars:
         sources[str(jar)]=sha(jar.read_bytes())
         with zipfile.ZipFile(jar) as z:

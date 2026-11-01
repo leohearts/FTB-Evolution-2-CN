@@ -19,6 +19,20 @@ def mods_directory():
     return Path(config['target_instance']) / 'mods'
 
 
+def libraries_directory():
+    """Launcher library root: `minecraft_libraries` in project.json, else the FTB App layout."""
+    config = json.loads((ROOT / 'project.json').read_text())
+    return Path(config.get('minecraft_libraries') or Path(config['target_instance']).parents[1] / 'bin/libraries')
+
+
+def guideme_classpath():
+    """The instance's GuideME plus the parser dependencies it expects from the launcher."""
+    libraries = libraries_directory()
+    return [str(next(mods_directory().glob('guideme-*.jar')))] + [
+        str(next(libraries.rglob(name))) for name in ['gson-2.13.2.jar', 'slf4j-api-2.0.17.jar', 'guava-33.5.0-jre.jar']]
+
+
+
 def digest(raw):
     return hashlib.sha256(raw).hexdigest()
 

@@ -15,6 +15,8 @@ import shutil
 import subprocess
 import sys
 
+from source_archive import guideme_classpath
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 BASE = ROOT / 'localization/manuals_extra'
 MANIFEST = BASE / 'source_manifest.json'
@@ -23,13 +25,6 @@ TRANSLATIONS = BASE / 'translations'
 TEMP = BASE / '.verify'
 PACK = ROOT / '.minecraft/resourcepacks/FTB-Evolution-2-Manuals-zh_CN'
 DATAPACK = ROOT / '.minecraft/datapacks/ftb_evolution_cn'
-GUIDEME = ROOT / '.minecraft/mods/guideme-26.1.15-beta.jar'
-LIB = pathlib.Path('/home/astronw/.local/share/PrismLauncher/libraries')
-LIBS = [
-    LIB / 'com/google/code/gson/gson/2.13.2/gson-2.13.2.jar',
-    LIB / 'org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar',
-    LIB / 'com/google/guava/guava/33.5.0-jre/guava-33.5.0-jre.jar',
-]
 
 
 def counts(node):
@@ -116,7 +111,7 @@ def run_native(pages: dict[str, dict]) -> tuple[int, list[dict]]:
             destination = TEMP / root / path
             destination.parent.mkdir(parents=True, exist_ok=True)
             shutil.copy(origin / path, destination)
-    classpath = ':'.join(str(item) for item in [GUIDEME, *LIBS])
+    classpath = ':'.join(guideme_classpath())
     temp_rel = TEMP.relative_to(ROOT).as_posix()
     result = subprocess.run(
         ['java', f'-DastOutput={temp_rel}/ast', '--class-path', classpath,

@@ -1,17 +1,20 @@
-import pathlib,json,zipfile,subprocess,collections,hashlib,shutil
+import pathlib,json,zipfile,subprocess,collections,hashlib,shutil,sys
 BASE=pathlib.Path(__file__).resolve().parent;ROOT=BASE.parents[2]
-d=json.loads((ROOT/'localization/cfpa_review/decisions/manuals.json').read_text()); instance=pathlib.Path(json.loads((ROOT/'project.json').read_text())['target_instance']);lib=pathlib.Path('/home/astronw/.local/share/PrismLauncher/libraries')
+sys.path.insert(0,str(ROOT/'localization'));from source_archive import guideme_classpath,mods_directory,read_resource
+d=json.loads((ROOT/'localization/cfpa_review/decisions/manuals.json').read_text())
 source=BASE/'validation/source';target=BASE/'validation/chinese';ast=(BASE/'validation/ast').absolute()
 for generated in (source,target,ast):
  if generated.exists():shutil.rmtree(generated)
 validated_hashes={}
 for row in d:
  if row['format']!='Markdown/MDX' or row['status']!='accepted':continue
- raw=zipfile.ZipFile(row['source']['target_source']).read(row['path']).decode()
+ # The recorded JAR path is provenance; resolve the page from the current instance,
+ # preferring the same JAR file when several mods ship the same page (AE2 / ae2wtlib).
+ raw=read_resource(row['path'],mods_directory()/pathlib.Path(row['source']['target_source']).name)[0].decode()
  validated_hashes[row['path']]={'source_lf':hashlib.sha256(raw.replace('\r\n','\n').replace('\r','\n').encode()).hexdigest(),'chinese':hashlib.sha256((ROOT/row['file']).read_bytes()).hexdigest()}
  for root,text in [(source,raw),(target,(ROOT/row['file']).read_text())]:
   path=root/row['path'];path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
-cp=[str(next((instance/'mods').glob('guideme-*.jar')))]+[str(next(lib.rglob(name))) for name in ['gson-2.13.2.jar','slf4j-api-2.0.17.jar','guava-33.5.0-jre.jar']]
+cp=guideme_classpath()
 r=subprocess.run(['java',f'-DastOutput={ast}','--class-path',':'.join(cp),str(ROOT/'localization/ValidateManuals.java'),str(source),str(target)],text=True,capture_output=True)
 (BASE/'native-parser-check.txt').write_text(r.stdout+r.stderr);print(r.stdout,r.stderr);assert r.returncode==0
 

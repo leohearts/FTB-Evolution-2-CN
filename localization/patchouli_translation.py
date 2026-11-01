@@ -12,7 +12,7 @@ ZIP_MAIN = pathlib.Path('/home/astronw/.ftba/instances/ftb evolution 2/resourcep
 # namespace -> (book, source, base) ; base: None | 'jar' | 'installed'
 BOOKS = {
     'mffs': [('handbook', ('jar', 'mffs-5.8.39.jar'), None)],
-    'animal_pen': [('guide_book', ('jar', 'animal_pen-neoforge-26.1-2.5.1.jar'), None)],
+    'animal_pen': [('guide_book', ('jar', 'animal_pen-neoforge-26.1-2.5.2.jar'), None)],
     'apotheosis': [('apoth_chronicle', ('jar', 'Apotheosis-26.1.2-9.1.0.jar'), 'jar')],
     'arsmagicalegacy': [('arcane_compendium', ('jar', 'arsmagicalegacy-26.1.2-1.7.1.jar'), None)],
     'modularrouters': [('book', ('jar', 'modular-routers-26.1.2.2.jar'), 'installed')],
