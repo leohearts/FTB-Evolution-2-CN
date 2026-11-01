@@ -1,0 +1,10 @@
+{
+  "gui.crafting_on_a_stick.selection_wheel.no_tool": "You don't have any tool",
+  "item.crafting_on_a_stick.crafting_table": "%s",
+  "item.crafting_on_a_stick.loom": "%s",
+  "item.crafting_on_a_stick.grindstone": "%s",
+  "item.crafting_on_a_stick.cartography_table": "%s",
+  "item.crafting_on_a_stick.stonecutter": "%s",
+  "item.crafting_on_a_stick.smithing_table": "%s",
+  "item.crafting_on_a_stick.anvil": "%s"
+}

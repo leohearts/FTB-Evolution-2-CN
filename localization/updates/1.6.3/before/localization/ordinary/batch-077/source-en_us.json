@@ -1,0 +1,20 @@
+{
+  "gui.integratedtunnels.partsettings.channel.interface.pasted": "interface channel",
+  "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased": "Slot-based",
+  "aspect.aspecttypes.integratedtunnels.boolean.item.predicateslotbased.info": "If predicates should check slot-by-slot instead of slot-agnostic stacked items.",
+  "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased": "Slot-based",
+  "aspect.aspecttypes.integratedtunnels.boolean.fluid.predicateslotbased.info": "If predicates should check slot-by-slot instead of slot-agnostic stacked fluids.",
+  "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock": "Match Block",
+  "aspect.aspecttypes.integratedtunnels.boolean.world.matchblock.info": "Match item form of block instead of dropped items.",
+  "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration": "Right Click Duration",
+  "aspect.aspecttypes.integratedtunnels.integer.player.rightclickduration.info": "Number of ticks right click is held down.",
+  "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory": "Network Inventory",
+  "aspect.aspecttypes.integratedtunnels.boolean.player.networkinventory.info": "If the network is available as player inventory.",
+  "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter": "Passive Interaction Ignores Filter",
+  "aspect.aspecttypes.integratedtunnels.boolean.passiveioignorefilter.info": "If anything may always be inserted into/extracted from the network.",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.export": "Export Item Slot To Entities",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.export.info": "Export items to the given slot of the facing entities. -1 is any slot, -2 or less is no slot.",
+  "aspect.integratedtunnels.write.long.world.entity.energy.export.info": "Export the given amount of energy to the facing entities each tick.",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.import": "Import Item Slot From Entities",
+  "aspect.integratedtunnels.write.integer.world.entity.item.slot.import.info": "Import items from the given slot of the facing entities. -1 is any slot, -2 or less is no slot."
+}

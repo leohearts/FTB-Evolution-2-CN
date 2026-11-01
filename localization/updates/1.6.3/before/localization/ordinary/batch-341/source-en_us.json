@@ -1,0 +1,10 @@
+{
+  "block.malisisswitchesreborn.industrial_rotary_lever": "Industrial Rotary Lever",
+  "tooltip.malisisswitchesreborn.industrial_rotary_lever": "An industrial style rotary lever that can control the redstone current from a distance.",
+  "block.malisisswitchesreborn.emergency_stop": "Emergency Stop",
+  "tooltip.malisisswitchesreborn.emergency_stop": "A flashing emergency stop button that can control the redstone current from a distance.",
+  "subtitles.malisisswitchesreborn.emergency_stop_activate": "Emergency Stop activated",
+  "subtitles.malisisswitchesreborn.emergency_stop_reset": "Emergency Stop reset",
+  "block.malisisswitchesreborn.analog_bar": "Analog Bar",
+  "tooltip.malisisswitchesreborn.analog_bar": "An analog readout for monitoring redstone power levels."
+}

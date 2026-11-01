@@ -1,0 +1,20 @@
+[
+  "Name: %s",
+  "Description: %s",
+  "Valid Values: %s",
+  "Default Value: %s",
+  "Requires a world restart to take effect.",
+  "Requires a game restart to take effect.",
+  "File Watching",
+  "Controls automatic config file watching and reload timing.",
+  "Automatic File Watching",
+  "Automatically watch config files and reload them when they are changed outside the game.",
+  "Change Settling Delay",
+  "Milliseconds to wait after the last filesystem event before reloading changed config files.",
+  "Missing Directory Retry Interval",
+  "Milliseconds between attempts to start watching config directories that do not exist yet.",
+  "Logging",
+  "Controls optional MezzConfig diagnostic logging.",
+  "Log Untranslated Keys",
+  "Log category and value localization keys that are missing from the active language. Enabled by default in development environments."
+]

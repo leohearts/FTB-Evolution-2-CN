@@ -1,0 +1,18 @@
+[
+  "%s",
+  "Item ID Filters",
+  "Item Tag Filters",
+  "Mod ID Filters",
+  "Filters",
+  "Merge Mode",
+  "Determines how pickup entries are combined together.\n\n§fTYPE_NAMED§7 – merges items by type, but items with custom names are never merged.\n\n§fTYPE§7 – merges items by type, ignoring NBT and custom names.\n\n§fSTRICT§7 – merges only identical items, including NBT.\n\n§fNONE§7 – disables merging. Every pickup is shown separately.",
+  "Open item ID blacklist and whitelist controls.",
+  "Edit...",
+  "Item IDs follow the format §fnamespace:item_name§7, for example §fminecraft:diamond§7 or §fmod_id:custom_item§7.",
+  "Open item tag blacklist and whitelist controls.",
+  "For the best experience, open this screen §fwhile a world is loaded. §7Most item tags are registered dynamically and will not be available for autocompletion from the main menu.",
+  "Open mod ID blacklist and whitelist controls.",
+  "Autocompletion only includes §fmods that register at least one item. §7Mods with no items will not appear in the list.",
+  "%s %%",
+  "%s px"
+]

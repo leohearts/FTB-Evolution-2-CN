@@ -1,0 +1,25 @@
+{
+  "batch": "058",
+  "namespace": "oritechthings",
+  "jar": ".minecraft/mods/oritechthings-0.1.8.jar",
+  "language_path": "assets/oritechthings/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/oritechthings/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.oritechthings"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Oritech Things"
+  ],
+  "jar_sha256": "6f7688792eecc66a9fc38afd5d7f32b30c6ef3023360eeb783a3a115b202c5b8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/oritechthings-0.1.8.jar",
+    "jar_sha256": "6f7688792eecc66a9fc38afd5d7f32b30c6ef3023360eeb783a3a115b202c5b8",
+    "nested_jars": [],
+    "resource": "assets/oritechthings/lang/en_us.json",
+    "mod_ids": [
+      "oritechthings"
+    ],
+    "resource_sha256": "9207fddbc25ca2022f67916fe60f5333994c5fa601f6bb30a8a470940559ff98"
+  }
+}

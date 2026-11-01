@@ -1,0 +1,10 @@
+[
+  "Buy point",
+  "Cost: %s",
+  "Level is not enabled for category with ID %s",
+  "Added %s levels to category %s for %s",
+  "Added %s levels to category %s for %s players",
+  "Set %s level in category %s for %s",
+  "Set %s level in category %s for %s players",
+  "%3$s has %1$s level in category %2$s"
+]

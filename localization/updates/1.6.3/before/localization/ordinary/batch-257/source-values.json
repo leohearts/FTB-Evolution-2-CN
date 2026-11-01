@@ -1,0 +1,8 @@
+[
+  "(Framework) Failed to process sync config from server. See logs for details.",
+  "(Framework) Received unknown synced entity data keys. See logs for details.",
+  "Any valid resource location.\nFormat: \"<namespace>:<path>\"",
+  "A valid resource location but must use the namespace: %1$s.\nFormat: \"%1$s:<path>\"",
+  "Any valid identifier.\nFormat: \"<namespace>:<path>\"",
+  "A valid identifier but must use the namespace: %1$s.\nFormat: \"%1$s:<path>\""
+]

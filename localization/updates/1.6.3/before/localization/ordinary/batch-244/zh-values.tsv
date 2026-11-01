@@ -1,0 +1,21 @@
+0	§7⏬ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏬
+1	§7⏫ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏫
+2	LibTooltips
+3	展开提示
+4	启用提示
+5	前置空行
+6	在描述之前, [shift] 之后添加一个空行
+7	提示前置空格
+8	在提示文本之前添加 X 个空格
+9	后置空行
+10	在描述之后添加一个空行
+11	描述颜色
+12	用作提示基础色的颜色.该值为颜色的整数表示 (可使用在线取色器)
+13	LibTooltip 配置
+14	多么漂亮的 <ltrgb>rgb 彩虹</ltrgb> 提示!
+15	看, 它甚至支持多行, 哇
+16	为避免与其他文本处理 API 不兼容,
+17	建议标签使用 'ltrgb' 这类非通用名称, 而不是 'rgb'
+18	hide
+19	将某一行设为 'hide' 会阻止后续行显示.
+20	这对于译文中行数少于默认值的情况很有用.

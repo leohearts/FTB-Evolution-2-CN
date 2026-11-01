@@ -1,0 +1,12 @@
+[
+  "Modular Force Field System",
+  "%s (%s)",
+  "Warp (Sneak)",
+  "Allows the player to sneak-walk through and bypass force fields.",
+  "Shift",
+  "Fortron: %s L/s",
+  "Reinforcement Module",
+  "Makes Force Field blocks immune to the Wither",
+  "%s L / %s L",
+  "%s%s L/s"
+]

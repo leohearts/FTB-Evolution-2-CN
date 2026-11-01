@@ -1,0 +1,38 @@
+{
+  "batch": "187",
+  "namespace": "authme",
+  "jar": ".minecraft/mods/authme-neoforge-9.2.1+26.1.jar",
+  "language_path": "assets/authme/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/authme/lang/zh_cn.json",
+  "include_keys": [
+    "gui.authme.error.notPurchased",
+    "gui.authme.method.button.microsoft.selectAccount",
+    "gui.authme.method.button.mojang.unavailable",
+    "gui.authme.microsoft.warning.title",
+    "gui.authme.microsoft.warning.body",
+    "gui.authme.microsoft.warning.accept",
+    "gui.authme.microsoft.warning.cancel",
+    "text.rconfig.authme.description",
+    "text.rconfig.authme.option.authButton.description",
+    "text.rconfig.authme.option.methods.description",
+    "text.rconfig.authme.option.methods.microsoft",
+    "text.rconfig.authme.option.methods.microsoft.description",
+    "text.rconfig.authme.option.methods.offline",
+    "text.rconfig.authme.option.methods.offline.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Microsoft"
+  ],
+  "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/authme-neoforge-9.2.1+26.1.jar",
+    "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
+    "nested_jars": [],
+    "resource": "assets/authme/lang/en_us.json",
+    "mod_ids": [
+      "authme"
+    ],
+    "resource_sha256": "569da65f11f06b0ed718b95a807d1bbb5202acd1415895104236e00f65ab163b"
+  }
+}

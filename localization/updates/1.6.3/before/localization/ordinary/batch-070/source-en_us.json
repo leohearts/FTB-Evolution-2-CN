@@ -1,0 +1,13 @@
+{
+  "itemGroup.infinitystorage": "Infinity Storage",
+  "block.infinitystorage.infinity_storage_drive": "Infinity Storage Drive Block",
+  "item.infinitystorage.infinity_cobblestone_drive": "Infinity Cobblestone Drive",
+  "item.infinitystorage.infinity_water_drive": "Infinity Water Drive",
+  "item.infinitystorage.infinity_lava_drive": "Infinity Lava Drive",
+  "item.infinitystorage.infinity_dirt_drive": "Infinity Dirt Drive",
+  "item.infinitystorage.infinity_gravel_drive": "Infinity Gravel Drive",
+  "item.infinitystorage.infinity_sand_drive": "Infinity Sand Drive",
+  "item.infinitystorage.infinity_stone_drive": "Infinity Stone Drive",
+  "item.infinitystorage.empty_infinity_drive": "Empty Infinity Drive",
+  "tooltip.infinitystorage.infinity_storage_drive": "When filled with a Infinity Drive will provide an unlimited amount of that resource!"
+}

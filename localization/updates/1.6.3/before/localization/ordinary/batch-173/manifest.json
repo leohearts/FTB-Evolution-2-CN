@@ -1,0 +1,24 @@
+{
+  "batch": "173",
+  "namespace": "combat_roll",
+  "jar": ".minecraft/mods/combat_roll-neoforge-3.0.1+26.1.2.jar",
+  "language_path": "assets/combat_roll/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/combat_roll/lang/zh_cn.json",
+  "include_keys": [
+    "stat.combat_roll.roll",
+    "stat.combat_roll.roll_cm"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "562efb502d22833ac0dec2f3c01210a6d08d76c8fc34987f6d3ddf1597a51ff6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/combat_roll-neoforge-3.0.1+26.1.2.jar",
+    "jar_sha256": "562efb502d22833ac0dec2f3c01210a6d08d76c8fc34987f6d3ddf1597a51ff6",
+    "nested_jars": [],
+    "resource": "assets/combat_roll/lang/en_us.json",
+    "mod_ids": [
+      "combat_roll"
+    ],
+    "resource_sha256": "b3882ecdad2c29b3a977bcf4cf6c85e45c0cf4168f21dfda250c7e2d2e08257e"
+  }
+}

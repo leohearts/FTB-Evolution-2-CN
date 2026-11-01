@@ -1,0 +1,36 @@
+{
+  "batch": "326",
+  "namespace": "magicparticleslib",
+  "jar": ".minecraft/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+  "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+  "language_path": "assets/magicparticleslib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/magicparticleslib/lang/zh_cn.json",
+  "include_keys": [
+    "entity.magicparticleslib.rift",
+    "entity.magicparticleslib.branching_rift"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+    "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+        "sha256": "f3f4bc06d7df185427e2cc9943ff644a088900a52f723543b6638adbe27f9ac8"
+      }
+    ],
+    "resource": "assets/magicparticleslib/lang/en_us.json",
+    "mod_ids": [
+      "occultism"
+    ],
+    "resource_sha256": "b199308dbb7ee42194789852090099e168dfc0a51022bd7e484ac4bc917d9d65"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/magicparticleslib-26.1.2-neoforge-1.4.0.jar",
+      "sha256": "f3f4bc06d7df185427e2cc9943ff644a088900a52f723543b6638adbe27f9ac8"
+    }
+  ]
+}

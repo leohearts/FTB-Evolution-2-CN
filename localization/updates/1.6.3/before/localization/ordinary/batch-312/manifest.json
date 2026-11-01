@@ -1,0 +1,24 @@
+{
+  "batch": "312",
+  "namespace": "evilcraft",
+  "jar": ".minecraft/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+  "language_path": "assets/evilcraft/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/evilcraft/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.evilcraft.second_age.evolved_blood_machinery.purifier.text4"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+    "nested_jars": [],
+    "resource": "assets/evilcraft/lang/en_us.json",
+    "mod_ids": [
+      "evilcraft",
+      "evilcraftcompat"
+    ],
+    "resource_sha256": "a3d8b58c556e1fb4d3df203a5bc11ba88331cd676d5ae100213edd2904690e52"
+  }
+}

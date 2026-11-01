@@ -1,0 +1,26 @@
+{
+  "batch": "224",
+  "namespace": "dnt",
+  "jar": ".minecraft/mods/DnT-ancient-city-overhaul-3.3 [NeoForge].jar",
+  "language_path": "assets/dnt/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dnt/lang/zh_cn.json",
+  "include_keys": [
+    "advancement.dnt.adventure.find_ancient_city",
+    "advancement.dnt.adventure.find_ancient_city.title",
+    "advancement.dnt.story.librarian_ancient_city",
+    "advancement.dnt.story.librarian_ancient_city.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "f3221d724cf6cbe2dc809210866964e80d364e206e4a179fd99ffa741d77a917",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/DnT-ancient-city-overhaul-3.3 [NeoForge].jar",
+    "jar_sha256": "f3221d724cf6cbe2dc809210866964e80d364e206e4a179fd99ffa741d77a917",
+    "nested_jars": [],
+    "resource": "assets/dnt/lang/en_us.json",
+    "mod_ids": [
+      "mr_dungeons_andtavernsancientcityoverhaul"
+    ],
+    "resource_sha256": "6d1d55ecf1d1fb300c5e94d454d6cb47fdc9001ae7790caa83ba4c0caa32abd3"
+  }
+}

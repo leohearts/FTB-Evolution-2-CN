@@ -1,0 +1,28 @@
+{
+  "batch": "197",
+  "namespace": "sophisticatedinventoryinteractions",
+  "jar": ".minecraft/mods/sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+  "language_path": "assets/sophisticatedinventoryinteractions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedinventoryinteractions/lang/zh_cn.json",
+  "include_keys": [
+    "sophisticatedinventoryinteractions.configuration.compatibility",
+    "sophisticatedinventoryinteractions.configuration.defaultScreenPolicy",
+    "sophisticatedinventoryinteractions.configuration.minimumActionableContainerSlots",
+    "sophisticatedinventoryinteractions.configuration.exclude.screenClasses",
+    "sophisticatedinventoryinteractions.configuration.include.screenClasses",
+    "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "bd23aae513f871433a45d18e8fa73f5f945f9b11dbfee02bb8e2eb3f1e560ef2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticatedinventoryinteractions-26.1.2-0.1.18.228.jar",
+    "jar_sha256": "bd23aae513f871433a45d18e8fa73f5f945f9b11dbfee02bb8e2eb3f1e560ef2",
+    "nested_jars": [],
+    "resource": "assets/sophisticatedinventoryinteractions/lang/en_us.json",
+    "mod_ids": [
+      "sophisticatedinventoryinteractions"
+    ],
+    "resource_sha256": "fd0dcace0005bfcd1feb0e44243a96a4be44854ea47ef8179aeabe8bdf40e320"
+  }
+}

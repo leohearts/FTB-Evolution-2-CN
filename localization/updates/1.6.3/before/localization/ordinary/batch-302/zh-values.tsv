@@ -1,0 +1,69 @@
+0	我有家人了
+1	使魔手套
+2	[](item://occultism:familiar_glove)是[使魔之戒](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_familiar_ring)的升级版, 最多可同时容纳 6 只使魔, 而不只是一只.\n
+3	这是纯岩浆
+4	与副手中的[灰色糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_gray_paste)配合时, 可以朝玩家视线方向\n发射小火球.\n\\n\\n由发射器发射时, 则会射出大火球.\n
+5	我施放火球术!
+6	烈焰膏
+7	烈焰膏是一种用途广泛的可燃糨糊, 在[#](AA00AA)火灵[#]()的\n帮助下制成, 能够操控火焰与岩浆.\n它可用于点燃生物, 也能转化某些物品.\n\\n\\n[#](AA00AA)右击[#]()时, 可以生火, 并执行与[](item://minecraft:flint_and_steel)\n兼容的点火操作.此外, [#](AA00AA)潜行右击[#]()会让它发挥[](item://minecraft:lava_bucket)的作用.\n
+8	与粉末交互的特性可以和[自然糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_nature_paste)的力量结合:\n把[](item://occultism:gray_paste)握在副手中, 就能与\n某些矿物交互, 使它们生长并从中提取额外资源.\n
+9	携带使魔的防御方案
+10	[使魔之戒](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_familiar_ring)是很有趣的饰品, 但它们并不能给佩戴者提供任何真正的\n防护.作为替代, 可以用[](item://occultism:spirit_attuned_gem)和[](item://occultism:soul_gem)\n把银制护甲升级为灌注版本.\n\\n穿戴该护甲时即可获得使魔效果.\n
+11	灌注护甲
+12	异界资源通常只有在[第三只眼](entry://occultism:dictionary_of_spirits/getting_started/effects@third_eye)效果下才能挖掘.\n\\n易碎的[](item://occultism:spirit_attuned_gem)可以解决这种"先有鸡还是先有蛋"的难题.\n用这种材料制成的工具即使面对隐于视线之外的资源, 也能采集基础的异界资源.\n\\n\\n持有时它们还能发挥[使魔之戒](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_familiar_ring)的作用.\n
+13	灌注工具
+14	高级异界矿石通常只能用异界金属工具挖掘.\n[](item://occultism:infused_pickaxe)是应对这种"先有鸡还是先有蛋"问题的临时方案.\n它寄宿着一只可以采集此类矿石的[#](AA00AA)使魔[#](),\n但耐久度很低.更耐用的版本是[艾瑟金属镐](entry://occultism:dictionary_of_spirits/getting_started/iesnium_pickaxe).\n
+15	供魔灵使用的知识粉末
+16	精研碎片粉是仪式的强化材料.\n它使用[#](AA00AA)魔精[#]()的灵髓合成,\n并且需要来自主世界的魔法材料.\n
+17	点击可切换书的当前分类.
+18	若此物品中放有名为[#](AA00AA)BACK[#]()的指南针, 它会在传送前保存你当前的位置.\n
+19	返回
+20	便携式快速旅行
+21	虫洞石板
+22	传送门方块确实很酷, 但并不总是实用, 例如你想回家的时候.\n\\n为此, 人们开发出了口袋大小的传送器.\n\\n它还有一个好处: 内部的小物品栏最多可以存放 9 个指南针.\n
+23	- [#](AA00AA)潜行右击[#]()会打开菜单, 你可以在其中存放指南针.中央槽位即选定的目的地;\n- [#](AA00AA)右击[#]()进行传送;\n- 手持物品时[#](AA00AA)潜行滚动滚轮[#]()可切换目的地;\n
+24	使水生生物对你友好.\n
+25	深渊水之主
+26	启用创造模式飞行.\n
+27	蝙蝠飞行
+28	击败敌人时恢复生命.\n
+29	生命窃取
+30	提高破坏原木的速度.\n
+31	了解神秘学的酿造术
+32	允许你在空中额外跳跃.\n
+33	增加掉落的经验量.\n
+34	将你的一部分伤害转化为魔法伤害, 并提高受到的治疗效果.\n
+35	仙子祝福
+36	启用鞘翅滑翔.\n
+37	火焰之翼
+38	使灾厄村民, 节肢动物和爬行者对你友好.\n
+39	森林低语者
+40	可用镐挖掘的方块会以固定速度被破坏.\n
+41	贪婪收获
+42	使监守者, 末影人, 潜影贝和恼鬼对你友好.\n
+43	异变先驱
+44	有几率闪避攻击.\n
+45	神秘学效果
+46	使亡灵与下界生物对你友好.\n
+47	下界帝王
+48	与末影人对视时它们不再变得敌对.\n
+49	即使抬腿高度提高, 潜行时也不会从方块边缘掉下去.\n
+50	每一级都会略微提高抬腿高度.潜行时则施加[行走受阻](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked).\n
+51	让你能看见并与异界的基础材料交互.\n
+52	神秘学复活之间的冷却时间.\n
+53	神秘不死冷却
+54	参见[凋灵合金粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_witherite_dust)条目.\n
+55	要为[](item://occultism:chalk_blue)取得[#](AA00AA)魔王[#]()的灵髓, 你需要\n[召唤并杀死未受缚的魔王](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n
+56	要为[](item://occultism:chalk_brown)取得[](item://occultism:cruelty_essence), 你需要\n[召唤并杀死仁慈山羊](entry://occultism:dictionary_of_spirits/possession_rituals/possess_goat)\n
+57	参见[灰色糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_gray_paste)条目.\n
+58	参见[自然糨糊](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_nature_paste)条目.\n
+59	参见[精研碎片粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust)条目.\n
+60	参见[龙晶粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_dragonyst_dust)条目.\n
+61	要为[](item://occultism:chalk_orange)取得[](item://occultism:cursed_honey), 你需要\n[召唤并杀死被附身的蜜蜂](entry://occultism:dictionary_of_spirits/possession_rituals/possess_bee)\n
+62	要为[](item://occultism:chalk_pink)取得[](item://occultism:demonic_meat), 你需要\n[召唤并杀死被附身的僵尸猪灵](entry://occultism:dictionary_of_spirits/possession_rituals/possess_zombified_piglin)\n
+63	要为[](item://occultism:chalk_red)取得[#](AA00AA)火灵[#]()的灵髓, 你需要\n[召唤并杀死未受缚的火灵](entry://occultism:dictionary_of_spirits/summoning_rituals/afrit_essence).\n
+64	x2
+65	x3
+66	x4
+67	x6
+68	我叫 vic(ky) (最终季)

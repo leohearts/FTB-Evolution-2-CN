@@ -1,0 +1,40 @@
+{
+  "batch": "101",
+  "namespace": "ftbteams",
+  "jar": ".minecraft/mods/ftb-teams-neoforge-26.1.2.4.jar",
+  "language_path": "assets/ftbteams/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbteams/lang/zh_cn.json",
+  "include_keys": [
+    "ftbteams.team_already_exists",
+    "ftbteams.out_of_lives",
+    "ftbteams.lost_a_life",
+    "ftbteams.kicked_no_lives",
+    "ftbteams.disbanded_no_lives",
+    "ftbteams.gui.toggle_chat",
+    "ftbteams.message.limited_lives",
+    "ftbteams.message.limited_lives.warn",
+    "ftbteams.message.chat_redirected.on",
+    "ftbteams.message.chat_redirected.off",
+    "ftbteams.message.added_stage",
+    "ftbteams.message.no_team_stages",
+    "ftbteams.message.removed_stage",
+    "ftbteams.message.team_stages_header",
+    "ftbteams.message.set_property",
+    "ftbteams.message.parse_failed",
+    "ftbteams.message.property_not_editable",
+    "ftbteams.party_creation_failed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "7a467df980bbb9d051ccb6aa96d40548e776886bd9dc8d5b2684cd5ffac76f0c",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-teams-neoforge-26.1.2.4.jar",
+    "jar_sha256": "7a467df980bbb9d051ccb6aa96d40548e776886bd9dc8d5b2684cd5ffac76f0c",
+    "nested_jars": [],
+    "resource": "assets/ftbteams/lang/en_us.json",
+    "mod_ids": [
+      "ftbteams"
+    ],
+    "resource_sha256": "30b65e4599bf3514e90e40918460ba72a63dcdf423034591dbfb3bcfbf68b3f8"
+  }
+}

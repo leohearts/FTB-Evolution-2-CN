@@ -1,0 +1,31 @@
+{
+  "batch": "251",
+  "namespace": "mysticalagradditions",
+  "jar": ".minecraft/mods/MysticalAgradditions-26.1.2-9.0.4.jar",
+  "language_path": "assets/mysticalagradditions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mysticalagradditions/lang/zh_cn.json",
+  "include_keys": [
+    "block.mysticalagradditions.molten_prosperity",
+    "block.mysticalagradditions.molten_awakened_supremium",
+    "block.mysticalagradditions.molten_insanium",
+    "item.mysticalagradditions.molten_prosperity_bucket",
+    "item.mysticalagradditions.molten_awakened_supremium_bucket",
+    "item.mysticalagradditions.molten_insanium_bucket",
+    "fluid_type.mysticalagradditions.molten_prosperity",
+    "fluid_type.mysticalagradditions.molten_awakened_supremium",
+    "fluid_type.mysticalagradditions.molten_insanium"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "e40a36cd2efaca260d29cb78b5adb51610eabc26e130f1196936c00b122b2235",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MysticalAgradditions-26.1.2-9.0.4.jar",
+    "jar_sha256": "e40a36cd2efaca260d29cb78b5adb51610eabc26e130f1196936c00b122b2235",
+    "nested_jars": [],
+    "resource": "assets/mysticalagradditions/lang/en_us.json",
+    "mod_ids": [
+      "mysticalagradditions"
+    ],
+    "resource_sha256": "25d1d808196a57392309a488efc3ee146e4e0160ba93c5702ff1c5bc80ea388b"
+  }
+}

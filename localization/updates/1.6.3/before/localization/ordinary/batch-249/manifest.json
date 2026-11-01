@@ -1,0 +1,33 @@
+{
+  "batch": "249",
+  "namespace": "pylons",
+  "jar": ".minecraft/mods/pylons-26.1-6.0.1.jar",
+  "language_path": "assets/pylons/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/pylons/lang/zh_cn.json",
+  "include_keys": [
+    "block.pylons.protection_pylon",
+    "gui.pylons.fluxData",
+    "gui.pylons.protectedMobsAndBlocks",
+    "item.pylons.block_filter",
+    "pylons.int.jei.category.protection_pylon",
+    "tooltip.pylons.effect_banned",
+    "tooltip.pylons.no_block",
+    "tooltip.pylons.protection",
+    "tooltip.pylons.protection1",
+    "tooltip.pylons.protection2",
+    "tooltip.pylons.protection3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "3396cf4de6f6df73704f6c66b3b20eb485af0b49d5c6fb15405f6befd45a82de",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pylons-26.1-6.0.1.jar",
+    "jar_sha256": "3396cf4de6f6df73704f6c66b3b20eb485af0b49d5c6fb15405f6befd45a82de",
+    "nested_jars": [],
+    "resource": "assets/pylons/lang/en_us.json",
+    "mod_ids": [
+      "pylons"
+    ],
+    "resource_sha256": "681aac2717e75d559dec92567f5b469aed92d80f29078c180a951dfa2ff2ca6d"
+  }
+}

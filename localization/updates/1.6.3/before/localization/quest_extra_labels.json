@@ -1,0 +1,36 @@
+[
+  {
+    "source": ".minecraft/quest-inputs/ftb-en_us.json",
+    "source_sha256": "ca5ec053e028d3f44b83de931c3019773de3204ef077473717337ff39d9d1d7e",
+    "target": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+    "entries": {
+      "bacteria.ftb.replicophiles": {
+        "en": "Replicophiles",
+        "zh": "嗜复制物质菌"
+      },
+      "witchery:ritual/summon_coven_witch": {
+        "en": "Summon Coven Witch",
+        "zh": "召唤聚会女巫"
+      },
+      "book.witchery.guidebook.ritual.summon_coven_witch.name": {
+        "en": "Summon Coven Witch",
+        "zh": "召唤聚会女巫"
+      },
+      "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.title": {
+        "en": "Summon Coven Witch",
+        "zh": "召唤聚会女巫"
+      }
+    }
+  },
+  {
+    "source": ".minecraft/quest-inputs/replication-en_us.json",
+    "source_sha256": "c84cb1d21d5bc4a3587dc9ddd1b6052e409c2441d7da0736ff504156b0de8e3f",
+    "target": ".minecraft/kubejs/assets/replication/lang/zh_cn.json",
+    "entries": {
+      "replication.matteropedia": {
+        "en": "MatterOpedia",
+        "zh": "物质百科"
+      }
+    }
+  }
+]

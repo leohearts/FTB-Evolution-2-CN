@@ -1,0 +1,16 @@
+[
+  "Moog's Structures",
+  "Changes apply after you reload the world (quit to title and re-enter, or run /reload), and only affect newly generated chunks.",
+  "Replace Vanilla Structures",
+  "Structures",
+  "Universal frequency",
+  "How common every Moog's structure is. 2x means about twice as many, 0.5x about half as many.",
+  "All %s",
+  "How common every %s structure is. 2x means about twice as many, 0.5x about half as many.",
+  "Preview",
+  "No preview: this mod hasn't set a preview link (mod_slug).",
+  "Enabled",
+  "Disabled",
+  "Moog's Structure Lib",
+  "Moog's Structure Lib's config screen requires Cloth Config API. Install it to configure in game."
+]

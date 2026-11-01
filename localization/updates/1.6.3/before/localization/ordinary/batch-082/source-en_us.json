@@ -1,0 +1,5 @@
+{
+  "dankstorage.sorting_type.modid": "Sort, Mod id",
+  "dankstorage.sorting_type.modid.desc": "Mod id, Sorts by mod id then by registry name",
+  "text.dankstorage.formatcontaineditems": "%s %s"
+}

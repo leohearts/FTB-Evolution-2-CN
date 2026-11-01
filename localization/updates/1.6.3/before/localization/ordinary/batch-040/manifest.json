@@ -1,0 +1,43 @@
+{
+  "batch": "040",
+  "namespace": "xycraft_core",
+  "jar": ".minecraft/mods/xycraft-core-0.9.2.jar",
+  "language_path": "assets/xycraft_core/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/xycraft_core/lang/zh_cn.json",
+  "include_keys": [
+    "block.xycraft_core.multi_block",
+    "key.category.xycraft.key_binds",
+    "tag.block.c.valid_features.static",
+    "tag.block.xycraft.hot_blocks",
+    "tag.block.xycraft.ignored.fabricator",
+    "tag.block.xycraft.ignored.proxy",
+    "tag.block.xycraft.ignored.vein_mine",
+    "tag.block.xycraft.ignored.void_containment",
+    "tag.item.c.crafting_groups.aurey",
+    "tag.item.c.crafting_groups.aurey_glowing",
+    "tag.item.c.glass_blocks.phantom",
+    "tag.item.c.marbles",
+    "tag.item.c.nuggets.steel",
+    "tag.item.xycraft.crafting_groups.cloud.marble",
+    "tag.item.xycraft.crafting_groups.marble",
+    "tag.item.xycraft.creative",
+    "tag.item.xycraft.ignored.collector",
+    "tag.item.xycraft.visuals.energy_buffer",
+    "xycraft.key_binds"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "XyCraft"
+  ],
+  "jar_sha256": "61e5e6cf498b3cbe8cde7a8748296918145b651d162c3be05a0d7e225a4c4937",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/xycraft-core-0.9.2.jar",
+    "jar_sha256": "61e5e6cf498b3cbe8cde7a8748296918145b651d162c3be05a0d7e225a4c4937",
+    "nested_jars": [],
+    "resource": "assets/xycraft_core/lang/en_us.json",
+    "mod_ids": [
+      "xycraft_core"
+    ],
+    "resource_sha256": "fadffc21c4177239a516b3de00850ba27cd56b8dfc5a3094f0f2e5f604c8d614"
+  }
+}

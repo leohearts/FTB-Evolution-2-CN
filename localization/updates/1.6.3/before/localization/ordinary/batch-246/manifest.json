@@ -1,0 +1,35 @@
+{
+  "batch": "246",
+  "namespace": "armor_cosmetic",
+  "jar": ".minecraft/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+  "language_path": "assets/armor_cosmetic/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/armor_cosmetic/lang/zh_cn.json",
+  "include_keys": [
+    "cos.gui.tooltip.buttonnormal",
+    "cos.config.CosArmorGuiButton_Hidden",
+    "cos.config.CosArmorGuiButton_Left",
+    "cos.config.CosArmorGuiButton_Top",
+    "cos.config.CosArmorToggleButton_Hidden",
+    "cos.config.CosArmorToggleButton_Left",
+    "cos.config.CosArmorToggleButton_Top",
+    "cos.config.CosArmorCreativeGuiButton_Hidden",
+    "cos.config.CosArmorCreativeGuiButton_Left",
+    "cos.config.CosArmorCreativeGuiButton_Top",
+    "cos.config.CosArmorKeepThroughDeath",
+    "cos.config.CosArmorDisableRecipeBook",
+    "cos.config.CosArmorDisableCosHatCommand"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+    "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+    "nested_jars": [],
+    "resource": "assets/armor_cosmetic/lang/en_us.json",
+    "mod_ids": [
+      "armor_cosmetic"
+    ],
+    "resource_sha256": "118fa792ae3a9d5acd00d9a6e24bfe50f9bd8d3fcdb6a0e703942877bc690b55"
+  }
+}

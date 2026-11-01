@@ -1,0 +1,14 @@
+{
+  "block.replication.creative_matter_tank": "Creative Matter Tank",
+  "itemGroup.replication": "Replication",
+  "replication.infinite": "Infinite",
+  "replication.patterns": "Patterns",
+  "replication.search": "Search...",
+  "replication.amount": "Amount",
+  "replication.available": "Available",
+  "replication.cancel": "Cancel task",
+  "replication.no_tasks": "No active replication tasks",
+  "replication.toast_title": "Replication",
+  "tooltip.replication.tank.priority": "Priority: ",
+  "tooltip.replication.tank.void_excess": "Void Excess"
+}

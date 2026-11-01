@@ -1,0 +1,10 @@
+{
+  "ftbic/machines/quarry.md": {
+    "37": {
+      "source": "**Stats:** HV tier, 320,000 FE buffer, 256 FE/t use."
+    },
+    "52": {
+      "source": "- **Efficiency** grants a 10% mining-speed bonus per level, stacking multiplicatively with <ItemLink id=\"overclocker_upgrade\" />s, and raises power use by the same amount. Efficiency V makes the Quarry 1.5 times faster and uses 1.5 times the power."
+    }
+  }
+}

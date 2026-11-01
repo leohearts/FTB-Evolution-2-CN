@@ -1,0 +1,25 @@
+{
+  "batch": "106",
+  "namespace": "ftbbackups3",
+  "jar": ".minecraft/mods/ftb-backups-3-26.1.2.2.jar",
+  "language_path": "assets/ftbbackups3/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbbackups3/lang/zh_cn.json",
+  "include_keys": [
+    "ftbbackups3.lang.timer_progress"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "[%d%% | %d / %d]"
+  ],
+  "jar_sha256": "b0be45bfb74c0a023354d9a51d90a42b869b9250f9ca63afe5aaaf189c5d49c2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-backups-3-26.1.2.2.jar",
+    "jar_sha256": "b0be45bfb74c0a023354d9a51d90a42b869b9250f9ca63afe5aaaf189c5d49c2",
+    "nested_jars": [],
+    "resource": "assets/ftbbackups3/lang/en_us.json",
+    "mod_ids": [
+      "ftbbackups3"
+    ],
+    "resource_sha256": "02554217fc3b4d14a1f187fd21fb9ec0e9386cb3134e33e26b20f8f2bf1e75ef"
+  }
+}

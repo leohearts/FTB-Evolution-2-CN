@@ -1,0 +1,25 @@
+{
+  "batch": "156",
+  "namespace": "cookingforblockheads",
+  "jar": ".minecraft/mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+  "language_path": "assets/cookingforblockheads/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cookingforblockheads/lang/zh_cn.json",
+  "include_keys": [
+    "gui.cookingforblockheads.feedback_stacked"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s x%d"
+  ],
+  "jar_sha256": "6a6ea0ff7536665ae4643d3bf3c5bce334616efc63aadffb403fe561d40dfddd",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+    "jar_sha256": "6a6ea0ff7536665ae4643d3bf3c5bce334616efc63aadffb403fe561d40dfddd",
+    "nested_jars": [],
+    "resource": "assets/cookingforblockheads/lang/en_us.json",
+    "mod_ids": [
+      "cookingforblockheads"
+    ],
+    "resource_sha256": "5d20173458366674ac28c701e234969109261f9c88e4d2e54a39dfe84fd3723c"
+  }
+}

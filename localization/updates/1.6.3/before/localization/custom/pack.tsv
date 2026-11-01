@@ -1,0 +1,161 @@
+Only points to meteorites in the Nether	仅指向下界中的陨石
+They lie buried deep beneath the lava seas	它们深埋在熔岩海之下
+§aⓘ §fDropped by §cApothic Mobs§f	§aⓘ §f由§c神化怪物§f掉落
+§aⓘ §fDropped by §eBosses§f	§aⓘ §f由§e首领§f掉落
+§aⓘ §fDropped by §aEnder Dragon§f	§aⓘ §f由§a末影龙§f掉落
+§aⓘ §fMade from §9Crafting§f	§aⓘ §f通过§9合成§f获得
+%s Necklace of Duality	%s二元项链
+Necklace of Duality	二元项链
+%s Ring of Duality	%s二元戒指
+Ring of Duality	二元戒指
+A Wandering Merchant has set up shop at X: %s, Y: %s, Z: %s	一位流浪商人在 X: %s, Y: %s, Z: %s 摆起了摊位
+⚠ Spawn not found for %s Event	⚠ 未找到 %s 事件的生成位置
+You have not unlocked disabling this event yet!	你尚未解锁关闭此事件的权限!
+Forced %s Event for %s	已强制触发 %s 事件, 目标为 %s
+Set %s to %s	已将 %s 设为 %s
+Statistics reset	统计数据已重置
+Toggled %s Event off	已关闭 %s 事件
+Toggled %s Event on	已开启 %s 事件
+⚠ You hear some rustling nearby as if some creature is approaching...	⚠ 你听见附近传来窸窣声, 仿佛有什么生物正在靠近...
+Ribbit.	呱.
+*SPLASH*	*扑通*
+Quantum Goat	量子山羊
+✔ Goat Events can now be disabled with /events toggle ftb:goat	✔ 现在可使用 /events toggle ftb:goat 关闭山羊事件
+This seems like an Air Attack!	似乎有空袭来袭!
+⚠ Its an Apotheosis Boss! Quick, kill it!	⚠ 是神化首领! 快干掉它!
+I don't want this thingy!	我才不要这玩意儿!
+Spawned Allay with trade: %s for %s	已生成悦灵, 交易内容: 用 %s 换取 %s
+Trade successful! You received: %s	交易成功! 你获得了: %s
+Bippity Boppity Boo!	唵嘛呢叭咪吽!
+A Fairy has spawned nearby! You can find it at X: %s, Y: %s, Z: %s	附近出现了一只精灵! 位置为 X: %s, Y: %s, Z: %s
+Sunny Trade	晴天交易
+Trade me a sunflower for a clear blue sky!	给我一朵向日葵, 还你一片晴空!
+I wish you a sunny day!	祝你有个阳光明媚的好日子!
+Thunderstorm Trade	雷暴交易
+Trade me a lapis for a thunderstorm!	给我一块青金石, 换你一场雷暴!
+A thunderstorm has been summoned!	雷暴已召来!
+Spawn structure placed at %s %s %s.	出生点建筑已放置于 %s %s %s.
+Spawn structure is already in place at %s %s %s.	出生点建筑已存在于 %s %s %s.
+Spawn structure work is already running, try again shortly.	出生点建筑正在处理, 请稍后重试.
+Spawn structure placement failed, retrying.	出生点建筑放置失败, 正在重试.
+Spawn structure placement failed. Check the server log, then run /ftbevolution2 place.	出生点建筑放置失败. 请检查服务器日志, 然后运行 /ftbevolution2 place.
+Spawn structure state cleared. It will be placed again on the next attempt.	出生点建筑状态已清除. 下次尝试时将重新放置.
+Claimed %s of %s chunks around the spawn structure.	已认领出生点建筑周围 %s 个区块, 共 %s 个.
+FTB Chunks is not ready, the claim could not be made.	FTB区块尚未就绪, 无法认领区块.
+Laying out %s structure piece(s).	正在摆放 %s 个结构部件.
+Showcase ready: %s piece(s) placed.	展示区已就绪: 已放置 %s 个部件.
+%s at %s	%s 位于 %s
+Could not place %s.	无法放置 %s.
+No ftb: structure templates are loaded.	未加载任何 ftb: 结构模板.
+The showcase area could not be loaded, nothing was placed.	无法加载展示区域, 未放置任何内容.
+%s piece(s) are larger than the %s block structure block limit and were set to Load mode. Re-export those with WorldEdit.	%s 个部件超过结构方块的 %s 格尺寸限制, 已设为加载模式. 请使用 WorldEdit 重新导出.
+FTB Pyramid	FTB金字塔
+Cozy Cottage	温馨小屋
+Arcane Hut	奥术小屋
+Nano Nook	纳米居所
+The Shire	夏尔小屋
+The Watch	瞭望塔
+Titanium Chunk	钛碎块
+Chromium Chunk	铬碎块
+Iridium Chunk	铱碎块
+Plutonium Chunk	钚碎块
+Hyper Evolution	超级进化
+DeepNull	DeepNull
+Just Zoom	Just Zoom
+More Overlays	更多叠加信息
+Nutritional	营养学
+Industrial Coolant	工业冷却液
+Blaze Block	烈焰块
+Industrial Coolant Bucket	工业冷却液桶
+The Broker	经纪人
+The Broker's Factor	经纪人代理
+The Broker's Vault	经纪人宝库
+The Quartermaster	军需官
+The Machinist	机械师
+The Grocer	食品商
+The Apiarist	养蜂人
+The Fishmonger	鱼贩
+The Wayfarer	旅人
+The Arcanist	奥术师
+The Hedge Witch	草药女巫
+The Sanguine Merchant	鲜血商人
+The Jewler	珠宝商
+Artisan Scroll (%s)	工匠卷轴(%s)
+The Beastmaster	驯兽师
+The Gatekeeper	守门人
+The Swashbuckler	侠盗
+The Gambler	赌徒
+The Wandering Merchant	流浪商人
+The Black Market	黑市商人
+%s: %s	%s: %s
+My goods are for builders of the Skyline. Complete the FTB Skyline quest and we'll talk business.	我的货物只卖给天际号的建造者. 完成FTB天际号任务后, 我们再谈生意.
+The Vault opens only for those who have freed the End. Complete the Free the End quest and return.	宝库只为解放末地的人开放. 完成解放末地任务后再来吧.
+To begin your adventure, go through the portal or leap off the pyramid.	穿过传送门, 或从金字塔一跃而下, 开始你的冒险吧.
+The screens update automatically. Try to be the first to complete the pyramid.	屏幕会自动更新. 争取第一个完成金字塔吧.
+The portal will randomly teleport you away. Enter with caution!	传送门会将你随机传送至远方. 进入前请留意!
+Show me you know your way around storage. Craft a Copper Backpack or better, or any storage tier upgrade.	让我看看你对存储的了解. 制作铜背包或更高级的背包, 或任意存储等级升级.
+I only deal with fellow tinkerers. Craft anything from one of the tech mods, like FTB Industrial Contraptions, Oritech, Ender IO or Powah.	我只和同道工匠做生意. 制作任意科技模组的物品, 例如FTB工业奇械, 奥瑞科技, 末影接口或 Powah.
+You look half starved. Eat something first, then we can talk about food.	你看起来饿坏了. 先吃点东西, 我们再聊食物.
+I only trade with fellow beekeepers. Catch a bee in a Bee Cage and my wares are yours.	我只和养蜂同行交易. 用蜜蜂笼捕捉一只蜜蜂, 就能购买我的货物.
+Catch something with a fishing rod first. I only sell to people who fish.	先用钓鱼竿钓点东西. 我只卖货给钓鱼人.
+I only trade with travelers. Carry a Warp Stone, a Warp, Return or Bound Scroll, a Nature's or Explorer's Compass, or a Paraglider.	我只和旅行者交易. 请携带传送石, 传送卷轴, 返回卷轴, 绑定卷轴, 自然罗盘, 探险者罗盘或滑翔伞之一.
+Build yourself a Jewelcrafting Station and I'll show you my gems.	先制作一座珠宝加工台, 我就给你看看我的宝石.
+Carry a Bestiary so I know you study the beasts, then come back.	带上异兽手记, 让我知道你研究过这些异兽, 再来找我.
+Hold a Gate Pearl in your hand and I'll trade with you.	手持一颗传送门珍珠, 我就和你交易.
+Gather some Vinteum Dust and I'll share my stock.	收集一些温特姆粉, 我就向你开放存货.
+Carry the Witchery guidebook, a Verdant Sprig or a Witchery seed and I'll open my wares.	携带巫术手册, 苍翠枝条或巫术种子, 我就向你开放货物.
+Blood magic is not for the uninitiated. Obtain Ara Vitae and come back.	血魔法可不是外行的把戏. 获得生命祭坛后再来吧.
+Prove you can hold your own in a fight. Defeat a Gunslinger and I'll arm you.	证明你有独当一面的战斗本领. 击败一名神枪手, 我就为你提供武器.
+I only deal with people who like a gamble. Open a Loot Crate first.	我只和愿意碰碰运气的人做生意. 先打开一个战利品箱.
+A shadowy figure has appeared at X: %s, Y: %s, Z: %s...	一个神秘身影出现在 X: %s, Y: %s, Z: %s...
+{} Hour of Bottled Time	{} 小时瓶中时间
+{} Hours of Bottled Time	{} 小时瓶中时间
+Adds stored time to a Time in a Bottle you are carrying. Have one in your inventory before you buy.	为随身携带的时间之瓶增加储存时间. 购买前请确保物品栏中有时间之瓶.
+Mining Skill Point	采矿技能点
+Athletics Skill Point	体能技能点
+Melee Skill Point	近战技能点
+Magic Skill Point	魔法技能点
+Ranged Skill Point	远程技能点
+Grants {} skill point in this skill tree.	获得此技能树的 {} 个技能点.
+Invisible Item Frame	隐形物品展示框
+Invisible Glow Item Frame	隐形荧光物品展示框
+Coffee	咖啡
+Use a Water Bottle on a Coffee Machine with Cocoa Beans in your inventory	物品栏中携带可可豆, 再对咖啡机使用水瓶
+You need Cocoa Beans in your inventory to brew coffee	冲泡咖啡需要物品栏中有可可豆
+Oil Residue	石油残渣
+Squeeze it in a Squeezer or Mechanical Squeezer for Oil	放入榨汁机或机械榨汁机中压榨以获取石油
+Blood Vial	血液瓶
+Use on an Ara Vitae to pour in %s Essentia Vitae	对生命祭坛使用以注入 %s 生命精华
+This Ara Vitae is full	此生命祭坛已满
+Nether Mining Dimension	下界采矿维度
+End Mining Dimension	末地采矿维度
+Y:%s	Y:%s
+%s to %s	%s 至 %s
+Charged Buoyancy Tank	充能浮力罐
+Copying an enchanted book uses one Experience Goop, made in the FTB Fabricator after you kill the Wither	复制附魔书消耗一个经验黏液, 击败凋灵后可在FTB制造机中制作
+Dropping an anvil on enchanted items needs a Block of Adamantite under them	用下落的铁砧处理附魔物品时, 必须在物品下方放置精金块
+Productivity Alpha	生产力 Alpha
+Productivity Beta	生产力 Beta
+Productivity Gamma	生产力 Gamma
+Reach for the sky!	举起手来!
+DRAW!	拔枪!
+Nice shot, partner.	好枪法, 伙计.
+Nice try, kid.	不错的尝试, 小子.
+You earned %s coins for winning the duel!	你赢得决斗, 获得了 %s 枚硬币!
+A friendly Dolphin swims up to you! You feel the power of the sea. Feed it a fish...	一只友善的海豚游向你! 你感受到了大海的力量. 喂它一条鱼吧...
+The Dolphin squeaks happily and brings you treasure from the deep!	海豚欢快地鸣叫, 为你带来了深海的宝藏!
+Treasure Goblin's Escape Portal	藏宝地精的逃生传送门
+Treasure Goblin's Hoard	藏宝地精的宝藏
+How could you?	你怎么能这样?
+ME Dirt Infinity Cell	ME泥土无限存储元件
+ME Sand Infinity Cell	ME沙子无限存储元件
+ME Andesite Infinity Cell	ME安山岩无限存储元件
+ME Soul Sand Infinity Cell	ME灵魂沙无限存储元件
+ME Blackstone Infinity Cell	ME黑石无限存储元件
+ME Basalt Infinity Cell	ME玄武岩无限存储元件
+ME Cobbled Deepslate Infinity Cell	ME深板岩圆石无限存储元件
+ME End Stone Infinity Cell	ME末地石无限存储元件
+ME Netherrack Infinity Cell	ME下界岩无限存储元件
+ME Sky Stone Infinity Cell	ME陨石无限存储元件
+ME Kivi Infinity Cell	ME磊岩无限存储元件
+ME Lava Infinity Cell	ME熔岩无限存储元件

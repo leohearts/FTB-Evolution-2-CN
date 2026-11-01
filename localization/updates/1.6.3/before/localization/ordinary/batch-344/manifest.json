@@ -1,0 +1,28 @@
+{
+  "batch": "344",
+  "namespace": "nodeworks",
+  "jar": ".minecraft/mods/nodeworks-0.11.1.jar",
+  "jar_sha256": "7bb01adaf3d0a2d1fbe03559336cd291e82e32826fb77180369e079479770e70",
+  "language_path": "assets/nodeworks/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nodeworks-0.11.1.jar",
+    "jar_sha256": "7bb01adaf3d0a2d1fbe03559336cd291e82e32826fb77180369e079479770e70",
+    "nested_jars": [],
+    "resource": "assets/nodeworks/lang/en_us.json",
+    "mod_ids": [
+      "nodeworks"
+    ],
+    "resource_sha256": "b41bc3458fc533cc01a737d011780d3a3e6e25199b68fdd133493395a8e9f99e"
+  },
+  "target": ".minecraft/kubejs/assets/nodeworks/lang/zh_cn.json",
+  "include_keys": [
+    "block.nodeworks.multi_processing_handler",
+    "container.nodeworks.multi_processing_handler",
+    "container.nodeworks.transfer_card",
+    "item.nodeworks.transfer_card",
+    "message.nodeworks.terminal_controller_conflict"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

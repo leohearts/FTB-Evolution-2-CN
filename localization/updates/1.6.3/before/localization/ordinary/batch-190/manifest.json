@@ -1,0 +1,36 @@
+{
+  "batch": "190",
+  "namespace": "waystones",
+  "jar": ".minecraft/mods/waystones-neoforge-26.1.2-26.1.2.16.jar",
+  "language_path": "assets/waystones/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/waystones/lang/zh_cn.json",
+  "include_keys": [
+    "container.waystones.personal_waystone_settings",
+    "gui.waystones.manage_waystones.hide_waystone",
+    "gui.waystones.manage_waystones.show_waystone",
+    "gui.waystones.waystone_selection.epitaph_requirement",
+    "gui.waystones.waystone_selection.twinbound_feather_requirement",
+    "gui.waystones.waystone_selection.twinbound_feather",
+    "chat.waystones.requirements_not_met.specific",
+    "chat.waystones.destination_out_of_bounds",
+    "commands.waystones.list.coordinates",
+    "waystones.configuration.rules.warpSettings",
+    "waystones.configuration.rules.warpSettings.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s",
+    "%d, %d, %d"
+  ],
+  "jar_sha256": "f4bf6dc11bda0e7286083f6b67984428b88705aa1b180511d4b5de3a9934eb07",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/waystones-neoforge-26.1.2-26.1.2.16.jar",
+    "jar_sha256": "f4bf6dc11bda0e7286083f6b67984428b88705aa1b180511d4b5de3a9934eb07",
+    "nested_jars": [],
+    "resource": "assets/waystones/lang/en_us.json",
+    "mod_ids": [
+      "waystones"
+    ],
+    "resource_sha256": "e246fd08f772d97c6bd1f5fee3de7063532f5607c4459451cf471857f912858c"
+  }
+}

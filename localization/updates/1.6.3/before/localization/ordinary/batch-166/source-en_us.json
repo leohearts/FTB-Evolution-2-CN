@@ -1,0 +1,12 @@
+{
+  "attribute.puffish_attributes.tamed_damage": "Tamed Damage",
+  "attribute.puffish_attributes.sword_damage": "Sword Damage",
+  "attribute.puffish_attributes.axe_damage": "Axe Damage",
+  "attribute.puffish_attributes.trident_damage": "Trident Damage",
+  "attribute.puffish_attributes.breaking_speed": "Breaking Speed",
+  "attribute.puffish_attributes.mount_speed": "Mount Speed",
+  "attribute.puffish_attributes.consuming_speed": "Consuming Speed",
+  "attribute.puffish_attributes.tamed_resistance": "Tamed Resistance",
+  "attribute.puffish_attributes.damage_reflection": "Damage Reflection",
+  "attribute.puffish_attributes.experience": "Experience"
+}

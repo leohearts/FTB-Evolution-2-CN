@@ -1,0 +1,25 @@
+{
+  "batch": "152",
+  "namespace": "animalgarden_alligatorgar",
+  "jar": ".minecraft/mods/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+  "language_path": "assets/animalgarden_alligatorgar/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_alligatorgar/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_alligatorgar.alligatorgar",
+    "item.animalgarden_alligatorgar.mob_spawn_egg",
+    "item.animalgarden_alligatorgar.alligatorgar_scale"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "40cf0ec0ba821d57c65b940ef2bc6f1a1f87878961ae3788fbd487214d632d6c",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+    "jar_sha256": "40cf0ec0ba821d57c65b940ef2bc6f1a1f87878961ae3788fbd487214d632d6c",
+    "nested_jars": [],
+    "resource": "assets/animalgarden_alligatorgar/lang/en_us.json",
+    "mod_ids": [
+      "animalgarden_alligatorgar"
+    ],
+    "resource_sha256": "9979c7cd24b946ca56a7f5fa929125f437ceafbb5ad540c859b7d7ea89038dbb"
+  }
+}

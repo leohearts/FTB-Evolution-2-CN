@@ -1,0 +1,24 @@
+{
+  "batch": "227",
+  "namespace": "geore",
+  "jar": ".minecraft/mods/GeOre-26.1.2-8.1.0.jar",
+  "language_path": "assets/geore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/geore/lang/zh_cn.json",
+  "include_keys": [
+    "geore.configuration.disableImmovability",
+    "geore.configuration.disableImmovability.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "bcfdf14ff8b35c2115894e8c80c61f9f715a603e9e92257c0e6efb408de284a5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/GeOre-26.1.2-8.1.0.jar",
+    "jar_sha256": "bcfdf14ff8b35c2115894e8c80c61f9f715a603e9e92257c0e6efb408de284a5",
+    "nested_jars": [],
+    "resource": "assets/geore/lang/en_us.json",
+    "mod_ids": [
+      "geore"
+    ],
+    "resource_sha256": "24350c7a19751d748fd6a2096d8aa71184b0633bf3632f3e9ab108668cfb31a9"
+  }
+}

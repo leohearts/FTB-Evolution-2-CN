@@ -1,0 +1,9 @@
+{
+  "artifacts.config.client.showArtifactsOnPlayers.description.0": "Whether worn artifacts should be displayed on players",
+  "artifacts.config.client.showArtifactsOnPlayers.description.1": "This config option is purely client-side, it does not change what other players see",
+  "artifacts.config.client.showArtifactsOnPlayers.title": "Show Artifacts on Players",
+  "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description": "Whether the Scarf of Invisibility should prevent all status effects from spawning particles",
+  "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title": "Hides Effect Particles",
+  "artifacts.tooltip.plus_mob_effect": "+%s",
+  "artifacts.tooltip.plus_mob_effect_chance": "+%s (%s%%)"
+}

@@ -1,0 +1,7 @@
+{
+  "block.magnumtorch.magnum_torch.tooltip.additional": "Hold %s to view more information.",
+  "block.magnumtorch.magnum_torch.tooltip.horizontal_range": "Horizontal Block Range: %s",
+  "block.magnumtorch.magnum_torch.tooltip.mob_types": "Mob Type: %s",
+  "block.magnumtorch.magnum_torch.tooltip.shift": "⇧ Shift",
+  "block.magnumtorch.magnum_torch.tooltip.vertical_range": "Vertical Block Range: %s"
+}

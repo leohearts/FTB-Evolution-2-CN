@@ -1,0 +1,21 @@
+[
+  "Energetic Energy Conduit",
+  "Energetic Fluid Conduit",
+  "Energetic Item Conduit",
+  "Vibrant Energy Conduit",
+  "Vibrant Fluid Conduit",
+  "Vibrant Item Conduit",
+  "%s µI",
+  "EnderIO",
+  "This entity has been deny listed.",
+  "Soul Vial Allow List",
+  "Soul Vial Deny List",
+  "Spawner Allow List",
+  "Spawner Deny List",
+  "Broken Spawner Deny List",
+  "Electromagnet Deny List",
+  "Fluid Filter Slot",
+  "Item Filter Slot",
+  "Redstone Filter Slot",
+  "%d/%d mb of %s"
+]

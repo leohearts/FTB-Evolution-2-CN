@@ -1,0 +1,45 @@
+{
+  "batch": "322",
+  "namespace": "integratedterminals",
+  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+  "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+  "language_path": "assets/integratedterminals/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedterminals/lang/zh_cn.json",
+  "include_keys": [
+    "gui.integratedterminals.terminal_storage.craftingplan.label.completed",
+    "gui.integratedterminals.craftingplan.view.list",
+    "gui.integratedterminals.craftingplan.view.graph",
+    "gui.integratedterminals.craftingplan.graph.zoom_in",
+    "gui.integratedterminals.craftingplan.graph.zoom_out",
+    "gui.integratedterminals.craftingplan.graph.fit",
+    "gui.integratedterminals.craftingplan.graph.fullscreen",
+    "gui.integratedterminals.craftingplan.graph.fullscreen.exit",
+    "gui.integratedterminals.craftingplan.graph.hint",
+    "gui.integratedterminals.craftingplan.graph.collapsed",
+    "gui.integratedterminals.craftingplan.graph.expand",
+    "gui.integratedterminals.craftingplan.graph.collapse",
+    "gui.integratedterminals.craftingplan.graph.outputs",
+    "gui.integratedterminals.craftingplan.graph.stored",
+    "gui.integratedterminals.craftingplan.graph.legend.stored",
+    "gui.integratedterminals.craftingplan.graph.legend.to_craft",
+    "gui.integratedterminals.craftingplan.graph.legend.blocked",
+    "gui.integratedterminals.craftingplan.graph.legend.done",
+    "gui.integratedterminals.craftingplan.graph.legend.crafting",
+    "gui.integratedterminals.craftingplan.graph.legend.waiting",
+    "gui.integratedterminals.craftingplan.graph.legend.missing"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "nested_jars": [],
+    "resource": "assets/integratedterminals/lang/en_us.json",
+    "mod_ids": [
+      "integratedterminals",
+      "integratedterminalscompat"
+    ],
+    "resource_sha256": "2d3e3cf9c598e70206ad6cb05e81d30074ecc170be9c1a78ea373d5c4e4669a0"
+  }
+}

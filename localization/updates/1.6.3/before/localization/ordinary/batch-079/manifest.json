@@ -1,0 +1,28 @@
+{
+  "batch": "079",
+  "namespace": "dimstorage",
+  "jar": ".minecraft/mods/DimStorage-26.1.2-10.0.1.jar",
+  "language_path": "assets/dimstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dimstorage/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_dimstorage.dim_block_base",
+    "config.jade.plugin_dimstorage.dim_tank",
+    "message.dimstorage.bind_dimchest",
+    "message.dimstorage.for_details",
+    "message.dimstorage.hold",
+    "message.dimstorage.press"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "e6808c0fe40f671dd0625c9ab612fd75fe5453a528a58580f13c21a0b93c7511",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/DimStorage-26.1.2-10.0.1.jar",
+    "jar_sha256": "e6808c0fe40f671dd0625c9ab612fd75fe5453a528a58580f13c21a0b93c7511",
+    "nested_jars": [],
+    "resource": "assets/dimstorage/lang/en_us.json",
+    "mod_ids": [
+      "dimstorage"
+    ],
+    "resource_sha256": "4713de32d6f9833840fad59f9f56b0f036715e5846270c5694c49b5f3c057eeb"
+  }
+}

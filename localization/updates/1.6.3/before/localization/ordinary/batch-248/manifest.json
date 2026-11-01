@@ -1,0 +1,33 @@
+{
+  "batch": "248",
+  "namespace": "contex",
+  "jar": ".minecraft/mods/ConnectedTextures-13.0.0.jar",
+  "language_path": "assets/contex/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/contex/lang/zh_cn.json",
+  "include_keys": [
+    "label.contex.source_tooltip.ctm.texture",
+    "label.contex.source_tooltip.ctm.border",
+    "label.contex.source_tooltip.ctm.mirror_parallel",
+    "label.contex.source_tooltip.ctm.mirror_perpendicular",
+    "value.contex.source_tooltip.ctm.border",
+    "msg.contex.gen_ctm_tex.no_such_texture",
+    "msg.contex.gen_ctm_tex.texture_animated",
+    "msg.contex.gen_ctm_tex.invalid_corner_synth",
+    "msg.contex.gen_ctm_tex.gen_failed",
+    "msg.contex.gen_ctm_tex.export_failed",
+    "msg.contex.gen_ctm_tex.success"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "bfd00a01c1c3422024b908359c16bb57dc684126552cf366c069ab419db33398",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ConnectedTextures-13.0.0.jar",
+    "jar_sha256": "bfd00a01c1c3422024b908359c16bb57dc684126552cf366c069ab419db33398",
+    "nested_jars": [],
+    "resource": "assets/contex/lang/en_us.json",
+    "mod_ids": [
+      "contex"
+    ],
+    "resource_sha256": "d1c6297419423a6076ab8429edc59d3cf3215f87ca890af990fc39b436978bf0"
+  }
+}

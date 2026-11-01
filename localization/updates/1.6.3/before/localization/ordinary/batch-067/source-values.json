@@ -1,0 +1,21 @@
+[
+  "Cable Transparency Applicator",
+  "Transparent ME Smart Cable",
+  "Transparent ME Dense Smart Cable",
+  "Transparent ME Dense Covered Cable",
+  "Cable made transparent",
+  "Cable transparency removed",
+  "Network item animations",
+  "Enabled for this ME network. Click to disable. Requires client and server rendering settings to be enabled.",
+  "Disabled for this ME network. Click to enable. Requires client and server rendering settings to be enabled.",
+  "Enable transfer paths",
+  "Calculate ME network item transfer paths and send them to nearby players for animation. Disabling this stops path calculation for all networks.",
+  "Enable transfer logging",
+  "Log each item transfer and resolved path at DEBUG level. Requires DEBUG logging and can produce very large logs. Does not affect animations.",
+  "Render moving items",
+  "Show moving items inside ME cables. Requires transfer paths to be enabled on the server and animations to be enabled for the ME network.",
+  "Item movement speed",
+  "Animation speed in blocks per second. This only changes the visual animation speed.",
+  "Maximum item animations",
+  "Maximum number of recent item transfer animations kept by the client. Lower values reduce rendering work on busy networks."
+]

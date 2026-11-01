@@ -1,0 +1,5 @@
+{
+  "item.belts.improved_belt": "Improved Conveyor Belt",
+  "item.belts.improved_belt.tooltip.0": "A Mark 2 conveyor belt with twice the movement speed and transport capacity.",
+  "item.belts.improved_belt.tooltip.1": "Connects to the same Item Chutes and Conveyor Supports as a standard belt."
+}

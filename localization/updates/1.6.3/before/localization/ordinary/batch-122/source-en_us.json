@@ -1,0 +1,10 @@
+{
+  "jei.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "jei.tooltip.liquid.amount": "%s mB",
+  "jei.key.combo.shift": "SHIFT + %s",
+  "jei.key.combo.control": "CTRL + %s",
+  "jei.key.combo.command": "CMD + %s",
+  "jei.key.combo.alt": "ALT + %s",
+  "jei.key.shift": "SHIFT",
+  "jei.alias.villager.spawn.egg": "HMMM"
+}

@@ -1,0 +1,27 @@
+{
+  "batch": "082",
+  "namespace": "dankstorage",
+  "jar": ".minecraft/mods/dankstorage-neoforge-26.1.2-2.jar",
+  "language_path": "assets/dankstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dankstorage/lang/zh_cn.json",
+  "include_keys": [
+    "dankstorage.sorting_type.modid",
+    "dankstorage.sorting_type.modid.desc",
+    "text.dankstorage.formatcontaineditems"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s %s"
+  ],
+  "jar_sha256": "43425188398e285b372f7977aa66945b15dc3bb35290d1df9e9698bc06cfdaef",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/dankstorage-neoforge-26.1.2-2.jar",
+    "jar_sha256": "43425188398e285b372f7977aa66945b15dc3bb35290d1df9e9698bc06cfdaef",
+    "nested_jars": [],
+    "resource": "assets/dankstorage/lang/en_us.json",
+    "mod_ids": [
+      "dankstorage"
+    ],
+    "resource_sha256": "442712d2b4a8c433f4931441909ae6b2bcfd8ee2e00a763e2bd1c144bb073edb"
+  }
+}

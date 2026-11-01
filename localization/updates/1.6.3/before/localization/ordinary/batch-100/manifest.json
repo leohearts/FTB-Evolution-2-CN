@@ -1,0 +1,53 @@
+{
+  "batch": "100",
+  "namespace": "ftbpc",
+  "jar": ".minecraft/mods/ftb-pack-companion-26.1.2.5.jar",
+  "language_path": "assets/ftbpc/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbpc/lang/zh_cn.json",
+  "include_keys": [
+    "block.ftbpc.rtp_portal",
+    "block.ftbpc.trigger_block",
+    "ftbpackcompanion.actionpad.tpa.request_sent",
+    "ftbpackcompanion.command.bypass.added",
+    "ftbpackcompanion.command.bypass.no-players",
+    "ftbpackcompanion.command.bypass.removed",
+    "ftbpackcompanion.command.fixed",
+    "ftbpackcompanion.home",
+    "ftbpackcompanion.key.anchor_pos",
+    "ftbpackcompanion.key.category",
+    "ftbpackcompanion.key.open_action_pad",
+    "ftbpackcompanion.key.rotate_pos",
+    "ftbpackcompanion.shaders_notice.no_shaders.description",
+    "ftbpackcompanion.shaders_notice.no_shaders.title",
+    "ftbpackcompanion.shaders_notice.shaders.description",
+    "ftbpackcompanion.shaders_notice.shaders.title",
+    "ftbpackcompanion.shaders_notice.shaders_btn.disable",
+    "ftbpackcompanion.shaders_notice.shaders_btn.enable",
+    "ftbpackcompanion.shaders_notice.title",
+    "ftbpackcompanion.spawn",
+    "ftbpackcompanion.structureplacer.anchor_rotate",
+    "ftbpackcompanion.structureplacer.anchored",
+    "ftbpackcompanion.structureplacer.nudge_hint",
+    "ftbpackcompanion.structureplacer.nudge_x_z",
+    "ftbpackcompanion.structureplacer.nudge_y",
+    "ftbpackcompanion.structureplacer.released",
+    "ftbpackcompanion.structureplacer.rotated",
+    "ftbpackcompanion.tpa",
+    "item.ftbpc.action_pad",
+    "item.ftbpc.rtp_portal",
+    "item.ftbpc.structure_placer"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-pack-companion-26.1.2.5.jar",
+    "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+    "nested_jars": [],
+    "resource": "assets/ftbpc/lang/en_us.json",
+    "mod_ids": [
+      "ftbpc"
+    ],
+    "resource_sha256": "73f2c2d3c2f1600e5236b36108e02412f91e21fa37a2b14af9ee9d41eaec5e55"
+  }
+}

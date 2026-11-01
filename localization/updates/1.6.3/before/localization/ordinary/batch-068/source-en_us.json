@@ -1,0 +1,15 @@
+{
+  "itemGroup.quantumcubes": "Quantum Cubes",
+  "block.quantumcubes.quantum_cube_tier_1": "Quantum Cube Tier 1",
+  "block.quantumcubes.quantum_cube_tier_2": "Quantum Cube Tier 2",
+  "block.quantumcubes.quantum_cube_tier_3": "Quantum Cube Tier 3",
+  "block.quantumcubes.quantum_cube_tier_4": "Quantum Cube Tier 4",
+  "block.quantumcubes.quantum_cube_tier_5": "Quantum Cube Tier 5",
+  "block.quantumcubes.quantum_block": "Quantum Block",
+  "item.quantumcubes.quantum_remote": "Quantum Remote",
+  "tooltip.quantumcubes.interior": "Interior space: %s",
+  "tooltip.quantumcubes.desc": "A personal dimension contained in this block",
+  "tooltip.quantumcubes.bound": "Bound to cube %s",
+  "tooltip.quantumcubes.enter": "Use a %s to enter and leave",
+  "gui.quantumcubes.dim_missing": "The Quantum Dimension is not loaded."
+}

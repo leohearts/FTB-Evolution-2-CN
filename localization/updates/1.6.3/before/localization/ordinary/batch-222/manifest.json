@@ -1,0 +1,35 @@
+{
+  "batch": "222",
+  "namespace": "mvs",
+  "jar": ".minecraft/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+  "language_path": "assets/mvs/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mvs/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mvs",
+    "modmenu.summaryTranslation.mvs",
+    "modmenu.descriptionTranslation.mvs",
+    "mvs.releases",
+    "mvs.kofi",
+    "mvs.curseforge",
+    "mvs.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Moog's Voyager Structures",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ],
+  "jar_sha256": "07dba4e4d81bd342bf5000be19da1e5132a242d6c591da46e6d2e73aeebe5103",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsVoyagerStructures-universal-1.21-5.1.3.jar",
+    "jar_sha256": "07dba4e4d81bd342bf5000be19da1e5132a242d6c591da46e6d2e73aeebe5103",
+    "nested_jars": [],
+    "resource": "assets/mvs/lang/en_us.json",
+    "mod_ids": [
+      "mvs"
+    ],
+    "resource_sha256": "2fff198d3c0e936f3124b74dc62835d7da6a2431893ad2b45d2e959552ffc7d9"
+  }
+}

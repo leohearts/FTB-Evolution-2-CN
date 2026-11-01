@@ -1,0 +1,29 @@
+{
+  "batch": "194",
+  "namespace": "sophisticateditemactions",
+  "jar": ".minecraft/mods/sophisticateditemactions-26.1.2-0.4.18.439.jar",
+  "language_path": "assets/sophisticateditemactions/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticateditemactions/lang/zh_cn.json",
+  "include_keys": [
+    "gui.sophisticateditemactions.status.restocked_recipe_items",
+    "gui.sophisticateditemactions.status.recipe_restocked",
+    "gui.sophisticateditemactions.status.cannot_restock_recipe",
+    "gui.sophisticateditemactions.status.recipe_restock_disabled",
+    "gui.sophisticateditemactions.recipe_restock",
+    "sophisticateditemactions.configuration.server",
+    "sophisticateditemactions.configuration.recipeRestockEnabled"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "ebf6c540daecb9e8894be7701efc3849280dc992b70c05dc1ef724ebbc31a3e9",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticateditemactions-26.1.2-0.4.18.439.jar",
+    "jar_sha256": "ebf6c540daecb9e8894be7701efc3849280dc992b70c05dc1ef724ebbc31a3e9",
+    "nested_jars": [],
+    "resource": "assets/sophisticateditemactions/lang/en_us.json",
+    "mod_ids": [
+      "sophisticateditemactions"
+    ],
+    "resource_sha256": "4ca390f3993d2925a716d31bc6ebc699bbf5fae41012c30cd7e43b97f86ce1c2"
+  }
+}

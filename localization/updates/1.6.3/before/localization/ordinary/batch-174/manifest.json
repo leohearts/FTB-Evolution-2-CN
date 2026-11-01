@@ -1,0 +1,25 @@
+{
+  "batch": "174",
+  "namespace": "ironjetpacks",
+  "jar": ".minecraft/mods/IronJetpacks-26.1.2-9.0.3.jar",
+  "language_path": "assets/ironjetpacks/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ironjetpacks/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.ironjetpacks.hud"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "HUD"
+  ],
+  "jar_sha256": "cf8df68bbde624ade6b47733c30c4b34faee1e6f26ead4220b77cf32de9b01f8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/IronJetpacks-26.1.2-9.0.3.jar",
+    "jar_sha256": "cf8df68bbde624ade6b47733c30c4b34faee1e6f26ead4220b77cf32de9b01f8",
+    "nested_jars": [],
+    "resource": "assets/ironjetpacks/lang/en_us.json",
+    "mod_ids": [
+      "ironjetpacks"
+    ],
+    "resource_sha256": "1bb63988fb281ce7cd5db7c922bc14203f41a5ce0f5aefe76b14d9cffd15c43b"
+  }
+}

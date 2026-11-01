@@ -1,0 +1,23 @@
+[
+  "Modonomicon",
+  "Open Associated Book Page",
+  "Associated Items Hold Duration",
+  "How long (in milliseconds) the open key must be held while hovering an associated item before the linked book entry/page opens.",
+  "Debug Settings",
+  "Debug Overlay",
+  "Enable the book debug overlay. While a book is open, press F6 to toggle it. It draws color coded outlines of the page, its content area and its text area, to help with layout offsets.",
+  "Enable smooth zoom in book categories",
+  "If your locale is not supported by the default Modonomicon font, indicated by the book just rendering blocky shapes instead of characters, add your locale to this list to fall back to the builtin Minecraft font.",
+  "Pause Game When Open",
+  "If true, the game will pause when a Modonomicon book is open (singleplayer only).",
+  "Show Recipe Lookup Hints",
+  "Show the recipe viewer hints in item tooltips (click to show recipe, shift-click to show usage).",
+  "Show Research Toasts",
+  "Show toast notifications when research facts are granted, values are incremented, or nodes are unlocked.",
+  "Enable keeping the last open page stored when closing an entry. Regardless of this setting it will be stored when closing the entire book with Esc.",
+  "%s.\n%s",
+  "Hold %s for %ss",
+  "Locked: unlock in the book",
+  "%s mb",
+  "%s / %s mb"
+]

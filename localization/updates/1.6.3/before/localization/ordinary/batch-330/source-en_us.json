@@ -1,0 +1,15 @@
+{
+  "block.productivebees.bee_squisher": "Bee Squisher",
+  "productivebees.bee_squisher.tooltip.bottle_item": "Here goes an empty glass bottle",
+  "productivebees.bee_squisher.tooltip.cage_item": "Here goes a bee cage with a bee in it",
+  "productivebees.devices.bee_squisher": "Bee Squisher",
+  "productivebees.devices.heated_centrifuge": "Heated Centrifuge",
+  "productivebees.information.upgrade.upgrade_productivity.bee_squisher": "Increases the purity of every gene extracted by 4, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+  "productivebees.information.upgrade.upgrade_productivity_2.bee_squisher": "Increases the purity of every gene extracted by 8, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+  "productivebees.information.upgrade.upgrade_productivity_3.bee_squisher": "Increases the purity of every gene extracted by 16, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+  "productivebees.information.upgrade.upgrade_productivity_4.bee_squisher": "Increases the purity of every gene extracted by 32, at the cost of more power.\n   Multiple upgrades can be installed for a greater increase.",
+  "productivebees.information.upgrade.upgrade_stability.bee_squisher": "Throws away everything but the bee type gene, and makes that one a lot purer.",
+  "productivebees.information.upgrade.upgrade_stability.heated_centrifuge": "Increases the success rate for combs that have a non-guaranteed output by %s%%.\n   Also stops the heat burning off the wax, so comb blocks keep yielding it.",
+  "productivebees.information.upgrade.upgrade_time.bee_squisher": "Squishes bees faster, at the cost of more power.\n   Multiple upgrades can be installed.",
+  "productivebees.information.upgrade.upgrade_time_2.bee_squisher": "It's twice as good as the other one."
+}

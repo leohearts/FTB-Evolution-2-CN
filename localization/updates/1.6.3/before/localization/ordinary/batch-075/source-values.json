@@ -1,0 +1,9 @@
+[
+  "Crafting Job Error",
+  "Auto-Craft Start",
+  "Auto-Craft Fail",
+  "Auto-Craft Partial Fail",
+  "Started auto-crafting for %s",
+  "Auto-crafting failed for %s",
+  "Started auto-crafting for %s, but failed for %s"
+]

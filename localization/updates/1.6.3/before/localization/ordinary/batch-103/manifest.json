@@ -1,0 +1,26 @@
+{
+  "batch": "103",
+  "namespace": "ftbmaterials",
+  "jar": ".minecraft/mods/ftb-materials-26.1.2.6.jar",
+  "language_path": "assets/ftbmaterials/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbmaterials/lang/zh_cn.json",
+  "include_keys": [
+    "item.ftbmaterials.iridium_gear",
+    "item.ftbmaterials.iridium_rod",
+    "item.ftbmaterials.silver_blade",
+    "item.ftbmaterials.tungsten_gear"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "b74dd7ab9eb15e7a70cb163fd8dc6d76312bd0439555722485ad2cf6e5fe61d4",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-materials-26.1.2.6.jar",
+    "jar_sha256": "b74dd7ab9eb15e7a70cb163fd8dc6d76312bd0439555722485ad2cf6e5fe61d4",
+    "nested_jars": [],
+    "resource": "assets/ftbmaterials/lang/en_us.json",
+    "mod_ids": [
+      "ftbmaterials"
+    ],
+    "resource_sha256": "5546c707eb4c503a1100737322335643cd164b9622e33f7574fce29a1cf339ae"
+  }
+}

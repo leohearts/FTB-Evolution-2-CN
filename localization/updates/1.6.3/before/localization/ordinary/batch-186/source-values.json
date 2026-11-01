@@ -1,0 +1,22 @@
+[
+  "Enabled",
+  "Rain Settings",
+  "Snow Settings",
+  "Collision Particles Chance",
+  "Range",
+  "Particle Count",
+  "Particle Count in Thunderstorm",
+  "Holiday FX",
+  "Alpha",
+  "Lifespan",
+  "Scale",
+  "Turbulence",
+  "Color Blending Frequency",
+  "Calculate AABB",
+  "Full Biome Lookup",
+  "Outer Range",
+  "Wind X Component",
+  "Wind Y Component",
+  "Wind Z Component",
+  "Prevent Sleep Reset"
+]

@@ -1,0 +1,37 @@
+{
+  "batch": "069",
+  "namespace": "refinedstorage",
+  "jar": ".minecraft/mods/refinedstorage-neoforge-3.2.1.jar",
+  "language_path": "assets/refinedstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedstorage/lang/zh_cn.json",
+  "include_keys": [
+    "gui.refinedstorage.grid.sorting.type.id",
+    "gui.refinedstorage.grid.pin_help",
+    "gui.refinedstorage.grid.drag_and_drop_to_pin",
+    "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority",
+    "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority",
+    "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority",
+    "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority",
+    "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents",
+    "gui.refinedstorage.autocrafting_preview.style.tree",
+    "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources",
+    "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage",
+    "item.refinedstorage.color_and_item_name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "ID",
+    "%s %s"
+  ],
+  "jar_sha256": "689916dbd53de7215175cbe89c3904b326db3d28460827d8c03d2694e5762ccf",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedstorage-neoforge-3.2.1.jar",
+    "jar_sha256": "689916dbd53de7215175cbe89c3904b326db3d28460827d8c03d2694e5762ccf",
+    "nested_jars": [],
+    "resource": "assets/refinedstorage/lang/en_us.json",
+    "mod_ids": [
+      "refinedstorage"
+    ],
+    "resource_sha256": "87d151d2e40004627d2fd7fbc8ffb09f91cb45f62e7a00362e13a420e28fb984"
+  }
+}

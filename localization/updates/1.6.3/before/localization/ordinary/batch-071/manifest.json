@@ -1,0 +1,39 @@
+{
+  "batch": "071",
+  "namespace": "ae2",
+  "jar": ".minecraft/mods/appliedenergistics2-26.1.13-beta.jar",
+  "language_path": "assets/ae2/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ae2/lang/zh_cn.json",
+  "include_keys": [
+    "exported_setting.ae2.exported_p2p_type",
+    "gui.ae2.CompatibleUpgrade",
+    "gui.ae2.ETAFormat",
+    "gui.ae2.Of",
+    "gui.ae2.ToastCraftingJobFinishedText",
+    "gui.ae2.units.appliedenergistics",
+    "gui.ae2.units.fe",
+    "gui.tooltips.ae2.CpuStatusSuspended",
+    "theoneprobe.ae2.stored_energy"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%s)",
+    "HH:mm:ss",
+    "of",
+    "%d %s",
+    "AE",
+    "FE",
+    "%1$d / %2$d"
+  ],
+  "jar_sha256": "6474119c645a21f509da518845ab42bff84d496f80a86ce5e551d7a4745b4893",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/appliedenergistics2-26.1.13-beta.jar",
+    "jar_sha256": "6474119c645a21f509da518845ab42bff84d496f80a86ce5e551d7a4745b4893",
+    "nested_jars": [],
+    "resource": "assets/ae2/lang/en_us.json",
+    "mod_ids": [
+      "ae2"
+    ],
+    "resource_sha256": "114dc2a326c16d61525d9cab61b08477ca0479828ba1666c360c4e1db9bcd47f"
+  }
+}

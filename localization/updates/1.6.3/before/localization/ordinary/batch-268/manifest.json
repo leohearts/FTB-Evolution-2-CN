@@ -1,0 +1,25 @@
+{
+  "batch": "268",
+  "namespace": "aquarius_libs",
+  "jar": ".minecraft/mods/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+  "language_path": "assets/aquarius_libs/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/aquarius_libs/lang/zh_cn.json",
+  "include_keys": [
+    "aquarius_libs.chatmessage.resting",
+    "aquarius_libs.chatmessage.wandering",
+    "aquarius_libs.chatmessage.following"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "19a81eea5a2c67105712176062863579237c450ee0dbe791ee11f475a61d3171",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+    "jar_sha256": "19a81eea5a2c67105712176062863579237c450ee0dbe791ee11f475a61d3171",
+    "nested_jars": [],
+    "resource": "assets/aquarius_libs/lang/en_us.json",
+    "mod_ids": [
+      "aquarius_libs"
+    ],
+    "resource_sha256": "83d3245db0215364a07386cc0a47ff96134d01115293fbef8e36660235b35955"
+  }
+}

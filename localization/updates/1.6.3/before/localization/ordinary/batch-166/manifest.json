@@ -1,0 +1,32 @@
+{
+  "batch": "166",
+  "namespace": "puffish_attributes",
+  "jar": ".minecraft/mods/puffish_attributes-0.8.2-26.1-neoforge.jar",
+  "language_path": "assets/puffish_attributes/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/puffish_attributes/lang/zh_cn.json",
+  "include_keys": [
+    "attribute.puffish_attributes.tamed_damage",
+    "attribute.puffish_attributes.sword_damage",
+    "attribute.puffish_attributes.axe_damage",
+    "attribute.puffish_attributes.trident_damage",
+    "attribute.puffish_attributes.breaking_speed",
+    "attribute.puffish_attributes.mount_speed",
+    "attribute.puffish_attributes.consuming_speed",
+    "attribute.puffish_attributes.tamed_resistance",
+    "attribute.puffish_attributes.damage_reflection",
+    "attribute.puffish_attributes.experience"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "510b3d0070cbd1424e5145be8f6229ce24b1d514b105a47ee95ec77998b251a3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/puffish_attributes-0.8.2-26.1-neoforge.jar",
+    "jar_sha256": "510b3d0070cbd1424e5145be8f6229ce24b1d514b105a47ee95ec77998b251a3",
+    "nested_jars": [],
+    "resource": "assets/puffish_attributes/lang/en_us.json",
+    "mod_ids": [
+      "puffish_attributes"
+    ],
+    "resource_sha256": "8845994ecac413c694cb7e20898f8ed352e3cff10d9ebe67542fb55694e4ecf8"
+  }
+}

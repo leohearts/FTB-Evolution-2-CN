@@ -1,0 +1,35 @@
+{
+  "batch": "221",
+  "namespace": "mns",
+  "jar": ".minecraft/mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
+  "language_path": "assets/mns/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mns/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mns",
+    "modmenu.summaryTranslation.mns",
+    "modmenu.descriptionTranslation.mns",
+    "mns.releases",
+    "mns.kofi",
+    "mns.curseforge",
+    "mns.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "MNS - Moog's Nether Structures",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ],
+  "jar_sha256": "46e0506264bd66df1ec6fb031f75d6b7f4660ad5f874b5df446dc1a3beebe7f6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsNetherStructures-universal-1.21-3.1.1.jar",
+    "jar_sha256": "46e0506264bd66df1ec6fb031f75d6b7f4660ad5f874b5df446dc1a3beebe7f6",
+    "nested_jars": [],
+    "resource": "assets/mns/lang/en_us.json",
+    "mod_ids": [
+      "mns"
+    ],
+    "resource_sha256": "0cec08a7e317bffff5634cc154411131a83a3b35d8fbd0839e1dede5c658958e"
+  }
+}

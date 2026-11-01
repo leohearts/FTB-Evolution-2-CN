@@ -1,0 +1,24 @@
+{
+  "batch": "154",
+  "namespace": "animalgarden_seaotter",
+  "jar": ".minecraft/mods/animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+  "language_path": "assets/animalgarden_seaotter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_seaotter/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_seaotter.seaotter",
+    "item.animalgarden_seaotter.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "af53cf3d61643a76b2704aa6fba510ab7ce7e05ae77764e6a081cbfc0e72a5d9",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+    "jar_sha256": "af53cf3d61643a76b2704aa6fba510ab7ce7e05ae77764e6a081cbfc0e72a5d9",
+    "nested_jars": [],
+    "resource": "assets/animalgarden_seaotter/lang/en_us.json",
+    "mod_ids": [
+      "animalgarden_seaotter"
+    ],
+    "resource_sha256": "f86b38888036ce746234ca9215244ceecfa5418f1e5c66f43268ccc408ea9822"
+  }
+}

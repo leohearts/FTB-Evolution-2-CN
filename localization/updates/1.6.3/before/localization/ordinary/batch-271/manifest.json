@@ -1,0 +1,26 @@
+{
+  "batch": "271",
+  "namespace": "evilcraftcompat",
+  "jar": ".minecraft/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+  "language_path": "assets/evilcraftcompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/evilcraftcompat/lang/zh_cn.json",
+  "include_keys": [
+    "item.items.evilcraft.veined_scribing_tools",
+    "config.jade.plugin_evilcraft.broom",
+    "config.jade.plugin_evilcraft.box_of_eternal_closure"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+    "nested_jars": [],
+    "resource": "assets/evilcraftcompat/lang/en_us.json",
+    "mod_ids": [
+      "evilcraft",
+      "evilcraftcompat"
+    ],
+    "resource_sha256": "ecafee1f50080a822e1e89ed3909cef96face2e2206a81d597e6ae3e95e27140"
+  }
+}

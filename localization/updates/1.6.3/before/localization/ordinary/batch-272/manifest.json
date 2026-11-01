@@ -1,0 +1,25 @@
+{
+  "batch": "272",
+  "namespace": "imfast",
+  "jar": ".minecraft/mods/imfast-NEOFORGE-26.1.2-1.0.3.jar",
+  "language_path": "assets/imfast/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/imfast/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.imfast",
+    "block.imfast.example_block",
+    "item.imfast.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "62ae3f4d323e658e88a6ebd274302e7d6adc8d4a331ff60227ba37db1ff9a718",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/imfast-NEOFORGE-26.1.2-1.0.3.jar",
+    "jar_sha256": "62ae3f4d323e658e88a6ebd274302e7d6adc8d4a331ff60227ba37db1ff9a718",
+    "nested_jars": [],
+    "resource": "assets/imfast/lang/en_us.json",
+    "mod_ids": [
+      "imfast"
+    ],
+    "resource_sha256": "38107ac9a4a64a137cbc5934cd98cec6aacb6f4dae944b7c469ddc6486986827"
+  }
+}

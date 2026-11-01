@@ -1,0 +1,9 @@
+[
+  "Whether worn artifacts should be displayed on players",
+  "This config option is purely client-side, it does not change what other players see",
+  "Show Artifacts on Players",
+  "Whether the Scarf of Invisibility should prevent all status effects from spawning particles",
+  "Hides Effect Particles",
+  "+%s",
+  "+%s (%s%%)"
+]

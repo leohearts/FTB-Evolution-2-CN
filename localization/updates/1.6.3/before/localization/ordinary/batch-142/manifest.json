@@ -1,0 +1,59 @@
+{
+  "batch": "142",
+  "namespace": "farmingforblockheads",
+  "jar": ".minecraft/mods/farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+  "language_path": "assets/farmingforblockheads/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/farmingforblockheads/lang/zh_cn.json",
+  "include_keys": [
+    "block.farmingforblockheads.rabbit_trap",
+    "block.farmingforblockheads.sprinkler",
+    "block.farmingforblockheads.shipping_bin",
+    "block.farmingforblockheads.fishing_barrel",
+    "item.farmingforblockheads.iron_scythe",
+    "item.farmingforblockheads.watering_can",
+    "item.farmingforblockheads.fox_note",
+    "item.farmingforblockheads.fox_note.lore.1",
+    "item.farmingforblockheads.fox_note.lore.2",
+    "tooltip.farmingforblockheads.watering_can.refill",
+    "message.farmingforblockheads.fully_watered",
+    "tooltip.farmingforblockheads.payment_item",
+    "container.farmingforblockheads.shipping_bin",
+    "container.farmingforblockheads.fishing_barrel",
+    "commands.farmingforblockheads.enable.success",
+    "commands.farmingforblockheads.disable.success",
+    "commands.farmingforblockheads.list.enabled",
+    "commands.farmingforblockheads.list.disabled",
+    "commands.farmingforblockheads.list.none",
+    "gui.farmingforblockheads.market.cost",
+    "category.farmingforblockheads.soils",
+    "category.farmingforblockheads.spawn_eggs",
+    "advancements.farmingforblockheads.lost_in_transit.title",
+    "advancements.farmingforblockheads.lost_in_transit.description",
+    "entity.farmingforblockheads.shipping_balloon",
+    "entity.farmingforblockheads.falling_shipping_crate",
+    "farmingforblockheads.configuration.hydrationBonusGrowthChance",
+    "farmingforblockheads.configuration.hydrationBonusGrowthChance.tooltip",
+    "farmingforblockheads.configuration.disableVanillaWatering",
+    "farmingforblockheads.configuration.disableVanillaWatering.tooltip",
+    "farmingforblockheads.configuration.excludedGroups",
+    "farmingforblockheads.configuration.excludedGroups.tooltip",
+    "farmingforblockheads.configuration.includedGroups",
+    "farmingforblockheads.configuration.includedGroups.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%dx %s",
+    "%s"
+  ],
+  "jar_sha256": "80bee92c3e6fcb87d659ffe45baee08aad412e1ed4bf72e916b5aea7b3d389e4",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/farmingforblockheads-neoforge-26.1.2-26.1.2.5.jar",
+    "jar_sha256": "80bee92c3e6fcb87d659ffe45baee08aad412e1ed4bf72e916b5aea7b3d389e4",
+    "nested_jars": [],
+    "resource": "assets/farmingforblockheads/lang/en_us.json",
+    "mod_ids": [
+      "farmingforblockheads"
+    ],
+    "resource_sha256": "ce70b289cd5d4248713a9150d8bf13752853a504dc169a413e2cbb01a12c4395"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "batch": "039",
+  "namespace": "enderio",
+  "jar": ".minecraft/mods/enderio-9.0.6-alpha.jar",
+  "language_path": "assets/enderio/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/enderio/lang/zh_cn.json",
+  "include_keys": [
+    "conduit.enderio.energetic_energy",
+    "conduit.enderio.energetic_fluid",
+    "conduit.enderio.energetic_item",
+    "conduit.enderio.vibrant_energy",
+    "conduit.enderio.vibrant_fluid",
+    "conduit.enderio.vibrant_item",
+    "energy.enderio.micro_infinity",
+    "key.category.enderio.enderio_keys",
+    "message.enderio.tool.soul_vial.error.denied",
+    "tag.entity_type.enderio.soul_vial_allow_list",
+    "tag.entity_type.enderio.soul_vial_deny_list",
+    "tag.entity_type.enderio.spawner_allow_list",
+    "tag.entity_type.enderio.spawner_deny_list",
+    "tag.item.enderio.deny_lists.broken_spawner",
+    "tag.item.enderio.deny_lists.electromagnet",
+    "tooltip.enderio.conduit.slot.fluid_filter",
+    "tooltip.enderio.conduit.slot.item_filter",
+    "tooltip.enderio.conduit.slot.redstone_filter",
+    "tooltip.enderio.fluid_tank.contents_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s µI",
+    "EnderIO",
+    "%d/%d mb - %s"
+  ],
+  "jar_sha256": "166b8ae6f86b7bd9f7c1ebb48ca80ff4e4ee12e910db3dc29f09ea87e94bcb0d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/enderio-9.0.6-alpha.jar",
+    "jar_sha256": "166b8ae6f86b7bd9f7c1ebb48ca80ff4e4ee12e910db3dc29f09ea87e94bcb0d",
+    "nested_jars": [],
+    "resource": "assets/enderio/lang/en_us.json",
+    "mod_ids": [
+      "enderio"
+    ],
+    "resource_sha256": "f3214dfd1012f1ae07f10663d8f79db733160994f562c642b23d1246be5b6c0d"
+  }
+}

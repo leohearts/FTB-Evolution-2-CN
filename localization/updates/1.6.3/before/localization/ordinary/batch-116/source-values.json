@@ -1,0 +1,23 @@
+[
+  "Jade",
+  "Bob, Alice, Charlie",
+  "§fdisplays information§r about what §fyou are looking at§r.",
+  "X {0} Y {1} Z {2} ",
+  "tab,playerlist",
+  "modid",
+  "transparent,alpha",
+  "%s (%s)",
+  "POI: %s",
+  "Loot Table",
+  "Requires OP permission.",
+  "Loot Table: %s",
+  "Seed: %s",
+  "%d / %d",
+  "%s / %s",
+  "%s %s",
+  "%s: %s",
+  "%s %s %s",
+  " [%s]",
+  " (%s)",
+  "{lang:[en_us],nameClasses:{}}"
+]

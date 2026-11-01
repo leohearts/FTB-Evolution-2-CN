@@ -1,0 +1,27 @@
+{
+  "batch": "124",
+  "namespace": "betteradvancedtooltips",
+  "jar": ".minecraft/mods/better-advanced-tooltips-2601.1.0-build.11.jar",
+  "language_path": "assets/betteradvancedtooltips/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betteradvancedtooltips/lang/zh_cn.json",
+  "include_keys": [
+    "betteradvancedtooltips.configuration.remove_creative_tab_tooltip",
+    "betteradvancedtooltips.configuration.remove_component_count_tooltip",
+    "betteradvancedtooltips.configuration.fuel_tooltip",
+    "betteradvancedtooltips.configuration.tag_tooltip",
+    "betteradvancedtooltips.configuration.component_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "f47aa29dae8f2c0b2616b28590153bae19fa3b56833704e0fef595cd0f4e8374",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/better-advanced-tooltips-2601.1.0-build.11.jar",
+    "jar_sha256": "f47aa29dae8f2c0b2616b28590153bae19fa3b56833704e0fef595cd0f4e8374",
+    "nested_jars": [],
+    "resource": "assets/betteradvancedtooltips/lang/en_us.json",
+    "mod_ids": [
+      "betteradvancedtooltips"
+    ],
+    "resource_sha256": "2b7e12c60a5ab2179773bc68a85747605c657eed02627197a2c4eca05f7a2f9e"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "285",
+  "namespace": "guideme",
+  "jar": ".minecraft/mods/guideme-26.1.15-beta.jar",
+  "language_path": "assets/guideme/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/guideme/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.guideme.category"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "GuideME"
+  ],
+  "jar_sha256": "17acb84bff9320b237340b280415029ba950640895343fb2f9c35b7b4416e7d5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/guideme-26.1.15-beta.jar",
+    "jar_sha256": "17acb84bff9320b237340b280415029ba950640895343fb2f9c35b7b4416e7d5",
+    "nested_jars": [],
+    "resource": "assets/guideme/lang/en_us.json",
+    "mod_ids": [
+      "guideme"
+    ],
+    "resource_sha256": "e79f58c75cbb760ca14f0ae11a389f6e3c0ffad1e67f47ac03f680cab37a3a17"
+  }
+}

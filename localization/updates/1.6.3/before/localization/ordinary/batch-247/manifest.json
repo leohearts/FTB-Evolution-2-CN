@@ -1,0 +1,35 @@
+{
+  "batch": "247",
+  "namespace": "collective",
+  "jar": ".minecraft/mods/collective-26.1.2-8.32.jar",
+  "language_path": "assets/collective/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/collective/lang/zh_cn.json",
+  "include_keys": [
+    "collective.shared.message.adminusage",
+    "collective.shared.message.commandsusage",
+    "collective.shared.message.nopermission",
+    "collective.shared.message.playeronly",
+    "collective.shared.message.reloadsconfigfile",
+    "collective.shared.message.showmessage",
+    "collective.shared.message.successfullygeneratedhead",
+    "collective.shared.message.usage",
+    "collective.shared.message.wanderingtraderspawnfailed",
+    "collective.shared.message.wanderingtraderspawnsuccesful",
+    "collective.collective.gui.reset",
+    "collective.collective.message.headcachehelp",
+    "collective.collective.message.headcachereset"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "fe2ff60dd0ee5169d3d191a80ae95bf5eeeff0bba9746cb13d85490f58047fc0",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/collective-26.1.2-8.32.jar",
+    "jar_sha256": "fe2ff60dd0ee5169d3d191a80ae95bf5eeeff0bba9746cb13d85490f58047fc0",
+    "nested_jars": [],
+    "resource": "assets/collective/lang/en_us.json",
+    "mod_ids": [
+      "collective"
+    ],
+    "resource_sha256": "6920a7a2bb9e2194a9a365141ed363a347b86eeb8673b5c5927476921d50cea2"
+  }
+}

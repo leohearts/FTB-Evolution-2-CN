@@ -1,0 +1,29 @@
+{
+  "batch": "169",
+  "namespace": "goblintraders",
+  "jar": ".minecraft/mods/goblintraders-neoforge-26.1.2-1.12.0.jar",
+  "language_path": "assets/goblintraders/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/goblintraders/lang/zh_cn.json",
+  "include_keys": [
+    "custom.goblintraders.mystery_map.lore",
+    "custom.goblintraders.durability_buff",
+    "custom.goblintraders.armor_buff",
+    "custom.goblintraders.knockback_reduction",
+    "custom.goblintraders.extended_range",
+    "custom.goblintraders.increased_break_speed",
+    "custom.goblintraders.more_damage"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "5b03f0c69aa33b0afc7dcdc2e3ef10ee8ed5b4275bd2b78ee74945b6ea1ce376",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/goblintraders-neoforge-26.1.2-1.12.0.jar",
+    "jar_sha256": "5b03f0c69aa33b0afc7dcdc2e3ef10ee8ed5b4275bd2b78ee74945b6ea1ce376",
+    "nested_jars": [],
+    "resource": "assets/goblintraders/lang/en_us.json",
+    "mod_ids": [
+      "goblintraders"
+    ],
+    "resource_sha256": "6e75d6a8513aae605b23edbc8682c26dc1265d1ee17732e38391bdf041c7bc34"
+  }
+}

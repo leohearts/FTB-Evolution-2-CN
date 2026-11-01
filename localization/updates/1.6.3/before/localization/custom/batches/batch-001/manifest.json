@@ -1,0 +1,506 @@
+{
+  "target_pack_version": "1.4.1",
+  "scope": "19 Echo shop definitions; existing keeper names, locked dialogues and product descriptions; random-hat description",
+  "files": [
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/arcanist.json",
+      "snapshot": "sources/arcanist.json",
+      "sha256": "bdf9f832f8efee945f453d1b5869b3fb58fcc6f95cff941d570c3f396719bca3",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/beastmaster.json",
+      "snapshot": "sources/beastmaster.json",
+      "sha256": "4b5729958439517bc5eaef8ff14751b5f504382fce0fad8f0a2a6c40c30d4ae0",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/broker_early.json",
+      "snapshot": "sources/broker_early.json",
+      "sha256": "a93659a26d79820235274f0a3406f7bac9ba499c697d0bcdccdd0cb99ee295ca",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/broker_late.json",
+      "snapshot": "sources/broker_late.json",
+      "sha256": "8d4e5b1d11f2f2340c18debd84a9f22d7bb4d5824679db7b0d312a4a6e2a7b89",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/broker_mid.json",
+      "snapshot": "sources/broker_mid.json",
+      "sha256": "251234f5fa325df49a9edbe08370567c6c75af04515102a17e4e1e2772874a7b",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/fishmonger.json",
+      "snapshot": "sources/fishmonger.json",
+      "sha256": "2f45ce1cab233c6579c642c6d173f2e1bd8cc41973f6979781968593864e4bf4",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/gambler.json",
+      "snapshot": "sources/gambler.json",
+      "sha256": "ffc9650de766244b08dee073efc6b1fa691bfb01310f70ab201ca7d76f1ec1e9",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/gatekeeper.json",
+      "snapshot": "sources/gatekeeper.json",
+      "sha256": "889def6a2b4d862dedad8bf13cfcf77808bb10496c45e7375dceb07222367665",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/hedge_witch.json",
+      "snapshot": "sources/hedge_witch.json",
+      "sha256": "7351084a66a5612a853a77039eb797bc31ee1c7c709e748fec662faf745f492e",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/jewler.json",
+      "snapshot": "sources/jewler.json",
+      "sha256": "71ea7e6ca83b3390d248ad8f495b7c7c92a97cdca1cff122c4aa4c0972f77c1d",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/sanguine_merchant.json",
+      "snapshot": "sources/sanguine_merchant.json",
+      "sha256": "00b44813eb1ad311a0b3612ac67111f9d8a0922bcd0c98548054ac308d0dea7a",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/swashbuckler.json",
+      "snapshot": "sources/swashbuckler.json",
+      "sha256": "1c0c43bfb8830b2a2eebffffd7c0f3d544c603716306e29a7ada5ed6be75cee3",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/trader_black_market.json",
+      "snapshot": "sources/trader_black_market.json",
+      "sha256": "def27dc74204d57f8d059eedbceaccd140f80e8b1e2adfa9198eba09aa0a6b07",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/village_apiarist.json",
+      "snapshot": "sources/village_apiarist.json",
+      "sha256": "2261f480daaa04389eed18c79547d005ec490d7b10c70ff73b70c4024cb6b4bd",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/village_food.json",
+      "snapshot": "sources/village_food.json",
+      "sha256": "f421866e073cfaef58f5288f7b38e65b8758e786d1fd87957d3ab8310154e4a2",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/village_storage.json",
+      "snapshot": "sources/village_storage.json",
+      "sha256": "4be4f344525c36ba8f296ad0e9fbdc17afebdee2959cc9ec4aa7b61b42620143",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/village_tech.json",
+      "snapshot": "sources/village_tech.json",
+      "sha256": "34046675468583de8cf2ced7260bf0b9b940272d2326ac70d778ae773974cdd4",
+      "changes": []
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/wandering_merchant.json",
+      "snapshot": "sources/wandering_merchant.json",
+      "sha256": "869e4f6fe149e519f22ad44cc92a6e925bda24e929c3d528c2d08384bea9076f",
+      "changes": [
+        {
+          "path": [
+            "stages",
+            0,
+            "shop_unlock",
+            25,
+            "command",
+            "description",
+            0,
+            "text"
+          ],
+          "en": "Unlock a random hat",
+          "zh": "解锁一顶随机帽子"
+        },
+        {
+          "path": [
+            "stages",
+            0,
+            "shop_unlock",
+            25,
+            "description",
+            0,
+            "text"
+          ],
+          "en": "Unlock a random hat",
+          "zh": "解锁一顶随机帽子"
+        }
+      ],
+      "output_path": ".minecraft/datapacks/ftb/data/ftb/echo_definitions/wandering_merchant.json"
+    },
+    {
+      "source_path": "datapacks/ftb/data/ftb/echo_definitions/wayfarer.json",
+      "snapshot": "sources/wayfarer.json",
+      "sha256": "20567caffe868d779f0013fbcbcaf5d8c0483c8279c05740d345a3720f00e235",
+      "changes": []
+    }
+  ],
+  "reused_language": [
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.broker_early",
+      "en": "The Broker",
+      "zh": "经纪人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.broker_mid",
+      "en": "The Broker's Factor",
+      "zh": "经纪人代理"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.broker_late",
+      "en": "The Broker's Vault",
+      "zh": "经纪人宝库"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_storage",
+      "en": "The Quartermaster",
+      "zh": "军需官"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_tech",
+      "en": "The Machinist",
+      "zh": "机械师"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_food",
+      "en": "The Grocer",
+      "zh": "食品商"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_apiarist",
+      "en": "The Apiarist",
+      "zh": "养蜂人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.fishmonger",
+      "en": "The Fishmonger",
+      "zh": "鱼贩"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.wayfarer",
+      "en": "The Wayfarer",
+      "zh": "旅人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.arcanist",
+      "en": "The Arcanist",
+      "zh": "奥术师"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.hedge_witch",
+      "en": "The Hedge Witch",
+      "zh": "草药女巫"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.sanguine_merchant",
+      "en": "The Sanguine Merchant",
+      "zh": "鲜血商人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.jewler",
+      "en": "The Jewler",
+      "zh": "珠宝商"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.beastmaster",
+      "en": "The Beastmaster",
+      "zh": "驯兽师"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.gatekeeper",
+      "en": "The Gatekeeper",
+      "zh": "守门人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.swashbuckler",
+      "en": "The Swashbuckler",
+      "zh": "侠盗"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.gambler",
+      "en": "The Gambler",
+      "zh": "赌徒"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.wandering_merchant",
+      "en": "The Wandering Merchant",
+      "zh": "流浪商人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.black_market",
+      "en": "The Black Market",
+      "zh": "黑市商人"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked",
+      "en": "%s: %s",
+      "zh": "%s: %s"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.broker_mid",
+      "en": "My goods are for builders of the Skyline. Complete the FTB Skyline quest and we'll talk business.",
+      "zh": "我的货物只卖给天际号的建造者. 完成FTB天际号任务后, 我们再谈生意."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.broker_late",
+      "en": "The Vault opens only for those who have freed the End. Complete the Free the End quest and return.",
+      "zh": "宝库只为解放末地的人开放. 完成解放末地任务后再来吧."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.village_storage",
+      "en": "Show me you know your way around storage. Craft a Copper Backpack or better, or any storage tier upgrade.",
+      "zh": "让我看看你对存储的了解. 制作铜背包或更高级的背包, 或任意存储等级升级."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.village_tech",
+      "en": "I only deal with fellow tinkerers. Craft anything from one of the tech mods, like FTB Industrial Contraptions, Oritech, Ender IO or Powah.",
+      "zh": "我只和同道工匠做生意. 制作任意科技模组的物品, 例如FTB工业奇械, 奥瑞科技, 末影接口或 Powah."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.village_food",
+      "en": "You look half starved. Eat something first, then we can talk about food.",
+      "zh": "你看起来饿坏了. 先吃点东西, 我们再聊食物."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.village_apiarist",
+      "en": "I only trade with fellow beekeepers. Catch a bee in a Bee Cage and my wares are yours.",
+      "zh": "我只和养蜂同行交易. 用蜜蜂笼捕捉一只蜜蜂, 就能购买我的货物."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.fishmonger",
+      "en": "Catch something with a fishing rod first. I only sell to people who fish.",
+      "zh": "先用钓鱼竿钓点东西. 我只卖货给钓鱼人."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.wayfarer",
+      "en": "I only trade with travelers. Carry a Warp Stone, a Warp, Return or Bound Scroll, a Nature's or Explorer's Compass, or a Paraglider.",
+      "zh": "我只和旅行者交易. 请携带传送石, 传送卷轴, 返回卷轴, 绑定卷轴, 自然罗盘, 探险者罗盘或滑翔伞之一."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.jewler",
+      "en": "Build yourself a Jewelcrafting Station and I'll show you my gems.",
+      "zh": "先制作一座珠宝加工台, 我就给你看看我的宝石."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.beastmaster",
+      "en": "Carry a Bestiary so I know you study the beasts, then come back.",
+      "zh": "带上异兽手记, 让我知道你研究过这些异兽, 再来找我."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.gatekeeper",
+      "en": "Hold a Gate Pearl in your hand and I'll trade with you.",
+      "zh": "手持一颗传送门珍珠, 我就和你交易."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.arcanist",
+      "en": "Gather some Vinteum Dust and I'll share my stock.",
+      "zh": "收集一些温特姆粉, 我就向你开放存货."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.hedge_witch",
+      "en": "Carry the Witchery guidebook, a Verdant Sprig or a Witchery seed and I'll open my wares.",
+      "zh": "携带巫术手册, 苍翠枝条或巫术种子, 我就向你开放货物."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.sanguine_merchant",
+      "en": "Blood magic is not for the uninitiated. Obtain Ara Vitae and come back.",
+      "zh": "血魔法可不是外行的把戏. 获得生命祭坛后再来吧."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.swashbuckler",
+      "en": "Prove you can hold your own in a fight. Defeat a Gunslinger and I'll arm you.",
+      "zh": "证明你有独当一面的战斗本领. 击败一名神枪手, 我就为你提供武器."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.locked.gambler",
+      "en": "I only deal with people who like a gamble. Open a Loot Crate first.",
+      "zh": "我只和愿意碰碰运气的人做生意. 先打开一个战利品箱."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.tiab_time_one_hour",
+      "en": "1 Hour of Bottled Time",
+      "zh": "1 小时瓶中时间"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.tiab_time_two_half_hours",
+      "en": "2.5 Hours of Bottled Time",
+      "zh": "2.5 小时瓶中时间"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.tiab_time_ten_hours",
+      "en": "10 Hours of Bottled Time",
+      "zh": "10 小时瓶中时间"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.tiab_time_twenty_five_hours",
+      "en": "25 Hours of Bottled Time",
+      "zh": "25 小时瓶中时间"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.description.tiab_time_warning",
+      "en": "Adds stored time to a Time in a Bottle you are carrying. Have one in your inventory before you buy.",
+      "zh": "为随身携带的时间之瓶增加储存时间. 购买前请确保物品栏中有时间之瓶."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.skill_point_mining",
+      "en": "Mining Skill Point",
+      "zh": "采矿技能点"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.skill_point_athletics",
+      "en": "Athletics Skill Point",
+      "zh": "体能技能点"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.skill_point_melee",
+      "en": "Melee Skill Point",
+      "zh": "近战技能点"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.skill_point_magic",
+      "en": "Magic Skill Point",
+      "zh": "魔法技能点"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.title.skill_point_ranged",
+      "en": "Ranged Skill Point",
+      "zh": "远程技能点"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shop.description.skill_point",
+      "en": "Grants 1 skill point in this skill tree.",
+      "zh": "获得此技能树的 1 个技能点."
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_apiarist.alpha",
+      "en": "Productivity Alpha",
+      "zh": "生产力 Alpha"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_apiarist.beta",
+      "en": "Productivity Beta",
+      "zh": "生产力 Beta"
+    },
+    {
+      "source_path": "kubejs/assets/ftb/lang/en_us.json",
+      "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
+      "key": "ftb.shopkeeper.village_apiarist.gamma",
+      "en": "Productivity Gamma",
+      "zh": "生产力 Gamma"
+    }
+  ],
+  "terms": {
+    "random_hat": "随机帽子",
+    "reason": "Unlocks a Hats cosmetic via givehat @s random; not a physical item reward; preserve command and cost"
+  },
+  "remaining": "Command feedback and other runtime scripts separately verified in later batches; game UI not tested"
+}

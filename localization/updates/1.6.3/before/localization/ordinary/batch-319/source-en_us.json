@@ -1,0 +1,9 @@
+{
+  "config.apollib.default": "Default: ",
+  "config.apollib.done": "Save & Close",
+  "config.apollib.done.tooltip": "Save your changes and close the screen.",
+  "config.apollib.export": "Export",
+  "config.apollib.export.tooltip": "Exports the current config file to the clipboard.",
+  "config.apollib.back": "Back",
+  "config.apollib.back.tooltip": "Close this screen without saving any changes."
+}

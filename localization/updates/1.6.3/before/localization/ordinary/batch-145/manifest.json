@@ -1,0 +1,49 @@
+{
+  "batch": "145",
+  "namespace": "horsingaround",
+  "jar": ".minecraft/mods/HorsingAround-26.1.2-0.3.5.jar",
+  "language_path": "assets/horsingaround/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/horsingaround/lang/zh_cn.json",
+  "include_keys": [
+    "horsingaround.configuration.Client",
+    "horsingaround.configuration.Client.tooltip",
+    "horsingaround.configuration.General",
+    "horsingaround.configuration.General.tooltip",
+    "horsingaround.configuration.addOnMount",
+    "horsingaround.configuration.addOnMount.tooltip",
+    "horsingaround.configuration.addOnTame",
+    "horsingaround.configuration.addOnTame.tooltip",
+    "horsingaround.configuration.entityBlacklist",
+    "horsingaround.configuration.entityBlacklist.tooltip",
+    "horsingaround.configuration.hoverColor",
+    "horsingaround.configuration.hoverColor.tooltip",
+    "horsingaround.configuration.pixelatedMode",
+    "horsingaround.configuration.pixelatedMode.tooltip",
+    "horsingaround.configuration.slotsVisible",
+    "horsingaround.configuration.slotsVisible.tooltip",
+    "horsingaround.configuration.title",
+    "horsingaround.networking.summon.failed",
+    "horsingaround.networking.sync.failed",
+    "horsingaround.networking.unlink.failed",
+    "horsingaround.radial.page",
+    "horsingaround.subtitle.call",
+    "key.category.horsingaround.category",
+    "key.horsingaround.open_menu",
+    "message.horsingaround.no_tamed_entities"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Horsing Around"
+  ],
+  "jar_sha256": "25cdb105c705aa3476e50718afcf1f4375745496af8af8b773644d81a67efc99",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/HorsingAround-26.1.2-0.3.5.jar",
+    "jar_sha256": "25cdb105c705aa3476e50718afcf1f4375745496af8af8b773644d81a67efc99",
+    "nested_jars": [],
+    "resource": "assets/horsingaround/lang/en_us.json",
+    "mod_ids": [
+      "horsingaround"
+    ],
+    "resource_sha256": "64944a1066ce83b0bd44cda80def36f5c35bb1b249454c15270c5072204ba1d6"
+  }
+}

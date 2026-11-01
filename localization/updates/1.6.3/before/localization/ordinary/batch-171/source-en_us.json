@@ -1,0 +1,8 @@
+{
+  "advancements.mutantmonsters.root.description": "Mutant creatures and beasts to face off against. Will you triumph, or will you perish?",
+  "advancements.mutantmonsters.root.title": "Mutant Monsters",
+  "block.mutantmonsters.mutant_skeleton_skull.description": "Unlocks multishot for bows.",
+  "item.mutantmonsters.mutant_skeleton_boots.description": "Grants increased jump height to the wearer.",
+  "item.mutantmonsters.mutant_skeleton_chestplate.description": "Unlocks quick draw for bows.",
+  "item.mutantmonsters.mutant_skeleton_leggings.description": "Grants increased speed to the wearer."
+}

@@ -1,0 +1,24 @@
+{
+  "batch": "153",
+  "namespace": "animalgarden_crocodile",
+  "jar": ".minecraft/mods/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+  "language_path": "assets/animalgarden_crocodile/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_crocodile/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_crocodile.crocodile",
+    "item.animalgarden_crocodile.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "d2e5e9a86b544e2d1bfcaee95b4da1539095872e99cc31b774f15224060536be",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+    "jar_sha256": "d2e5e9a86b544e2d1bfcaee95b4da1539095872e99cc31b774f15224060536be",
+    "nested_jars": [],
+    "resource": "assets/animalgarden_crocodile/lang/en_us.json",
+    "mod_ids": [
+      "animalgarden_crocodile"
+    ],
+    "resource_sha256": "80c64ae3c1dd6cd5eeb6df2b010a02c89cadebb35b665f97607aa247dba55af3"
+  }
+}

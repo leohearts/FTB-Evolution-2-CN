@@ -1,0 +1,4 @@
+{
+  "book.mysticalagriculture.entry.ore_infuser": "Ore Infuser",
+  "book.mysticalagriculture.entry.ore_infuser.page.1": "Ore Infusers are used to combine stone blocks with Essences to create ores. They run off of solid fuels and have an internal power storage buffer. $(br2)Each operation will take a certain amount of items and power to create a result."
+}

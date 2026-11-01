@@ -1,0 +1,21 @@
+{
+  "conduit.enderio.energetic_energy": "Energetic Energy Conduit",
+  "conduit.enderio.energetic_fluid": "Energetic Fluid Conduit",
+  "conduit.enderio.energetic_item": "Energetic Item Conduit",
+  "conduit.enderio.vibrant_energy": "Vibrant Energy Conduit",
+  "conduit.enderio.vibrant_fluid": "Vibrant Fluid Conduit",
+  "conduit.enderio.vibrant_item": "Vibrant Item Conduit",
+  "energy.enderio.micro_infinity": "%s µI",
+  "key.category.enderio.enderio_keys": "EnderIO",
+  "message.enderio.tool.soul_vial.error.denied": "This entity has been deny listed.",
+  "tag.entity_type.enderio.soul_vial_allow_list": "Soul Vial Allow List",
+  "tag.entity_type.enderio.soul_vial_deny_list": "Soul Vial Deny List",
+  "tag.entity_type.enderio.spawner_allow_list": "Spawner Allow List",
+  "tag.entity_type.enderio.spawner_deny_list": "Spawner Deny List",
+  "tag.item.enderio.deny_lists.broken_spawner": "Broken Spawner Deny List",
+  "tag.item.enderio.deny_lists.electromagnet": "Electromagnet Deny List",
+  "tooltip.enderio.conduit.slot.fluid_filter": "Fluid Filter Slot",
+  "tooltip.enderio.conduit.slot.item_filter": "Item Filter Slot",
+  "tooltip.enderio.conduit.slot.redstone_filter": "Redstone Filter Slot",
+  "tooltip.enderio.fluid_tank.contents_tooltip": "%d/%d mb of %s"
+}

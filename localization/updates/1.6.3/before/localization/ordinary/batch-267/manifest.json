@@ -1,0 +1,25 @@
+{
+  "batch": "267",
+  "namespace": "yungsapi",
+  "jar": ".minecraft/mods/YungsApi-26.1.2-NeoForge-6.1.3.jar",
+  "language_path": "assets/yungsapi/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/yungsapi/lang/zh_cn.json",
+  "include_keys": [
+    "command.yungsapi.locate.replaced",
+    "dataPack.yungsapi.locate_replacer.name",
+    "dataPack.yungsapi.locate_replacer.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "cff0f38b3192bc0b1e89ab43a5d11bc26f10e3aafc40d7c1d5e8d20d59f7d683",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsApi-26.1.2-NeoForge-6.1.3.jar",
+    "jar_sha256": "cff0f38b3192bc0b1e89ab43a5d11bc26f10e3aafc40d7c1d5e8d20d59f7d683",
+    "nested_jars": [],
+    "resource": "assets/yungsapi/lang/en_us.json",
+    "mod_ids": [
+      "yungsapi"
+    ],
+    "resource_sha256": "a6fee07b050a707aed7ec7ec4e0ce8a22ba941e4d012ec4d54b0de0863305114"
+  }
+}

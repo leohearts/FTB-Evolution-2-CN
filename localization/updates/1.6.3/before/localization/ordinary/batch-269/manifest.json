@@ -1,0 +1,25 @@
+{
+  "batch": "269",
+  "namespace": "baguettelib",
+  "jar": ".minecraft/mods/baguettelib-26.1.2-NeoForge-2.0.7.jar",
+  "language_path": "assets/baguettelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/baguettelib/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.baguettelib",
+    "block.baguettelib.example_block",
+    "item.baguettelib.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "a7430f74b6d36ab6ce92a52e726f9d1c821f6e1dec9893021675258d6ec28e36",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/baguettelib-26.1.2-NeoForge-2.0.7.jar",
+    "jar_sha256": "a7430f74b6d36ab6ce92a52e726f9d1c821f6e1dec9893021675258d6ec28e36",
+    "nested_jars": [],
+    "resource": "assets/baguettelib/lang/en_us.json",
+    "mod_ids": [
+      "baguettelib"
+    ],
+    "resource_sha256": "77b1557e75891258e81e2357326dfaca5ffba75d30a4ac5961a241a084452564"
+  }
+}

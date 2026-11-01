@@ -1,0 +1,7 @@
+{
+  "block.nodeworks.multi_processing_handler": "Multi-Processing Handler",
+  "container.nodeworks.multi_processing_handler": "Multi-Processing Handler",
+  "container.nodeworks.transfer_card": "Transfer Card",
+  "item.nodeworks.transfer_card": "Transfer Card",
+  "message.nodeworks.terminal_controller_conflict": "This needs a Network Controller on its network, and only one."
+}

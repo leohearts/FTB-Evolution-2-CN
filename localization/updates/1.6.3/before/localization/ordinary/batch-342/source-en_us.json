@@ -1,0 +1,9 @@
+{
+  "bacteria.nautec.netheritophiles": "Netheritophiles",
+  "nautec.augmentation_station.status.wrong_part": "Wrong version of the part",
+  "nautec.augmentation_station.status.wrong_part.desc": "%s takes %s. The loaded part is the same item, but not that version of it. Look the augment up in JEI to see which one it needs.",
+  "nautec.augmentation_station.status.wrong_part.short": "This augment needs another version of that part",
+  "nautec.bio_reactor.rate": "Colony %s: %s items per minute",
+  "nautec.bio_reactor.rate.total": "All colonies: %s items per minute",
+  "nautec.distributor.count": "Linked: %s"
+}

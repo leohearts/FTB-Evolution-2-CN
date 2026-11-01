@@ -1,0 +1,27 @@
+{
+  "batch": "123",
+  "namespace": "moreoverlays",
+  "jar": ".minecraft/mods/moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+  "language_path": "assets/moreoverlays/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/moreoverlays/lang/zh_cn.json",
+  "include_keys": [
+    "config.moreoverlays.lightoverlay.spawn_numbers",
+    "config.moreoverlays.lightoverlay.update_interval_frames",
+    "config.moreoverlays.rendersettings.chunk_line_thick",
+    "config.moreoverlays.rendersettings.spawn_number_scale",
+    "config.moreoverlays.rendersettings.spawn_safe_color"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "c493dc1570d008c5a9fb55466fc3b35b25a43d4250956a837365ea3648dc9df1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/moreoverlays-1.24.4-mc26.1.2-neoforge.jar",
+    "jar_sha256": "c493dc1570d008c5a9fb55466fc3b35b25a43d4250956a837365ea3648dc9df1",
+    "nested_jars": [],
+    "resource": "assets/moreoverlays/lang/en_us.json",
+    "mod_ids": [
+      "moreoverlays"
+    ],
+    "resource_sha256": "f6c8ec1067f04b3db1ca5ef560ea6b135358266bf5035cd31e16f8c02d25d946"
+  }
+}

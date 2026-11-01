@@ -1,0 +1,55 @@
+{
+  "batch": "037",
+  "namespace": "neosync",
+  "jar": ".minecraft/mods/NeoSync-26.1.2-1.7.3.jar",
+  "language_path": "assets/neosync/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/neosync/lang/zh_cn.json",
+  "include_keys": [
+    "block.neosync.manual_shell_storage",
+    "block.neosync.zero_point_shell_constructor",
+    "block.neosync.zero_point_shell_storage",
+    "command.neosync.anchor.ensure.skipped",
+    "command.neosync.anchor.list.empty",
+    "command.neosync.anchor.list.entry",
+    "command.neosync.anchor.list.entry.temporary",
+    "command.neosync.anchor.removed",
+    "command.neosync.anchor.set",
+    "command.neosync.anchor.set.temporary",
+    "command.neosync.purge.result",
+    "command.neosync.purge.result_all",
+    "command.neosync.select.no_shells",
+    "command.neosync.select.opened",
+    "gui.neosync.page_display.pagination",
+    "gui.neosync.shell_selector.manual",
+    "gui.neosync.shell_selector.position",
+    "gui.neosync.shell_selector.progress_percent",
+    "gui.neosync.shell_selector.rename.hint",
+    "gui.neosync.shell_selector.rename.placeholder",
+    "gui.neosync.shell_selector.rename.prompt",
+    "gui.neosync.shell_selector.rename.title",
+    "item.neosync.guide",
+    "jei.neosync.energy_per_tick",
+    "jei.neosync.info.guide",
+    "jei.neosync.info.manual_shell_storage",
+    "jei.neosync.info.zero_point_shell_constructor",
+    "jei.neosync.info.zero_point_shell_storage"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s / %s",
+    "%s, %s, %s",
+    "%s%%",
+    "%s FE/tick"
+  ],
+  "jar_sha256": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/NeoSync-26.1.2-1.7.3.jar",
+    "jar_sha256": "303ece6478453dc4956698a0cf623851d346ca7e2b06e2bcc44403ec03663e0a",
+    "nested_jars": [],
+    "resource": "assets/neosync/lang/en_us.json",
+    "mod_ids": [
+      "neosync"
+    ],
+    "resource_sha256": "80ff0bb89cf3c637fa6779b015d6163e86c8047468a4dfdd2e77ce80a2542f76"
+  }
+}

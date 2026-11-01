@@ -1,0 +1,20 @@
+[
+  "Team %s already exists!",
+  "Your party has run out of lives! Can't invite new members!",
+  "Your party has lost a life! %s / %s lives remaining!",
+  "Player %s was kicked because they died and your party has no lives left!",
+  "Your party was disbanded because you ran out of lives and players!",
+  "Click to toggle",
+  "Your party has %s / %s lives remaining!",
+  "If you die, you will be kicked from the party!",
+  "Chat messages are redirected to team chat",
+  "Chat messages are sent to vanilla chat",
+  "Added team stage: %s",
+  "No team stages for this team",
+  "Removed team stage: %s",
+  "%s team stage(s) for this team:",
+  "Set property %s to %s",
+  "Failed to parse value: '%s'",
+  "Property %s may not be edited!",
+  "Something went wrong creating a party! %s"
+]

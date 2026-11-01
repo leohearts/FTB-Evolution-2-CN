@@ -1,0 +1,30 @@
+{
+  "batch": "051",
+  "namespace": "fusion",
+  "jar": ".minecraft/mods/fusion-1.3.16-neoforge-mc26.1.jar",
+  "language_path": "assets/fusion/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fusion/lang/zh_cn.json",
+  "include_keys": [
+    "fusion.resource_packs.requires_newer_version",
+    "fusion.resource_packs.warning_screen.title",
+    "fusion.resource_packs.warning_screen.message",
+    "fusion.resource_packs.warning_screen.confirmation",
+    "fusion.resource_packs.warning_screen.current_version",
+    "fusion.resource_packs.warning_screen.required_version",
+    "fusion.resource_packs.warning_screen.cancel",
+    "fusion.resource_packs.warning_screen.confirm"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "39894deae0c8fae5ff3b28cf87e1578335017da8b6892b50198e5580e1ad33c7",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fusion-1.3.16-neoforge-mc26.1.jar",
+    "jar_sha256": "39894deae0c8fae5ff3b28cf87e1578335017da8b6892b50198e5580e1ad33c7",
+    "nested_jars": [],
+    "resource": "assets/fusion/lang/en_us.json",
+    "mod_ids": [
+      "fusion"
+    ],
+    "resource_sha256": "16b0b24d9e5aa0fdec54a625655376add4b76a385831dc7d65abe0435cbe7b7e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "batch": "118",
+  "namespace": "fancytabsections",
+  "jar": ".minecraft/mods/fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+  "language_path": "assets/fancytabsections/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fancytabsections/lang/zh_cn.json",
+  "include_keys": [
+    "fancytabsections.configuration.index_expanded",
+    "itemGroup.fancytabsections.fancy_things",
+    "itemGroup.fancytabsections.dirty_tools",
+    "section.fancytabsections.shiny_things",
+    "section.fancytabsections.pretty_things",
+    "section.fancytabsections.secret_things",
+    "section.fancytabsections.hotbar",
+    "section.fancytabsections.dirt",
+    "section.fancytabsections.stone",
+    "section.fancytabsections.colors",
+    "section.fancytabsections.empty",
+    "section.fancytabsections.very_dirty_tools",
+    "section.fancytabsections.decently_dirty_tools"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "ff54e11ab5c5698f46541251ed26a64c016a6f8d058b013ef8d945f13c6750ba",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+    "jar_sha256": "ff54e11ab5c5698f46541251ed26a64c016a6f8d058b013ef8d945f13c6750ba",
+    "nested_jars": [],
+    "resource": "assets/fancytabsections/lang/en_us.json",
+    "mod_ids": [
+      "fancytabsections"
+    ],
+    "resource_sha256": "22c456841db805cb292c6f7392112daf6f3eb9b8872fdb4433ce3537ee60b05f"
+  }
+}

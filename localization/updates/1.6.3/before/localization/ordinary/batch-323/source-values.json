@@ -1,0 +1,7 @@
+[
+  "Start profiling",
+  "Done! Output saved to logs/jecharacters.txt.",
+  "Oops! An error occurred when writing the file.",
+  "Internal error.",
+  "/jech [profile] / [verbose true/false]"
+]

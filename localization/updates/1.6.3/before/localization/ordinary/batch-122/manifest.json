@@ -1,0 +1,39 @@
+{
+  "batch": "122",
+  "namespace": "jei",
+  "jar": ".minecraft/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
+  "language_path": "assets/jei/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/jei/lang/zh_cn.json",
+  "include_keys": [
+    "jei.tooltip.liquid.amount.with.capacity",
+    "jei.tooltip.liquid.amount",
+    "jei.key.combo.shift",
+    "jei.key.combo.control",
+    "jei.key.combo.command",
+    "jei.key.combo.alt",
+    "jei.key.shift",
+    "jei.alias.villager.spawn.egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s / %s mB",
+    "%s mB",
+    "SHIFT + %s",
+    "CTRL + %s",
+    "CMD + %s",
+    "ALT + %s",
+    "SHIFT",
+    "HMMM"
+  ],
+  "jar_sha256": "06365155a29b06199aa2160489349948cb44072d335125e5f0a5003dcb76c386",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
+    "jar_sha256": "06365155a29b06199aa2160489349948cb44072d335125e5f0a5003dcb76c386",
+    "nested_jars": [],
+    "resource": "assets/jei/lang/en_us.json",
+    "mod_ids": [
+      "jei"
+    ],
+    "resource_sha256": "8bd91b9b8bbeebf114df69b3caf71b9992ac699f56424d79fcca37f0838911e4"
+  }
+}

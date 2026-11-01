@@ -1,0 +1,40 @@
+{
+  "batch": "317",
+  "namespace": "ae2addonlib",
+  "jar": ".minecraft/mods/AdvancedAE-26.1.7.jar",
+  "jar_sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233",
+  "language_path": "assets/ae2addonlib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ae2addonlib/lang/zh_cn.json",
+  "include_keys": [
+    "gui.ae2addonlib.SetAmount",
+    "gui.tooltips.ae2addonlib.Disabled",
+    "gui.tooltips.ae2addonlib.Enabled",
+    "gui.tooltips.ae2addonlib.TankAmount"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s / %s B"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar",
+    "jar_sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+        "sha256": "15a8598e48acd2613b63d822cf416b36b1793cbca7c2a383828a1e0cbfd5ee5b"
+      }
+    ],
+    "resource": "assets/ae2addonlib/lang/en_us.json",
+    "mod_ids": [
+      "advanced_ae"
+    ],
+    "resource_sha256": "2ea255e03c6e800750f90011148a2559b04090212fb881c1db0bfe718ee433c7"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/ae2addonlib-26.1.3-alpha.jar",
+      "sha256": "15a8598e48acd2613b63d822cf416b36b1793cbca7c2a383828a1e0cbfd5ee5b"
+    }
+  ]
+}

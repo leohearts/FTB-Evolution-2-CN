@@ -1,0 +1,63 @@
+{
+  "batch": "331",
+  "namespace": "productivelib",
+  "jar": ".minecraft/mods/productivefarming-26.1.2-0.13.0.jar",
+  "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
+  "language_path": "assets/productivelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/productivelib/lang/zh_cn.json",
+  "include_keys": [
+    "item.productivelib.upgrade_base",
+    "item.productivelib.upgrade_gene_sampler",
+    "item.productivelib.upgrade_biome",
+    "item.productivelib.upgrade_child",
+    "item.productivelib.upgrade_adult",
+    "item.productivelib.upgrade_block",
+    "item.productivelib.upgrade_entity_filter",
+    "item.productivelib.upgrade_productivity",
+    "item.productivelib.upgrade_productivity_2",
+    "item.productivelib.upgrade_productivity_3",
+    "item.productivelib.upgrade_productivity_4",
+    "item.productivelib.upgrade_range",
+    "item.productivelib.upgrade_time",
+    "item.productivelib.upgrade_time_2",
+    "item.productivelib.upgrade_simulator",
+    "item.productivelib.upgrade_stability",
+    "item.productivelib.upgrade_pollen_sieve",
+    "productivelib.information.upgrade.extend",
+    "productivelib.information.upgrade.install_help",
+    "productivelib.information.upgrade.valid_blocks.list_header",
+    "productivelib.information.upgrade.valid_blocks.list_item",
+    "productivelib.information.upgrade.valid_blocks.list_item_content",
+    "productivelib.information.upgrade.upgrade_entity_filter.list_header",
+    "productivelib.information.upgrade.upgrade_entity_filter.list_item",
+    "productivelib.information.upgrade.upgrade_entity_filter.clear",
+    "productivelib.information.upgrade.upgrade_entity_filter.empty"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    " - %s",
+    "   %s"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar",
+    "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+        "sha256": "aed825d4586e2850be25d9e872ab160554e19177c364d207a04d8d530bb82bec"
+      }
+    ],
+    "resource": "assets/productivelib/lang/en_us.json",
+    "mod_ids": [
+      "productivefarming"
+    ],
+    "resource_sha256": "529221fcdb594915ee11b76c7e04f632db1b2335388e5e04114716ee089272df"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/productivelib-26.1.2-0.4.9.jar",
+      "sha256": "aed825d4586e2850be25d9e872ab160554e19177c364d207a04d8d530bb82bec"
+    }
+  ]
+}

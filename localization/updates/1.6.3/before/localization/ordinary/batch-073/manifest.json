@@ -1,0 +1,29 @@
+{
+  "batch": "073",
+  "namespace": "functionalstorage",
+  "jar": ".minecraft/mods/functionalstorage-26.1.2-1.6.4.jar",
+  "language_path": "assets/functionalstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/functionalstorage/lang/zh_cn.json",
+  "include_keys": [
+    "block.functionalstorage.pale_oak_1",
+    "block.functionalstorage.pale_oak_2",
+    "block.functionalstorage.pale_oak_4",
+    "gui.functionalstorage.fluid_drawer_hint",
+    "gui.functionalstorage.fluid_drawer_hint.empty",
+    "gui.functionalstorage.fluid_drawer_hint.fill",
+    "gui.functionalstorage.priority"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "31c369b8e37ecd9d3b0c410cfb6f28896c936201a46f90b2457b9b23d5d27185",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/functionalstorage-26.1.2-1.6.4.jar",
+    "jar_sha256": "31c369b8e37ecd9d3b0c410cfb6f28896c936201a46f90b2457b9b23d5d27185",
+    "nested_jars": [],
+    "resource": "assets/functionalstorage/lang/en_us.json",
+    "mod_ids": [
+      "functionalstorage"
+    ],
+    "resource_sha256": "2b1c7483a10a3711a4acbbd605b420b0acc90ab066e1bd5532402308d9b9591e"
+  }
+}

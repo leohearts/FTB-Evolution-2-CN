@@ -1,0 +1,28 @@
+{
+  "batch": "315",
+  "namespace": "refinedstorage_quartz_arsenal",
+  "jar": ".minecraft/mods/refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+  "language_path": "assets/refinedstorage_quartz_arsenal/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedstorage_quartz_arsenal/lang/zh_cn.json",
+  "include_keys": [
+    "mod.refinedstorage_quartz_arsenal",
+    "key.category.refinedstorage_quartz_arsenal.keymappings",
+    "text.autoconfig.refinedstorage_quartz_arsenal.title",
+    "refinedstorage_quartz_arsenal.configuration.title",
+    "refinedstorage_quartz_arsenal.configuration.section.refinedstorage_quartz_arsenal.common.toml",
+    "refinedstorage_quartz_arsenal.configuration.section.refinedstorage_quartz_arsenal.common.toml.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "4e1bd12aa644320195553e76edbdb159150dd51db6268f532544206567ef165a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+    "jar_sha256": "4e1bd12aa644320195553e76edbdb159150dd51db6268f532544206567ef165a",
+    "nested_jars": [],
+    "resource": "assets/refinedstorage_quartz_arsenal/lang/en_us.json",
+    "mod_ids": [
+      "refinedstorage_quartz_arsenal"
+    ],
+    "resource_sha256": "83bb43ab5a611522ace3a4ac70f099a28c82b1a70fea3ab571dfffad84eb5f39"
+  }
+}

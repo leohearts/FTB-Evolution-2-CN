@@ -1,0 +1,15 @@
+{
+  "itemGroup.occultcooking": "Occult Cooking",
+  "block.occultcooking.kitchen_station": "Occult Kitchen Station",
+  "item.occultcooking.kitchen_station.message.linked": "Linked to the Dimensional Storage Actuator",
+  "item.occultcooking.kitchen_station.tooltip.linked": "Linked to a Dimensional Storage Actuator (%s)",
+  "item.occultcooking.kitchen_station.tooltip.unlinked": "Unlinked, sneak-right-click a Dimensional Storage Actuator to link",
+  "config.jade.plugin_occultcooking.kitchen_station": "Occult Kitchen Station",
+  "jade.occultcooking:kitchen_station": "Connected to %s at %s",
+  "jade.occultcooking:online": "Device Online",
+  "jade.occultcooking:linked_offline": "Linked (Actuator Unreachable)",
+  "jade.occultcooking:offline": "Device Offline",
+  "jei.occultcooking.kitchen_station.1": "The Occult Kitchen Station lets your Cooking for Blockheads cooking table craft with items straight from your Occultism storage network.",
+  "jei.occultcooking.kitchen_station.2": "To link it, sneak-right-click your Dimensional Storage Actuator (the storage controller) with the station in hand. The link is saved on the block and works even across dimensions, as long as the actuator stays chunk-loaded.",
+  "jei.occultcooking.kitchen_station.3": "Place the linked station in your kitchen, next to the cooking table or wired in through counters. Its screen glows when connected."
+}

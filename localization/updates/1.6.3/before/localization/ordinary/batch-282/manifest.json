@@ -1,0 +1,25 @@
+{
+  "batch": "282",
+  "namespace": "placebo",
+  "jar": ".minecraft/mods/Placebo-26.1.2-10.0.2.jar",
+  "language_path": "assets/placebo/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/placebo/lang/zh_cn.json",
+  "include_keys": [
+    "key.categories.placebo"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Placebo"
+  ],
+  "jar_sha256": "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Placebo-26.1.2-10.0.2.jar",
+    "jar_sha256": "a328ba5ec1b291e2afd87f42ad43491f55dcdd353ee757e96c2e02c3c0a34b3a",
+    "nested_jars": [],
+    "resource": "assets/placebo/lang/en_us.json",
+    "mod_ids": [
+      "placebo"
+    ],
+    "resource_sha256": "57da498e94cf6afc7bcac4ebfda5729aa3e5e42f343a94b216b923c72124a997"
+  }
+}

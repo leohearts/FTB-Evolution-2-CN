@@ -1,0 +1,24 @@
+{
+  "batch": "229",
+  "namespace": "javd",
+  "jar": ".minecraft/mods/javd-neo-26.1.1.0+mc26.1.1.jar",
+  "language_path": "assets/javd/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/javd/lang/zh_cn.json",
+  "include_keys": [
+    "advancement.javd.enter_void_dimension",
+    "advancement.javd.enter_void_dimension.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "9b1323019767b590337ad17a111df6aadf079b9fb1d21a7269e975c35c7337a0",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/javd-neo-26.1.1.0+mc26.1.1.jar",
+    "jar_sha256": "9b1323019767b590337ad17a111df6aadf079b9fb1d21a7269e975c35c7337a0",
+    "nested_jars": [],
+    "resource": "assets/javd/lang/en_us.json",
+    "mod_ids": [
+      "javd"
+    ],
+    "resource_sha256": "eb9cca4ecf8827bb3ad2ac73eeec20de787f2ead642d0411bd1242cae26b75e7"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "gui.neovitae.athanor.group.input": "Input slots",
+  "gui.neovitae.athanor.group.input_bucket": "Fluid input slot",
+  "gui.neovitae.athanor.group.output": "Output slots",
+  "gui.neovitae.athanor.group.output_bucket": "Fluid output slot",
+  "gui.neovitae.athanor.group.tool": "Tool slot",
+  "tooltip.neovitae.bound_treasures.too_far": "This container can only be opened from nearby"
+}

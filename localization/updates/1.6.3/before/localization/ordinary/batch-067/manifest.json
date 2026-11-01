@@ -1,0 +1,41 @@
+{
+  "batch": "067",
+  "namespace": "transparentae2",
+  "jar": ".minecraft/mods/transparentae2-26.1.2-1.1.1.jar",
+  "language_path": "assets/transparentae2/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/transparentae2/lang/zh_cn.json",
+  "include_keys": [
+    "item.transparentae2.cable_treatment_applicator",
+    "item.transparentae2.transparent_smart_cable",
+    "item.transparentae2.transparent_smart_dense_cable",
+    "item.transparentae2.transparent_covered_dense_cable",
+    "message.transparentae2.cable_treatment_applied",
+    "message.transparentae2.cable_treatment_removed",
+    "gui.transparentae2.network_rendering",
+    "gui.transparentae2.network_rendering.enabled",
+    "gui.transparentae2.network_rendering.disabled",
+    "config.transparentae2.enableTransferPaths",
+    "config.transparentae2.enableTransferPaths.tooltip",
+    "config.transparentae2.enableTransferLogging",
+    "config.transparentae2.enableTransferLogging.tooltip",
+    "config.transparentae2.renderTransferItems",
+    "config.transparentae2.renderTransferItems.tooltip",
+    "config.transparentae2.itemMovementSpeed",
+    "config.transparentae2.itemMovementSpeed.tooltip",
+    "config.transparentae2.maxTransfers",
+    "config.transparentae2.maxTransfers.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "8ec933606979e7c58d15ed6bf0ee244840007366b52a9b99a495aafd80f55db6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/transparentae2-26.1.2-1.1.1.jar",
+    "jar_sha256": "8ec933606979e7c58d15ed6bf0ee244840007366b52a9b99a495aafd80f55db6",
+    "nested_jars": [],
+    "resource": "assets/transparentae2/lang/en_us.json",
+    "mod_ids": [
+      "transparentae2"
+    ],
+    "resource_sha256": "e7456e97d1e8a7d35f26616c82ff19e76a6e633bba857996a7ab2cf013f43262"
+  }
+}

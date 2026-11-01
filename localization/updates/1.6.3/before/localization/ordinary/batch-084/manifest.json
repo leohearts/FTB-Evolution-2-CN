@@ -1,0 +1,28 @@
+{
+  "batch": "084",
+  "namespace": "pipez",
+  "jar": ".minecraft/mods/pipez-neoforge-1.2.31+26.1.2.jar",
+  "language_path": "assets/pipez/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/pipez/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.pipez",
+    "message.pipez.filter.nbt",
+    "config.jade.plugin_pipez.pipe"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Pipez",
+    "NBT: %s"
+  ],
+  "jar_sha256": "f477c14c7fc5f7080aa3dee11899fc9fc52c3b00a28eaffb81023371df42324e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pipez-neoforge-1.2.31+26.1.2.jar",
+    "jar_sha256": "f477c14c7fc5f7080aa3dee11899fc9fc52c3b00a28eaffb81023371df42324e",
+    "nested_jars": [],
+    "resource": "assets/pipez/lang/en_us.json",
+    "mod_ids": [
+      "pipez"
+    ],
+    "resource_sha256": "ef6a09f3a803e454bd9429eb1f6d31facb9641c81086d58017ff5f187d4acfab"
+  }
+}

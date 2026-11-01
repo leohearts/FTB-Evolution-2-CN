@@ -1,0 +1,15 @@
+[
+  "Scannable Reforged",
+  "Scanner Module: Chests",
+  "Detects storage blocks (e.g. chests, barrels, shulker boxes).",
+  "Scanner Module: Spawners",
+  "Detects all spawners by default.\nFilter via right-click on a spawner or mob.\nRight-click air to configure, or use eggs.",
+  "Configured spawners:",
+  "Scanner Module: Lootr",
+  "Detects unopened Lootr loot.\nHides each container once you loot it.",
+  "Lootr mod required",
+  "§7- §f%s§r",
+  "Spawners",
+  "%s (%sm)",
+  "%s Spawner"
+]

@@ -1,0 +1,168 @@
+{
+  "source_jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.24.jar",
+  "language_file": "assets/ftbevolutioncompanion/lang/en_us.json",
+  "entries": {
+    "item.ftb.dynamo_matrix": {
+      "en": "Dynamo Matrix",
+      "zh": "动力矩阵"
+    },
+    "item.ftb.tectonic_ingot": {
+      "en": "Tectonic Ingot",
+      "zh": "地脉锭"
+    },
+    "item.ftb.living_culture": {
+      "en": "Living Culture",
+      "zh": "活体培养物"
+    },
+    "item.ftb.arcane_codex": {
+      "en": "Arcane Codex",
+      "zh": "奥术秘典"
+    },
+    "item.ftb.cognition_array": {
+      "en": "Cognition Array",
+      "zh": "认知阵列"
+    },
+    "item.ftb.stellar_chart": {
+      "en": "Stellar Chart",
+      "zh": "星图"
+    },
+    "item.ftb.abyssal_lens": {
+      "en": "Abyssal Lens",
+      "zh": "深渊透镜"
+    },
+    "item.ftb.soul_covenant": {
+      "en": "Soul Covenant",
+      "zh": "灵魂契约"
+    },
+    "item.ftb.hunt_standard": {
+      "en": "Hunt Standard",
+      "zh": "狩猎旗帜"
+    },
+    "item.ftb.causal_anchor": {
+      "en": "Causal Anchor",
+      "zh": "因果锚"
+    },
+    "item.ftb.hunters_mark": {
+      "en": "Hunter's Mark",
+      "zh": "猎人印记"
+    },
+    "item.ftb.dragon_relic": {
+      "en": "Dragon Relic",
+      "zh": "龙之遗物"
+    },
+    "item.ftb.logic_lattice": {
+      "en": "Logic Lattice",
+      "zh": "逻辑晶格"
+    },
+    "item.ftb.storage_matrix": {
+      "en": "Storage Matrix",
+      "zh": "存储矩阵"
+    },
+    "item.ftb.quantum_alloy_lattice": {
+      "en": "Quantum Alloy Lattice",
+      "zh": "量子合金晶格"
+    },
+    "item.ftb.composite_hull_plating": {
+      "en": "Composite Hull Plating",
+      "zh": "复合外壳板"
+    },
+    "item.ftb.charge_cell": {
+      "en": "Charge Cell",
+      "zh": "充能电池"
+    },
+    "item.ftb.fuel_core": {
+      "en": "Fuel Core",
+      "zh": "燃料核心"
+    },
+    "item.ftb.rune_plate": {
+      "en": "Rune Plate",
+      "zh": "符文板"
+    },
+    "item.ftb.bound_essence": {
+      "en": "Bound Essence",
+      "zh": "束缚精华"
+    },
+    "item.ftb.beast_core": {
+      "en": "Beast Core",
+      "zh": "巨兽核心"
+    },
+    "item.ftb.beast_mind": {
+      "en": "Beast Mind",
+      "zh": "巨兽心智"
+    },
+    "item.ftb.beast_soul": {
+      "en": "Beast Soul",
+      "zh": "巨兽之魂"
+    },
+    "item.ftb.ultradense_antimatter": {
+      "en": "Ultradense Antimatter",
+      "zh": "超致密反物质"
+    },
+    "item.ftb.beast_heart": {
+      "en": "Heart of the Beast",
+      "zh": "巨兽之心"
+    },
+    "block.ftb.beast_trophy": {
+      "en": "Beast Trophy",
+      "zh": "巨兽奖杯"
+    },
+    "block.ftbevolutioncompanion.ftb_skyline": {
+      "en": "FTB Skyline",
+      "zh": "FTB天际号"
+    },
+    "block.ftbevolutioncompanion.ftb_fabricator": {
+      "en": "FTB Fabricator",
+      "zh": "FTB制造机"
+    },
+    "block.ftbevolutioncompanion.challenge_board": {
+      "en": "Challenge Board",
+      "zh": "挑战排行榜"
+    },
+    "block.ftbevolutioncompanion.challenge_board_aux": {
+      "en": "Challenge Board",
+      "zh": "挑战排行榜"
+    },
+    "block.ftbevolutioncompanion.challenge_board.title": {
+      "en": "Feed The Beast",
+      "zh": "Feed The Beast"
+    },
+    "item.ftb.beast_component.part.tooltip": {
+      "en": "Feed The Beast part. Used to make its branch item in the FTB Fabricator.",
+      "zh": "Feed The Beast零件.用于在FTB制造机中制作对应分支组件."
+    },
+    "item.ftb.beast_component.assembly.tooltip": {
+      "en": "Feed The Beast assembly. Used to make the Heart of the Beast.",
+      "zh": "Feed The Beast装配组件.用于制作巨兽之心."
+    },
+    "item.ftb.ultradense_antimatter.tooltip": {
+      "en": "Sixty-four Antimatter compressed into one.",
+      "zh": "将六十四个反物质压缩而成."
+    },
+    "item.ftb.beast_component.first_tier.tooltip": {
+      "en": "Feed The Beast branch item. Made from its branch's parts, and used in the combinations, the assemblies and the Heart of the Beast.",
+      "zh": "Feed The Beast分支组件.由该分支的零件制成,用于组合组件,装配组件和巨兽之心."
+    },
+    "item.ftb.beast_component.second_tier.tooltip": {
+      "en": "Feed The Beast combination. Used in the Beast Core, Beast Mind and Beast Soul.",
+      "zh": "Feed The Beast组合组件. 用于巨兽核心, 巨兽心智和巨兽之魂."
+    },
+    "item.ftb.beast_heart.tooltip": {
+      "en": "The final delivery of Feed The Beast.",
+      "zh": "Feed The Beast的最终交付物."
+    },
+    "block.ftb.beast_trophy.tooltip": {
+      "en": "Awarded to teams that fed the Beast.",
+      "zh": "授予成功喂养巨兽的队伍."
+    }
+  },
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-evolution-companion-26.1.2.24.jar",
+    "jar_sha256": "1ad3dad2ff66277aa807d304964f54441781f656e9a069e732039ded8e924054",
+    "nested_jars": [],
+    "resource": "assets/ftbevolutioncompanion/lang/en_us.json",
+    "mod_ids": [
+      "ftbevolutioncompanion"
+    ],
+    "resource_sha256": "5af400763218c52a5926988be8fa6afcfe5620ef2839f7fa1a65353ce267ed6c"
+  }
+}

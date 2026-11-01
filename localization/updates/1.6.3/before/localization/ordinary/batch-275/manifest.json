@@ -1,0 +1,24 @@
+{
+  "batch": "275",
+  "namespace": "adrenaline",
+  "jar": ".minecraft/mods/adrenaline-26.1.2-1.0.2.jar",
+  "language_path": "assets/adrenaline/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/adrenaline/lang/zh_cn.json",
+  "include_keys": [
+    "message.adrenaline.not_effected",
+    "item.adrenaline.adrenaline_shot"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "d03904ef9cca5d53ef4884e43ea9a720a3182fd8b6968e72fade768942cb9286",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/adrenaline-26.1.2-1.0.2.jar",
+    "jar_sha256": "d03904ef9cca5d53ef4884e43ea9a720a3182fd8b6968e72fade768942cb9286",
+    "nested_jars": [],
+    "resource": "assets/adrenaline/lang/en_us.json",
+    "mod_ids": [
+      "adrenaline"
+    ],
+    "resource_sha256": "8818cc16af9b07a9f0a331cbac72ce409a9de5e232ea6ef7c4ac4d94effa5917"
+  }
+}

@@ -1,0 +1,101 @@
+0	部件
+1	压印法术, 机器与灌注所需的部件.
+2	魔像
+3	制作部件, 组装魔像, 并驾驶它.
+4	使用电路压印机
+5	造一台压印机.它靠红石驱动, 不需要工人.
+6	建造电路压印机
+7	合成一台电路压印机, 在旁边放一个拉杆.你可以在水晶生长期间做这件事; 它不需要灵魂之井.\\n\\n沿着部件条目从碎片做到导体, 再做控制电路.
+8	装填四个凹槽
+9	站在打开的正面, 让铰链朝向自己.对准凹槽底部右键点击, 可放入一件物品.空手右键点击可取回该物品.\\n\\n本书的图案都从这个视角绘制: 左上与右上最靠近铰链.
+10	压印与收取
+11	打开拉杆开始压印.关闭拉杆即打开盖子, 再右键点击收取产出.请在开始下一批之前收走产物.\\n\\n图案错误时材料会完好保留.沿着部件箭头继续制作其他部件, 或制作[法器](entry://anima:codex/components/soul_focus)来施法.
+12	下一步
+13	1. [魂骨碎片](entry://anima:codex/components/soulbone_splinter)
+14	魂骨碎片
+15	把一块魂骨压印成六片碎片.
+16	1. [魂骨导体](entry://anima:codex/components/soulbone_conduit)
+17	魂骨导体
+18	用碎片与红石合成导体.
+19	1. [控制电路](entry://anima:codex/components/control_circuit)
+20	控制电路
+21	把一块蓝色宝石与三个导体压印成控制电路.
+22	开工之前
+23	1. [吹制蓝色宝石](entry://anima:codex/beginnings/gem_mold)
+24	1. [法器](entry://anima:codex/components/soul_focus)\n2. [发射器](entry://anima:codex/components/emitter)\n3. [沉思晶格](entry://anima:codex/components/ponderance_lattice)
+25	法器
+26	用黄色水晶压印法器, 用于施法.
+27	1. [用法器施法](entry://anima:codex/magic/casting)
+28	发射器
+29	为量化器与机器制作发射器.
+30	1. [量化器](entry://anima:codex/components/quantifier)\n2. [引导游离灵魂](entry://anima:codex/advanced/relay)
+31	沉思晶格
+32	吹制黄色宝石, 制作一块沉思晶格.
+33	1. [吹制黄色宝石](entry://anima:codex/beginnings/gem_mold)
+34	1. [建造灌注环](entry://anima:codex/infusion/ritual)\n2. [村庄探测器](entry://anima:codex/components/village_detector)
+35	量化器
+36	需要两个发射器, 一块黄色水晶与一块控制电路.
+37	1. [建造灌注环](entry://anima:codex/infusion/ritual)
+38	石环
+39	把四个石头方块压印成四个石环.
+40	1. [引导游离灵魂](entry://anima:codex/advanced/relay)
+41	灵魂宝石
+42	为瓶装灵魂做一个便携容器.
+43	1. [携带灵魂宝石](entry://anima:codex/magic/soul_gem)
+44	魂骨长矛
+45	可选: 把骷髅掉落的骨头变成魂骨.
+46	可再生的骨头来源
+47	魂骨长矛的战斗属性与铁矛相同, 耐久为 250.\\n\\n当它的击杀本应掉落普通骨头时, 这些掉落会变成魂骨.骷髅没有可抽取的灵魂, 但在这件事上很有用.
+48	村庄探测器
+49	可选: 做一个可重复使用的找村庄工具.
+50	1. [寻找村庄](entry://anima:codex/components/detector)
+51	寻找村庄
+52	寻找村庄时比对距离读数.
+53	寻找村庄
+54	右键点击村庄探测器, 会报告到最近的已生成村庄的水平距离.它不会给出方向或坐标.走一段距离再扫描一次即可比对.\\n\\n它可以重复使用, 冷却两秒.压印图案见 [制作村庄探测器](entry://anima:codex/components/village_detector).
+55	组装魔像部件
+56	造一台魔像部件装配台与一个红石开关.
+57	使用装配台
+58	在两侧的支架上各放一件材料, 顺序不限.给有效配方通电两秒即可组装.配方无效时不会动作.
+59	空手使用可取走支架上的物品.右键点击产出即可收取并重新打开支架, 即使仍在通电.再次脉冲红石可开始下一批.
+60	制作所需部件
+61	沿着相连的部件条目, 依次做出板件, 关节与成品躯体部件.
+62	工具必须完好, 且会被消耗.一个魔像需要头部, 躯干, 双臂与双腿.
+63	1. [制作控制电路](entry://anima:codex/components/control_circuit)\n2. [制作中继器](entry://anima:codex/advanced/relay)
+64	1. [制作凝聚石板](entry://anima:codex/golems/condensed_stone_plate)
+65	制作凝聚石板
+66	把四个石头方块压成一块石板.
+67	1. [制作魔像装甲板](entry://anima:codex/golems/golem_armored_plate)\n2. [制作魔像目镜](entry://anima:codex/golems/golem_oculus)
+68	制作魔像装甲板
+69	用铁加固石板.
+70	1. [制作魔像推进器](entry://anima:codex/golems/golem_thrust_unit)\n2. [制作魔像关节](entry://anima:codex/golems/golem_joint)
+71	制作魔像关节
+72	把三块石板与一个活塞合成.
+73	1. [制作魔像肩甲](entry://anima:codex/golems/golem_shoulder)\n2. [制作魔像腿部](entry://anima:codex/golems/golem_leg)
+74	制作魔像肩甲
+75	为两条手臂各做一个肩甲.
+76	1. [制作装甲板](entry://anima:codex/golems/golem_armored_plate)
+77	1. [制作魔像臂部](entry://anima:codex/golems/golem_arm)
+78	制作魔像目镜
+79	用两块黄色宝石与一块控制电路做出眼睛.
+80	1. [吹制黄色宝石](entry://anima:codex/beginnings/gem_mold)
+81	1. [制作魔像头部](entry://anima:codex/golems/golem_head)
+82	制作魔像推进器
+83	为核心组装推进器.
+84	1. [制作魔像核心](entry://anima:codex/golems/golem_core)
+85	制作魔像核心
+86	给推进器加上量化器, 箱子与石板.
+87	1. [制作量化器](entry://anima:codex/components/quantifier)
+88	1. [制作魔像躯干](entry://anima:codex/golems/golem_torso)
+89	制作魔像头部
+90	用一个目镜, 两块装甲板与一个铁砧做出头部.
+91	1. [组装你的魔像](entry://anima:codex/advanced/golems)
+92	制作魔像躯干
+93	用一个核心与三块装甲板做出躯干.
+94	制作魔像臂部
+95	做两条手臂.每条消耗一把完好的铁镐.
+96	制作须知
+97	每个魔像需要两条手臂.铁镐必须完好, 并在组装时被消耗.
+98	制作魔像腿部
+99	用装甲板与关节做两条腿.
+100	每个魔像需要两条腿.

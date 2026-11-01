@@ -1,0 +1,25 @@
+{
+  "batch": "281",
+  "namespace": "euphoria_patcher",
+  "jar": ".minecraft/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+  "language_path": "assets/euphoria_patcher/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/euphoria_patcher/lang/zh_cn.json",
+  "include_keys": [
+    "euphoria_patcher.donation.line2.highlight"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Euphoria Patches"
+  ],
+  "jar_sha256": "fe64a1fad6b6f39a95f22ea6ba9506b712e36b96c46b80f1cf38fe144900a4b2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+    "jar_sha256": "fe64a1fad6b6f39a95f22ea6ba9506b712e36b96c46b80f1cf38fe144900a4b2",
+    "nested_jars": [],
+    "resource": "assets/euphoria_patcher/lang/en_us.json",
+    "mod_ids": [
+      "euphoria_patcher"
+    ],
+    "resource_sha256": "bec081724682cfcfea264b72fcbbd36297829c1ade82bf97b98ba5e3fb52b084"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "batch": "305",
+  "namespace": "evilcraftcompat",
+  "jar": ".minecraft/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+  "language_path": "assets/evilcraftcompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/evilcraftcompat/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.evilcraftcompat.mod_integrations",
+    "info_book.evilcraftcompat.mod_integrations.baubles",
+    "info_book.evilcraftcompat.mod_integrations.baubles.text",
+    "info_book.evilcraftcompat.mod_integrations.blood_magic",
+    "info_book.evilcraftcompat.mod_integrations.blood_magic.text",
+    "info_book.evilcraftcompat.mod_integrations.ee3",
+    "info_book.evilcraftcompat.mod_integrations.ee3.text",
+    "info_book.evilcraftcompat.mod_integrations.forestry",
+    "info_book.evilcraftcompat.mod_integrations.forestry.text",
+    "info_book.evilcraftcompat.mod_integrations.enderio",
+    "info_book.evilcraftcompat.mod_integrations.enderio.text",
+    "info_book.evilcraftcompat.mod_integrations.ic2",
+    "info_book.evilcraftcompat.mod_integrations.ic2.text",
+    "info_book.evilcraftcompat.mod_integrations.jei",
+    "info_book.evilcraftcompat.mod_integrations.jei.text",
+    "info_book.evilcraftcompat.mod_integrations.immersiveengineering",
+    "info_book.evilcraftcompat.mod_integrations.immersiveengineering.text",
+    "info_book.evilcraftcompat.mod_integrations.thermal_expansion",
+    "info_book.evilcraftcompat.mod_integrations.thermal_expansion.text",
+    "info_book.evilcraftcompat.mod_integrations.thaumcraft",
+    "info_book.evilcraftcompat.mod_integrations.thaumcraft.text",
+    "info_book.evilcraftcompat.mod_integrations.tinkers_construct",
+    "info_book.evilcraftcompat.mod_integrations.tinkers_construct.text",
+    "info_book.evilcraftcompat.mod_integrations.jade",
+    "info_book.evilcraftcompat.mod_integrations.jade.text"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Baubles",
+    "Just Enough Items",
+    "Jade"
+  ],
+  "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
+    "nested_jars": [],
+    "resource": "assets/evilcraftcompat/lang/en_us.json",
+    "mod_ids": [
+      "evilcraft",
+      "evilcraftcompat"
+    ],
+    "resource_sha256": "ecafee1f50080a822e1e89ed3909cef96face2e2206a81d597e6ae3e95e27140"
+  }
+}

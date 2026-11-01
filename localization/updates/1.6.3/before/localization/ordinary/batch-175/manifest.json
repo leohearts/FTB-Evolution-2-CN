@@ -1,0 +1,25 @@
+{
+  "batch": "175",
+  "namespace": "bhc",
+  "jar": ".minecraft/mods/baubley-heart-canisters-26.1.2-1.7.3.jar",
+  "language_path": "assets/bhc/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/bhc/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.bhc.drop_info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s: %s%%"
+  ],
+  "jar_sha256": "a00d51701bb4b7d4f5ef281d3aaa59f70eddfe3d46a850e4f980f37e0e6b6fd6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/baubley-heart-canisters-26.1.2-1.7.3.jar",
+    "jar_sha256": "a00d51701bb4b7d4f5ef281d3aaa59f70eddfe3d46a850e4f980f37e0e6b6fd6",
+    "nested_jars": [],
+    "resource": "assets/bhc/lang/en_us.json",
+    "mod_ids": [
+      "bhc"
+    ],
+    "resource_sha256": "118fdf2ff34fd65d215dd64b09d65a1d52785b2a46f76f5003926b567c483ea2"
+  }
+}

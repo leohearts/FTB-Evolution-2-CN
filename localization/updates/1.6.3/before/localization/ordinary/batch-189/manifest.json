@@ -1,0 +1,35 @@
+{
+  "batch": "189",
+  "namespace": "toolbelt",
+  "jar": ".minecraft/mods/ToolBelt-26.1.2-2.9.5.jar",
+  "language_path": "assets/toolbelt/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/toolbelt/lang/zh_cn.json",
+  "include_keys": [
+    "text.toolbelt.config.category.common_general",
+    "text.toolbelt.config.category.client_display",
+    "text.toolbelt.config.category.client_menu",
+    "text.toolbelt.config.enable_sewing_kit_support",
+    "text.toolbelt.config.anvil_upgrading",
+    "text.toolbelt.config.enable_grid_crafting",
+    "text.toolbelt.config.custom_belt_slot_mode",
+    "text.toolbelt.config.show_belt_on_players",
+    "text.toolbelt.config.belt_item_scale",
+    "text.toolbelt.config.release_to_swap",
+    "text.toolbelt.config.clip_mouse_to_circle",
+    "text.toolbelt.config.click_outside_bounds",
+    "text.toolbelt.config.display_empty_slots"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ToolBelt-26.1.2-2.9.5.jar",
+    "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
+    "nested_jars": [],
+    "resource": "assets/toolbelt/lang/en_us.json",
+    "mod_ids": [
+      "toolbelt"
+    ],
+    "resource_sha256": "ac5f07c4506f6069c2570402a8f70ebb37f2a61cdc2358355743e8049124a4f6"
+  }
+}

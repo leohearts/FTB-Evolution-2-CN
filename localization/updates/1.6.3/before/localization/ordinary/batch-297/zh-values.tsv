@@ -1,0 +1,43 @@
+0	亲和
+1	亲和是某种意义上的魔法元素.除少数极强大, 能扭曲现实的部件外, 所有法术部件都带有与之关联的亲和.这意味着, 如果你大量使用某一亲和法术, 你的亲和就会向该元素偏移.
+2	向某个亲和偏移会带来独特的副作用, 称为能力.每种亲和的能力各不相同.你可以在各亲和的专门章节中了解这些能力.$(br2)若想查看当前的亲和偏移情况, 可在$(l:blocks/occulus)洞察之眼$()的亲和页面中查看.
+3	当你在某个亲和中完全偏移后, 亲和就会被锁定.这意味着当前的亲和偏移将永久固定, 无法更改.$(br2)再次解锁的唯一方法是使用$(l:items/affinity_tome)亲和典籍$().
+4	每种亲和还有一种亲和精华, 用于该类亲和法术部件的中间合成.亲和精华只能从首领处获得, 但之后可以通过合成复制.
+5	空气亲和与跳跃, 飞行和坠落相关.此类部件多使用效果, 例如$(l:components/jump_boost)跳跃提升$(), $(l:components/levitation)漂浮$()或$(l:components/slow_falling)缓降$().
+6	奥术亲和与魔力, 附魔和诡术相关.奥术部件大多属于间接攻击, 例如$(l:components/invisibility)隐身$(), $(l:components/disarm)缴械$()和$(l:components/mana_drain)魔力汲取$().
+7	大地亲和与挖掘, 防护和物理攻击相关.大地部件通常带有某种物理交互, 例如$(l:components/physical_damage)物理伤害$(), $(l:components/dig)挖掘$()或$(l:components/shield)护盾$().
+8	末影亲和与传送, 黑暗和夜晚相关.末影部件最为强大, 但也最为昂贵, 例如$(l:components/blindness)失明$(), $(l:components/astral_distortion)星界扭曲$()和$(l:components/transplace)换位$().
+9	火焰亲和与岩浆, 爆炸和下界相关.火焰部件多为攻击类, 例如$(l:components/fire_damage)火焰伤害$(), $(l:components/ignition)点燃$()或$(l:components/explosion)爆炸$().
+10	冰霜亲和与雪, 霜冻和缓慢相关.常见的例子有$(l:components/frost_damage)冰霜伤害$(), $(l:components/frost)霜冻$()和$(l:components/slowness)缓慢$().
+11	生命亲和与治疗, 复活和对抗亡灵相关.它们通常属于防御类, 例如$(l:components/heal)治疗$(), $(l:components/regeneration)生命恢复$()和$(l:components/summon)召唤$().
+12	闪电亲和与速度, 力量和天气相关.显著的例子有$(l:components/lightning_damage)闪电伤害$(), $(l:components/haste)急迫$()和$(l:components/storm)风暴$().
+13	自然亲和与吸引, 生长和收获相关.因此最常见的部件是$(l:components/attract)吸引$(), $(l:components/grow)催熟$()和$(l:components/harvest)收获$().
+14	水亲和与游泳, 溺水和药水相关.因此其部件常用效果, 例如$(l:components/water_breathing)水下呼吸$(), $(l:components/swift_swim)迅捷游泳$()或$(l:components/watery_grave)水之坟墓$().
+15	使$(l:shapes/projectile)法术投射物$()在表面上反弹.
+16	该修饰可改变法术部件的粒子颜色.想要绿色火球? 尽管来!$(br2)颜色在法术制作时确定.添加修饰时选择你想要的颜色.若想更改颜色, 再次右键点击该修饰即可.法术制作完成后颜色就无法更改了!
+17	增强法术造成的伤害, 或伤害类法术对亡灵的治愈量.
+18	你太喜欢纪念品了, 甚至研究出让伤害法术留下一些完整部件的方法.$(br2)每添加一个修饰, 击败敌人时掉落头颅的几率增加 5%%.
+19	延长所有效果类法术的持续时间, 并增加以下法术形态的存续时间: $(l:shapes/projectile)投射物$(), $(l:shapes/wall)墙$(), $(l:shapes/wave)波$()和$(l:shapes/zone)区域.
+20	你可以为效果注入更多力量.每添加一个修饰, 所施加效果的等级提高一级.
+21	$(l:shapes/zone)区域$()和$(l:shapes/projectile)投射物$()将受重力影响.
+22	增强法术的治疗量, 或治疗类法术对亡灵造成的伤害.
+23	在夜间为法术充能.越接近午夜, 法术造成的$(l:modifiers/damage)伤害$()和$(l:modifiers/healing)治疗$()越高.$(l:modifiers/duration)持续时间$()和$(l:modifiers/range)范围$()也会随月相在适用时提升 (越接近满月越强).$(br2)由于夜晚不如白昼漫长, 月华比$(l:modifiers/solar)日光$()更为强力.
+24	你学会了为挖掘法术注入更多力量, 使其能挖动原本需要更好工具的高密度方块.$(br2)每个修饰使法术的工具等级提高一级.$(br2)基础的$(l:components/dig)挖掘$()部件按铁质工具等级运作.
+25	法术修饰
+26	使$(l:shapes/projectile)投射物$()能够穿透生物和方块.
+27	幸运降临!你可以让挖掘法术更容易额外掉落矿石, 也能让伤害法术更容易使敌人掉落更好的战利品.$(br2)每添加一个修饰, 相当于为法术附加一级时运/抢夺.
+28	增加多种法术的范围/尺寸.
+29	增加$(l:shapes/rune)符文$()在被破坏前可生效的次数.
+30	力量越大, 越容易弄坏宝贝.$(br2)你学会了在施放挖掘法术时更加小心, 减少破坏的次数.$(br2)每个修饰相当于为法术附加一级精准采集.
+31	在白天为法术充能.越接近正午, 法术造成的$(l:modifiers/damage)伤害$()和$(l:modifiers/healing)治疗$()越高.$(l:modifiers/duration)持续时间$()和$(l:modifiers/range)范围$()也会随月相在适用时提升 (越接近新月越强).
+32	使法术可以作用于非固体方块 (草, 水, 岩浆), 而不是直接穿过.
+33	增强法术改变速度的效果, 尤其是$(l:shapes/projectile)投射物$()的速度.
+34	你的亲和获取量提升 5%%.
+35	你的所有法术都获得少许增强.伤害高一点, 持续久一点, 速度快一点, 各方面都好一点.
+36	使用$(l:components/summon)召唤$()生物时, 可以多召出几只.
+37	你的魔力再生提升 5%%.
+38	你的魔力再生提升 10%%.此效果取代$(l:talents/mana_regen_1)魔力再生 I$()的提升.
+39	你的魔力再生提升 15%%.此效果取代$(l:talents/mana_regen_1)魔力再生 I$()和$(l:talents/mana_regen_2)魔力再生 II$()的提升.
+40	天赋
+41	当魔力条充满时, 溢出的再生魔力会化为护盾, 为你抵挡所受伤害的 5%%.
+42	通过操控身边的气流, 你找到了在施法时以正常速度移动的方法.

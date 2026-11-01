@@ -1,0 +1,48 @@
+{
+  "batch": "245",
+  "namespace": "modonomicon",
+  "jar": ".minecraft/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+  "language_path": "assets/modonomicon/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/modonomicon/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.modonomicon.modonomicon",
+    "key.modonomicon.open_associated_entry",
+    "modonomicon.configuration.associatedItemsHoldDurationMs",
+    "modonomicon.configuration.associatedItemsHoldDurationMs.tooltip",
+    "modonomicon.configuration.debug",
+    "modonomicon.configuration.debugOverlay",
+    "modonomicon.configuration.debugOverlay.tooltip",
+    "modonomicon.configuration.enableSmoothZoom.tooltip",
+    "modonomicon.configuration.fontFallbackLocales.tooltip",
+    "modonomicon.configuration.pauseGameWhenOpen",
+    "modonomicon.configuration.pauseGameWhenOpen.tooltip",
+    "modonomicon.configuration.showRecipeLookupHints",
+    "modonomicon.configuration.showRecipeLookupHints.tooltip",
+    "modonomicon.configuration.showResearchToasts",
+    "modonomicon.configuration.showResearchToasts.tooltip",
+    "modonomicon.configuration.storeLastOpenPageWhenClosingEntry.tooltip",
+    "modonomicon.gui.hover.book_link_locked",
+    "tooltip.modonomicon.associated.hold_to_open",
+    "tooltip.modonomicon.associated.locked",
+    "tooltip.modonomicon.fluid.amount",
+    "tooltip.modonomicon.fluid.amount_and_capacity"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Modonomicon",
+    "%s.\n%s",
+    "%s mb",
+    "%s / %s mb"
+  ],
+  "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+    "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+    "nested_jars": [],
+    "resource": "assets/modonomicon/lang/en_us.json",
+    "mod_ids": [
+      "modonomicon"
+    ],
+    "resource_sha256": "16c8722cf799424271b09566908e42a41b26b03bd0aad04591f57a1994689368"
+  }
+}

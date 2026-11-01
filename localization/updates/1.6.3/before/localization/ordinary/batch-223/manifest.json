@@ -1,0 +1,29 @@
+{
+  "batch": "223",
+  "namespace": "bettercaves",
+  "jar": ".minecraft/mods/YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
+  "language_path": "assets/bettercaves/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/bettercaves/lang/zh_cn.json",
+  "include_keys": [
+    "text.autoconfig.bettercaves-fabric-26_1.title",
+    "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions",
+    "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.liquidRegionSize",
+    "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.waterRegionSpawnChance",
+    "text.autoconfig.bettercaves-fabric-26_1.option.general.liquidRegions.liquidAltitude"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "YUNG's Better Caves"
+  ],
+  "jar_sha256": "f4859891f880097b9f68164e3d10d251c037d9f6d1d9f72a9156bc5f9dc5a019",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
+    "jar_sha256": "f4859891f880097b9f68164e3d10d251c037d9f6d1d9f72a9156bc5f9dc5a019",
+    "nested_jars": [],
+    "resource": "assets/bettercaves/lang/en_us.json",
+    "mod_ids": [
+      "bettercaves"
+    ],
+    "resource_sha256": "3715545acd4a7a083ceeaa962128bf8f259fb31b811ef591976a7a1b8622f233"
+  }
+}

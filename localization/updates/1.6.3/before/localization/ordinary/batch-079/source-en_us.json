@@ -1,0 +1,8 @@
+{
+  "config.jade.plugin_dimstorage.dim_block_base": "Enable custom visualization for DimChest",
+  "config.jade.plugin_dimstorage.dim_tank": "Enable custom visualization for DimTank",
+  "message.dimstorage.bind_dimchest": "right click to bind a DimChest",
+  "message.dimstorage.for_details": "for details",
+  "message.dimstorage.hold": "Hold",
+  "message.dimstorage.press": "Press"
+}

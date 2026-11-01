@@ -1,0 +1,45 @@
+{
+  "batch": "132",
+  "namespace": "emojiful",
+  "jar": ".minecraft/mods/Emojiful-Neoforge-26.1.2-5.3.2.jar",
+  "language_path": "assets/emojiful/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/emojiful/lang/zh_cn.json",
+  "include_keys": [
+    "emojiful.midnightconfig.title",
+    "emojiful.midnightconfig.enableRenderEmoji",
+    "emojiful.midnightconfig.renderEmoji",
+    "emojiful.midnightconfig.showEmojiSelector",
+    "emojiful.midnightconfig.emojiSelector",
+    "emojiful.midnightconfig.emojiAutocomplete",
+    "emojiful.midnightconfig.loadGifEmojis",
+    "emojiful.midnightconfig.gifEmojis",
+    "emojiful.midnightconfig.shortEmojiReplacement",
+    "emojiful.midnightconfig.emojiReplacement",
+    "emojiful.midnightconfig.emojiTypes",
+    "emojiful.midnightconfig.loadTwemoji",
+    "emojiful.midnightconfig.enableLoadTwemoji",
+    "emojiful.midnightconfig.enableLoadCustom",
+    "emojiful.midnightconfig.loadCustom",
+    "emojiful.midnightconfig.enableLoadDatapack",
+    "emojiful.midnightconfig.loadDatapack",
+    "emojiful.midnightconfig.enableProfanityFilter",
+    "emojiful.midnightconfig.profanityFilter",
+    "emojiful.midnightconfig.profanityFilterString",
+    "emojiful.midnightconfig.profanityFilterReplacement"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Emojiful"
+  ],
+  "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Emojiful-Neoforge-26.1.2-5.3.2.jar",
+    "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
+    "nested_jars": [],
+    "resource": "assets/emojiful/lang/en_us.json",
+    "mod_ids": [
+      "emojiful"
+    ],
+    "resource_sha256": "5a768643db272b823180f2ea5c3a7e70a79887bc86b971e16488d76fbb6dafa0"
+  }
+}

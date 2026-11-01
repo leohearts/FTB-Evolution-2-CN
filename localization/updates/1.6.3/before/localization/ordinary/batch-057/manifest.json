@@ -1,0 +1,25 @@
+{
+  "batch": "057",
+  "namespace": "powah",
+  "jar": ".minecraft/mods/Powah-7.0.4-alpha.jar",
+  "language_path": "assets/powah/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/powah/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.powah.tab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Powah"
+  ],
+  "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Powah-7.0.4-alpha.jar",
+    "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
+    "nested_jars": [],
+    "resource": "assets/powah/lang/en_us.json",
+    "mod_ids": [
+      "powah"
+    ],
+    "resource_sha256": "611f4e5bd92f347b3a554cf392a4c4ceb2fb94329ddd7be829aaa2760308a6c8"
+  }
+}

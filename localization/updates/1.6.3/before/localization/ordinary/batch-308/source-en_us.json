@@ -1,0 +1,18 @@
+{
+  "item.occultcooking.guide": "Occult Cooking Guide",
+  "occultcooking.guide.landing": "Welcome!$(br2)$(2)Occult Cooking$() connects your $(6)Cooking for Blockheads$() kitchen with $(5)Occultism$(), letting you cook straight from your storage network.",
+  "category.occultcooking.name": "Occult Cooking",
+  "category.occultcooking.description": "A mod that allows you to use items from your $(5)Occultism$() storage network directly in your $(6)Cooking for Blockheads$() kitchen multi-block!$(br2)One new block is added to Minecraft.",
+  "entry.occultcooking.kitchenstation.name": "Occult Kitchen Station",
+  "entry.occultcooking.kitchenstation.intro": "The $(l)Occult Kitchen Station$() is the one block you need to bridge $(6)Cooking for Blockheads$() with $(5)Occultism$().$(br2)Placed in your kitchen, it hands your whole $(5)storage network$() to the Cooking Table: every stored item becomes an ingredient.$(br2)Craft it, link it, and drop it into your kitchen. Here's how.",
+  "entry.occultcooking.kitchenstation.craft": "Craft the $(l)Occult Kitchen Station$() as shown.$(br2)Straight out of the grid it isn't tied to anything yet, the next step links it to your $(5)Dimensional Storage Actuator$() so it knows where to pull from.",
+  "entry.occultcooking.kitchenstation.link.title": "Linking It",
+  "entry.occultcooking.kitchenstation.link": "You link the Station to a $(5)Dimensional Storage Actuator$(), the heart of an Occultism storage system.$(br2)$(l)Sneak-right-click$() the Actuator with the Station in hand and it comes back $(2)linked$().$(br2)The link is saved on the block itself, so the Station keeps reaching the network from any distance, even another dimension, as long as the Actuator's chunk stays loaded.",
+  "entry.occultcooking.kitchenstation.placement.title": "In The Kitchen",
+  "entry.occultcooking.kitchenstation.placement": "An example kitchen layout. Tap the eye to preview it in the world.",
+  "entry.occultcooking.kitchenstation.states.title": "Reading the Screen",
+  "entry.occultcooking.kitchenstation.states": "The Station's screen tells you its status at a glance.$(br2)A $(b)teal glow$() means it's $(2)online$(), the Cooking Table can now cook with everything in your $(5)storage network$().$(br2)A $(4)red-amber$() screen means it's $(l)linked$() to an Actuator but can't reach it right now, usually because the Actuator's chunk isn't loaded.$(br2)A $(8)dark$() screen means it isn't linked at all, sneak-right-click a $(5)Dimensional Storage Actuator$() to link it.",
+  "entry.occultcooking.kitchenstation.connected.title": "Connected",
+  "entry.occultcooking.kitchenstation.linkedoffline.title": "Linked, Offline",
+  "entry.occultcooking.kitchenstation.disconnected.title": "Disconnected"
+}

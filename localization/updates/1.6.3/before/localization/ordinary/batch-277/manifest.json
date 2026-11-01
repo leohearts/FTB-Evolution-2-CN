@@ -1,0 +1,27 @@
+{
+  "batch": "277",
+  "namespace": "patchouli",
+  "jar": ".minecraft/mods/patchouli-neoforge-26.1-94.jar",
+  "language_path": "assets/patchouli/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/patchouli/lang/zh_cn.json",
+  "include_keys": [
+    "patchouli.gui.lexicon.visualize_letter",
+    "patchouli.gui.lexicon.button.resize.verybig.container"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "V",
+    "%s?"
+  ],
+  "jar_sha256": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/patchouli-neoforge-26.1-94.jar",
+    "jar_sha256": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
+    "nested_jars": [],
+    "resource": "assets/patchouli/lang/en_us.json",
+    "mod_ids": [
+      "patchouli"
+    ],
+    "resource_sha256": "6d43cd7ae10bf8e3ca3699de943b0392bbdb51dff5f98eb60f20506451cccca3"
+  }
+}

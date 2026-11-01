@@ -1,0 +1,49 @@
+{
+  "batch": "336",
+  "namespace": "tinymultiblocklib",
+  "jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+  "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+  "language_path": "assets/tinymultiblocklib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tinymultiblocklib/lang/zh_cn.json",
+  "include_keys": [
+    "tinymultiblocklib.configuration.title",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml.title",
+    "tinymultiblocklib.configuration.section.tinymultiblocklib.client.toml",
+    "tinymultiblocklib.configuration.disable_multiblock_previews",
+    "tinymultiblocklib.configuration.disable_multiblock_previews.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Tiny Multiblock Lib"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+    "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+        "sha256": "290fa6210f0735dbabffeb947e1fe894fa2a66ca8245e690dc3710a7ba928c78"
+      },
+      {
+        "path": "META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+        "sha256": "b9f49317f9dbbd96812ee37d73a77bfb7f2762970ec30d85faf586fba6794b37"
+      }
+    ],
+    "resource": "assets/tinymultiblocklib/lang/en_us.json",
+    "mod_ids": [
+      "starcatcher"
+    ],
+    "resource_sha256": "46f77530c83302f8d05215688f9fe01828d81efdf7354b3d449fab7ca12d0ae8"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+      "sha256": "290fa6210f0735dbabffeb947e1fe894fa2a66ca8245e690dc3710a7ba928c78"
+    },
+    {
+      "path": "META-INF/jarjar/tiny-multiblock-lib-neo-26.1-3.1.jar",
+      "sha256": "b9f49317f9dbbd96812ee37d73a77bfb7f2762970ec30d85faf586fba6794b37"
+    }
+  ]
+}

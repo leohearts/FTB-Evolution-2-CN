@@ -1,0 +1,11 @@
+{
+  "item.hephaestus_tools.paxel": "Paxel",
+  "layout.hephaestus_tools.paxel": "Paxel",
+  "layout.hephaestus_tools.paxel.description": "A pickaxe, shovel and axe in one tool. Breaks almost anything.",
+  "mastery.hephaestus_tools.pathfinder": "Pathfinder",
+  "mastery.hephaestus_tools.pathfinder.desc": "Faster on stone, logs and earth; later saves durability and rewards continuous use.",
+  "mastery.hephaestus_tools.trailblazer": "Trailblazer",
+  "mastery.hephaestus_tools.trailblazer.desc": "Digs dirt, sand, gravel and clay in an area; at Lv30 sneak to dig a straight tunnel instead.",
+  "mastery.hephaestus_tools.frontier": "Frontier",
+  "mastery.hephaestus_tools.frontier.desc": "Balanced gathering bonus; later saves durability, gives light extra drops and rewards streaks."
+}

@@ -1,0 +1,10 @@
+[
+  "Requester",
+  "Save",
+  "Crafting Emitter",
+  "Emits a Redstone Signal when the specified amount of an item/fluid is being processed.",
+  "Keeps a specified amount of an item/fluid in stock.",
+  "The resources that should be kept in stock in the storage network",
+  "The resources that should emit a redstone signal",
+  "RSRequestify: Reforged"
+]

@@ -1,0 +1,24 @@
+{
+  "batch": "207",
+  "namespace": "trashslot",
+  "jar": ".minecraft/mods/trashslot-neoforge-26.1.2-26.1.2.4.jar",
+  "language_path": "assets/trashslot/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/trashslot/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.trashslot.destroy_item",
+    "tooltip.trashslot.trash_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "f97b67194a60abda5c750d704232ccc8a4753426b1ac5ae31e2a5915cc7f1994",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "jar_sha256": "f97b67194a60abda5c750d704232ccc8a4753426b1ac5ae31e2a5915cc7f1994",
+    "nested_jars": [],
+    "resource": "assets/trashslot/lang/en_us.json",
+    "mod_ids": [
+      "trashslot"
+    ],
+    "resource_sha256": "3195681aba176c2be2c84f1da6a4217e246fc3725fc67878e9566da9878d9e42"
+  }
+}

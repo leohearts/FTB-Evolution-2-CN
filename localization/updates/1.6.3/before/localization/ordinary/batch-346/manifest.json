@@ -1,0 +1,27 @@
+{
+  "batch": "346",
+  "namespace": "stellaris",
+  "jar": ".minecraft/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
+  "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
+  "language_path": "assets/stellaris/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
+    "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
+    "nested_jars": [],
+    "resource": "assets/stellaris/lang/en_us.json",
+    "mod_ids": [
+      "stellaris"
+    ],
+    "resource_sha256": "7af3f3e0d27180b25f8b91aebeacf9153ced56833b88890f847a67f9e12cf0c7"
+  },
+  "target": ".minecraft/kubejs/assets/stellaris/lang/zh_cn.json",
+  "include_keys": [
+    "config.stellaris.foodConfig",
+    "config.stellaris.fluidCellWaterPerCan",
+    "config.stellaris.foodConfig.desc",
+    "config.stellaris.foodConfig.fluidCellWaterPerCan.desc"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

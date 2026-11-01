@@ -1,0 +1,9 @@
+{
+  "block.functionalstorage.pale_oak_1": "Pale Oak Drawer (1x1)",
+  "block.functionalstorage.pale_oak_2": "Pale Oak Drawer (1x2)",
+  "block.functionalstorage.pale_oak_4": "Pale Oak Drawer (2x2)",
+  "gui.functionalstorage.fluid_drawer_hint": "Fluid Drawer",
+  "gui.functionalstorage.fluid_drawer_hint.empty": "%s: Empty container into drawer",
+  "gui.functionalstorage.fluid_drawer_hint.fill": "%s: Fill container from drawer",
+  "gui.functionalstorage.priority": "Priority"
+}

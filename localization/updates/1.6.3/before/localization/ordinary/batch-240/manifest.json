@@ -1,0 +1,60 @@
+{
+  "batch": "240",
+  "namespace": "sky_aesthetics",
+  "jar": ".minecraft/mods/sky_aesthetics-neoforge-2.2.0.jar",
+  "language_path": "assets/sky_aesthetics/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sky_aesthetics/lang/zh_cn.json",
+  "include_keys": [
+    "sky_aesthetics.pause_menu.sky_modification_screen",
+    "sky_aesthetics.toast.error.title",
+    "sky_aesthetics.toast.error.description",
+    "sky_aesthetics.toast.success.title",
+    "sky_aesthetics.toast.success.description",
+    "key.sky_aesthetics.open_editor",
+    "key.category.sky_aesthetics.editor",
+    "sky_aesthetics.editor.title",
+    "sky_aesthetics.editor.tab.basic",
+    "sky_aesthetics.editor.tab.clouds",
+    "sky_aesthetics.editor.tab.fog",
+    "sky_aesthetics.editor.tab.sun",
+    "sky_aesthetics.editor.tab.moon",
+    "sky_aesthetics.editor.tab.stars",
+    "sky_aesthetics.editor.tab.objects",
+    "sky_aesthetics.editor.tab.skybox",
+    "sky_aesthetics.editor.tab.colors",
+    "sky_aesthetics.editor.tab.light",
+    "sky_aesthetics.editor.sidebar.add",
+    "sky_aesthetics.editor.sidebar.duplicate",
+    "sky_aesthetics.editor.sidebar.remove",
+    "sky_aesthetics.editor.action.preview",
+    "sky_aesthetics.editor.action.preview_stop",
+    "sky_aesthetics.editor.action.peek",
+    "sky_aesthetics.editor.action.export",
+    "sky_aesthetics.editor.action.docs",
+    "sky_aesthetics.editor.peek.hint",
+    "sky_aesthetics.editor.export.title",
+    "sky_aesthetics.editor.export.name",
+    "sky_aesthetics.editor.export.description",
+    "sky_aesthetics.editor.color.title",
+    "sky_aesthetics.editor.confirm.title",
+    "sky_aesthetics.editor.confirm.message",
+    "config.sky_aesthetics.disableCustomCloud",
+    "config.sky_aesthetics.disableCustomWeather",
+    "config.sky_aesthetics.disabledSkies"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Sky Aesthetics"
+  ],
+  "jar_sha256": "7fbaa001df7ed703415645f9f9149f5206bd1ae4dc73cfe317535d7ae06a150d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sky_aesthetics-neoforge-2.2.0.jar",
+    "jar_sha256": "7fbaa001df7ed703415645f9f9149f5206bd1ae4dc73cfe317535d7ae06a150d",
+    "nested_jars": [],
+    "resource": "assets/sky_aesthetics/lang/en_us.json",
+    "mod_ids": [
+      "sky_aesthetics"
+    ],
+    "resource_sha256": "c6546e1051a567196643a27a7f0053b7d987aa984f35206daf1775a3edabaa2a"
+  }
+}

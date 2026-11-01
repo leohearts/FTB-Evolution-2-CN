@@ -1,0 +1,34 @@
+{
+  "batch": "218",
+  "namespace": "betterstrongholds",
+  "jar": ".minecraft/mods/YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar",
+  "language_path": "assets/betterstrongholds/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betterstrongholds/lang/zh_cn.json",
+  "include_keys": [
+    "Use /locate structure betterstrongholds:stronghold instead!",
+    "text.autoconfig.betterstrongholds-fabric-1_21.title",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.@Tooltip",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance",
+    "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "YUNG's Better Strongholds"
+  ],
+  "jar_sha256": "86b970528f70e5fe019779a3c0ef6ddf07f476cd308640a675b1ea8514d9f22d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsBetterStrongholds-26.1.2-NeoForge-6.1.1.jar",
+    "jar_sha256": "86b970528f70e5fe019779a3c0ef6ddf07f476cd308640a675b1ea8514d9f22d",
+    "nested_jars": [],
+    "resource": "assets/betterstrongholds/lang/en_us.json",
+    "mod_ids": [
+      "betterstrongholds"
+    ],
+    "resource_sha256": "94ae9d1bf3fe32f1a90e81db9a055efe7069a6da0311b97662f9c134c12382ae"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "batch": "226",
+  "namespace": "jupiter",
+  "jar": ".minecraft/mods/jupiter-2.4.3-26.1.2-universal.jar",
+  "language_path": "assets/jupiter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/jupiter/lang/zh_cn.json",
+  "include_keys": [
+    "jupiter.config_source.cloth_config",
+    "jupiter.config_source.jupiter",
+    "jupiter.config_source.night_config"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cloth",
+    "Jupiter",
+    "(Neo)Forge"
+  ],
+  "jar_sha256": "fc2f273c02788c5ff6736439de8cef9a7eb2662f768e8ee1ac23c57323ee740c",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jupiter-2.4.3-26.1.2-universal.jar",
+    "jar_sha256": "fc2f273c02788c5ff6736439de8cef9a7eb2662f768e8ee1ac23c57323ee740c",
+    "nested_jars": [],
+    "resource": "assets/jupiter/lang/en_us.json",
+    "mod_ids": [
+      "jupiter"
+    ],
+    "resource_sha256": "5d40cf0551e885d710f6617cdad11b4a3db814af2ab0a1314d7c6bfa3346f361"
+  }
+}

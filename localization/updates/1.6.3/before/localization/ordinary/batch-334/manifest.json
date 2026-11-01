@@ -1,0 +1,35 @@
+{
+  "batch": "334",
+  "namespace": "spectrelib",
+  "jar": ".minecraft/mods/comforts-neoforge-15.0.0+26.1.2.jar",
+  "jar_sha256": "23b7a63b3729dc590174ca0ca5740c22ddc93718ead6fa579a921d3e7fa5ac83",
+  "language_path": "assets/spectrelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/spectrelib/lang/zh_cn.json",
+  "include_keys": [
+    "spectrelib.networking.failed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/comforts-neoforge-15.0.0+26.1.2.jar",
+    "jar_sha256": "23b7a63b3729dc590174ca0ca5740c22ddc93718ead6fa579a921d3e7fa5ac83",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/spectrelib-neoforge-0.21.0+26.1.2.jar",
+        "sha256": "4b85c10c81f53e7c12978137ef77b71c39b14bde392bd120978934e65311366f"
+      }
+    ],
+    "resource": "assets/spectrelib/lang/en_us.json",
+    "mod_ids": [
+      "comforts"
+    ],
+    "resource_sha256": "9708a0bf7fefae32049dcd9af2ecd276ab35d01db65877fc22dbcc2031bed8ed"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/spectrelib-neoforge-0.21.0+26.1.2.jar",
+      "sha256": "4b85c10c81f53e7c12978137ef77b71c39b14bde392bd120978934e65311366f"
+    }
+  ]
+}

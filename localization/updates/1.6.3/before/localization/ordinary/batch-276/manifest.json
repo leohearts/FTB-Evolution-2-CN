@@ -1,0 +1,24 @@
+{
+  "batch": "276",
+  "namespace": "mint_lib",
+  "jar": ".minecraft/mods/mint_lib-0.4.0-26.1b.jar",
+  "language_path": "assets/mint_lib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mint_lib/lang/zh_cn.json",
+  "include_keys": [
+    "mint_lib.fish.tooltip.size",
+    "mint_lib.fish.tooltip.weight"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "c4406699c5767ddec1e136e9bf8cb42b7bfcd5bb024f33833b19586712ae3a04",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mint_lib-0.4.0-26.1b.jar",
+    "jar_sha256": "c4406699c5767ddec1e136e9bf8cb42b7bfcd5bb024f33833b19586712ae3a04",
+    "nested_jars": [],
+    "resource": "assets/mint_lib/lang/en_us.json",
+    "mod_ids": [
+      "mint_lib"
+    ],
+    "resource_sha256": "6b4b579d0cc2cc7bbba5c1a90b86bce8f7be203335f5f7b3efa96680ad630818"
+  }
+}

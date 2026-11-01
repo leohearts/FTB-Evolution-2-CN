@@ -1,0 +1,29 @@
+{
+  "batch": "198",
+  "namespace": "magnumtorch",
+  "jar": ".minecraft/mods/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+  "language_path": "assets/magnumtorch/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/magnumtorch/lang/zh_cn.json",
+  "include_keys": [
+    "block.magnumtorch.magnum_torch.tooltip.additional",
+    "block.magnumtorch.magnum_torch.tooltip.horizontal_range",
+    "block.magnumtorch.magnum_torch.tooltip.mob_types",
+    "block.magnumtorch.magnum_torch.tooltip.shift",
+    "block.magnumtorch.magnum_torch.tooltip.vertical_range"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "⇧ Shift"
+  ],
+  "jar_sha256": "83891fd855550f51869b3f558682866dac3c476b5198fd671a2ebd789c017c32",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+    "jar_sha256": "83891fd855550f51869b3f558682866dac3c476b5198fd671a2ebd789c017c32",
+    "nested_jars": [],
+    "resource": "assets/magnumtorch/lang/en_us.json",
+    "mod_ids": [
+      "magnumtorch"
+    ],
+    "resource_sha256": "eec6f903d4e3f6098a4871e831518e3587faad9a70d3655182f19844af5deb04"
+  }
+}

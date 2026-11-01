@@ -1,0 +1,25 @@
+{
+  "batch": "104",
+  "namespace": "ftbpromoter",
+  "jar": ".minecraft/mods/ftbpromoter-26.1.2.1.jar",
+  "language_path": "assets/ftbpromoter/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbpromoter/lang/zh_cn.json",
+  "include_keys": [
+    "ftbpromoter.fancymenu.requirement.description",
+    "ftbpromoter.fancymenu.requirement.name",
+    "ftbpromoter.fancymenu.requirement.value.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "32ab8b18d4b6db201c57563c8ca9795d147a08cb477a5db3a01bb3915a2e362f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftbpromoter-26.1.2.1.jar",
+    "jar_sha256": "32ab8b18d4b6db201c57563c8ca9795d147a08cb477a5db3a01bb3915a2e362f",
+    "nested_jars": [],
+    "resource": "assets/ftbpromoter/lang/en_us.json",
+    "mod_ids": [
+      "ftbpromoter"
+    ],
+    "resource_sha256": "63a4ce5e911069fef47fddb2fc67aaeb52f01aa253d9aff3b48716d663425311"
+  }
+}

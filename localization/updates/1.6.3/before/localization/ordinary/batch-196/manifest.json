@@ -1,0 +1,28 @@
+{
+  "batch": "196",
+  "namespace": "getittogetherdrops",
+  "jar": ".minecraft/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+  "language_path": "assets/getittogetherdrops/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/getittogetherdrops/lang/zh_cn.json",
+  "include_keys": [
+    "getittogetherdrops.configuration.checkY",
+    "getittogetherdrops.configuration.checkY.tooltip",
+    "getittogetherdrops.configuration.radius",
+    "getittogetherdrops.configuration.radius.tooltip",
+    "tag.item.getittogetherdrops.do_not_combine",
+    "tag.item.getittogetherdrops.ignore"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "fc9c0b5ca81feb7a2c6f92fecbad0bf42f6d3b11c5d24ff3d1a2648457413d07",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+    "jar_sha256": "fc9c0b5ca81feb7a2c6f92fecbad0bf42f6d3b11c5d24ff3d1a2648457413d07",
+    "nested_jars": [],
+    "resource": "assets/getittogetherdrops/lang/en_us.json",
+    "mod_ids": [
+      "getittogetherdrops"
+    ],
+    "resource_sha256": "261abd16e700885690e5a6703d703709f1b13d3d41f72f622b708bd01d7e004b"
+  }
+}

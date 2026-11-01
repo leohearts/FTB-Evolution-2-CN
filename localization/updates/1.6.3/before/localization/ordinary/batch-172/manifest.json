@@ -1,0 +1,27 @@
+{
+  "batch": "172",
+  "namespace": "apothic_spawners",
+  "jar": ".minecraft/mods/ApothicSpawners-26.1.2-2.0.1.jar",
+  "language_path": "assets/apothic_spawners/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/apothic_spawners/lang/zh_cn.json",
+  "include_keys": [
+    "misc.apothic_spawners.concat",
+    "misc.apothic_spawners.value_concat"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s %s",
+    "%s: %s"
+  ],
+  "jar_sha256": "88c439394770c23c31d664503696b98e7ac31ab3c0e16919e4a42e0053a8c196",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ApothicSpawners-26.1.2-2.0.1.jar",
+    "jar_sha256": "88c439394770c23c31d664503696b98e7ac31ab3c0e16919e4a42e0053a8c196",
+    "nested_jars": [],
+    "resource": "assets/apothic_spawners/lang/en_us.json",
+    "mod_ids": [
+      "apothic_spawners"
+    ],
+    "resource_sha256": "d72d965a9d28338d9669d6220c0dd13f1a04c00afbc17a42284d0bf464796471"
+  }
+}

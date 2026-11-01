@@ -1,0 +1,14 @@
+[
+  "ID",
+  "Drag and drop to pin. Drag outside the pinned area to unpin.",
+  "Drag and drop to pin",
+  "Click to modify the insert/extract priority.",
+  "Press CTRL + click to modify the insert priority.",
+  "Press CMD + click to modify the insert priority.",
+  "Press ALT + click to modify the extract priority.",
+  "Too many subcomponents are required.",
+  "Tree",
+  "Extracting initial resources",
+  "Returning internal storage",
+  "%s %s"
+]

@@ -1,0 +1,39 @@
+{
+  "batch": "318",
+  "namespace": "ae2wtlib_api",
+  "jar": ".minecraft/mods/ae2wtlib-26.1.2-beta.jar",
+  "jar_sha256": "7671b8ed49f7aabcb17c62184e4369c606ad325777a0123aa77c4a3e92a5ad48",
+  "language_path": "assets/ae2wtlib_api/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ae2wtlib_api/lang/zh_cn.json",
+  "include_keys": [
+    "chat.ae2wtlib.NetworkNotPowered",
+    "chat.ae2wtlib.SingularityNotPresent",
+    "chat.ae2wtlib.NoQuantumBridgeCard",
+    "chat.ae2wtlib.NoQuantumBridge",
+    "chat.ae2wtlib.NetworkMismatch"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar",
+    "jar_sha256": "7671b8ed49f7aabcb17c62184e4369c606ad325777a0123aa77c4a3e92a5ad48",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+        "sha256": "3525a33d82d57f0ca7020e6ee3b7a6e6ff7c32a3a919802330d9e5e7f6443c96"
+      }
+    ],
+    "resource": "assets/ae2wtlib_api/lang/en_us.json",
+    "mod_ids": [
+      "ae2wtlib"
+    ],
+    "resource_sha256": "0fda89f6cc1a08aa46279dd5e178fcced86df902cf11828f98c513e17b41e9c4"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/de.mari_023.ae2wtlib_api-26.1.2-beta.jar",
+      "sha256": "3525a33d82d57f0ca7020e6ee3b7a6e6ff7c32a3a919802330d9e5e7f6443c96"
+    }
+  ]
+}

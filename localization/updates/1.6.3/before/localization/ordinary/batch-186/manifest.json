@@ -1,0 +1,46 @@
+{
+  "batch": "186",
+  "namespace": "simple_weather",
+  "jar": ".minecraft/mods/simple_weather-1.1.15.jar",
+  "language_path": "assets/simple_weather/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/simple_weather/lang/zh_cn.json",
+  "include_keys": [
+    "config.client.simple_weather.override_weather",
+    "config.client.simple_weather.rain",
+    "config.client.simple_weather.snow",
+    "config.client.simple_weather.rain.rain_collision_percent",
+    "config.client.simple_weather.rain.rain_range",
+    "config.client.simple_weather.weather_particle_count",
+    "config.client.simple_weather.weather_particle_thunder_count",
+    "config.client.simple_weather.weather_holiday_fx",
+    "config.client.simple_weather.rain.rain_particle_alpha",
+    "config.client.simple_weather.rain.rain_lifetime",
+    "config.client.simple_weather.rain.rain_particle_scale",
+    "config.client.simple_weather.rain.rain_random",
+    "config.client.simple_weather.rain.rain_color_blending_frequency",
+    "config.client.simple_weather.rain.use_cached_aabb",
+    "config.client.simple_weather.rain.full_biome_lookup",
+    "config.client.simple_weather.snow.snow_particle_scale",
+    "config.client.simple_weather.snow.snow_lifetime",
+    "config.client.simple_weather.snow.snow_range",
+    "config.client.simple_weather.snow.snow_particle_alpha",
+    "config.client.simple_weather.snow.snow_outer_range",
+    "config.client.simple_weather.rain.wind_vector_x",
+    "config.client.simple_weather.rain.wind_vector_y",
+    "config.client.simple_weather.rain.wind_vector_z",
+    "config.common.simple_weather.prevent_sleep_reset"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "674e81fc172b3b5324ce2ef3c98d367cd351f4932e96e60dd63a5291eb25a020",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/simple_weather-1.1.15.jar",
+    "jar_sha256": "674e81fc172b3b5324ce2ef3c98d367cd351f4932e96e60dd63a5291eb25a020",
+    "nested_jars": [],
+    "resource": "assets/simple_weather/lang/en_us.json",
+    "mod_ids": [
+      "simple_weather"
+    ],
+    "resource_sha256": "8d3ea59a005d8589b1fe4b737caac37579d692ca9b03efa7165d9d0dfec801a7"
+  }
+}

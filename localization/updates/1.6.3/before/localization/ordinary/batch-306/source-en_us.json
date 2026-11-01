@@ -1,0 +1,23 @@
+{
+  "guide.betterfishtanks.intro.title": "Welcome to\nBetter Fishtanks",
+  "guide.betterfishtanks.intro.text": "This mod allows you to create beautiful aquariums and manage your own aquatic ecosystem.",
+  "guide.betterfishtanks.fishtank.title": "Fish Tank",
+  "guide.betterfishtanks.fishtank.text": "The Fish Tank is the core of this mod. It can hold water, lava, decorations, and fish. U can use a bucket, or pipes from other mods to fill it.",
+  "guide.betterfishtanks.fishbag.title": "Fish Bag",
+  "guide.betterfishtanks.fishbag.text": "The Fish Bag allows you to transport fish safely. Right-click a fish to catch it, and shift-right-click to release it.",
+  "guide.betterfishtanks.aquarist_table.title": "Aquarist Table",
+  "guide.betterfishtanks.aquarist_table.text": "The Aquarist Table is used to craft decorations and fish food. It's essential for maintaining a healthy tank.",
+  "guide.betterfishtanks.config.title": "Configuration",
+  "guide.betterfishtanks.config.creative_only": "Configuration options are only available in Creative Mode.",
+  "guide.betterfishtanks.fisheggs.title": "Fish Eggs",
+  "guide.betterfishtanks.fisheggs.text": "Fish in tanks will occasionally lay eggs if they are well-fed. These eggs can be used for trading or cracked in the Aquarist's Table to obtain resources.",
+  "guide.betterfishtanks.food.title": "Fish Food",
+  "guide.betterfishtanks.food.text": "Fish need food to survive and reproduce. You can craft various types of food like Flakes and Pellets at the Aquarist Table.",
+  "guide.betterfishtanks.randomfishbag.title": "Random Fish Bag",
+  "guide.betterfishtanks.randomfishbag.text": "Obtainable from the Aquarist Villager. Contains a surprise fish! Shift-right-click to open and reveal your new aquatic friend.",
+  "guide.betterfishtanks.decorations.title": "Decorations",
+  "guide.betterfishtanks.decorations.text": "Decorations can be crafted at the Aquarist Table. They make your tank look great and provide shelter for your fish.",
+  "guide.betterfishtanks.config.general.title": "Config (General)",
+  "guide.betterfishtanks.config.capture.title": "Config (Capture)",
+  "guide.betterfishtanks.config.behavior.title": "Config (Behavior)"
+}

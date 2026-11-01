@@ -1,0 +1,38 @@
+{
+  "batch": "041",
+  "namespace": "xycraft_machines",
+  "jar": ".minecraft/mods/xycraft-machines-0.9.2.jar",
+  "language_path": "assets/xycraft_machines/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/xycraft_machines/lang/zh_cn.json",
+  "include_keys": [
+    "block.xycraft_machines.energy_selector",
+    "block.xycraft_machines.energy_selector.tooltip.1",
+    "block.xycraft_machines.lava_block",
+    "block.xycraft_machines.lava_block.tooltip",
+    "block.xycraft_machines.proxy",
+    "config.jade.plugin_xycraft",
+    "item.xycraft_machines.build_tool",
+    "item.xycraft_machines.filter_attribute",
+    "item.xycraft_machines.filter_list_fluid",
+    "item.xycraft_machines.filter_list_item",
+    "item.xycraft_machines.filter_scalar",
+    "recipe.xycraft.buildings.ore_tap",
+    "recipe.xycraft.locked",
+    "sound.xycraft_machines.subtitle.soaryn_box_deposit"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "XyCraft"
+  ],
+  "jar_sha256": "02cb3fbc2012a9cd1fc0c3e2d16bce9123ed3138a2aa9c4cec696d6801df2873",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/xycraft-machines-0.9.2.jar",
+    "jar_sha256": "02cb3fbc2012a9cd1fc0c3e2d16bce9123ed3138a2aa9c4cec696d6801df2873",
+    "nested_jars": [],
+    "resource": "assets/xycraft_machines/lang/en_us.json",
+    "mod_ids": [
+      "xycraft_machines"
+    ],
+    "resource_sha256": "5dab715c5d103749035c79f2b86d260264054eeb1fbf652cdce0d32632e58528"
+  }
+}

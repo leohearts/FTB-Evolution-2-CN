@@ -1,0 +1,12 @@
+{
+  "itemGroup.mffs.main": "Modular Force Field System",
+  "info.mffs.entity_identity": "%s (%s)",
+  "info.mffs.field_permission.warp_sneak": "Warp (Sneak)",
+  "info.mffs.field_permission.warp_sneak.tooltip": "Allows the player to sneak-walk through and bypass force fields.",
+  "info.mffs.key.shift": "Shift",
+  "info.mffs.fortron_usage": "Fortron: %s L/s",
+  "item.mffs.reinforcement_module": "Reinforcement Module",
+  "item.mffs.reinforcement_module.description": "Makes Force Field blocks immune to the Wither",
+  "screen.mffs.fortron.value": "%s L / %s L",
+  "screen.mffs.fortron_cost": "%s%s L/s"
+}

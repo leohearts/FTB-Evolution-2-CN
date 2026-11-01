@@ -1,0 +1,25 @@
+{
+  "batch": "295",
+  "namespace": "anima",
+  "jar": ".minecraft/mods/Anima-1.0.3+Neoforge-26.1.2.jar",
+  "language_path": "assets/anima/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/anima/lang/zh_cn.json",
+  "include_keys": [
+    "book.anima.codex.name",
+    "book.anima.codex.description",
+    "book.anima.codex.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "8ce75011032335cf0a2c22f240e06423faac07276b1af11d3455d5fc880f6651",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Anima-1.0.3+Neoforge-26.1.2.jar",
+    "jar_sha256": "8ce75011032335cf0a2c22f240e06423faac07276b1af11d3455d5fc880f6651",
+    "nested_jars": [],
+    "resource": "assets/anima/lang/en_us.json",
+    "mod_ids": [
+      "anima"
+    ],
+    "resource_sha256": "bb46902263d92c40cb672e0d1fbb086938f051288b940615481e6e42eecdc184"
+  }
+}

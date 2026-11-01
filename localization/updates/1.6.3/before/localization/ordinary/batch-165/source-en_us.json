@@ -1,0 +1,13 @@
+{
+  "tooltip.gateways.with_count": "%s %s",
+  "tooltip.gateways.dot_with_count": "• %s %s",
+  "tooltip.gateways.dot": "• %s",
+  "tooltip.gateways.shift": "[shift]",
+  "tooltip.gateways.ctrl": "[ctrl]",
+  "tooltip.gateways.alt": "[alt]",
+  "reward.gateways.stack": "%s %s",
+  "gateways.iron_automaton": "Gateway of the Iron Automaton",
+  "gateways.endless/automaton_fabricator": "Endless Gateway of the Automaton Fabricator",
+  "name.gateways.iron_sentinel": "Iron Sentinel",
+  "name.gateways.iron_juggernaut": "Iron Juggernaut"
+}

@@ -1,0 +1,15 @@
+{
+  "itemGroup.scannable.common": "Scannable Reforged",
+  "item.scannable.chest_module": "Scanner Module: Chests",
+  "item.scannable.chest_module.desc": "Detects storage blocks (e.g. chests, barrels, shulker boxes).",
+  "item.scannable.spawner_module": "Scanner Module: Spawners",
+  "item.scannable.spawner_module.desc": "Detects all spawners by default.\nFilter via right-click on a spawner or mob.\nRight-click air to configure, or use eggs.",
+  "item.scannable.spawner_module.list": "Configured spawners:",
+  "item.scannable.lootr_module": "Scanner Module: Lootr",
+  "item.scannable.lootr_module.desc": "Detects unopened Lootr loot.\nHides each container once you loot it.",
+  "item.scannable.lootr_module.required": "Lootr mod required",
+  "tooltip.scannable.list_item": "§7- §f%s§r",
+  "gui.scannable.spawner_module.list": "Spawners",
+  "gui.scannable.overlay.distance": "%s (%sm)",
+  "gui.scannable.overlay.spawner": "%s Spawner"
+}

@@ -1,0 +1,1271 @@
+[
+  {
+    "batch": "batch-289",
+    "namespace": "anima",
+    "key": "book.anima.codex.components.stamper.p2.text",
+    "source": "Turn the lever on to stamp. Turn it off to open the lid, then right-click to collect the output. Collect it before starting another batch.\\\n\\\nA wrong pattern leaves its ingredients intact. Follow the component arrows for more parts, or make [Foci](entry://anima:codex/components/soul_focus) to cast spells.",
+    "previous": "打开拉杆开始压印.关闭拉杆即打开盖子, 再右键点击收取产出.请在开始下一批之前收走产物.\\\n\\\n图案错误时材料会完好保留.沿着部件箭头继续制作其他部件, 或做法器来施法.",
+    "translation": "打开拉杆开始压印.关闭拉杆即打开盖子, 再右键点击收取产出.请在开始下一批之前收走产物.\\\n\\\n图案错误时材料会完好保留.沿着部件箭头继续制作其他部件, 或制作[法器](entry://anima:codex/components/soul_focus)来施法.",
+    "reason": "2026-10-18 控制语法审查: 恢复遗漏的页面链接."
+  },
+  {
+    "batch": "batch-297",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.modifiers.duration.page0.text",
+    "source": "Enhances the duration of all effect spells, and increases the lifetime of $(l:shapes/projectile)projectiles$(), $(l:shapes/wall)walls$(), $(l:shapes/wave)waves$() and $(l:shapes/zone)zones.",
+    "previous": "延长所有效果类法术的持续时间, 并增加$(l:shapes/projectile)投射物$(), $(l:shapes/wall)墙$(), $(l:shapes/wave)波$()和$(l:shapes/zone)区域$()的存续时间.",
+    "translation": "延长所有效果类法术的持续时间, 并增加以下法术形态的存续时间: $(l:shapes/projectile)投射物$(), $(l:shapes/wall)墙$(), $(l:shapes/wave)波$()和$(l:shapes/zone)区域.",
+    "reason": "2026-10-18 控制语法审查: 调整中文语序以保留原始宏序列."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "advancements.nautec.deep_survey.description",
+    "source": "Visit every NauTec ocean biome",
+    "previous": "探索全部 NauTec 海洋生物群系",
+    "translation": "探索全部 海蓝科技 海洋生物群系",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "advancements.nautec.root.title",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-003",
+    "namespace": "nautec",
+    "key": "key.category.nautec.main",
+    "source": "Nautec",
+    "previous": "Nautec",
+    "translation": "海蓝科技",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-004",
+    "namespace": "nautec",
+    "key": "nautec.creative_tab.main",
+    "source": "NauTec 2",
+    "previous": "NauTec 2",
+    "translation": "海蓝科技 2",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "itemGroup.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "itemGroup.stellaris.stellaris_blocks",
+    "source": "Stellaris Blocks",
+    "previous": "Stellaris 方块",
+    "translation": "群星 方块",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "application.stellaris.wiki.description",
+    "source": "Access information about space exploration and Stellaris mod features.",
+    "previous": "查阅太空探索及 Stellaris 模组功能的信息.",
+    "translation": "查阅太空探索及 群星 模组功能的信息.",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "key.category.stellaris.stellaris",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "advancements.stellaris.root.title",
+    "source": "Stellaris",
+    "previous": "Stellaris",
+    "translation": "群星",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "wiki.stellaris.mobs.description",
+    "source": "Discover all the mobs of Stellaris.",
+    "previous": "认识 Stellaris 的所有生物.",
+    "translation": "认识 群星 的所有生物.",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "sd_card.stellaris.stellaris_secrets.name",
+    "source": "Stellaris Easter Eggs",
+    "previous": "Stellaris 彩蛋",
+    "translation": "群星 彩蛋",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-006",
+    "namespace": "stellaris",
+    "key": "sd_card.stellaris.stellaris_secrets.content",
+    "source": "You.. You found this SD card ? This SD card contains a lot of Easter eggs hidden in Stellaris! Here a list of places where they are hidden : - The Home in the Earth wiki page - The other name of the moon on her wiki page - The parasite villager strikes back ?",
+    "previous": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 Stellaris 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "translation": "你... 你找到这张 SD 卡了? 里面记录了许多藏在 群星 中的彩蛋! 以下是它们藏身的地方: - 地球百科页面中的家 - 月球百科页面中的另一个名字 - 寄生村民的反击?",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "itemGroup.hephaestus_tools.tools",
+    "source": "Hephaestus Tools",
+    "previous": "Hephaestus工具",
+    "translation": "匠神工具",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.part_builder.metal",
+    "source": "Metals are cast in the Foundry (Hephaestus)",
+    "previous": "金属部件需在 Hephaestus 的铸造炉中浇铸",
+    "translation": "金属部件需在 匠神 的铸造炉中浇铸",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "hephaestus_tools.configuration.title",
+    "source": "Hephaestus Tools Config",
+    "previous": "Hephaestus工具配置",
+    "translation": "匠神工具配置",
+    "reason": "2026-10-18 user terminology correction; current JAR source and context reviewed."
+  },
+  {
+    "batch": "batch-237",
+    "namespace": "crystalix",
+    "key": "config.crystalix.show_wand_tooltips.tooltip",
+    "source": "§8Show property tooltips on the wand§r\n\n§7Default: true§r",
+    "previous": "§8在法杖上显示属性提示§r\n\n§7默认: false§r",
+    "translation": "§8在法杖上显示属性提示§r\n\n§7默认: true§r",
+    "reason": "1.4.1 source changes default from false to true; preserve formatting and line breaks."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.build.repair_hint",
+    "source": "Insert a tool plus a raw material matching its head to repair %s durability, or a tool part to swap it the old part is returned to you.",
+    "previous": "放入工具与工具头对应的原材料, 可修复 25% 耐久; 也可放入工具部件进行替换, 旧部件会返还.",
+    "translation": "放入工具与工具头对应的原材料, 可修复 %s 耐久; 也可放入工具部件进行替换, 旧部件会返还.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.build.repair_button_hint",
+    "source": "Hammer the material into the tool (each one restores %s durability)",
+    "previous": "将材料锤入工具(每份恢复 25% 耐久)",
+    "translation": "将材料锤入工具(每份恢复 %s 耐久)",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.build.workbench_repair_hint",
+    "source": "Drop the head material on the tool to repair it. Each one restores %s durability, and the repair uses everything it needs at once. You can also put a part of another material on the table and drag it onto the tool to swap it. The old part stays on the table.",
+    "previous": "将工具头材料放到工具上以修复. 每份恢复 25% 耐久, 每次修复会一次性消耗所需材料. 也可将其他材料的部件放在桌面上, 再拖到工具上进行替换. 旧部件会留在桌面上.",
+    "translation": "将工具头材料放到工具上以修复. 每份恢复 %s 耐久, 每次修复会一次性消耗所需材料. 也可将其他材料的部件放在桌面上, 再拖到工具上进行替换. 旧部件会留在桌面上.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  {
+    "batch": "batch-007",
+    "namespace": "ftbevolutioncompanion",
+    "key": "trait.ftbevolutioncompanion.demonic.desc",
+    "source": "Siphons blood on hit and mends with Blood Mending.",
+    "previous": "带有锯齿, 命中时汲取鲜血, 并通过气血修补自我修复.",
+    "translation": "命中时汲取鲜血, 并通过气血修补自我修复.",
+    "reason": "Reviewed 1.5.1 source delta: preserve dynamic durability placeholders, material name meaning, and current Demonic effect."
+  },
+  {
+    "batch": "batch-046",
+    "namespace": "mffs",
+    "key": "info.mffs.fortron_usage",
+    "source": "Fortron: %s L/s",
+    "previous": "福特龙: %s L/s",
+    "translation": "福特朗: %s L/s",
+    "reason": "2026-10-23 用户裁决: Fortron 统一为福特朗, 与流体名及 CFPA 审校界面键一致."
+  },
+  {
+    "batch": "batch-005",
+    "namespace": "nautec",
+    "key": "nautec.jei.info.eas",
+    "source": "EAS is made in the Mixer from Salt Water. Leave an Aquarine Steel tool in an EAS source block for 7.5 seconds to infuse it and unlock its ability; this uses up the source block. An EAS Bucket and three Glass Vials craft into three EAS Vials.",
+    "previous": "在搅拌机中用盐水制作 EAS. 将海蓝钢工具浸入 EAS 源方块 7.5 秒, 即可灌注并解锁能力; 此过程会消耗源方块. 一桶 EAS 与三个玻璃瓶可合成三瓶 EAS.",
+    "translation": "在搅拌机中用盐水制作 EAS. 将海蓝钢工具浸入 EAS 源方块 7.5 秒, 即可灌注并解锁能力; 此过程会消耗源方块. 一桶 EAS 与三个玻璃试管可合成三瓶 EAS.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.crystal_staff.page3info",
+    "source": "Adding spells to the staff requires a separate ritual. In addition to this ritual's displayed components, you may add up to four additional Spell Powders as incenses. Each of these will be added to the staff, overwriting previous spells if necessary. Simply sneak and right-click to cycle through the staff's spells.",
+    "previous": "向杖中添加法术需要一个单独的仪式. 除了仪式的配方之外, 你可以在熏香炉添加额外四个法术粉末, 每一个都会被加入杖中. 只需蹲下同时点击鼠标右键, 就能切换杖中的法术.",
+    "translation": "向杖中添加法术需要一个单独的仪式. 除了仪式的配方之外, 你可以在熏香炉添加额外四个魔法粉末, 每一个都会被加入杖中. 只需蹲下同时点击鼠标右键, 就能切换杖中的法术.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.engraved_blade.page1info",
+    "source": "Using the properties of a Runic Focus, you have created a new weapon. During the crafting of this weapon you can burn up to four different kinds of barks as additional incenses to add different buffs to the sword. You can mix and match these buffs as you please, and they will stack if you put more than one on at a time.",
+    "previous": "你使用符文聚焦的特性创造了一把新武器. 你可以在制作过程中燃烧不同的树皮来获得 不同的增益效果. 你可以随心所欲的搭配不同增益. 重复使用还可叠加.",
+    "translation": "你使用符文聚焦板的特性创造了一把新武器. 你可以在制作过程中燃烧不同的树皮来获得 不同的增益效果. 你可以随心所欲的搭配不同增益. 重复使用还可叠加.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.engraved_blade.page2title",
+    "source": "Ritual: Engraved Blade",
+    "previous": "仪式: 符文篆刻",
+    "translation": "仪式: 符文大剑",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.runic_focus",
+    "source": "Runic Foci",
+    "previous": "符文聚焦",
+    "translation": "符文聚焦板",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.runic_focus.page2title",
+    "source": "Ritual: Runic Focus",
+    "previous": "仪式: 符文聚焦",
+    "translation": "仪式: 符文聚焦板",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-015",
+    "namespace": "rootsclassic",
+    "key": "rootsclassic.research.ritual.runic_focus.page4title",
+    "source": "Ritual: Runic Focus Charging",
+    "previous": "仪式: 符文聚焦充能",
+    "translation": "仪式: 符文聚焦板充能",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.advancement_gate.infernal_chalk",
+    "source": "Infernal Chalk",
+    "previous": "地狱粉笔",
+    "translation": "炼狱粉笔",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.advancement_gate.otherwhere_chalk",
+    "source": "Otherwhere Chalk",
+    "previous": "异界粉笔",
+    "translation": "他处粉笔",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.advancement_gate.werewolf_altar",
+    "source": "Werewolf Altar",
+    "previous": "狼人祭坛",
+    "translation": "狼人雕像",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.advancement_gate.whiff_of_magic",
+    "source": "Whiff of Magic",
+    "previous": "魔力气息",
+    "translation": "魔力之息",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.research.entry_viewed.ritual.infernal_chalk",
+    "source": "Viewed Infernal Chalk",
+    "previous": "已观察地狱粉笔",
+    "translation": "已观察炼狱粉笔",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "research_node.witchery.research.entry_viewed.ritual.otherwhere_chalk",
+    "source": "Viewed Otherwhere Chalk",
+    "previous": "已观察异界粉笔",
+    "translation": "已观察他处粉笔",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery.command.coven.info.witches",
+    "source": "Coven Witches: %s/%s active",
+    "previous": "巫师会女巫: %s/%s 生效中",
+    "translation": "聚会女巫: %s/%s 生效中",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery.command.coven.witches.header",
+    "source": "=== Coven Witches for %s ===",
+    "previous": "=== %s的巫师会女巫 ===",
+    "translation": "=== %s的聚会女巫 ===",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery.command.coven.witches.none",
+    "source": "%s has no coven witches",
+    "previous": "%s没有巫师会女巫",
+    "translation": "%s没有聚会女巫",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery.ritual.req_coven",
+    "source": "Requires %s Coven Witches",
+    "previous": "需要 %s 名巫师会女巫",
+    "translation": "需要 %s 名聚会女巫",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery:ritual/apply_ungent.tooltip",
+    "source": "When imbued into an ent twig, the wand awakens.",
+    "previous": "灌入树人枝条后, 魔杖便会苏醒.",
+    "translation": "灌入树人嫩芽后, 魔杖便会苏醒.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-016",
+    "namespace": "witchery",
+    "key": "witchery:ritual/infuse_infernal.tooltip",
+    "source": "Infuses the player with the Infernal Animus",
+    "previous": "为玩家灌注地狱之魂",
+    "translation": "为玩家灌注炼狱敌意",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-025",
+    "namespace": "occultism",
+    "key": "item.occultism.spawn_egg.familiar_drikwing",
+    "source": "Drikwing Familiar Spawn Egg",
+    "previous": "德里克翼使魔刷怪蛋",
+    "translation": "具翼使魔刷怪蛋",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-025",
+    "namespace": "occultism",
+    "key": "jei.occultism.ingredient.spawn_egg.familiar_wingnis.description",
+    "source": "The Wingnis Familiar can be obtained by bringing a Drikwing Familiar to any Nether Biome and clicking the bird with a Totem of Undying, then Flaming Paste. Before Drikwing dies in the fire, the totem will be used and will activate the Flaming Paste that covered it, transforming it into a Wingnis. See §6Dictionary§r §6of§r §6Spirits§r for more information.",
+    "previous": "将德里克翼使魔带到任意下界生物群系, 先用不死图腾点击这只鸟, 再用烈焰膏即可获得翼尼斯使魔.在德里克翼被火烧死之前, 图腾会被消耗并激活覆盖它的烈焰膏, 使其转变为翼尼斯.更多信息见§6魔灵§r §6词典§r §6中的说明§r.",
+    "translation": "将具翼使魔带到任意下界生物群系, 先用不死图腾点击这只鸟, 再用烈焰膏即可获得翼尼斯使魔.在德里克翼被火烧死之前, 图腾会被消耗并激活覆盖它的烈焰膏, 使其转变为翼尼斯.更多信息见§6魔灵§r §6词典§r §6中的说明§r.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-030",
+    "namespace": "auroral",
+    "key": "subtitles.auroral.hearthwood_log_crackle",
+    "source": "Hearthwood Log crackles",
+    "previous": "炉木噼啪作响",
+    "translation": "炉木原木噼啪作响",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-030",
+    "namespace": "auroral",
+    "key": "subtitles.auroral.hearthwood_log_ignite",
+    "source": "Hearthwood Log ignites",
+    "previous": "炉木点燃",
+    "translation": "炉木原木点燃",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-031",
+    "namespace": "morered",
+    "key": "advancements.morered.morered.craft_colored_cable.description",
+    "source": "Craft a Colored Cable from Wool and Red Alloy Wires",
+    "previous": "用羊毛和红石合金线合成彩色线缆",
+    "translation": "用羊毛和红色合金丝合成彩色线缆",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-031",
+    "namespace": "morered",
+    "key": "advancements.morered.morered.craft_red_alloy_wire.description",
+    "source": "Craft copper and redstone into Red Alloy Ingots and then craft those into Red Alloy Wires",
+    "previous": "将铜与红石合成红石合金锭, 再制成红石合金线",
+    "translation": "将铜与红石合成红色合金锭, 再制成红色合金丝",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-031",
+    "namespace": "morered",
+    "key": "advancements.morered.morered.craft_soldering_table.description",
+    "source": "Craft a Soldering Table from Blaze Rods, Red Nether Bricks, and Stone Plates",
+    "previous": "用烈焰棒, 红色下界砖和石底座合成焊接台",
+    "translation": "用烈焰棒, 红色下界砖和石板合成焊接台",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.eliteEnergyUsage.tooltip",
+    "source": "The energy used by the Elite Interface.",
+    "previous": "精英接口消耗的能量.",
+    "translation": "精英物品接口消耗的能量.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.ultraEnergyUsage.tooltip",
+    "source": "The energy used by the Ultra Interface.",
+    "previous": "终极接口消耗的能量.",
+    "translation": "终极物品接口消耗的能量.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.megaEnergyUsage.tooltip",
+    "source": "The energy used by the Mega Interface.",
+    "previous": "极巨接口消耗的能量.",
+    "translation": "极巨物品接口消耗的能量.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.eliteTransferQuotaMultiplier.tooltip",
+    "source": "The transfer quota multiplier by the Elite Interface.",
+    "previous": "精英接口的传输配额倍率.",
+    "translation": "精英物品接口的传输配额倍率.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.ultraTransferQuotaMultiplier.tooltip",
+    "source": "The transfer quota multiplier by the Ultra Interface.",
+    "previous": "终极接口的传输配额倍率.",
+    "translation": "终极物品接口的传输配额倍率.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredInterfaces.megaTransferQuotaMultiplier.tooltip",
+    "source": "The transfer quota multiplier by the Mega Interface.",
+    "previous": "极巨接口的传输配额倍率.",
+    "translation": "极巨物品接口的传输配额倍率.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredAutocrafters.ultraPatternSlotCount.tooltip",
+    "source": "The pattern slot count by the Ultra Autocrafter.",
+    "previous": "终极自动合成器的样板槽位数.",
+    "translation": "终极自动合成仓的样板槽位数.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredAutocrafters.megaPatternSlotCount.tooltip",
+    "source": "The pattern slot count by the Mega Autocrafter.",
+    "previous": "极巨自动合成器的样板槽位数.",
+    "translation": "极巨自动合成仓的样板槽位数.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-036",
+    "namespace": "cabletiers",
+    "key": "text.autoconfig.cabletiers.option.tieredAutocrafters.creativePatternSlotCount.tooltip",
+    "source": "The pattern slot count by the Creative Autocrafter.",
+    "previous": "创造自动合成器的样板槽位数.",
+    "translation": "创造自动合成仓的样板槽位数.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "block.neosync.manual_shell_storage",
+    "source": "Manual Shell Storage",
+    "previous": "手动躯壳存储器",
+    "translation": "手动壳体存放仓",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "block.neosync.zero_point_shell_constructor",
+    "source": "Zero Point Shell Constructor",
+    "previous": "零点躯壳构造器",
+    "translation": "零点壳体培育仓",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "block.neosync.zero_point_shell_storage",
+    "source": "Zero Point Shell Storage",
+    "previous": "零点躯壳存储器",
+    "translation": "零点壳体存放仓",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "jei.neosync.info.manual_shell_storage",
+    "source": "A Shell Storage whose stored shell is never chosen automatically when you die. Use it for bodies built for one job. Walk in to sync into it by hand like any other storage.",
+    "previous": "一种躯壳存储器, 其中存放的躯壳在你死亡时不会被自动选中.适合为单一用途打造的躯体.像其他存储器一样走进去即可手动同步.",
+    "translation": "一种壳体存放仓, 其中存放的躯壳在你死亡时不会被自动选中.适合为单一用途打造的躯体.像其他存储器一样走进去即可手动同步.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "jei.neosync.info.zero_point_shell_constructor",
+    "source": "A Shell Constructor powered by zero-point energy. Requires no external power and finishes new shells instantly. The sampling process still deals damage. Sneak and right-click with a dye to recolor its cyan trim; shells built inside take that color in the shell menu.",
+    "previous": "由零点能量驱动的躯壳构造器.无需外部供能, 并可瞬间完成新躯壳.采样过程仍会造成伤害.手持染料潜行右击可为其青色饰边重新着色; 在其中制作的躯壳会在躯壳菜单中采用该颜色.",
+    "translation": "由零点能量驱动的壳体培育仓.无需外部供能, 并可瞬间完成新躯壳.采样过程仍会造成伤害.手持染料潜行右击可为其青色饰边重新着色; 在其中制作的躯壳会在躯壳菜单中采用该颜色.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-037",
+    "namespace": "neosync",
+    "key": "jei.neosync.info.zero_point_shell_storage",
+    "source": "A Shell Storage powered by zero-point energy. Requires no redstone or FE. Its doors open automatically as you approach and stored shells never decay. Sneak and right-click with a dye to recolor its cyan trim and the shell stored inside.",
+    "previous": "由零点能量驱动的躯壳存储器.无需红石或 FE.靠近时其门会自动打开, 存放的躯壳永不腐坏.手持染料潜行右击可为其青色饰边及内部存放的躯壳重新着色.",
+    "translation": "由零点能量驱动的壳体存放仓.无需红石或 FE.靠近时其门会自动打开, 存放的躯壳永不腐坏.手持染料潜行右击可为其青色饰边及内部存放的躯壳重新着色.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-039",
+    "namespace": "enderio",
+    "key": "tag.item.enderio.deny_lists.broken_spawner",
+    "source": "Broken Spawner Deny List",
+    "previous": "损坏刷怪笼拒绝名单",
+    "translation": "破损的刷怪笼拒绝名单",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-055",
+    "namespace": "computercraft",
+    "key": "item.computercraft.pocket_computer_advanced.upgraded_twice",
+    "source": "Advanced %s %s Pocket Computer",
+    "previous": "高级 %s %s 掌上电脑",
+    "translation": "高级 %s %s 便携式计算机",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-055",
+    "namespace": "computercraft",
+    "key": "item.computercraft.pocket_computer_normal.upgraded_twice",
+    "source": "%s %s Pocket Computer",
+    "previous": "%s %s 掌上电脑",
+    "translation": "%s %s 便携式计算机",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-095",
+    "namespace": "integrateddynamics",
+    "key": "info_book.integrateddynamics.manual.parts.settings.text2",
+    "source": "The Target Side is the side that this part will interact with. It defaults to the opposite of the side of the cable this part was placed upon.",
+    "previous": "目标面是此部件与之交互的那一面.默认值为部件所安装的那根线缆的对面.",
+    "translation": "目标侧面是此部件与之交互的那一面.默认值为部件所安装的那根线缆的对面.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-096",
+    "namespace": "integratedterminals",
+    "key": "info_book.integratedterminals.storage_terminal.ender_storage.text5",
+    "source": "&lPortable Storage Terminals&r can be ender-upgraded as well, by combining them with an &lEye of Ender&r in a crafting grid. This retains the network the terminal was linked to.",
+    "previous": "&l便携存储终端&r也可以在合成格中与&l末影之眼&r组合来完成末影升级, 终端原先连接的网络会保留.",
+    "translation": "&l移动式存储终端&r也可以在合成格中与&l末影之眼&r组合来完成末影升级, 终端原先连接的网络会保留.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-096",
+    "namespace": "integratedterminals",
+    "key": "info_book.integratedterminals.tutorials.storage_terminal_ender.text3",
+    "source": "The same can be done with a &lPortable Storage Terminal&r, by combining it with an &lEye of Ender&r in a crafting grid.",
+    "previous": "&l便携存储终端&r也可以在合成格中与&l末影之眼&r组合, 达到同样效果.",
+    "translation": "&l移动式存储终端&r也可以在合成格中与&l末影之眼&r组合, 达到同样效果.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "block.fertilization.florists_bonemeal_block",
+    "source": "Block of Florist's Bone Meal",
+    "previous": "花匠骨粉块",
+    "translation": "花农的骨粉块",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "block.fertilization.extremely_compressed_bonemeal_block",
+    "source": "Block of Extremely Compressed Bone Meal",
+    "previous": "极压缩骨粉块",
+    "translation": "超级压缩骨粉块",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.allowBoneMealOnSaplings.tooltip",
+    "source": "This enables use of extremely compressed bone meal to turn saplings into large fancy trees.",
+    "previous": "允许用极压缩骨粉把树苗催成大型景观树.",
+    "translation": "允许用超级压缩骨粉把树苗催成大型景观树.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.extremelyCompressedBoneMealPower",
+    "source": "Extremely Compressed Bone Meal Power",
+    "previous": "极压缩骨粉效力",
+    "translation": "超级压缩骨粉效力",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.extremelyCompressedBoneMealPower.tooltip",
+    "source": "The amount of bone meal applied to the plant when using extremely compressed bone meal.",
+    "previous": "使用极压缩骨粉时对植物施加的骨粉量.",
+    "translation": "使用超级压缩骨粉时对植物施加的骨粉量.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.floristsBoneMealMaxFlowers",
+    "source": "Florist's Bone Meal Maximum Flowers",
+    "previous": "花匠骨粉最多花朵数",
+    "translation": "花农的骨粉最多花朵数",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.floristsBoneMealMaxFlowers.tooltip",
+    "source": "The maximum amount of flowers that can spawn when using Florist's Bone Meal on grass.",
+    "previous": "对草方块使用花匠骨粉时最多生成的花朵数量.",
+    "translation": "对草方块使用花农的骨粉时最多生成的花朵数量.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.floristsBoneMealMaxRange",
+    "source": "Florist's Bone Meal Maximum Range",
+    "previous": "花匠骨粉最大范围",
+    "translation": "花农的骨粉最大范围",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.floristsBoneMealMaxRange.tooltip",
+    "source": "The maximum range that flowers can spawn when using Florist's Bone Meal on grass.",
+    "previous": "对草方块使用花匠骨粉时花朵生成的最大范围.",
+    "translation": "对草方块使用花农的骨粉时花朵生成的最大范围.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.floristsBoneMealFallbackBiome",
+    "source": "Florist's Bone Meal Fallback Biome",
+    "previous": "花匠骨粉备用生物群系",
+    "translation": "花农的骨粉备用生物群系",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.flowerBlocks",
+    "source": "Blocks Duplicated by Florist's Bone Meal",
+    "previous": "花匠骨粉可复制的方块",
+    "translation": "花农的骨粉可复制的方块",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-146",
+    "namespace": "fertilization",
+    "key": "fertilization.configuration.flowerBlocks.tooltip",
+    "source": "List of blocks that can be duplicated by using Florist's Bone Meal on them.",
+    "previous": "可用花匠骨粉右键复制自身的方块列表.",
+    "translation": "可用花农的骨粉右键复制自身的方块列表.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-184",
+    "namespace": "utilitarian",
+    "key": "utilitarian.configuration.minimumRedstoneClockTick",
+    "source": "Minimum Redstone Clock Tick Rate",
+    "previous": "红石时钟最低刻速",
+    "translation": "红石钟最低刻速",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-184",
+    "namespace": "utilitarian",
+    "key": "utilitarian.configuration.noSolicitingChunkRangeBanner",
+    "source": "No Soliciting Banner ChunkRange",
+    "previous": "禁止推销横幅区块范围",
+    "translation": "禁止推销旗帜区块范围",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-200",
+    "namespace": "rainshield",
+    "key": "rainshield.configuration.rainShieldDistance",
+    "source": "Rain Shield Distance",
+    "previous": "防雨范围",
+    "translation": "驱雨盾范围",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-200",
+    "namespace": "rainshield",
+    "key": "rainshield.configuration.rainShieldDistance.tooltip",
+    "source": "Defines the range in which the Rain Shield stops rendering rain",
+    "previous": "定义防雨罩停止渲染雨水的范围",
+    "translation": "定义驱雨盾停止渲染雨水的范围",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-249",
+    "namespace": "pylons",
+    "key": "pylons.int.jei.category.protection_pylon",
+    "source": "Prevents the pylon owner from breaking blocks or killing mobs within the selected chunk range (1x1 to 5x5 chunks).\nAdd Mob Filters and Block Filters to specify which mobs and blocks to protect.\n\nCan be toggled automatically with redstone.\n",
+    "previous": "阻止塔主在所选区块范围 (1x1 至 5x5 区块) 内破坏方块或杀死生物.\n添加生物过滤器与方块过滤器以指定要保护的生物与方块.\n\n可通过红石自动开关.\n",
+    "translation": "阻止塔主在所选区块范围 (1x1 至 5x5 区块) 内破坏方块或杀死生物.\n添加生物过滤卡与方块过滤器以指定要保护的生物与方块.\n\n可通过红石自动开关.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-292",
+    "namespace": "anima",
+    "key": "book.anima.codex.gods.description",
+    "source": "Collect God Souls, build shrines and use a Priest Rod.",
+    "previous": "收集神魂, 建造神龛, 并使用祭司权杖.",
+    "translation": "收集神魂, 建造神龛, 并使用祭司杖.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.help.p4.title",
+    "source": "Priest Rod",
+    "previous": "祭司权杖",
+    "translation": "祭司杖",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.totem_of_gathering.name",
+    "source": "Idol of Gathering",
+    "previous": "采集神像",
+    "translation": "收集神像",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.p0.title",
+    "source": "Build the Reconstructor",
+    "previous": "建造复原器",
+    "translation": "建造重构器",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.p0.text",
+    "source": "Craft a Corporeal Reconstructor, one Bone Cage and eight Soul Stone. Place the Reconstructor at the center of a 5×5 area and the cage directly above it.",
+    "previous": "合成一台躯体复原器, 一个骨笼与八块魂石.把复原器放在 5×5 区域的中心, 骨笼正上方.",
+    "translation": "合成一台肉身重构器, 一个骨笼与八块魂石.把重构器放在 5×5 区域的中心, 骨笼正上方.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.p0_continued.title",
+    "source": "Build the Reconstructor",
+    "previous": "建造复原器",
+    "translation": "建造重构器",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.p0_continued.text",
+    "source": "Use the preview for the eight stones at the Reconstructor’s height. Extra stones are allowed in unmarked spaces. Keep the cage and center as shown.",
+    "previous": "按预览摆放八块魂石, 与复原器同高.未标记的位置可以额外放石头.骨笼与中心的位置要保持与图示一致.",
+    "translation": "按预览摆放八块魂石, 与重构器同高.未标记的位置可以额外放石头.骨笼与中心的位置要保持与图示一致.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.structure.title",
+    "source": "Reconstructor",
+    "previous": "复原器",
+    "translation": "重构器",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.reconstructor.structure.text",
+    "source": "Eight Soul Stone, one Reconstructor and a Bone Cage above it. Extra stones in unmarked spaces are allowed.",
+    "previous": "八块魂石, 一台复原器, 上方一个骨笼.未标记位置可额外放石头.",
+    "translation": "八块魂石, 一台重构器, 上方一个骨笼.未标记位置可额外放石头.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.robe.goal",
+    "source": "After infusion, make Spirit Thread, Shadoweave Cloth and a robe.",
+    "previous": "掌握灌注后, 制作灵魂丝线, 影织布与长袍.",
+    "translation": "掌握灌注后, 制作灵魂丝线, 暗影织布与长袍.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.robe.p0.text",
+    "source": "Make Spirit Thread, then Shadoweave Cloth and a Ceremonial Robe.\\\n\\\nWear the robe in your chest slot to use the Altar of Souls. It protects like a leather tunic and accepts chest armor enchantments.",
+    "previous": "先做灵魂丝线, 再做影织布与仪式长袍.\\\n\\\n把长袍穿在胸甲槽即可使用灵魂祭坛.它的防护相当于皮衣, 可以接受胸甲附魔.",
+    "translation": "先做灵魂丝线, 再做暗影织布与仪式长袍.\\\n\\\n把长袍穿在胸甲槽即可使用灵魂祭坛.它的防护相当于皮衣, 可以接受胸甲附魔.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-293",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.robe.p1.text",
+    "source": "Repair the robe with Shadoweave Cloth at an anvil. Spirit Thread also crafts the Soul Leash item.\\\n\\\nThe robe is required for altar offerings; Foci spellcasting does not require it.",
+    "previous": "在铁砧上用影织布修补长袍.灵魂丝线还能合成灵魂缰绳.\\\n\\\n向祭坛献祭必须穿长袍; 用法器施法则不需要.",
+    "translation": "在铁砧上用暗影织布修补长袍.灵魂丝线还能合成灵魂缰绳.\\\n\\\n向祭坛献祭必须穿长袍; 用法器施法则不需要.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.devotion.p1.text",
+    "source": "Worship the same god five times in a row to become devout to it. A title tells you when you are.\\\n\\\nWorshipping any other god ends your devotion, and the count starts again with that god. Only the devout can become priests or use a Priest Rod's powers.",
+    "previous": "连续五次祭拜同一位神, 即成为它的虔信者.成为时会有称号提示.\\\n\\\n祭拜其他任何神都会终止你的虔诚, 并从那位神重新计数.只有虔信者能成为祭司, 或使用祭司权杖的神力.",
+    "translation": "连续五次祭拜同一位神, 即成为它的虔信者.成为时会有称号提示.\\\n\\\n祭拜其他任何神都会终止你的虔诚, 并从那位神重新计数.只有虔信者能成为祭司, 或使用祭司杖的神力.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.devotion.p2.text",
+    "source": "Your worship balance with each god pays for Priest Rod actions and shrine travel. Each successful action or journey costs one.\\\n\\\nSpending worship does not break devotion or lower the god's lifetime standing in the Pantheon. Worship again to refill your balance; the five-minute wait is shared across all gods.",
+    "previous": "你对每位神的祭拜次数可用于支付祭司权杖的动作与神龛传送.每次成功动作或旅程消耗一次.\\\n\\\n消耗祭拜不会破坏虔诚, 也不会降低该神在万神殿中的历史地位.再次祭拜即可补充; 五分钟的等待对所有神共用.",
+    "translation": "你对每位神的祭拜次数可用于支付祭司杖的动作与神龛传送.每次成功动作或旅程消耗一次.\\\n\\\n消耗祭拜不会破坏虔诚, 也不会降低该神在万神殿中的历史地位.再次祭拜即可补充; 五分钟的等待对所有神共用.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.devotion.next.text",
+    "source": "1. [Use a Priest Rod](entry://anima:codex/advanced/priests)",
+    "previous": "1. [使用祭司权杖](entry://anima:codex/advanced/priests)",
+    "translation": "1. [使用祭司杖](entry://anima:codex/advanced/priests)",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.priests.name",
+    "source": "Use a Priest Rod",
+    "previous": "使用祭司权杖",
+    "translation": "使用祭司杖",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.priests.goal",
+    "source": "Dedicate a Priest Rod and spend worship on its abilities.",
+    "previous": "为祭司权杖完成奉祀, 并用祭拜次数驱动它的能力.",
+    "translation": "为祭司杖完成奉祀, 并用祭拜次数驱动它的能力.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.priests.p0.text",
+    "source": "While devout, right-click one of your god's shrines with a Priest Rod. It becomes the Rod of that god, and the god's three code items circle it while you hold it.\\\n\\\nIf you later turn to another god, become devout to it and use the rod on its shrine to rededicate it.",
+    "previous": "处于虔信状态时, 手持祭司权杖右键点击你这位神的神龛.权杖会成为该神的权杖, 你持握时三种识别物会绕其旋转.\\\n\\\n若之后改信其他神, 先成为那位神的虔信者, 再把权杖用在其神龛上重新奉祀.",
+    "translation": "处于虔信状态时, 手持祭司杖右键点击你这位神的神龛.权杖会成为该神的权杖, 你持握时三种识别物会绕其旋转.\\\n\\\n若之后改信其他神, 先成为那位神的虔信者, 再把权杖用在其神龛上重新奉祀.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-294",
+    "namespace": "anima",
+    "key": "book.anima.codex.advanced.avatar_combat.p4.text",
+    "source": "Defeating the avatar permanently removes its god from the Pantheon. That god's old shrines and Priest Rods lose their god.\\\n\\\nFor a God Soul, the final blow must be a Saronite Sword strike by a player carrying an empty glass bottle. Other finishing attacks still remove the god but yield no soul.\\\n\\\nSee [God Soul harvesting](entry://anima:codex/infusion/tools).",
+    "previous": "击败化身会把它的神从万神殿中永久移除.该神旧有的神龛与祭司权杖都会失去所属的神.\\\n\\\n若想取得神魂, 最后一击必须由携带空玻璃瓶的玩家用萨隆铁剑打出.其他方式的终结攻击仍会移除该神, 但不会给神魂.\\\n\\\n参见 [神魂收割](entry://anima:codex/infusion/tools).",
+    "translation": "击败化身会把它的神从万神殿中永久移除.该神旧有的神龛与祭司杖都会失去所属的神.\\\n\\\n若想取得神魂, 最后一击必须由携带空玻璃瓶的玩家用萨隆铁剑打出.其他方式的终结攻击仍会移除该神, 但不会给神魂.\\\n\\\n参见 [神魂收割](entry://anima:codex/infusion/tools).",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-297",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.affinities.water.page0.text",
+    "source": "The water affinity is associated with swimming, drowning and potions. Its components therefore often use effects, such as $(l:components/water_breathing)Water Breathing$(), $(l:components/swift_swim)Swift Swim$() or $(l:components/watery_grave)Watery Grave$().",
+    "previous": "水亲和与游泳, 溺水和药水相关.因此其部件常用效果, 例如$(l:components/water_breathing)水下呼吸$(), $(l:components/swift_swim)迅泳$()或$(l:components/watery_grave)水葬$().",
+    "translation": "水亲和与游泳, 溺水和药水相关.因此其部件常用效果, 例如$(l:components/water_breathing)水下呼吸$(), $(l:components/swift_swim)迅捷游泳$()或$(l:components/watery_grave)水之坟墓$().",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-301",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.items.mana_food.page0.text",
+    "source": "The Mana Martini (shaken, not stirred) will give you burnout reduction, while the Mana Cake improves your mana regeneration. But is it a lie?",
+    "previous": "魔力马丁尼 (摇匀, 不要搅拌) 能减少你的枯竭, 而魔力蛋糕能提升你的魔力再生.可这蛋糕是谎言吗?",
+    "translation": "魔力马天尼 (摇匀, 不要搅拌) 能减少你的枯竭, 而魔力蛋糕能提升你的魔力再生.可这蛋糕是谎言吗?",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-301",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.items.purified_vinteum_dust.name",
+    "source": "Purified Vinteum Dust",
+    "previous": "纯净温特姆粉",
+    "translation": "纯化温特姆粉",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.crafting_rituals.craft_research_dust.spotlight.text",
+    "source": "Research Fragment dust is an enhanced ingredient for rituals.\n It is crafted using the essence of the [#](AA00AA)Foliot[#]() and\n requires magical materials from the Overworld.\n",
+    "previous": "研究碎片粉是仪式的强化材料.\n它使用[#](AA00AA)精灵[#]()的灵髓合成,\n并且需要来自主世界的魔法材料.\n",
+    "translation": "精研碎片粉是仪式的强化材料.\n它使用[#](AA00AA)魔精[#]()的灵髓合成,\n并且需要来自主世界的魔法材料.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.aquatic_lord.title",
+    "source": "Lord of the Aquatic Depths",
+    "previous": "水生深渊之主",
+    "translation": "深渊水之主",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.fairy_bless.title",
+    "source": "Fairy Blessing",
+    "previous": "妖精祝福",
+    "translation": "仙子祝福",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.herald_aberrations.title",
+    "source": "Herald of Aberrations",
+    "previous": "畸变先驱",
+    "translation": "异变先驱",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.nether_emperor.title",
+    "source": "Emperor of the Nether",
+    "previous": "下界皇帝",
+    "translation": "下界帝王",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.step_height.text",
+    "source": "Each level slightly increases step height. Apply [Step Blocked](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked) when sneaking.\n",
+    "previous": "每一级都会略微提高抬腿高度.潜行时则施加[台阶阻挡](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked).\n",
+    "translation": "每一级都会略微提高抬腿高度.潜行时则施加[行走受阻](entry://occultism:dictionary_of_spirits/getting_started/effects@step_blocked).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.getting_started.effects.undying_cooldown.title",
+    "source": "Occult Undying Cooldown",
+    "previous": "神秘学不死冷却",
+    "translation": "神秘不死冷却",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.pentacles.blue_chalk.recipe_impure.text",
+    "source": "To obtain the essence of a [#](AA00AA)Marid[#]() for [](item://occultism:chalk_blue) you need to\n [summon and kill an Unbound Marid](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n",
+    "previous": "要为[](item://occultism:chalk_blue)取得[#](AA00AA)巨灵[#]()的灵髓, 你需要\n[召唤并杀死未受缚的巨灵](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n",
+    "translation": "要为[](item://occultism:chalk_blue)取得[#](AA00AA)魔王[#]()的灵髓, 你需要\n[召唤并杀死未受缚的魔王](entry://occultism:dictionary_of_spirits/summoning_rituals/marid_essence).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-302",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.pentacles.lime_chalk.recipe_impure.text",
+    "source": "Check [Research Fragment Dust](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust) entry.\n",
+    "previous": "参见[研究碎片粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust)条目.\n",
+    "translation": "参见[精研碎片粉](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_research_dust)条目.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_beaver.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** [Beaver Harvest](entry://occultism:dictionary_of_spirits/getting_started/effects@beaver_harvest).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [河狸收获](entry://occultism:dictionary_of_spirits/getting_started/effects@beaver_harvest).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [河狸之获](entry://occultism:dictionary_of_spirits/getting_started/effects@beaver_harvest).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_beholder.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Iesnium:** [Herald of Aberrations](entry://occultism:dictionary_of_spirits/getting_started/effects@herald_aberrations).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**艾瑟金属:** [畸变先驱](entry://occultism:dictionary_of_spirits/getting_started/effects@herald_aberrations).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**艾瑟金属:** [异变先驱](entry://occultism:dictionary_of_spirits/getting_started/effects@herald_aberrations).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_cthulhu.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** Water Breathing.\n\\\n\\\n**Upgraded:** Dolphin Grace.\n\\\n\\\n**Iesnium:** Conduit Power and [Lord of the Aquatic Depths](entry://occultism:dictionary_of_spirits/getting_started/effects@aquatic_lord).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 水下呼吸.\n\\\n\\\n**升级:** 海豚的恩惠.\n\\\n\\\n**艾瑟金属:** 潮涌能量与[水生深渊之主](entry://occultism:dictionary_of_spirits/getting_started/effects@aquatic_lord).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 水下呼吸.\n\\\n\\\n**升级:** 海豚的恩惠.\n\\\n\\\n**艾瑟金属:** 潮涌能量与[深渊水之主](entry://occultism:dictionary_of_spirits/getting_started/effects@aquatic_lord).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_devil.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** Fire Resistance.\n\\\n\\\n**Iesnium:** [Emperor of the Nether](entry://occultism:dictionary_of_spirits/getting_started/effects@nether_emperor).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 抗火.\n\\\n\\\n**艾瑟金属:** [下界皇帝](entry://occultism:dictionary_of_spirits/getting_started/effects@nether_emperor).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 抗火.\n\\\n\\\n**艾瑟金属:** [下界帝王](entry://occultism:dictionary_of_spirits/getting_started/effects@nether_emperor).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_dragon.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** [Dragon's Greed](entry://occultism:dictionary_of_spirits/getting_started/effects@dragon_greed).\n\\\n\\\n**Iesnium:** Hero of the Village.\n\\\n\\\nYou can give it [](item://minecraft:gold_nugget) to increase its effects max level for 5 minutes.\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [龙之贪婪](entry://occultism:dictionary_of_spirits/getting_started/effects@dragon_greed).\n\\\n\\\n**艾瑟金属:** 村庄英雄.\n\\\n\\\n你可以给它[](item://minecraft:gold_nugget), 使其效果最高等级提升 5 分钟.\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [龙之贪欲](entry://occultism:dictionary_of_spirits/getting_started/effects@dragon_greed).\n\\\n\\\n**艾瑟金属:** 村庄英雄.\n\\\n\\\n你可以给它[](item://minecraft:gold_nugget), 使其效果最高等级提升 5 分钟.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_drikwing.ability.text",
+    "source": "By default, you cannot use Multi Jump while gliding with an [](item://minecraft:elytra),\n but this restriction can be overcome by having a Drikiwing Familiar with the Iesnium Upgrade.\n",
+    "previous": "默认情况下, 使用[](item://minecraft:elytra)滑翔时无法使用多重跳跃,\n但若拥有一只带有艾瑟金属升级的德里克翼使魔, 就能突破此限制.\n",
+    "translation": "默认情况下, 使用[](item://minecraft:elytra)滑翔时无法使用多段跳,\n但若拥有一只带有艾瑟金属升级的具翼使魔, 就能突破此限制.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_drikwing.description.text",
+    "source": "[#](AA00AA)Drikwings[#]() are a subclass of [#](AA00AA)Djinni[#]() that are known to be amicable towards humans.\n They usually take the shape of a dark blue and purple parrot.\n Drikwing Familiar will provide their owner with limited flight abilities when nearby.\n",
+    "previous": "[#](AA00AA)德里克翼[#]()是[#](AA00AA)巨灵[#]()的一个亚种, 以对人类友善著称.\n 它们通常呈现为深蓝色与紫色的鹦鹉形态.\n 德里克翼使魔会在附近时为主人提供有限的飞行能力.\n",
+    "translation": "[#](AA00AA)德里克翼[#]()是[#](AA00AA)巨灵[#]()的一个亚种, 以对人类友善著称.\n 它们通常呈现为深蓝色与紫色的鹦鹉形态.\n 具翼使魔会在附近时为主人提供有限的飞行能力.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_drikwing.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** [Multi Jump](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), Jump Boost and Slow Falling.\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [多重跳跃](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升与缓降.\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [多段跳](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升与缓降.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_fairy.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Upgraded:** Regeneration.\n\\\n\\\n**Iesnium:** [Fairy Blessing](entry://occultism:dictionary_of_spirits/getting_started/effects@fairy_bless).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**升级:** 生命恢复.\n\\\n\\\n**艾瑟金属:** [妖精祝福](entry://occultism:dictionary_of_spirits/getting_started/effects@fairy_bless).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**升级:** 生命恢复.\n\\\n\\\n**艾瑟金属:** [仙子祝福](entry://occultism:dictionary_of_spirits/getting_started/effects@fairy_bless).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_greedy.ability.text",
+    "source": "The Greedy Familiar is a Foliot that will pick up nearby items for it's master.\n [#](AA00AA)Shift-right-click[#]() with empty hand to open a screen that can set a [Spirit Filter](entry://occultism:dictionary_of_spirits/summoning_rituals/transporter_filters).\n\\\n\\\nWhen upgraded by a Blacksmith Familiar, it can find blocks for its master.\n [#](AA00AA)Right-click[#]() it with a block to tell it what to look for.\n",
+    "previous": "贪婪使魔是一只精灵, 会替主人拾取附近的物品.\n 空手[#](AA00AA)潜行右击[#]()可打开界面, 设置[魔灵过滤器](entry://occultism:dictionary_of_spirits/summoning_rituals/transporter_filters).\n\\\n\\\n被铁匠使魔升级后, 它可以替主人寻找方块.\n 用方块[#](AA00AA)右击[#]()它, 即可告诉它要找什么.\n",
+    "translation": "贪婪使魔是一只魔精, 会替主人拾取附近的物品.\n 空手[#](AA00AA)潜行右击[#]()可打开界面, 设置[魔灵过滤器](entry://occultism:dictionary_of_spirits/summoning_rituals/transporter_filters).\n\\\n\\\n被铁匠使魔升级后, 它可以替主人寻找方块.\n 用方块[#](AA00AA)右击[#]()它, 即可告诉它要找什么.\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_wingnis.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** [Multi Jump](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), Jump Boost, Slow Falling and Glowing.\n\\\n\\\n**Upgraded:** [Fire Wings](entry://occultism:dictionary_of_spirits/getting_started/effects@fire_wing).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [多重跳跃](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升, 缓降与发光.\n\\\n\\\n**升级:** [火焰之翼](entry://occultism:dictionary_of_spirits/getting_started/effects@fire_wing).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** [多段跳](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升, 缓降与发光.\n\\\n\\\n**升级:** [火焰之翼](entry://occultism:dictionary_of_spirits/getting_started/effects@fire_wing).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_wingnis.ritual.text",
+    "source": "The [#](AA00AA)Wingnis[#]() is not summoned directly. First, summon a [Drikwing Familiar](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_drikwing), give it a [](item://minecraft:totem_of_undying) and bring it to a [#](AA00AA)Nether Biome[#](),\n then click the drikwing with [Flaming Paste](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_flaming_paste). Make sure it dies to fire so you can obtain the [#](AA00AA)Wingnis Familiar[#]().\n",
+    "previous": "[#](AA00AA)翼尼斯[#]()无法直接召唤.首先召唤一只[德里克翼使魔](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_drikwing), 给它一个[](item://minecraft:totem_of_undying), 并把它带到[#](AA00AA)下界生物群系[#](),\n然后用[烈焰膏](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_flaming_paste)点击这只德里克翼.确保它死于火焰, 才能获得[#](AA00AA)翼尼斯使魔[#]().\n",
+    "translation": "[#](AA00AA)翼尼斯[#]()无法直接召唤.首先召唤一只[具翼使魔](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_drikwing), 给它一个[](item://minecraft:totem_of_undying), 并把它带到[#](AA00AA)下界生物群系[#](),\n然后用[烈焰膏](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_flaming_paste)点击这只德里克翼.确保它死于火焰, 才能获得[#](AA00AA)翼尼斯使魔[#]().\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-304",
+    "namespace": "neovitae",
+    "key": "book.neovitae.guide.spiritus.athanor.sanguine_deus_block.text",
+    "source": "A [#](8B0000)Hellforged Block[#]() steeped in [#](8B0000)10,000 mB of Essentia Vitae[#]() and [#](4A0080)40 of every Spiritus[#]() becomes a [#](8B0000)Sanguine Deus Block[#](). The [#](8B0000)Divinus Orb of Vitae[#]() guides the work from the tool slot.\\\n\\\nBeneath the Endless Quarry it gives the widest reach of any foundation, and it serves as a beacon base.",
+    "previous": "一块[#](8B0000)狱锻块[#](), 若浸透了[#](8B0000)10,000 mB 生命源质[#]()与[#](4A0080)每种灵质各 40[#](), 便会化为[#](8B0000)血色神圣方块[#]().[#](8B0000)神圣生命宝珠[#]()会从工具槽中引导这一过程.\\\n\\\n在无尽采石场下方使用时, 它提供的覆盖范围是所有基座中最广的, 并且可作为信标基座.",
+    "translation": "一块[#](8B0000)狱锻块[#](), 若浸透了[#](8B0000)10,000 mB 生命源质[#]()与[#](4A0080)每种灵质各 40[#](), 便会化为[#](8B0000)血色神圣方块[#]().[#](8B0000)圣师生命宝珠[#]()会从工具槽中引导这一过程.\\\n\\\n在无尽采石场下方使用时, 它提供的覆盖范围是所有基座中最广的, 并且可作为信标基座.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-304",
+    "namespace": "neovitae",
+    "key": "book.neovitae.guide.tabula_vitae.flask_soul_snare.intro.text",
+    "source": "The [#](8B0000)Soul Snare[#]() elixir binds a hostile creature's spirit to its body. If a snared monster dies by your hand, or soon after you have struck it, its spirit is torn free as [#](4A0080)Spiritus Essence[#](), more from creatures with greater health.\\\n\\\nThrown as a splash or lingering flask, it snares a whole group at once, which you may then cut down with any weapon.\\\n\\\n[#](2E8B57)A monster that dies without you, to a trap or a fall, gives up nothing.[#]()",
+    "previous": "[#](8B0000)灵魂陷阱[#]()药剂会将敌对生物的灵魂束缚在其体内.若被束缚的怪物死于你手, 或在你击中它之后不久死去, 其灵魂就会被撕出, 化为[#](4A0080)灵质精华[#](), 生物生命值越高, 得到的越多.\\\n\\\n作为喷溅或滞留药瓶投出时, 它能一次束缚一整群生物, 之后你可以用任何武器将它们放倒.\\\n\\\n[#](2E8B57)若怪物并非死于你手, 例如死于陷阱或坠落, 则什么也不会交出.[#]()",
+    "translation": "[#](8B0000)灵魂受缚[#]()药剂会将敌对生物的灵魂束缚在其体内.若被束缚的怪物死于你手, 或在你击中它之后不久死去, 其灵魂就会被撕出, 化为[#](4A0080)灵质精华[#](), 生物生命值越高, 得到的越多.\\\n\\\n作为喷溅或滞留药瓶投出时, 它能一次束缚一整群生物, 之后你可以用任何武器将它们放倒.\\\n\\\n[#](2E8B57)若怪物并非死于你手, 例如死于陷阱或坠落, 则什么也不会交出.[#]()",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-308",
+    "namespace": "occultcooking",
+    "key": "entry.occultcooking.kitchenstation.name",
+    "source": "Occult Kitchen Station",
+    "previous": "神秘厨房站",
+    "translation": "神秘厨房台",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-308",
+    "namespace": "occultcooking",
+    "key": "entry.occultcooking.kitchenstation.intro",
+    "source": "The $(l)Occult Kitchen Station$() is the one block you need to bridge $(6)Cooking for Blockheads$() with $(5)Occultism$().$(br2)Placed in your kitchen, it hands your whole $(5)storage network$() to the Cooking Table: every stored item becomes an ingredient.$(br2)Craft it, link it, and drop it into your kitchen. Here's how.",
+    "previous": "$(l)神秘厨房站$()是连接$(6)Cooking for Blockheads$()与$(5)Occultism$()所需的唯一方块.$(br2)把它放进你的厨房, 它就会把你的整个$(5)存储网络$()交给料理台: 每一件存储的物品都成为可用食材.$(br2)制作它, 链接它, 再把它放进厨房.具体做法如下.",
+    "translation": "$(l)神秘厨房台$()是连接$(6)Cooking for Blockheads$()与$(5)Occultism$()所需的唯一方块.$(br2)把它放进你的厨房, 它就会把你的整个$(5)存储网络$()交给料理台: 每一件存储的物品都成为可用食材.$(br2)制作它, 链接它, 再把它放进厨房.具体做法如下.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-308",
+    "namespace": "occultcooking",
+    "key": "entry.occultcooking.kitchenstation.craft",
+    "source": "Craft the $(l)Occult Kitchen Station$() as shown.$(br2)Straight out of the grid it isn't tied to anything yet, the next step links it to your $(5)Dimensional Storage Actuator$() so it knows where to pull from.",
+    "previous": "按图示合成$(l)神秘厨房站$().$(br2)刚合成出来时它还未与任何东西绑定, 下一步会把它链接到你的$(5)维度存储促动器$(), 让它知道从哪里取物.",
+    "translation": "按图示合成$(l)神秘厨房台$().$(br2)刚合成出来时它还未与任何东西绑定, 下一步会把它链接到你的$(5)维度存储促动器$(), 让它知道从哪里取物.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-329",
+    "namespace": "neovitae",
+    "key": "book.neovitae.guide.altar.vitae_link.orb_link_flow.text",
+    "source": "The Link can only draw what the basin holds, so it never moves more in a tick than the altar's [#](8B0000)capacity[#](). The swiftest charging altars balance the two: enough [#](8B0000)Speed Runes[#]() for a strong draw, and enough [#](8B0000)Capacity Runes[#]() that the basin can keep pace with it.\\\n\\\nThe [#](8B0000)Divinus Orb of Vitae[#]() draws far faster than any lesser orb.",
+    "previous": "链接只能抽取容器中现有的血液, 因此每刻转移量不会超过祭坛的[#](8B0000)容量[#](). 充能最快的祭坛需要平衡两者: 安装足够的[#](8B0000)速度符文[#]()以提高抽取量, 并配备足够的[#](8B0000)容量符文[#](), 让容器跟得上抽取速度.\\\n\\\n[#](8B0000)圣师生命宝珠[#]()的抽取速度远快于低阶宝珠.",
+    "translation": "链接只能抽取容器中现有的血液, 因此每刻转移量不会超过祭坛的[#](8B0000)容量[#](). 充能最快的祭坛需要平衡两者: 安装足够的[#](8B0000)速度符文[#]()以提高抽取量, 并配备足够的[#](8B0000)增容符文[#](), 让容器跟得上抽取速度.\\\n\\\n[#](8B0000)圣师生命宝珠[#]()的抽取速度远快于低阶宝珠.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-330",
+    "namespace": "productivebees",
+    "key": "productivebees.devices.heated_centrifuge",
+    "source": "Heated Centrifuge",
+    "previous": "加热离心机",
+    "translation": "热能离心机",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-060",
+    "namespace": "energizedpower",
+    "key": "book.energizedpower.page.weather_controller.2",
+    "source": "It can be automated with redstone - signal strengths: (15: clear, 14: rain, 13: thunder, 1 - 12 (only if the Duration Upgrade Module (Tier VI) is installed): reset selected weather).",
+    "previous": "可用红石自动化 - 信号强度: (15: 晴朗, 14: 下雨, 13: 雷暴, 1 - 12 (仅在安装持续时间升级模块 (VI 级) 时): 重置所选天气).",
+    "translation": "可用红石自动化 - 信号强度: (15: 晴朗, 14: 下雨, 13: 雷暴, 1 - 12 (仅在安装持续时间升级模块 (等级 VI) 时): 重置所选天气).",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-237",
+    "namespace": "crystalix",
+    "key": "tooltip.crystalix.use_wand",
+    "source": "To modify block properties and access different texture or colors use the Crystalix Wand",
+    "previous": "要修改方块属性或使用不同纹理与颜色, 请使用 Crystalix 法杖",
+    "translation": "要修改方块属性或使用不同纹理与颜色, 请使用 虹晶手杖",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-300",
+    "namespace": "arsmagicalegacy",
+    "key": "item.arsmagicalegacy.arcane_compendium.mechanics.liquid_etherium.page2.text",
+    "source": "Bathing in Liquid Etherium grants the Mana Regeneration effect.$(br2)And as you should know by now, placing a book in a nearby item frame yields a copy of the very book you are reading this in.",
+    "previous": "泡在液态源质中会获得魔力再生效果.$(br2)另外, 你如今应当知道, 把一本书放进旁边的物品展示框, 就能得到一本你正在读的这本书的副本.",
+    "translation": "泡在液态源质中会获得魔力恢复效果.$(br2)另外, 你如今应当知道, 把一本书放进旁边的物品展示框, 就能得到一本你正在读的这本书的副本.",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-303",
+    "namespace": "occultism",
+    "key": "book.occultism.dictionary_of_spirits.familiar_rituals.familiar_deer.effects.text",
+    "source": "Different effects can be applied depending on the familiar's level.\nYou can configure them using the [Familiar Tablet](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet).\n\\\n\\\n**Default:** Speed and [Step Height](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n",
+    "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 速度与[抬腿高度](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n",
+    "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 速度与[最大行走高度](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n",
+    "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "batch": "038",
+  "namespace": "stellaris",
+  "jar": ".minecraft/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
+  "language_path": "assets/stellaris/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/stellaris/lang/zh_cn.json",
+  "include_keys": [
+    "jade.stellaris.energy_generation",
+    "jade.stellaris.energy_usage",
+    "jade.stellaris.oxygenated_blocks",
+    "config.jade.plugin_stellaris.energy_rate",
+    "config.jade.plugin_stellaris.oxygen_distributor",
+    "config.stellaris.pumpjackFluid",
+    "config.stellaris.oilConfig.pumpjackFluid.desc",
+    "config.stellaris.energyConfig",
+    "config.stellaris.energyMultiplier",
+    "config.stellaris.energyConfig.desc",
+    "config.stellaris.energyConfig.energyMultiplier.desc",
+    "painting.stellaris.the_milky_way.title",
+    "painting.stellaris.sun.title",
+    "painting.stellaris.earth.title",
+    "painting.stellaris.moon.title",
+    "painting.stellaris.mars.title",
+    "painting.stellaris.mercury.title",
+    "painting.stellaris.venus.title",
+    "painting.stellaris.neptune.title",
+    "painting.stellaris.saturn.title",
+    "painting.stellaris.jupiter.title",
+    "painting.stellaris.pluto.title",
+    "painting.stellaris.uranus.title",
+    "painting.stellaris.proxima_centaury.title",
+    "painting.stellaris.glacio.title",
+    "subtitles.stellaris.beep",
+    "subtitles.stellaris.sonic_boom"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
+    "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
+    "nested_jars": [],
+    "resource": "assets/stellaris/lang/en_us.json",
+    "mod_ids": [
+      "stellaris"
+    ],
+    "resource_sha256": "7af3f3e0d27180b25f8b91aebeacf9153ced56833b88890f847a67f9e12cf0c7"
+  }
+}

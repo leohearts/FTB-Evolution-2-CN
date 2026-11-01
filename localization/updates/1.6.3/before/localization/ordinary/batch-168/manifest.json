@@ -1,0 +1,36 @@
+{
+  "batch": "168",
+  "namespace": "iceandfire",
+  "jar": ".minecraft/mods/iceandfire-2.2-beta.4.jar",
+  "language_path": "assets/iceandfire/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/iceandfire/lang/zh_cn.json",
+  "include_keys": [
+    "advancements.iceandfire.jar_pixie.title",
+    "advancements.iceandfire.kill_ghost.title",
+    "item.iceandfire.weezer_blue_album",
+    "item.iceandfire.weezer_blue_album.desc_0",
+    "material.weezer",
+    "modifier.in_the_garage",
+    "modifier.surf_wax_america",
+    "modifier.sweater_song"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Surfer Rosa",
+    "Weezer",
+    "In The Garage",
+    "Surf Wax America",
+    "Undone"
+  ],
+  "jar_sha256": "99eda9bcd42932e163854c7493a0797ee5dc6aace8bce1b620c8f85f24ab10f0",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iceandfire-2.2-beta.4.jar",
+    "jar_sha256": "99eda9bcd42932e163854c7493a0797ee5dc6aace8bce1b620c8f85f24ab10f0",
+    "nested_jars": [],
+    "resource": "assets/iceandfire/lang/en_us.json",
+    "mod_ids": [
+      "iceandfire"
+    ],
+    "resource_sha256": "f6ba0ab5a06b20a2e84892c86bae6162ef940fd359fbfbd922642b663ea71fce"
+  }
+}

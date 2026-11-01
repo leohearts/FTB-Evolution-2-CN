@@ -1,0 +1,51 @@
+{
+  "batch": "144",
+  "namespace": "productivebees",
+  "jar": ".minecraft/mods/productivebees-26.1.2-15.4.0.jar",
+  "language_path": "assets/productivebees/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/productivebees/lang/zh_cn.json",
+  "include_keys": [
+    "block.productivebees.advanced_regions_unexplored_brimwood_beehive",
+    "block.productivebees.expansion_box_regions_unexplored_brimwood",
+    "block.productivebees.invisible_redstone_block",
+    "entity.productivebees.burly_bee",
+    "entity.productivebees.creaking_bee",
+    "entity.productivebees.eldritch_bee",
+    "entity.productivebees.scrapped_bee",
+    "entity.productivebees.sky_slime_bee",
+    "entity.productivebees.thaumium_bee",
+    "entity.productivebees.vis_bee",
+    "entity.productivebees.void_bee",
+    "item.productivebees.spawn_egg_configurable_bee",
+    "productivebees.ingredient.description.eldritch_bee",
+    "productivebees.ingredient.description.vis_bee",
+    "productivebees.screen.fluid_level",
+    "research.productivebees.eldritch_bee.stage_0",
+    "research.productivebees.eldritch_bee.stage_1",
+    "research.productivebees.eldritch_bee.title",
+    "research.productivebees.thaumium_bee.stage_0",
+    "research.productivebees.thaumium_bee.stage_1",
+    "research.productivebees.thaumium_bee.title",
+    "research.productivebees.vis_bee.stage_0",
+    "research.productivebees.vis_bee.stage_1",
+    "research.productivebees.vis_bee.title",
+    "research.productivebees.void_bee.stage_0",
+    "research.productivebees.void_bee.stage_1",
+    "research.productivebees.void_bee.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s: %s"
+  ],
+  "jar_sha256": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "jar_sha256": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
+    "nested_jars": [],
+    "resource": "assets/productivebees/lang/en_us.json",
+    "mod_ids": [
+      "productivebees"
+    ],
+    "resource_sha256": "0a5a6b784f7b60d4f80886c504d1e9e7b62bbb98f29d68c4cac0c9eda670bc97"
+  }
+}

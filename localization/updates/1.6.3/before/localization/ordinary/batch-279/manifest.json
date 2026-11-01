@@ -1,0 +1,27 @@
+{
+  "batch": "279",
+  "namespace": "polylib",
+  "jar": ".minecraft/mods/polylib-neoforge-26.1.2-2.0.11.jar",
+  "language_path": "assets/polylib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/polylib/lang/zh_cn.json",
+  "include_keys": [
+    "energy_bar.polylib.rf",
+    "fluid_tank.polylib.mb"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "RF",
+    "mB"
+  ],
+  "jar_sha256": "b1cb63a9b6549e044e2657ef7d865d086ab0014f21795693c5520e209b47b96e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/polylib-neoforge-26.1.2-2.0.11.jar",
+    "jar_sha256": "b1cb63a9b6549e044e2657ef7d865d086ab0014f21795693c5520e209b47b96e",
+    "nested_jars": [],
+    "resource": "assets/polylib/lang/en_us.json",
+    "mod_ids": [
+      "polylib"
+    ],
+    "resource_sha256": "b820151e8ea8240b6ff8a0c2fa4d68ba82ad2c9b95c1ddbe38afcfa244d995b4"
+  }
+}

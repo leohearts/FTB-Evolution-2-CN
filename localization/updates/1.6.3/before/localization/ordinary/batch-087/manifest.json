@@ -1,0 +1,27 @@
+{
+  "batch": "087",
+  "namespace": "sophisticatedstorage",
+  "jar": ".minecraft/mods/sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+  "language_path": "assets/sophisticatedstorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedstorage/lang/zh_cn.json",
+  "include_keys": [
+    "item.sophisticatedstorage.paintbrush.tooltip.material",
+    "gui.sophisticatedstorage.upgrades.buttons.io_mode_side_info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    " - %s: %s",
+    "%s (%s)"
+  ],
+  "jar_sha256": "980cef1cb3c5d7304e533bfbd7166417fd9cfc585a0c988c8da90f3713aa2680",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+    "jar_sha256": "980cef1cb3c5d7304e533bfbd7166417fd9cfc585a0c988c8da90f3713aa2680",
+    "nested_jars": [],
+    "resource": "assets/sophisticatedstorage/lang/en_us.json",
+    "mod_ids": [
+      "sophisticatedstorage"
+    ],
+    "resource_sha256": "3f7b93532bddce24ba0ca6f105ecac4bd8013843196f1966da866bf44e64e457"
+  }
+}

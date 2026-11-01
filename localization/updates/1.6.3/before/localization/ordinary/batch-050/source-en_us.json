@@ -1,0 +1,10 @@
+{
+  "text.hostilenetworks.shift": "[shift]",
+  "text.hostilenetworks.selection": "%s -> %s %s",
+  "hostilenetworks.gui.energy": "%s/%s FE",
+  "hostilenetworks.info.dprog": "%s/%s",
+  "hostilenetworks.info.rft": "%s FE/t",
+  "hostilenetworks.info.sub_list": "  - %s",
+  "hostilenetworks.color_text.shift": "SHIFT",
+  "hostilenetworks.color_text.hud": "HUD"
+}

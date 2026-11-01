@@ -1,0 +1,28 @@
+{
+  "batch": "261",
+  "namespace": "crashutilities",
+  "jar": ".minecraft/mods/crashutilities-10.0.1.jar",
+  "language_path": "assets/crashutilities/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crashutilities/lang/zh_cn.json",
+  "include_keys": [
+    "crashutils.keycategory",
+    "crashutils.openscreen",
+    "crashutils.copycontainer",
+    "crashutils.slottooltips"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Crash Utilities"
+  ],
+  "jar_sha256": "a4b074d5cacfd0e65eb002c7d6dcf1bdced4374c9af377fd14e83260248a910d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crashutilities-10.0.1.jar",
+    "jar_sha256": "a4b074d5cacfd0e65eb002c7d6dcf1bdced4374c9af377fd14e83260248a910d",
+    "nested_jars": [],
+    "resource": "assets/crashutilities/lang/en_us.json",
+    "mod_ids": [
+      "crashutilities"
+    ],
+    "resource_sha256": "83762f721769d3ffdf02e3556d1cf93aee3a5e8106edc70431091af57b280dec"
+  }
+}

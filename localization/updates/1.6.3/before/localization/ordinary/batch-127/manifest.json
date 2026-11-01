@@ -1,0 +1,57 @@
+{
+  "batch": "127",
+  "namespace": "fzzy_config",
+  "jar": ".minecraft/mods/fzzy_config-0.7.7+26.1+neoforge.jar",
+  "language_path": "assets/fzzy_config/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fzzy_config/lang/zh_cn.json",
+  "include_keys": [
+    "fc.validated_field.color.r",
+    "fc.validated_field.color.g",
+    "fc.validated_field.color.b",
+    "fc.validated_field.color.a",
+    "fc.keybind.ctrl",
+    "fc.keybind.ctrl.shift",
+    "fc.keybind.ctrl.shift.alt",
+    "fc.keybind.ctrl.alt",
+    "fc.keybind.shift",
+    "fc.keybind.shift.alt",
+    "fc.keybind.alt",
+    "fc.keybind.resetting",
+    "fc.search.child",
+    "fc.search.modifier.SHIFT",
+    "fc.search.modifier.ALT",
+    "fc.search.modifier.CTRL",
+    "fzzy_config.text.or_3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "R",
+    "G",
+    "B",
+    "A",
+    "Ctrl %s",
+    "Ctrl Shift %s",
+    "Ctrl Shift Alt %s",
+    "Ctrl Alt %s",
+    "Shift %s",
+    "Shift Alt %s",
+    "Alt %s",
+    "§e>§r %s §e<§r",
+    "(%1$s): %2$s",
+    "Shift",
+    "Alt",
+    "Ctrl",
+    "%1$s, %2$s"
+  ],
+  "jar_sha256": "1cae023c36e8b557b1b759366e44b423511e8918f3c9b4fe91566c688b7445d7",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fzzy_config-0.7.7+26.1+neoforge.jar",
+    "jar_sha256": "1cae023c36e8b557b1b759366e44b423511e8918f3c9b4fe91566c688b7445d7",
+    "nested_jars": [],
+    "resource": "assets/fzzy_config/lang/en_us.json",
+    "mod_ids": [
+      "fzzy_config"
+    ],
+    "resource_sha256": "91033c2d8652e9702f752c5403e350805a6339d29e96b3974103b409c4138935"
+  }
+}

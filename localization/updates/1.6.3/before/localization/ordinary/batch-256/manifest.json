@@ -1,0 +1,33 @@
+{
+  "batch": "256",
+  "namespace": "balm",
+  "jar": ".minecraft/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+  "language_path": "assets/balm/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/balm/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_balm.jade",
+    "gui.balm.configuration.title",
+    "gui.balm.configuration.edit",
+    "gui.balm.configuration.validation.range",
+    "gui.balm.configuration.validation.negative_infinity",
+    "gui.balm.configuration.validation.positive_infinity"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Balm",
+    "%s...",
+    "-inf",
+    "+inf"
+  ],
+  "jar_sha256": "0dbe6d1714ea60558e8ab978205b8b69b5b3cd0004eb455bcff8831234259d6e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+    "jar_sha256": "0dbe6d1714ea60558e8ab978205b8b69b5b3cd0004eb455bcff8831234259d6e",
+    "nested_jars": [],
+    "resource": "assets/balm/lang/en_us.json",
+    "mod_ids": [
+      "balm"
+    ],
+    "resource_sha256": "8ca908bfbb1e13521004ac3ce9f1e499173c9ad12b3bf53e92e23cdbaf83630f"
+  }
+}

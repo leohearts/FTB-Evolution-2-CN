@@ -1,0 +1,23 @@
+{
+  "batch": "105",
+  "namespace": "ftbessentials",
+  "jar": ".minecraft/mods/ftb-essentials-neoforge-26.1.2.5.jar",
+  "language_path": "assets/ftbessentials/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ftbessentials/lang/zh_cn.json",
+  "include_keys": [
+    "ftbessentials.rtp.on_global_cooldown"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "6c7d1c092177b95279a51b1d86e6954b24f0e5a5db024e77fce56e5b38c886db",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-essentials-neoforge-26.1.2.5.jar",
+    "jar_sha256": "6c7d1c092177b95279a51b1d86e6954b24f0e5a5db024e77fce56e5b38c886db",
+    "nested_jars": [],
+    "resource": "assets/ftbessentials/lang/en_us.json",
+    "mod_ids": [
+      "ftbessentials"
+    ],
+    "resource_sha256": "7f34e022ac6bca2800906f05faf11a57972fbf58f523c0e87f9c815e376d38d8"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  "Emojiful",
+  "Enable Emoji Rendering",
+  "Emoji Render",
+  "Enable Emoji Selection GUI in the chat text line",
+  "Emoji Selector",
+  "Emoji Autocompletion",
+  "Load animated emojis, if disabled they will be a still image",
+  "GIF emojis",
+  "Replace short versions of emoji like :) into :smile: so they can be rendered as emoji",
+  "Short Emoji Replacement",
+  "Emoji Types",
+  "Loads Twemojis used in sites like Twitter and Discord",
+  "Load Twemoji",
+  "Loads custom emojis provided by Emojiful",
+  "Load Custom Emojis",
+  "Loads datapack emojis provided by the server you join",
+  "Load server datapacks",
+  "Enable Profanity Filter, this will replace bad words with emoji",
+  "Profanity Filter",
+  "Replacement word for the profanity filter",
+  "Replacement word"
+]

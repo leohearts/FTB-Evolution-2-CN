@@ -1,0 +1,21 @@
+0	Jade
+1	Bob, Alice, Charlie
+2	§f显示§r你正在注视的§f方块或实体§r的信息.
+3	X {0} Y {1} Z {2} 
+4	tab,playerlist
+5	modid
+6	transparent,alpha
+7	%s (%s)
+8	POI: %s
+9	战利品表
+10	需要 OP 权限.
+11	战利品表: %s
+12	种子: %s
+13	%d / %d
+14	%s / %s
+15	%s %s
+16	%s: %s
+17	%s %s %s
+18	 [%s]
+19	 (%s)
+20	{lang:[en_us],nameClasses:{}}

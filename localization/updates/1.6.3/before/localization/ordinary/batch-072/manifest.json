@@ -1,0 +1,32 @@
+{
+  "batch": "072",
+  "namespace": "rsrreforged",
+  "jar": ".minecraft/mods/rsrreforged-neoforge-26.1.2-1.0.3.jar",
+  "language_path": "assets/rsrreforged/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/rsrreforged/lang/zh_cn.json",
+  "include_keys": [
+    "block.rsrreforged.requester",
+    "button.rsrreforged:requester.save",
+    "block.rsrreforged.crafting_emitter",
+    "block.rsrreforged.crafting_emitter.tooltip",
+    "block.rsrreforged.requester.tooltip",
+    "block.rsrreforged.requester.tooltip.filter",
+    "block.rsrreforged.crafting_emitter.tooltip.filter",
+    "creativetab.rsrreforged.rsrreforgedtab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "RSRequestify: Reforged"
+  ],
+  "jar_sha256": "2a2061c38e5434e56f59c1c7fbd900636cb717cc21842892953446dbb43147db",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/rsrreforged-neoforge-26.1.2-1.0.3.jar",
+    "jar_sha256": "2a2061c38e5434e56f59c1c7fbd900636cb717cc21842892953446dbb43147db",
+    "nested_jars": [],
+    "resource": "assets/rsrreforged/lang/en_us.json",
+    "mod_ids": [
+      "rsrreforged"
+    ],
+    "resource_sha256": "b8a62c0f2b1ca36de9836797c3d9a4d608219875442f6ccb86d3a8ae2bc703b4"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "090",
+  "namespace": "appflux",
+  "jar": ".minecraft/mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
+  "language_path": "assets/appflux/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/appflux/lang/zh_cn.json",
+  "include_keys": [
+    "appflux.type.fe.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "FE"
+  ],
+  "jar_sha256": "1eec8ffcd0c3c25745dd8c0cadbcfaad50bedfe12792783c310b8533da06cdec",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
+    "jar_sha256": "1eec8ffcd0c3c25745dd8c0cadbcfaad50bedfe12792783c310b8533da06cdec",
+    "nested_jars": [],
+    "resource": "assets/appflux/lang/en_us.json",
+    "mod_ids": [
+      "appflux"
+    ],
+    "resource_sha256": "5e3ab2615ae212efa0aff673a19bb551b52336ad0a75c4accbeb7037d78942d8"
+  }
+}

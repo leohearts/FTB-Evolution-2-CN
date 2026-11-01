@@ -1,0 +1,47 @@
+{
+  "batch": "146",
+  "namespace": "fertilization",
+  "jar": ".minecraft/mods/fertilization-neoforge-26.1.2-26.1.2.3.jar",
+  "language_path": "assets/fertilization/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/fertilization/lang/zh_cn.json",
+  "include_keys": [
+    "block.fertilization.florists_bonemeal_block",
+    "block.fertilization.compressed_bonemeal_block",
+    "block.fertilization.extremely_compressed_bonemeal_block",
+    "fertilization.configuration.addDropsDirectlyToInventory",
+    "fertilization.configuration.addDropsDirectlyToInventory.tooltip",
+    "fertilization.configuration.addDropsDirectlyToInventoryForFakePlayers",
+    "fertilization.configuration.addDropsDirectlyToInventoryForFakePlayers.tooltip",
+    "fertilization.configuration.allowBoneMealOnSaplings",
+    "fertilization.configuration.allowBoneMealOnSaplings.tooltip",
+    "fertilization.configuration.allowBoneMealOnVines",
+    "fertilization.configuration.allowBoneMealOnVines.tooltip",
+    "fertilization.configuration.allowBoneMealOnSugarCanes",
+    "fertilization.configuration.allowBoneMealOnSugarCanes.tooltip",
+    "fertilization.configuration.compressedBoneMealPower",
+    "fertilization.configuration.compressedBoneMealPower.tooltip",
+    "fertilization.configuration.extremelyCompressedBoneMealPower",
+    "fertilization.configuration.extremelyCompressedBoneMealPower.tooltip",
+    "fertilization.configuration.floristsBoneMealMaxFlowers",
+    "fertilization.configuration.floristsBoneMealMaxFlowers.tooltip",
+    "fertilization.configuration.floristsBoneMealMaxRange",
+    "fertilization.configuration.floristsBoneMealMaxRange.tooltip",
+    "fertilization.configuration.floristsBoneMealFallbackBiome",
+    "fertilization.configuration.floristsBoneMealFallbackBiome.tooltip",
+    "fertilization.configuration.flowerBlocks",
+    "fertilization.configuration.flowerBlocks.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "108b3ce47977e2405176926cd3d7e904aa7a10b1ddeadb813e5488308b3abc72",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fertilization-neoforge-26.1.2-26.1.2.3.jar",
+    "jar_sha256": "108b3ce47977e2405176926cd3d7e904aa7a10b1ddeadb813e5488308b3abc72",
+    "nested_jars": [],
+    "resource": "assets/fertilization/lang/en_us.json",
+    "mod_ids": [
+      "fertilization"
+    ],
+    "resource_sha256": "edad36250bfcf6d8b057583d09768b25ecab9eb0bbbed8540263e1c59ca710a7"
+  }
+}

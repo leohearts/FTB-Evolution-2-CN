@@ -1,0 +1,16 @@
+{
+  "tag.block.animal_pen.aviaries": "Aviaries",
+  "tag.item.animal_pen.aviaries": "Aviaries",
+  "tag.item.animal_pen.can_aviary": "Items can attack aviaries",
+  "display.animal_pen.count": "%d",
+  "gui.animal_pen.variant_selection_screen.fixed_size": "%d",
+  "gui.animal_pen.variant_selection_screen.decoration_open_tooltip": "Click to view decorations",
+  "gui.animal_pen.variant_selection_screen.decoration_close_tooltip": "Click to hide decorations",
+  "option.animal_pen.trigger_advancements.tooltip[1]": "should trigger advancements.",
+  "option.animal_pen.increase_statistics.tooltip[1]": "should increase statistics.",
+  "option.animal_pen.attack_cooldown.tooltip[1]": "attacks that players can perform on blocks.",
+  "option.animal_pen.max_stored_animal_variants.tooltip[1]": "can be stored per item.",
+  "option.animal_pen.max_stored_animal_variants.tooltip[3]": "so not recommended to put infinite amount.",
+  "advancements.animal_pen.entity.minecraft.happy_ghast.title": "White Ballon",
+  "advancements.animal_pen.entity.minecraft.happy_ghast.description": "Catch a Happy Ghast"
+}

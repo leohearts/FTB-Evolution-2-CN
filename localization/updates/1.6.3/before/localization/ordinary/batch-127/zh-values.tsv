@@ -1,0 +1,17 @@
+0	R
+1	G
+2	B
+3	A
+4	Ctrl %s
+5	Ctrl Shift %s
+6	Ctrl Shift Alt %s
+7	Ctrl Alt %s
+8	Shift %s
+9	Shift Alt %s
+10	Alt %s
+11	§e>§r %s §e<§r
+12	(%1$s): %2$s
+13	Shift
+14	Alt
+15	Ctrl
+16	%1$s, %2$s

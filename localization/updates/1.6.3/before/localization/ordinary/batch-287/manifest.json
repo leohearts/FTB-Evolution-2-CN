@@ -1,0 +1,25 @@
+{
+  "batch": "287",
+  "namespace": "volumetrics",
+  "jar": ".minecraft/mods/volumetrics-1.0.17.jar",
+  "language_path": "assets/volumetrics/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/volumetrics/lang/zh_cn.json",
+  "include_keys": [
+    "debug.options.category.volumetrics"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Volumetrics"
+  ],
+  "jar_sha256": "44157e38189e1c426731ba01333e33f580af06f28606aa34f523b269329535ae",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/volumetrics-1.0.17.jar",
+    "jar_sha256": "44157e38189e1c426731ba01333e33f580af06f28606aa34f523b269329535ae",
+    "nested_jars": [],
+    "resource": "assets/volumetrics/lang/en_us.json",
+    "mod_ids": [
+      "volumetrics"
+    ],
+    "resource_sha256": "730c8ac9beeb83fc57e81b679b8448975a01358c013983cea9be6b10e9a90675"
+  }
+}

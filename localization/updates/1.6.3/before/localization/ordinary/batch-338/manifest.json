@@ -1,0 +1,33 @@
+{
+  "batch": "338",
+  "namespace": "cakesticklib",
+  "jar": ".minecraft/mods/cakesticklib-1.18.jar",
+  "jar_sha256": "f3aaba99041a3f03ccea43127fc20f8f6923fa5c65a5558c3071d40a26e4bdc2",
+  "language_path": "assets/cakesticklib/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cakesticklib-1.18.jar",
+    "jar_sha256": "f3aaba99041a3f03ccea43127fc20f8f6923fa5c65a5558c3071d40a26e4bdc2",
+    "nested_jars": [],
+    "resource": "assets/cakesticklib/lang/en_us.json",
+    "mod_ids": [
+      "cakesticklib"
+    ],
+    "resource_sha256": "edf34ed3a665a4e58e175f071641b3e57ccdd5086bb32c062ce8c97af49d4386"
+  },
+  "target": ".minecraft/kubejs/assets/cakesticklib/lang/zh_cn.json",
+  "include_keys": [
+    "cakesticklib.hold.ctrl",
+    "cakesticklib.jade.hold.ctrl",
+    "cakesticklib.jade.hold.shift",
+    "cakesticklib.jade.textual_delay.multiplier",
+    "cakesticklib.jade.textual_delay.time.empty",
+    "cakesticklib.jade.textual_delay.time.left",
+    "config.jade.plugin_cakesticklib.progressbar_delay",
+    "config.jade.plugin_cakesticklib.textual_delay"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "[%sx§7] "
+  ],
+  "target_pack_version": "1.5.1"
+}

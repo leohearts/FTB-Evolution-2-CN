@@ -1,0 +1,6 @@
+{
+  "gui.ae2addonlib.SetAmount": "Set Amount",
+  "gui.tooltips.ae2addonlib.Disabled": "Disabled",
+  "gui.tooltips.ae2addonlib.Enabled": "Enabled",
+  "gui.tooltips.ae2addonlib.TankAmount": "%s / %s B"
+}

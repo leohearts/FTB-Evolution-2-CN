@@ -1,0 +1,12 @@
+[
+  "Trender",
+  "Options",
+  "UI Style",
+  "Changes the UI Style for all of mods by tr7zw.",
+  "Modern",
+  "Modern Dark",
+  "Old Vanilla",
+  "Modern Vanilla",
+  "Send Stacktraces",
+  "When enabled, stacktraces in the log or game crashes that contain mod references to mods by tr7zw will be sent to the mod author via Sentry (Sentry.io) to help fix bugs faster. No personal information is collected or sent. (Restart the game after turning it on)"
+]

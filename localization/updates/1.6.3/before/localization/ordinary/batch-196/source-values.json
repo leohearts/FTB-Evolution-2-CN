@@ -1,0 +1,8 @@
+[
+  "Check Y",
+  "Set to true if you want dropped items to also check above and below them, set to false if not (\"false\" is vanilla behavior).",
+  "Radius",
+  "The radius (in blocks) that dropped items should check around them for other dropped items to combine with (\"0.5\" is vanilla behavior).",
+  "Drops do not combine",
+  "Drops combine normally"
+]

@@ -1,0 +1,15 @@
+{
+  "cos.gui.tooltip.buttonnormal": "Close Cosmetic Inventory",
+  "cos.config.CosArmorGuiButton_Hidden": "Hide Cosmetic Armor Button",
+  "cos.config.CosArmorGuiButton_Left": "Cosmetic Armor Button X Position",
+  "cos.config.CosArmorGuiButton_Top": "Cosmetic Armor Button Y Position",
+  "cos.config.CosArmorToggleButton_Hidden": "Hide Toggle Button",
+  "cos.config.CosArmorToggleButton_Left": "Toggle Button X Position",
+  "cos.config.CosArmorToggleButton_Top": "Toggle Button Y Position",
+  "cos.config.CosArmorCreativeGuiButton_Hidden": "Hide Creative Cosmetic Armor Button",
+  "cos.config.CosArmorCreativeGuiButton_Left": "Creative Cosmetic Armor Button X Position",
+  "cos.config.CosArmorCreativeGuiButton_Top": "Creative Cosmetic Armor Button Y Position",
+  "cos.config.CosArmorKeepThroughDeath": "Keep Cosmetic Armor on Death",
+  "cos.config.CosArmorDisableRecipeBook": "Disable Recipe Book in Cosmetic Armor Inventory",
+  "cos.config.CosArmorDisableCosHatCommand": "Disable /coshat Command"
+}

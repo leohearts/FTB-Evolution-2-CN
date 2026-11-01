@@ -1,0 +1,31 @@
+{
+  "batch": "341",
+  "namespace": "malisisswitchesreborn",
+  "jar": ".minecraft/mods/malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar",
+  "jar_sha256": "369f19d7838d64938d8d63ed5a715fc8ba3b2e3f17c17be6f1f335cd47f91fc1",
+  "language_path": "assets/malisisswitchesreborn/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/malisisswitchesreborn-neoforge-26.1.2-1.0.10.jar",
+    "jar_sha256": "369f19d7838d64938d8d63ed5a715fc8ba3b2e3f17c17be6f1f335cd47f91fc1",
+    "nested_jars": [],
+    "resource": "assets/malisisswitchesreborn/lang/en_us.json",
+    "mod_ids": [
+      "malisisswitchesreborn"
+    ],
+    "resource_sha256": "f7d67cbc3c8125313996969fdfa1ba90b7413d2076857dde7738749e98cd39ac"
+  },
+  "target": ".minecraft/kubejs/assets/malisisswitchesreborn/lang/zh_cn.json",
+  "include_keys": [
+    "block.malisisswitchesreborn.industrial_rotary_lever",
+    "tooltip.malisisswitchesreborn.industrial_rotary_lever",
+    "block.malisisswitchesreborn.emergency_stop",
+    "tooltip.malisisswitchesreborn.emergency_stop",
+    "subtitles.malisisswitchesreborn.emergency_stop_activate",
+    "subtitles.malisisswitchesreborn.emergency_stop_reset",
+    "block.malisisswitchesreborn.analog_bar",
+    "tooltip.malisisswitchesreborn.analog_bar"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

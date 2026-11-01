@@ -1,0 +1,24 @@
+{
+  "batch": "345",
+  "namespace": "resettable_trial_chambers",
+  "jar": ".minecraft/mods/resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar",
+  "jar_sha256": "45be35f54efd7e783c1d1bdf86d2dcf9dd6b288dcee22172e2d9aef3726b557d",
+  "language_path": "assets/resettable_trial_chambers/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar",
+    "jar_sha256": "45be35f54efd7e783c1d1bdf86d2dcf9dd6b288dcee22172e2d9aef3726b557d",
+    "nested_jars": [],
+    "resource": "assets/resettable_trial_chambers/lang/en_us.json",
+    "mod_ids": [
+      "resettable_trial_chambers"
+    ],
+    "resource_sha256": "73e336899d9f975e42a5df60607396247177e41c8dac2ab4ea2350fc57d6400a"
+  },
+  "target": ".minecraft/kubejs/assets/resettable_trial_chambers/lang/zh_cn.json",
+  "include_keys": [
+    "info.resettable_trial_chambers.resettable_item_reminder"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

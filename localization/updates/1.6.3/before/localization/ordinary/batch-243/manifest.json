@@ -1,0 +1,46 @@
+{
+  "batch": "243",
+  "namespace": "animusnv",
+  "jar": ".minecraft/mods/animusnv-26.1.2-5.2.20.jar",
+  "language_path": "assets/animusnv/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animusnv/lang/zh_cn.json",
+  "include_keys": [
+    "block.animusnv.sanguine_dynamo",
+    "item.animusnv.blood_bullet_modifier",
+    "item.animusnv.spirit_powder_modifier",
+    "itemGroup.animusnv",
+    "jei.animusnv.category.sanguine_dynamo",
+    "jei.animusnv.sanguine_dynamo.max",
+    "jei.animusnv.sanguine_dynamo.ratio",
+    "jei.animusnv.sanguine_dynamo.redstone",
+    "text.component.animusnv.blood_bullet.no_ev",
+    "text.component.animusnv.sanguine_dynamo.orb_placed",
+    "text.component.animusnv.sanguine_dynamo.orb_unsupported",
+    "text.component.animusnv.sanguine_dynamo.status",
+    "text.component.animusnv.sanguine_dynamo.status_no_orb",
+    "tooltip.animusnv.blood_bullet_modifier.cost",
+    "tooltip.animusnv.blood_bullet_modifier.effect",
+    "tooltip.animusnv.sanguine_dynamo.desc",
+    "tooltip.animusnv.sanguine_dynamo.redstone",
+    "tooltip.animusnv.sanguine_dynamo.usage",
+    "tooltip.animusnv.spirit_powder_modifier.scaling",
+    "tooltip.animusnv.spirit_powder_modifier.snare",
+    "treePack.animusnv.name"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Animus: NeoVitae",
+    "Animus"
+  ],
+  "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animusnv-26.1.2-5.2.20.jar",
+    "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
+    "nested_jars": [],
+    "resource": "assets/animusnv/lang/en_us.json",
+    "mod_ids": [
+      "animusnv"
+    ],
+    "resource_sha256": "24ad99c4719138ba8c49096a03bf9f7fd4893a1a321b885c98eeac112f9bc628"
+  }
+}

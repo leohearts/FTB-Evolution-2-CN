@@ -1,0 +1,56 @@
+{
+  "batch": "332",
+  "namespace": "sathlib",
+  "jar": ".minecraft/mods/crystalix-4.1.1+26.1.2.jar",
+  "jar_sha256": "3e3de9584755977d30a1647e5aecdd33220fa07b53533917e3a11a578cda54c9",
+  "language_path": "assets/sathlib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sathlib/lang/zh_cn.json",
+  "include_keys": [
+    "formatting.sathlib.curly_brackets",
+    "formatting.sathlib.round_brackets",
+    "formatting.sathlib.square_brackets",
+    "generic.sathlib.all",
+    "generic.sathlib.allow",
+    "generic.sathlib.allowed",
+    "generic.sathlib.any",
+    "generic.sathlib.denied",
+    "generic.sathlib.deny",
+    "generic.sathlib.disabled",
+    "generic.sathlib.enabled",
+    "generic.sathlib.none",
+    "generic.sathlib.off",
+    "generic.sathlib.on",
+    "generic.sathlib.supported",
+    "generic.sathlib.unsupported",
+    "input.sathlib.wheel.down",
+    "input.sathlib.wheel.up"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "{%s}",
+    "(%s)",
+    "[%s]"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crystalix-4.1.1+26.1.2.jar",
+    "jar_sha256": "3e3de9584755977d30a1647e5aecdd33220fa07b53533917e3a11a578cda54c9",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+        "sha256": "6c7211cbbba80e78ec1b9fa841e220f5405a3a6887bb1a560dd1becabf0aa718"
+      }
+    ],
+    "resource": "assets/sathlib/lang/en_us.json",
+    "mod_ids": [
+      "crystalix"
+    ],
+    "resource_sha256": "0e71b621896f1632fb3b182a155d167ba4473c8b5da4cb1fea36f159b57b44ab"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/sathlib-1.1.0+26.1.2.jar",
+      "sha256": "6c7211cbbba80e78ec1b9fa841e220f5405a3a6887bb1a560dd1becabf0aa718"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "batch": "284",
+  "namespace": "cyclopscore",
+  "jar": ".minecraft/mods/cyclopscore-26.1.2-neoforge-1.31.3.jar",
+  "language_path": "assets/cyclopscore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cyclopscore/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.cyclopscore"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cyclops Core"
+  ],
+  "jar_sha256": "46db96de8ac7d905d6ead1de792899671cbdb45cfa6e2a807b0f68055352f33d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cyclopscore-26.1.2-neoforge-1.31.3.jar",
+    "jar_sha256": "46db96de8ac7d905d6ead1de792899671cbdb45cfa6e2a807b0f68055352f33d",
+    "nested_jars": [],
+    "resource": "assets/cyclopscore/lang/en_us.json",
+    "mod_ids": [
+      "cyclopscore"
+    ],
+    "resource_sha256": "c3e1ac355fd806a2f506001f34c72a457572774caaba582af2aebc32b35d1577"
+  }
+}

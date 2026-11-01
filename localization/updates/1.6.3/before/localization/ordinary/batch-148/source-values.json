@@ -1,0 +1,14 @@
+[
+  "Occult Cooking",
+  "Occult Kitchen Station",
+  "Linked to the Dimensional Storage Actuator",
+  "Linked to a Dimensional Storage Actuator (%s)",
+  "Unlinked, sneak-right-click a Dimensional Storage Actuator to link",
+  "Connected to %s at %s",
+  "Device Online",
+  "Linked (Actuator Unreachable)",
+  "Device Offline",
+  "The Occult Kitchen Station lets your Cooking for Blockheads cooking table craft with items straight from your Occultism storage network.",
+  "To link it, sneak-right-click your Dimensional Storage Actuator (the storage controller) with the station in hand. The link is saved on the block and works even across dimensions, as long as the actuator stays chunk-loaded.",
+  "Place the linked station in your kitchen, next to the cooking table or wired in through counters. Its screen glows when connected."
+]

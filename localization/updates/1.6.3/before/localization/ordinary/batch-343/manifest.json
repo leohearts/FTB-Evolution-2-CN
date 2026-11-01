@@ -1,0 +1,29 @@
+{
+  "batch": "343",
+  "namespace": "neovitae",
+  "jar": ".minecraft/mods/neovitae-26.1.2-1.1.49.jar",
+  "jar_sha256": "4a32a47eb6d2997d974d1b8641174687126d1cfeac6287bf3d784d1e5a4da2a6",
+  "language_path": "assets/neovitae/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "jar_sha256": "4a32a47eb6d2997d974d1b8641174687126d1cfeac6287bf3d784d1e5a4da2a6",
+    "nested_jars": [],
+    "resource": "assets/neovitae/lang/en_us.json",
+    "mod_ids": [
+      "neovitae"
+    ],
+    "resource_sha256": "6470839c1f671102dd4cc52f700eeb6e90ffaaffaee10365b23e5351090722f4"
+  },
+  "target": ".minecraft/kubejs/assets/neovitae/lang/zh_cn.json",
+  "include_keys": [
+    "gui.neovitae.athanor.group.input",
+    "gui.neovitae.athanor.group.input_bucket",
+    "gui.neovitae.athanor.group.output",
+    "gui.neovitae.athanor.group.output_bucket",
+    "gui.neovitae.athanor.group.tool",
+    "tooltip.neovitae.bound_treasures.too_far"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

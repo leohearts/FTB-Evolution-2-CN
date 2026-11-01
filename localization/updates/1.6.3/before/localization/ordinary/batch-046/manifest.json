@@ -1,0 +1,37 @@
+{
+  "batch": "046",
+  "namespace": "mffs",
+  "jar": ".minecraft/mods/mffs-5.8.39.jar",
+  "language_path": "assets/mffs/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mffs/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.mffs.main",
+    "info.mffs.entity_identity",
+    "info.mffs.field_permission.warp_sneak",
+    "info.mffs.field_permission.warp_sneak.tooltip",
+    "info.mffs.key.shift",
+    "info.mffs.fortron_usage",
+    "item.mffs.reinforcement_module",
+    "item.mffs.reinforcement_module.description",
+    "screen.mffs.fortron.value",
+    "screen.mffs.fortron_cost"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%s)",
+    "Shift",
+    "%s L / %s L",
+    "%s%s L/s"
+  ],
+  "jar_sha256": "9df646c02bed17a59b461d92e6c82bde6dc84ea572af351d49fbaf42db9b3b4e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mffs-5.8.39.jar",
+    "jar_sha256": "9df646c02bed17a59b461d92e6c82bde6dc84ea572af351d49fbaf42db9b3b4e",
+    "nested_jars": [],
+    "resource": "assets/mffs/lang/en_us.json",
+    "mod_ids": [
+      "mffs"
+    ],
+    "resource_sha256": "ce9d92c4fca894c0fd98486780358b75a43f900b70e54888ee60cd53a4fa2aac"
+  }
+}

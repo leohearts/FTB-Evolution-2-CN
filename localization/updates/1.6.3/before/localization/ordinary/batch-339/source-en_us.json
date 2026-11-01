@@ -1,0 +1,8 @@
+{
+  "trait.hephaestus_tools.unbreakable": "Unbreakable",
+  "trait.hephaestus_tools.unbreakable.desc": "This tool never breaks.",
+  "subtitles.hephaestus_tools.arsenal_table_open": "Forge Table opens",
+  "subtitles.hephaestus_tools.arsenal_table_close": "Forge Table closes",
+  "subtitles.hephaestus_tools.arsenal_table_craft": "Forge Table clangs",
+  "subtitles.hephaestus_tools.arsenal_table_craft_hold": "Forge Table works"
+}

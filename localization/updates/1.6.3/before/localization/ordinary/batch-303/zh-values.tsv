@@ -1,0 +1,100 @@
+0	启用后, 蝙蝠使魔会捕食普通蝙蝠,\n并与主人分享一部分猎物.\n
+1	能力
+2	实用 | 支援 | 移动
+3	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** 夜视.\n\\n\\n**升级:** [生命窃取](entry://occultism:dictionary_of_spirits/getting_started/effects@bat_lifesteal).\n\\n\\n**艾瑟金属:** [蝙蝠飞行](entry://occultism:dictionary_of_spirits/getting_started/effects@bat_flight).\n
+4	效果
+5	启用后, 河狸使魔会在附近的树由树苗长成大树时\n将其砍倒.它只能处理小树.\n\\n\\n**升级行为**\n\\n空手潜行右击时会给予免费零食.\n\\n\\n**艾瑟金属行为**\n\\n启用后, 允许主人无需摧毁嘎吱之心即可直接攻击嘎吱怪.\n
+6	实用
+7	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** [河狸之获](entry://occultism:dictionary_of_spirits/getting_started/effects@beaver_harvest).\n
+8	启用后, 眼魔使魔会用发光效果标记附近的实体, 并向敌人发射激光射线.\n\\n它会**吃掉** (可怜的) **莎布·尼古拉丝的幼崽** 以获得临时的伤害与速度提升.\n
+9	被收进使魔之戒或任何灌注装备后, 它仍可施加发光.\n
+10	装备时
+11	攻击 | 防御 | 影响
+12	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**艾瑟金属:** [异变先驱](entry://occultism:dictionary_of_spirits/getting_started/effects@herald_aberrations).\n
+13	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**升级:** 失明效果.\n\\n\\n**艾瑟金属:** 黑暗效果.\n
+14	免疫
+15	启用后, 玩家每次拾取石头或圆石时, 铁匠使魔都有几率\n (默认 33%%, 服务器配置) 略微修理其装备.\n\\n\\n**升级行为**:\n\\n缓慢修理主人物品栏中的**一件**装备 (每次约 6 秒, 服务器配置).\n\\n\\n**艾瑟金属行为**:\n\\n缓慢修理主人物品栏中的**全部**装备 (每次约 6 秒, 服务器配置).\n
+16	升级铁匠使魔后, 你可以给它一个[艾瑟金属砧](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_iesnium_anvil),\n让它对其他**升级过的**使魔进行高级升级.\n\\n\\n文中所说的艾瑟金属使魔即指这最后一次升级.\n
+17	更好的铁砧
+18	被收进使魔之戒或任何灌注装备后, 它仍可修理使用者的装备.\n
+19	支援
+20	艾瑟金属升级与普通升级相同, 但消耗的是艾瑟金属而非铁.\n (默认需要 32 个锭, 服务器配置).\n\\n其它区别包括名字前的星号会出现在名称的**前缀**位置,\n并且属性加成更高 (+9 额外伤害与 +50 最大生命).\n
+21	艾瑟金属使魔
+22	铁匠为使魔升级时, 聊天栏会出现提示,\n伴随铁砧音效, 并使使魔名字的**后缀**出现一颗星.\n\\n升级过的使魔属性更好 (+3 伤害加成与 +20 最大生命),\n并提供其条目中所述的额外好处.\n
+23	升级使魔
+24	要让铁匠升级使魔, 需要[#](AA00AA)右击[#]()它并给予铁锭或铁块\n (默认需要 18 个锭, 服务器配置).\n\\n铁匠每有足够材料进行一次升级, 其铁砧上就会浮现一个铁锭.\n\\n升级一只使魔后请保持耐心, 因为再次升级前有一段冷却.\n
+25	奇美拉每次攻击时都会触发一项额外能力.\n具体取决于攻击类型.\n\\n**默认:**\n - 狮: 点燃.\n - 蛇: 施加中毒.\n - 山羊: 强力击退.\n\\n\\n**升级:** .\n - 爪: 击晕敌人;\n\\n\\n**艾瑟金属:**\n\\n每次命中可施加上述两项能力.\n
+26	攻击方式
+27	被铁匠使魔**升级**后, 山羊使魔会得到一只警示铃.\n 你打这只使魔时它会摇铃, 并吸引大范围内的敌人.\n
+28	山羊铃
+29	移动 | 攻击 | 支援
+30	给奇美拉喂一个[](item://minecraft:golden_apple), [#](ad03fc)山羊[#]()就会分离出来, 成为独立的使魔.
+31	给它一个[](item://minecraft:lapis_lazuli)即可转化为[](item://minecraft:prismarine_shard), 转化效率取决于克苏鲁的等级.\n\\n\\n**升级行为**\n\\n 被铁匠使魔升级后, 它会成为移动光源.\n
+32	实用 | 转化 | 影响
+33	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** 水下呼吸.\n\\n\\n**升级:** 海豚的恩惠.\n\\n\\n**艾瑟金属:** 潮涌能量与[深渊水之主](entry://occultism:dictionary_of_spirits/getting_started/effects@aquatic_lord).\n
+34	被铁匠使魔升级后, 它会用锤子攻击附近的敌人.\n\\n 没错, 是**锤子**.\n\\n\\n若小鹿使魔拥有艾瑟金属升级, 此攻击还会施加凋零,\n并有小几率召来闪电.\n
+35	移动 | 攻击
+36	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** 速度与[最大行走高度](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n
+37	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**升级:** 缓慢效果.\n
+38	启用后, 恶魔使魔会攻击并点燃附近的敌人.\n\\n\\n被铁匠使魔升级后, 你可以给它一个[](item://minecraft:golden_apple)或[](item://occultism:golden_pitaya)以获得附魔版本.\n\\n**警告:** 若恶魔没有艾瑟金属升级, 此转化有五分钟冷却.\n
+39	被收进使魔之戒或任何灌注装备后, 它仍可点燃敌人.\n
+40	攻击 | 防御 | 转化 | 影响
+41	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** 抗火.\n\\n\\n**艾瑟金属:** [下界帝王](entry://occultism:dictionary_of_spirits/getting_started/effects@nether_emperor).\n
+42	龙使魔会从地上收集木棍并带给你.\n\\n\\n贪婪使魔可以骑在龙使魔身上, 结合两者的力量.\n\\n\\n被铁匠使魔升级后, 它会向附近的敌人投掷剑.\n
+43	被收进使魔之戒或任何灌注装备后, 它会继续向附近的怪物投掷剑.\n
+44	实用 | 攻击
+45	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** [龙之贪欲](entry://occultism:dictionary_of_spirits/getting_started/effects@dragon_greed).\n\\n\\n**艾瑟金属:** 村庄英雄.\n\\n\\n你可以给它[](item://minecraft:gold_nugget), 使其效果最高等级提升 5 分钟.\n
+46	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**艾瑟金属:** 不祥之兆/袭击之兆/试炼之兆效果.\n
+47	默认情况下, 使用[](item://minecraft:elytra)滑翔时无法使用多段跳,\n但若拥有一只带有艾瑟金属升级的具翼使魔, 就能突破此限制.\n
+48	移动 | 防御
+49	[#](AA00AA)德里克翼[#]()是[#](AA00AA)巨灵[#]()的一个亚种, 以对人类友善著称.\n 它们通常呈现为深蓝色与紫色的鹦鹉形态.\n 具翼使魔会在附近时为主人提供有限的飞行能力.\n
+50	要获得用于献祭的鹦鹉, 可以考虑用[鹦鹉仪式](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_parrot)召唤它们.\n\\n\\n**提示:** 若你使用了保护宠物免于死亡的模组, 请用漏斗来启动仪式!\n
+51	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** [多段跳](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升与缓降.\n
+52	又称异界之鸟
+53	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**升级:** 摔落伤害 (并取消耕地踩踏).\n
+54	妖精使魔会**阻止其他使魔死亡** (有冷却),\n并按需以**有益效果**支援其他使魔\n (速度, 抗性, 抗火, 水下呼吸, 缓降).\n\\n\\n其治愈能力让妖精能把[](item://minecraft:rotten_flesh)变为[](item://minecraft:leather).\n被铁匠使魔升级后, 你可以给它一个[](item://minecraft:glass_bottle)以转化为[](item://minecraft:dragon_breath).\n
+55	妖精每次攻击时, 敌人的生命会被抽走并转给附近的使魔.\n此外还会对目标施加一项额外效果, 具体取决于使魔等级.\n\\n**默认:**\n - 缓慢\n\\n\\n**升级:**\n - 发光\n - 漂浮\n\\n\\n**艾瑟金属:**\n - 中毒\n - 凋零\n
+56	被收进使魔之戒或任何灌注装备后, 它会治疗佩戴者附近的其他使魔.\n
+57	支援 | 攻击 | 转化
+58	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**升级:** 生命恢复.\n\\n\\n**艾瑟金属:** [仙子祝福](entry://occultism:dictionary_of_spirits/getting_started/effects@fairy_bless).\n
+59	贪婪使魔是一只魔精, 会替主人拾取附近的物品.\n 空手[#](AA00AA)潜行右击[#]()可打开界面, 设置[魔灵过滤器](entry://occultism:dictionary_of_spirits/summoning_rituals/transporter_filters).\n\\n\\n被铁匠使魔升级后, 它可以替主人寻找方块.\n 用方块[#](AA00AA)右击[#]()它, 即可告诉它要找什么.\n
+60	被收进使魔之戒或任何灌注装备后, 它会扩大佩戴者的拾取范围.\n
+61	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**升级:** [贪婪收获](entry://occultism:dictionary_of_spirits/getting_started/effects@greedy_harvest).\n
+62	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**艾瑟金属:** 挖掘疲劳效果.\n
+63	守护者使魔会在主人即将死亡时牺牲一肢,\n从而**阻止死亡**.\n 一旦守护者死亡, 玩家便不再受到保护.\n\\n\\n被召唤时, 守护者会以**随机的肢体数量**生成,\n并不保证召唤出完整的守护者.\n\\n\\n每接受一次铁匠使魔升级, 就会恢复一肢.\n
+64	被收进使魔之戒或任何灌注装备后,\n死亡保护不再消耗肢体.取而代之的是,\n佩戴者会获得一个冷却效果, 其时长取决于\n肢体数量与守护者使魔的等级.\n
+65	防御
+66	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**升级:** 生命提升 (等级等于肢体数量).\n\\n\\n**艾瑟金属:** 抗性提升 (等级等于肢体数量的一半).\n
+67	启用后, 无头鼠骑士使魔会窃取附近被击杀怪物的头颅.\n 之后它会让主人对该类生物造成双倍伤害.\n\\n被铁匠使魔升级后, 它会对附近与被窃头颅同类的怪物施加虚弱.\n
+68	攻击 | 防御
+69	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**升级:** [南瓜头](entry://occultism:dictionary_of_spirits/getting_started/effects@pumpkin_head).\n\\n\\n**艾瑟金属:** 力量.\n
+70	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**艾瑟金属:** 虚弱效果.\n
+71	被收进使魔之戒或任何灌注装备后, 它仍可攻击附近的敌人.\n
+72	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** [闪避](entry://occultism:dictionary_of_spirits/getting_started/effects@mummy_dodge).\n
+73	别喂它曲奇
+74	若它没有坐下, 就会生成自身的小型复制体为你作战.\n此能力的冷却取决于莎布·尼古拉丝使魔的等级.\n\\n\\n**默认:** 10 秒.\n\\n\\n**升级:** 5 秒.\n\\n\\n**艾瑟金属:** 1 秒.\n
+75	攻击
+76	被铁匠使魔**升级**后, 莎布·尼古拉丝使魔会得到一只警示铃.\n 你打这只使魔时它会摇铃, 并吸引大范围内的敌人.\n\\n\\n *若转化时所用的山羊已带有铃铛, 该铃铛会被保留.*\n
+77	攻击 | 支援 | 影响
+78	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**艾瑟金属:** [森林低语者](entry://occultism:dictionary_of_spirits/getting_started/effects@forest_whisperer).\n
+79	当艾瑟金属翼尼斯的主人骗过死亡时, 无论是借助[守护者使魔](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_guardian)的能力,\n [](item://minecraft:totem_of_undying), 还是任何类似手段, 都会获得多项好处:\n 完全治疗, 力量, 速度, 抗火, 抗性提升, 生命恢复与饱和.\n
+80	依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\n\\n**默认:** [多段跳](entry://occultism:dictionary_of_spirits/getting_started/effects@double_jump), 跳跃提升, 缓降与发光.\n\\n\\n**升级:** [火焰之翼](entry://occultism:dictionary_of_spirits/getting_started/effects@fire_wing).\n
+81	绝对不是凤凰.
+82	生效时, 它会为主人提供额外的防御, 依等级不同授予不同的免疫效果.\n\\n\\n**默认:** 摔落伤害 (同时取消耕地踩踏) 与漂浮效果.\n
+83	[#](AA00AA)翼尼斯[#]()无法直接召唤.首先召唤一只[具翼使魔](entry://occultism:dictionary_of_spirits/familiar_rituals/familiar_drikwing), 给它一个[](item://minecraft:totem_of_undying), 并把它带到[#](AA00AA)下界生物群系[#](),\n然后用[烈焰膏](entry://occultism:dictionary_of_spirits/crafting_rituals/craft_flaming_paste)点击这只德里克翼.确保它死于火焰, 才能获得[#](AA00AA)翼尼斯使魔[#]().\n
+84	转化
+85	神秘学家的挚友
+86	沙暴带来了消息.
+87	混乱邪恶
+88	专注死灵术的神秘学家开创了复活仪式的研究,\n他们从"不完整"的仪式起步, 把坐骑的亡灵版本带回世间.\n
+89	复活亡灵坐骑
+90	以下页面介绍不同的仪式, 每种亡灵坐骑各一个.\n\\n\\n**注意:** 遗憾的是, 祭品的属性并不决定其复活版本的强度.\n
+91	没有陷阱.
+92	小心阳光.
+93	保持湿润.
+94	守序善良
+95	点击可切换书的当前分类.
+96	选择你的力量.
+97	点击或滚动滚轮可更改正在配置的效果.\n\\n进度条的颜色代表所需的使魔等级.\n 将取所选等级与可用等级中较高者应用.\n - 灰色 -> 默认\n - 绿色 -> 升级\n - 蓝色 -> 艾瑟金属\n - 红色表示该项已被禁用.\n
+98	使魔石板
+99	使用此物品时, 你可以启用或禁用使魔能力, 并设置所施加效果的等级.\n\\n\\n在服务器上, 需要点击确认按钮才能保存更改.\n

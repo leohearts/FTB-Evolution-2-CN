@@ -1,0 +1,28 @@
+{
+  "batch": "171",
+  "namespace": "mutantmonsters",
+  "jar": ".minecraft/mods/MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+  "language_path": "assets/mutantmonsters/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mutantmonsters/lang/zh_cn.json",
+  "include_keys": [
+    "advancements.mutantmonsters.root.description",
+    "advancements.mutantmonsters.root.title",
+    "block.mutantmonsters.mutant_skeleton_skull.description",
+    "item.mutantmonsters.mutant_skeleton_boots.description",
+    "item.mutantmonsters.mutant_skeleton_chestplate.description",
+    "item.mutantmonsters.mutant_skeleton_leggings.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "c8d4d69e7b732fdde76b6a5f595f280481f3c9494a31d8d032356812e1ea710e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "jar_sha256": "c8d4d69e7b732fdde76b6a5f595f280481f3c9494a31d8d032356812e1ea710e",
+    "nested_jars": [],
+    "resource": "assets/mutantmonsters/lang/en_us.json",
+    "mod_ids": [
+      "mutantmonsters"
+    ],
+    "resource_sha256": "13e66e47ca241635cec6c60e750511b19ecccb65bf9fe9dfa06c9480d3cac54e"
+  }
+}

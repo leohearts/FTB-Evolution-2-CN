@@ -1,0 +1,7 @@
+{
+  "config.moreoverlays.lightoverlay.spawn_numbers": "Use Number Overlay",
+  "config.moreoverlays.lightoverlay.update_interval_frames": "Update Interval (Frames)",
+  "config.moreoverlays.rendersettings.chunk_line_thick": "Chunk: Thick Lines",
+  "config.moreoverlays.rendersettings.spawn_number_scale": "Spawn: Number Size",
+  "config.moreoverlays.rendersettings.spawn_safe_color": "Spawn: Safe Color"
+}

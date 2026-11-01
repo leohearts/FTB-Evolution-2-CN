@@ -1,0 +1,16 @@
+[
+  "The account has not purchased Minecraft!",
+  "Ctrl + click to choose account",
+  "Unavailable, click to learn more",
+  "Warning! Non-default options for Microsoft authentication",
+  "If you did not make this change, then this could leak your account token. Do you wish to continue anyway?",
+  "I know what I'm doing",
+  "Back to safety",
+  "Authenticate yourself in Minecraft and re-validate your session",
+  "Control the behaviour of the authentication button on the multiplayer screen",
+  "Control the behaviour of the available login methods",
+  "Microsoft",
+  "Control the behaviour of the Microsoft login method",
+  "Offline",
+  "Control the behaviour of the offline login method"
+]

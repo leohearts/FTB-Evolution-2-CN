@@ -1,0 +1,26 @@
+{
+  "batch": "128",
+  "namespace": "configured",
+  "jar": ".minecraft/mods/configured-neoforge-26.1.2-2.7.5.jar",
+  "language_path": "assets/configured/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/configured/lang/zh_cn.json",
+  "include_keys": [
+    "configured.gui.unsupported_property",
+    "key.categories.configured"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Configured"
+  ],
+  "jar_sha256": "2cdba40e2b06429a5b705c5aa7e54aaac466325b62bad34ad8eed76cee17e8ff",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/configured-neoforge-26.1.2-2.7.5.jar",
+    "jar_sha256": "2cdba40e2b06429a5b705c5aa7e54aaac466325b62bad34ad8eed76cee17e8ff",
+    "nested_jars": [],
+    "resource": "assets/configured/lang/en_us.json",
+    "mod_ids": [
+      "configured"
+    ],
+    "resource_sha256": "ad1906fcc8e2496086d3c3298be92f4ce430b7cda7528d8d97dc0204f7e5b71b"
+  }
+}

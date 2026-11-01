@@ -1,0 +1,42 @@
+{
+  "batch": "215",
+  "namespace": "dimresources",
+  "jar": ".minecraft/mods/dimresources-26.1.2-1.0.10.jar",
+  "language_path": "assets/dimresources/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/dimresources/lang/zh_cn.json",
+  "include_keys": [
+    "block.dimresources.deepslate_dimensional_ore",
+    "block.dimresources.dimensional_ore",
+    "block.dimresources.dimensional_stone",
+    "block.dimresources.dimensional_stone_brick_slab",
+    "block.dimresources.dimensional_stone_brick_stairs",
+    "block.dimresources.dimensional_stone_brick_wall",
+    "block.dimresources.dimensional_stone_bricks",
+    "block.dimresources.dimensional_stone_slab",
+    "block.dimresources.dimensional_stone_stairs",
+    "block.dimresources.dimensional_stone_wall",
+    "block.dimresources.laser",
+    "chat.dimresources.discovered_planet",
+    "item.dimresources.dimensional_shard",
+    "item.dimresources.planet_locator",
+    "itemGroup.dimresources",
+    "jei.dimensionalresources.laser",
+    "jei.dimresource.weight",
+    "tooltip.dimresources.laser_level",
+    "tooltip.dimresources.planet",
+    "tooltip.dimresources.rf_per_tick"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "168bb9cc6958e7482a141b29647f1754e48f1c92f7287a929742c8a97c8a3242",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/dimresources-26.1.2-1.0.10.jar",
+    "jar_sha256": "168bb9cc6958e7482a141b29647f1754e48f1c92f7287a929742c8a97c8a3242",
+    "nested_jars": [],
+    "resource": "assets/dimresources/lang/en_us.json",
+    "mod_ids": [
+      "dimresources"
+    ],
+    "resource_sha256": "2565cc319db4c6b15b14e8278d3ee0b852c94a931c5c62ebdda75dae8e7e2964"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "death.attack.ltxi.acid": "%1$s was corroded by %2$s",
+  "death.attack.ltxi.cryo": "%1$s was frozen solid by %2$s",
+  "death.attack.ltxi.electric": "%1$s was electrocuted by %2$s",
+  "death.attack.ltxi.electric_turret": "%1$s was zapped by %2$s's turret",
+  "death.attack.ltxi.electric_turret.noAttacker": "%s was zapped by a rogue turret",
+  "death.attack.ltxi.explosive": "%1$s was blown up by %2$s",
+  "death.attack.ltxi.explosive_turret": "%1$s was blown up by %2$s' turret",
+  "death.attack.ltxi.explosive_turret.noAttacker": "%s was blown up by a rogue turret",
+  "death.attack.ltxi.flame": "%1$s was incinerated by %2$s",
+  "death.attack.ltxi.gloom_gas": "%1$s was gassed out by %2$s",
+  "death.attack.ltxi.lightfrag": "%1$s was shot by %2$s",
+  "death.attack.ltxi.railgun_turret": "%1$s was obliterated by %2$s's turret",
+  "death.attack.ltxi.railgun_turret.noAttacker": "%s was obliterated by a rogue turret",
+  "entity.ltxi.bomblet": "Bomblet",
+  "grenade_type.ltxi.sparkler": "Sparkler",
+  "subtitle.ltxi.bomblet_explode": "Bomblet explodes",
+  "subtitle.ltxi.bomblet_prime": "Bomblet primes",
+  "subtitle.ltxi.sparkler_shell_impact": "Sparkler shell impact"
+}

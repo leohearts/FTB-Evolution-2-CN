@@ -1,0 +1,14 @@
+{
+  "gui.refinedstorage.grid.sorting.type.id": "ID",
+  "gui.refinedstorage.grid.pin_help": "Drag and drop to pin. Drag outside the pinned area to unpin.",
+  "gui.refinedstorage.grid.drag_and_drop_to_pin": "Drag and drop to pin",
+  "gui.refinedstorage.priority.storage_help.click_to_modify_insert_extract_priority": "Click to modify the insert/extract priority.",
+  "gui.refinedstorage.priority.storage_help.ctrl_click_to_modify_insert_priority": "Press CTRL + click to modify the insert priority.",
+  "gui.refinedstorage.priority.storage_help.cmd_click_to_modify_insert_priority": "Press CMD + click to modify the insert priority.",
+  "gui.refinedstorage.priority.storage_help.alt_click_to_modify_extract_priority": "Press ALT + click to modify the extract priority.",
+  "gui.refinedstorage.autocrafting_preview.request_cancelled.too_many_subcomponents": "Too many subcomponents are required.",
+  "gui.refinedstorage.autocrafting_preview.style.tree": "Tree",
+  "gui.refinedstorage.autocrafting_monitor.state.extracting_initial_resources": "Extracting initial resources",
+  "gui.refinedstorage.autocrafting_monitor.state.returning_internal_storage": "Returning internal storage",
+  "item.refinedstorage.color_and_item_name": "%s %s"
+}

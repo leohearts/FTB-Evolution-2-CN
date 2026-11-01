@@ -1,0 +1,221 @@
+0	深渊附魔台
+1	深海储液库
+2	渗透过滤器
+3	CXXVIII
+4	CXXIX
+5	CXXX
+6	CXXXI
+7	CXXXII
+8	CXXXIII
+9	CXXXIV
+10	CXXXV
+11	CXXXVI
+12	CXXXVII
+13	CXXXVIII
+14	CXXXIX
+15	CXL
+16	CXLI
+17	CXLII
+18	CXLIII
+19	CXLIV
+20	CXLV
+21	CXLVI
+22	CXLVII
+23	CXLVIII
+24	CXLIX
+25	CL
+26	CLI
+27	CLII
+28	CLIII
+29	CLIV
+30	CLV
+31	CLVI
+32	CLVII
+33	CLVIII
+34	CLIX
+35	CLX
+36	CLXI
+37	CLXII
+38	CLXIII
+39	CLXIV
+40	CLXV
+41	CLXVI
+42	CLXVII
+43	CLXVIII
+44	CLXIX
+45	CLXX
+46	CLXXI
+47	CLXXII
+48	CLXXIII
+49	CLXXIV
+50	CLXXV
+51	CLXXVI
+52	CLXXVII
+53	CLXXVIII
+54	CLXXIX
+55	CLXXX
+56	CLXXXI
+57	CLXXXII
+58	CLXXXIII
+59	CLXXXIV
+60	CLXXXV
+61	CLXXXVI
+62	CLXXXVII
+63	CLXXXVIII
+64	CLXXXIX
+65	CXC
+66	CXCI
+67	CXCII
+68	CXCIII
+69	CXCIV
+70	CXCV
+71	CXCVI
+72	CXCVII
+73	CXCVIII
+74	CXCIX
+75	CC
+76	CCI
+77	CCII
+78	CCIII
+79	CCIV
+80	CCV
+81	CCVI
+82	CCVII
+83	CCVIII
+84	CCIX
+85	CCX
+86	CCXI
+87	CCXII
+88	CCXIII
+89	CCXIV
+90	CCXV
+91	CCXVI
+92	CCXVII
+93	CCXVIII
+94	CCXIX
+95	CCXX
+96	CCXXI
+97	CCXXII
+98	CCXXIII
+99	CCXXIV
+100	CCXXV
+101	CCXXVI
+102	CCXXVII
+103	CCXXVIII
+104	CCXXIX
+105	CCXXX
+106	CCXXXI
+107	CCXXXII
+108	CCXXXIII
+109	CCXXXIV
+110	CCXXXV
+111	CCXXXVI
+112	CCXXXVII
+113	CCXXXVIII
+114	CCXXXIX
+115	CCXL
+116	CCXLI
+117	CCXLII
+118	CCXLIII
+119	CCXLIV
+120	CCXLV
+121	CCXLVI
+122	CCXLVII
+123	CCXLVIII
+124	CCXLIX
+125	CCL
+126	CCLI
+127	CCLII
+128	CCLIII
+129	CCLIV
+130	CCLV
+131	储液库升级 II
+132	储液库升级 III
+133	储液库升级 IV
+134	深渊附魔台需要宽 3 格, 深 3 格, 高 2 格的空地
+135	书只能达到正常等级上限. 放入物品本身才能超限附魔
+136	诅咒概率: %s%%
+137	液态经验: %s mB
+138	液态经验
+139	%s / %s
+140	降低附魔等级
+141	提高附魔等级
+142	%s 种附魔使用此试剂. 点击切换
+143	超过正常上限 %s: AP 和经验消耗 x%s
+144	消耗试剂: %s
+145	纯度 %s: 稳定性 %s%%
+146	光束: %s / %s AP
+147	已吸收能量: %s / %s AP
+148	以放置位置为中心, 占据 3x3 且高两格的空间
+149	已具有此等级
+150	此处已禁用该附魔
+151	不适用于此物品
+152	需要 %s AP 光束
+153	需要 %s 份试剂
+154	需要 %s mB 经验
+155	没有激光束
+156	请放入试剂
+157	没有附魔使用此试剂
+158	请放入书或物品
+159	请取出上次的产物
+160	附魔中 %s%%
+161	消耗试剂, 液态经验和激光束, 为书和物品附魔
+162	用精准采集开采可拾取本体
+163	内含 %s: %s 桶
+164	深海储液库需要 3x3x3 的空地
+165	%s / %s 桶
+166	无升级
+167	I 级是基础储液库, 没有可取出的升级
+168	空
+169	空, 最多容纳 %s mB
+170	已装满 %s%%
+171	移除升级
+172	销毁 %s?
+173	取出最高一级升级, 使储液库降至 %s 级
+174	%s 桶流体超出 %s 级容量, 将被销毁. 再次点击确认
+175	%s 级
+176	占据所放置方块上方 3x3x3 的空间
+177	%s 级, 可容纳 %s 桶
+178	已升至 %s 级, 现在可容纳 %s 桶
+179	%s 桶流体超出容量, 已被销毁
+180	此升级适用于 %s 级储液库, 当前储液库为 %s 级
+181	深渊海沟
+182	荧光海林
+183	海底热泉
+184	海晶礁
+185	已装满, 清空后继续生产
+186	产量 %s mB/s
+187	水: %s / %s mB
+188	激光附魔
+189	%s mB 经验
+190	等级 %s / %s. 点击或滚动调整
+191	AP 和经验消耗 x%s
+192	纯度达到 %s+ 时获得准确结果
+193	%s AP 光束
+194	总计 %s AP
+195	并行: x%s
+196	过滤中
+197	储罐已满
+198	最多存储 %s mB
+199	%s AP
+200	输入的激光功率. 每 %s AP 使产水量翻倍
+201	%s mB/s
+202	每秒产水量
+203	手持它右击储液库, 或放入储液库的升级槽
+204	将 %s 级深海储液库升至 %s 级, 可容纳 %s 桶
+205	已连接, 但 %s(位于 %s)挡住了光束
+206	%s 无法转向并接收来自 %s 的光束
+207	%s 无法转向并朝 %s 发射光束
+208	已清除连接位置
+209	已连接, 但 %s 转离了原先接收的光束. 请用转接器转弯
+210	已连接, 但 %s 不再沿原方向发射光束. 请用转接器分束
+211	已将 %s 连接至 %s, 相距 %s 格
+212	%s 与连接起点不在同一直线上
+213	%s 无法发射激光束
+214	连接起点: %s, 位于 %s
+215	连接起点方块已不存在, 已清除连接位置
+216	距离过远: %s 格, 光束射程为 %s
+217	连接起点: 未设置
+218	连接起点: %s
+219	连接
+220	先右击激光源, 再右击要供能的方块, 使二者互相对准. 右击空气可重新设置.

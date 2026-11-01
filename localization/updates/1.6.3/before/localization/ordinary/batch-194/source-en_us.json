@@ -1,0 +1,9 @@
+{
+  "gui.sophisticateditemactions.status.restocked_recipe_items": "Restocked %s recipe items from storage",
+  "gui.sophisticateditemactions.status.recipe_restocked": "Recipe ingredients are already available",
+  "gui.sophisticateditemactions.status.cannot_restock_recipe": "Could not restock any recipe items from storage",
+  "gui.sophisticateditemactions.status.recipe_restock_disabled": "Recipe restocking is disabled by the server",
+  "gui.sophisticateditemactions.recipe_restock": "Restock Recipe Ingredients",
+  "sophisticateditemactions.configuration.server": "Server",
+  "sophisticateditemactions.configuration.recipeRestockEnabled": "Enable Recipe Restock"
+}

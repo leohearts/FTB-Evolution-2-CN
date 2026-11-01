@@ -1,0 +1,37 @@
+---
+title: The Moon
+entryId: stellaris:planets
+iconType: item
+---
+
+The Moon, the Lady of the Night, is the only natural satellite of the Earth. For thousands of years, people have dreamed of setting foot there. And we did!
+
+[item=stellaris:moon_globe]
+
+The [ref=stellaris:planets/gravity]gravity[ref] of the Moon is 1.62 m/s², which is about 6 times less than on Earth. The Moon has no atmosphere, and its surface temperature varies from +123 degrees Celsius during the day to -233 degrees Celsius at night.
+
+Former space companies describes the Moon as lifeless and barren, but our astronauts have discovered that the Moon is full of resources and life... But not the nice kind of life.
+
+Here is a list of the Moon's creatures:
+- [ref=stellaris:mobs/parasite]Lunar Parasite[ref]
+- [ref=stellaris:mobs/luna_shadow]Lunar Shadow[ref]
+- [ref=stellaris:mobs/parasite_villager]Parasite Villager[ref]
+- [ref=stellaris:mobs/alien]Alien[ref]
+- [ref=stellaris:mobs/star_crawler]Star Crawler[ref]
+- [ref=stellaris:mobs/blue_fish]Blue Fish[ref]
+- [ref=stellaris:mobs/star_crawler_boss]Star Crawler Boss[ref]
+- [ref=stellaris:mobs/heart_of_luna]Heart of Luna[ref]
+
+
+But, if humanity went to the Moon, it is because of its resources.
+- [ref=stellaris:items/titanium]Titanium[ref]
+- [ref=stellaris:items/desh]Desh[ref] (The only place in the whole galaxy where it can be found)
+- Iron
+- [ref=stellaris:items/blue_liquid]Blue Liquid[ref]
+
+The Moon may look like just a simple and big rock, but if you dig deep, you may find some surprises...
+
+**Attention!**
+The Moon atmosphere is not breathable for players! To be able to breathe, you need to wear a full [ref=stellaris:items/space_suit]Space Suit[ref] with an oxygen module.
+The air is not the only thing that will kill you : most of what lives here carries the [ref=stellaris:mobs/infection]Infection[ref].
+

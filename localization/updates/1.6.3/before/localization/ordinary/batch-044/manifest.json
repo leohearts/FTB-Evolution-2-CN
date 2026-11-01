@@ -1,0 +1,36 @@
+{
+  "batch": "044",
+  "namespace": "replication",
+  "jar": ".minecraft/mods/Replication-26.1.2-1.2.8.jar",
+  "language_path": "assets/replication/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/replication/lang/zh_cn.json",
+  "include_keys": [
+    "block.replication.creative_matter_tank",
+    "itemGroup.replication",
+    "replication.infinite",
+    "replication.patterns",
+    "replication.search",
+    "replication.amount",
+    "replication.available",
+    "replication.cancel",
+    "replication.no_tasks",
+    "replication.toast_title",
+    "tooltip.replication.tank.priority",
+    "tooltip.replication.tank.void_excess"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Replication"
+  ],
+  "jar_sha256": "5fe49f56103892ec71d89f5e05ffe64c0c1476af8069e1f1c2fe28f91d8064ca",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Replication-26.1.2-1.2.8.jar",
+    "jar_sha256": "5fe49f56103892ec71d89f5e05ffe64c0c1476af8069e1f1c2fe28f91d8064ca",
+    "nested_jars": [],
+    "resource": "assets/replication/lang/en_us.json",
+    "mod_ids": [
+      "replication"
+    ],
+    "resource_sha256": "c84cb1d21d5bc4a3587dc9ddd1b6052e409c2441d7da0736ff504156b0de8e3f"
+  }
+}

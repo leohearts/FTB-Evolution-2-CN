@@ -1,0 +1,6 @@
+{
+  "config.stellaris.foodConfig": "Food Settings",
+  "config.stellaris.fluidCellWaterPerCan": "Fluid Cell Water Per Can",
+  "config.stellaris.foodConfig.desc": "Settings related to eating canned food.",
+  "config.stellaris.foodConfig.fluidCellWaterPerCan.desc": "The minimum amount of water a can need to be eaten"
+}

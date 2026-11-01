@@ -1,0 +1,39 @@
+{
+  "batch": "188",
+  "namespace": "scannable",
+  "jar": ".minecraft/mods/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+  "language_path": "assets/scannable/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/scannable/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.scannable.common",
+    "item.scannable.chest_module",
+    "item.scannable.chest_module.desc",
+    "item.scannable.spawner_module",
+    "item.scannable.spawner_module.desc",
+    "item.scannable.spawner_module.list",
+    "item.scannable.lootr_module",
+    "item.scannable.lootr_module.desc",
+    "item.scannable.lootr_module.required",
+    "tooltip.scannable.list_item",
+    "gui.scannable.spawner_module.list",
+    "gui.scannable.overlay.distance",
+    "gui.scannable.overlay.spawner"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Scannable Reforged",
+    "§7- §f%s§r",
+    "%s (%sm)"
+  ],
+  "jar_sha256": "4e9c52fdc6f5389e0f29b42dfc63d883adcdd3cc4b83b89b178ab3a43e114491",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+    "jar_sha256": "4e9c52fdc6f5389e0f29b42dfc63d883adcdd3cc4b83b89b178ab3a43e114491",
+    "nested_jars": [],
+    "resource": "assets/scannable/lang/en_us.json",
+    "mod_ids": [
+      "scannable"
+    ],
+    "resource_sha256": "21729174e45ad06d7aef6a541151b695aee62dd2745fc52e52bf8c5c76b6b50d"
+  }
+}

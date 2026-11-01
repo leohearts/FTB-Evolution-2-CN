@@ -1,0 +1,30 @@
+{
+  "batch": "254",
+  "namespace": "bblcore",
+  "jar": ".minecraft/mods/bblcore-26.1.2-12.6.12.jar",
+  "language_path": "assets/bblcore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/bblcore/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.bblcore.shift",
+    "tooltip.bblcore.alt",
+    "tooltip.bblcore.ctrl",
+    "tooltip.bblcore.whitelist_button.whitelist",
+    "tooltip.bblcore.whitelist_button.blacklist",
+    "tooltip.bblcore.whitelist_button.mode",
+    "tooltip.core.duration_tooltip",
+    "tooltip.core.ticks"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "d36258f401c07a19decd4cf9e41992c2bd1cf75f04583362c7c3accfadcac6c3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/bblcore-26.1.2-12.6.12.jar",
+    "jar_sha256": "d36258f401c07a19decd4cf9e41992c2bd1cf75f04583362c7c3accfadcac6c3",
+    "nested_jars": [],
+    "resource": "assets/bblcore/lang/en_us.json",
+    "mod_ids": [
+      "bblcore"
+    ],
+    "resource_sha256": "e7bff6feaf3935df3486f1e699a4c345661386ca6c2441dba814ea5055d290bb"
+  }
+}

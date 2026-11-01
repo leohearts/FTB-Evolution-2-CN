@@ -1,0 +1,24 @@
+{
+  "batch": "206",
+  "namespace": "tiab",
+  "jar": ".minecraft/mods/tiab-neoforge-8.0.0.jar",
+  "language_path": "assets/tiab/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tiab/lang/zh_cn.json",
+  "include_keys": [
+    "item.tiab.time_in_a_bottle.tooltip.creative",
+    "tiab.category.integration.blacklisted"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "a1a2e467d9791fbe91cb08e96f805c5033cef8c8ef73e3ced261e4db6f0301ce",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tiab-neoforge-8.0.0.jar",
+    "jar_sha256": "a1a2e467d9791fbe91cb08e96f805c5033cef8c8ef73e3ced261e4db6f0301ce",
+    "nested_jars": [],
+    "resource": "assets/tiab/lang/en_us.json",
+    "mod_ids": [
+      "tiab"
+    ],
+    "resource_sha256": "3aebb0f50f7890ae5515b696d7af4d44ea1da790cf0fc5b91428b808dbdd39c9"
+  }
+}

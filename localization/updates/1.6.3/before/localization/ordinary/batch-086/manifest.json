@@ -1,0 +1,27 @@
+{
+  "batch": "086",
+  "namespace": "extendedae",
+  "jar": ".minecraft/mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
+  "language_path": "assets/extendedae/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/extendedae/lang/zh_cn.json",
+  "include_keys": [
+    "gui.extendedae.crystal_assembler.amount",
+    "emi.extendedae.text.energy"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s mb / %s mb",
+    "%s AE"
+  ],
+  "jar_sha256": "0201b58f5bdd33b2edffc786fbea7fbdbae06861f5beea1e6144ce4774e66e21",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
+    "jar_sha256": "0201b58f5bdd33b2edffc786fbea7fbdbae06861f5beea1e6144ce4774e66e21",
+    "nested_jars": [],
+    "resource": "assets/extendedae/lang/en_us.json",
+    "mod_ids": [
+      "extendedae"
+    ],
+    "resource_sha256": "e179f160074aa4d920d915ae407361f52a95f2488879a521c6f2215916361915"
+  }
+}

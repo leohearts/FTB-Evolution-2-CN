@@ -1,0 +1,4 @@
+{
+  "geore.configuration.disableImmovability": "Disable Immovability",
+  "geore.configuration.disableImmovability.tooltip": "Disable immovability of Budding GeOre blocks (Enables a built-in datapack) [Default: false]"
+}

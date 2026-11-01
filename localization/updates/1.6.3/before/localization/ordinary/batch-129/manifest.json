@@ -1,0 +1,25 @@
+{
+  "batch": "129",
+  "namespace": "ae2netanalyser",
+  "jar": ".minecraft/mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+  "language_path": "assets/ae2netanalyser/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ae2netanalyser/lang/zh_cn.json",
+  "include_keys": [
+    "gui.ae2netanalyser.network_analyser.mode.P2P"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "P2P"
+  ],
+  "jar_sha256": "ef3c4c7c326e429d725108226299da0fe91bbff0bf9fe8fe2bfc287a2c66fca3",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "jar_sha256": "ef3c4c7c326e429d725108226299da0fe91bbff0bf9fe8fe2bfc287a2c66fca3",
+    "nested_jars": [],
+    "resource": "assets/ae2netanalyser/lang/en_us.json",
+    "mod_ids": [
+      "ae2netanalyser"
+    ],
+    "resource_sha256": "0d3de4617d24f082e8e633e02e7884fea695449b3783d662cdc2dceb92bc4e5c"
+  }
+}

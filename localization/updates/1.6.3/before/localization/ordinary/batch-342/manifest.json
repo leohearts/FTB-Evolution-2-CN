@@ -1,0 +1,30 @@
+{
+  "batch": "342",
+  "namespace": "nautec",
+  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.19.jar",
+  "jar_sha256": "9822be8ca107266ef87e7110227ad5c8bcb21f4d344ed1d3213372515e830e31",
+  "language_path": "assets/nautec/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nautec-26.1.2-NeoForge-2.0.19.jar",
+    "jar_sha256": "9822be8ca107266ef87e7110227ad5c8bcb21f4d344ed1d3213372515e830e31",
+    "nested_jars": [],
+    "resource": "assets/nautec/lang/en_us.json",
+    "mod_ids": [
+      "nautec"
+    ],
+    "resource_sha256": "88c874564690a150e44cd0fba10070c02e107a3ed796bd4653069c13a76b5744"
+  },
+  "target": ".minecraft/kubejs/assets/nautec/lang/zh_cn.json",
+  "include_keys": [
+    "bacteria.nautec.netheritophiles",
+    "nautec.augmentation_station.status.wrong_part",
+    "nautec.augmentation_station.status.wrong_part.desc",
+    "nautec.augmentation_station.status.wrong_part.short",
+    "nautec.bio_reactor.rate",
+    "nautec.bio_reactor.rate.total",
+    "nautec.distributor.count"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

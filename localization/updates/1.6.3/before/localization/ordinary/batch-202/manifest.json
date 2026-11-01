@@ -1,0 +1,26 @@
+{
+  "batch": "202",
+  "namespace": "squatgrow",
+  "jar": ".minecraft/mods/squatgrow-neoforge-26.1.2.2.jar",
+  "language_path": "assets/squatgrow/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/squatgrow/lang/zh_cn.json",
+  "include_keys": [
+    "key.squatgrow.toggle",
+    "key.category.squatgrow.keys",
+    "squatgrow.enabled",
+    "squatgrow.disabled"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "beebb0c0c4b7269614f055c6b119b141f0831036844c5216d27a9f1a66ffa084",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/squatgrow-neoforge-26.1.2.2.jar",
+    "jar_sha256": "beebb0c0c4b7269614f055c6b119b141f0831036844c5216d27a9f1a66ffa084",
+    "nested_jars": [],
+    "resource": "assets/squatgrow/lang/en_us.json",
+    "mod_ids": [
+      "squatgrow"
+    ],
+    "resource_sha256": "3c1efc1c94abb26c3a03e08b7e960791bd0372e3b179bcb11cadcd62fb770618"
+  }
+}

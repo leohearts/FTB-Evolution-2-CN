@@ -1,0 +1,23 @@
+{
+  "batch": "094",
+  "namespace": "enderthing",
+  "jar": ".minecraft/mods/Enderthing-26.1.2-1.10.2.jar",
+  "language_path": "assets/enderthing/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/enderthing/lang/zh_cn.json",
+  "include_keys": [
+    "tab.enderthing.things"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "3d55eb450b259e7a062bc9bf168a1edb8f76628a4a9f7274d688f70023ae458a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Enderthing-26.1.2-1.10.2.jar",
+    "jar_sha256": "3d55eb450b259e7a062bc9bf168a1edb8f76628a4a9f7274d688f70023ae458a",
+    "nested_jars": [],
+    "resource": "assets/enderthing/lang/en_us.json",
+    "mod_ids": [
+      "enderthing"
+    ],
+    "resource_sha256": "91d05a24540969378d01cb3eddff5cc762f13c7b9f309de6a304aaf6114de6ad"
+  }
+}

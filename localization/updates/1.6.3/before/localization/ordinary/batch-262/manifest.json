@@ -1,0 +1,26 @@
+{
+  "batch": "262",
+  "namespace": "eccentrictome",
+  "jar": ".minecraft/mods/eccentrictome-1.2.1.jar",
+  "language_path": "assets/eccentrictome/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/eccentrictome/lang/zh_cn.json",
+  "include_keys": [
+    "eccentrictome.configuration.common",
+    "eccentrictome.configuration.disable_overlay",
+    "eccentrictome.configuration.items",
+    "eccentrictome.configuration.aliases"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "c2e40a8f7541aefdca3aaac0d2dd9ae71de95e19857ac9a1baba87c953082e42",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/eccentrictome-1.2.1.jar",
+    "jar_sha256": "c2e40a8f7541aefdca3aaac0d2dd9ae71de95e19857ac9a1baba87c953082e42",
+    "nested_jars": [],
+    "resource": "assets/eccentrictome/lang/en_us.json",
+    "mod_ids": [
+      "eccentrictome"
+    ],
+    "resource_sha256": "d7778a675351815942ff80b9e53e45b3852f90f9694a1716ba79b432e95852b6"
+  }
+}

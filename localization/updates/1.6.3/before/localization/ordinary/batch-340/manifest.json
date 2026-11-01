@@ -1,0 +1,24 @@
+{
+  "batch": "340",
+  "namespace": "ltxi",
+  "jar": ".minecraft/mods/ltxi-26.1.2-2.4.1.jar",
+  "jar_sha256": "a4d19556df227fc5374714ee6535f755bb6c57341f9a996d1ef2f6e84045c91a",
+  "language_path": "assets/ltxi/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.1.jar",
+    "jar_sha256": "a4d19556df227fc5374714ee6535f755bb6c57341f9a996d1ef2f6e84045c91a",
+    "nested_jars": [],
+    "resource": "assets/ltxi/lang/en_us.json",
+    "mod_ids": [
+      "ltxi"
+    ],
+    "resource_sha256": "0085a7fd5ecf40e8314f2e52fc74d4e368c3254fc99cc1e324442006a768db19"
+  },
+  "target": ".minecraft/kubejs/assets/ltxi/lang/zh_cn.json",
+  "include_keys": [
+    "entity.ltxi.homing_bomblet"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.5.1"
+}

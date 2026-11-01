@@ -1,0 +1,32 @@
+{
+  "batch": "255",
+  "namespace": "creativecore",
+  "jar": ".minecraft/mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+  "language_path": "assets/creativecore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/creativecore/lang/zh_cn.json",
+  "include_keys": [
+    "gui.true",
+    "gui.false",
+    "gui.config.reset",
+    "gui.ingredient.latest",
+    "minecraft.blocks",
+    "minecraft.blocks.counting"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "true",
+    "false",
+    "r"
+  ],
+  "jar_sha256": "db2596754d9b1ae49997d57030dafe0cad47b07e00a1314ff3522c553c14b5bc",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/CreativeCore_NEOFORGE_v2.14.16_mc26.1.2.jar",
+    "jar_sha256": "db2596754d9b1ae49997d57030dafe0cad47b07e00a1314ff3522c553c14b5bc",
+    "nested_jars": [],
+    "resource": "assets/creativecore/lang/en_us.json",
+    "mod_ids": [
+      "creativecore"
+    ],
+    "resource_sha256": "f6786ae7f3d08033443f059e34b689e6edb8348c97962ac994ec1dd0c0466461"
+  }
+}

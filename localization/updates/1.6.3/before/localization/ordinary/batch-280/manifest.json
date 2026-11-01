@@ -1,0 +1,24 @@
+{
+  "batch": "280",
+  "namespace": "witchery_forbidden_magic",
+  "jar": ".minecraft/mods/witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+  "language_path": "assets/witchery_forbidden_magic/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/witchery_forbidden_magic/lang/zh_cn.json",
+  "include_keys": [
+    "witchery.hud_editor.witchery_forbidden_magic.soul_pool",
+    "witchery.quest.lich.die.at.night"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "966dec2f664c6cd04d4028b6792e53618b06ca83941b81eee642c4883ddc4ea2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+    "jar_sha256": "966dec2f664c6cd04d4028b6792e53618b06ca83941b81eee642c4883ddc4ea2",
+    "nested_jars": [],
+    "resource": "assets/witchery_forbidden_magic/lang/en_us.json",
+    "mod_ids": [
+      "witchery_forbidden_magic"
+    ],
+    "resource_sha256": "614abb3b9f606a7b0f530611c1b5d771fea506d6d4ba6a3d7b1a300b46f51fbc"
+  }
+}

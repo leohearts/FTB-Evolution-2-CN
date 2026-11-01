@@ -1,0 +1,38 @@
+{
+  "batch": "150",
+  "namespace": "growthacceleratortiers",
+  "jar": ".minecraft/mods/growthacceleratortiers-2.0.0+26.1.2.jar",
+  "language_path": "assets/growthacceleratortiers/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/growthacceleratortiers/lang/zh_cn.json",
+  "include_keys": [
+    "command.growthacceleratortiers.boosted_position",
+    "command.growthacceleratortiers.directional_position",
+    "command.growthacceleratortiers.info",
+    "command.growthacceleratortiers.modify",
+    "command.growthacceleratortiers.no_data",
+    "growthacceleratortiers.configuration.boosted_idle_power_consumption",
+    "growthacceleratortiers.configuration.boosted_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.boosted_speed_multiplier",
+    "growthacceleratortiers.configuration.cranked_idle_power_consumption",
+    "growthacceleratortiers.configuration.cranked_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.cranked_speed_multiplier",
+    "growthacceleratortiers.configuration.directional_idle_power_consumption",
+    "growthacceleratortiers.configuration.directional_internal_energy_multiplier",
+    "growthacceleratortiers.configuration.directional_speed_multiplier",
+    "growthacceleratortiers.configuration.enable_conflicts",
+    "growthacceleratortiers.configuration.general"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "3cc8dfbc7e6e37c5c627513fd7ec699f0e0860f26543dff0d4ad06a0ef4f61a6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/growthacceleratortiers-2.0.0+26.1.2.jar",
+    "jar_sha256": "3cc8dfbc7e6e37c5c627513fd7ec699f0e0860f26543dff0d4ad06a0ef4f61a6",
+    "nested_jars": [],
+    "resource": "assets/growthacceleratortiers/lang/en_us.json",
+    "mod_ids": [
+      "growthacceleratortiers"
+    ],
+    "resource_sha256": "4a0c9f834cfb2fb37e08ac34f2b4e597df4dea55b0369796b1c0114ee7a2ed3e"
+  }
+}

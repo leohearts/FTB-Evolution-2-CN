@@ -1,0 +1,37 @@
+{
+  "batch": "053",
+  "namespace": "mtr",
+  "jar": ".minecraft/mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+  "language_path": "assets/mtr/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mtr/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mtr",
+    "modmenu.summaryTranslation.mtr",
+    "modmenu.descriptionTranslation.mtr",
+    "mtr.releases",
+    "mtr.kofi",
+    "mtr.curseforge",
+    "mtr.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "MTR - Moog's Temples Reimagined",
+    "Discover large, rare temples filled with challenging encounters, valuable loot, and exciting exploration that will test your skills and reward your bravery",
+    "Moog's Temples Reimagined brings new life to Minecraft's classic temple structures with enhanced and reimagined versions. This mod features beautifully redesigned desert and jungle temples that offer improved loot, better exploration experiences, and more engaging encounters. Built using the MoogsStructureLib framework, these structures seamlessly integrate into your world while maintaining the authentic Minecraft feel.",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ],
+  "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+    "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
+    "nested_jars": [],
+    "resource": "assets/mtr/lang/en_us.json",
+    "mod_ids": [
+      "mtr"
+    ],
+    "resource_sha256": "ffe097b34a7a1e6f058cdfb1bf7bc9ca6f23fc6d21d044991ee1ef0a0dda91c4"
+  }
+}

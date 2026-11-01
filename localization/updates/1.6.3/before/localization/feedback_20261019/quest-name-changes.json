@@ -1,0 +1,611 @@
+[
+  {
+    "file": "localization/translations/chapter.json",
+    "key": "35",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/auroral.json",
+    "key": "26",
+    "mod": "auroral",
+    "en": "Auroral",
+    "zh": "极光"
+  },
+  {
+    "file": "localization/translations/chapters/auroral.json",
+    "key": "74",
+    "mod": "auroral",
+    "en": "Auroral",
+    "zh": "极光"
+  },
+  {
+    "file": "localization/translations/chapters/auroral.json",
+    "key": "76",
+    "mod": "auroral",
+    "en": "Auroral",
+    "zh": "极光"
+  },
+  {
+    "file": "localization/translations/chapters/building_and_decoration.json",
+    "key": "20",
+    "mod": "z_core",
+    "en": "Z-Core",
+    "zh": "Z-核心"
+  },
+  {
+    "file": "localization/translations/chapters/building_and_decoration.json",
+    "key": "80",
+    "mod": "comforts",
+    "en": "Comforts",
+    "zh": "舒适用品"
+  },
+  {
+    "file": "localization/translations/chapters/chapter2.json",
+    "key": "20",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/colossal_reactors.json",
+    "key": "18",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/cooking_and_brewing.json",
+    "key": "90",
+    "mod": "pantryforblockheads",
+    "en": "Pantry for Blockheads",
+    "zh": "傻瓜食品柜"
+  },
+  {
+    "file": "localization/translations/chapters/cooking_and_brewing.json",
+    "key": "149",
+    "mod": "pantryforblockheads",
+    "en": "Pantry for Blockheads",
+    "zh": "傻瓜食品柜"
+  },
+  {
+    "file": "localization/translations/chapters/cooking_and_brewing.json",
+    "key": "247",
+    "mod": "horsepowered",
+    "en": "Horse Powered",
+    "zh": "马力"
+  },
+  {
+    "file": "localization/translations/chapters/energized_power.json",
+    "key": "74",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/energized_power.json",
+    "key": "76",
+    "mod": "ftbmaterials",
+    "en": "FTB Materials",
+    "zh": "FTB材料"
+  },
+  {
+    "file": "localization/translations/chapters/energized_power.json",
+    "key": "82",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/energized_power.json",
+    "key": "127",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/energized_power.json",
+    "key": "143",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/exploration.json",
+    "key": "21",
+    "mod": "irons_artifice",
+    "en": "Iron's Arms 'n Artifice",
+    "zh": "Iron的武备与巧械"
+  },
+  {
+    "file": "localization/translations/chapters/exploration.json",
+    "key": "54",
+    "mod": "apotheosis",
+    "en": "Apotheosis",
+    "zh": "神化"
+  },
+  {
+    "file": "localization/translations/chapters/exploration.json",
+    "key": "102",
+    "mod": "crawl",
+    "en": "Crawl",
+    "zh": "爬行"
+  },
+  {
+    "file": "localization/translations/chapters/exploration.json",
+    "key": "144",
+    "mod": "crawl",
+    "en": "Crawl",
+    "zh": "爬行"
+  },
+  {
+    "file": "localization/translations/chapters/exploration.json",
+    "key": "203",
+    "mod": "bhc",
+    "en": "Baubley Heart Canisters",
+    "zh": "心之容器"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "74",
+    "mod": "irons_artifice",
+    "en": "Iron's Arms 'n Artifice",
+    "zh": "Iron的武备与巧械"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "81",
+    "mod": "irons_artifice",
+    "en": "Iron's Arms 'n Artifice",
+    "zh": "Iron的武备与巧械"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "286",
+    "mod": "irons_artifice",
+    "en": "Iron's Arms 'n Artifice",
+    "zh": "Iron的武备与巧械"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "302",
+    "mod": "justhammers",
+    "en": "Just Hammers",
+    "zh": "锤子合集"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "305",
+    "mod": "justhammers",
+    "en": "Just Hammers",
+    "zh": "锤子合集"
+  },
+  {
+    "file": "localization/translations/chapters/gearing_up.json",
+    "key": "362",
+    "mod": "bhc",
+    "en": "Baubley Heart Canisters",
+    "zh": "心之容器"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "0",
+    "mod": "advanced_ae",
+    "en": "Advanced AE",
+    "zh": "高级AE"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "139",
+    "mod": "cabletiers",
+    "en": "Cable Tiers",
+    "zh": "多级线缆"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "184",
+    "mod": "cabletiers",
+    "en": "Cable Tiers",
+    "zh": "多级线缆"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "344",
+    "mod": "cabletiers",
+    "en": "Cable Tiers",
+    "zh": "多级线缆"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "354",
+    "mod": "applied_oritech",
+    "en": "Applied Oritech",
+    "zh": "应用奥瑞科技"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "361",
+    "mod": "cabletiers",
+    "en": "Cable Tiers",
+    "zh": "多级线缆"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "396",
+    "mod": "refinedtypes",
+    "en": "Refined Types",
+    "zh": "精致存储: 类型扩展"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "417",
+    "mod": "advanced_ae",
+    "en": "Advanced AE",
+    "zh": "高级AE"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "450",
+    "mod": "extendedae",
+    "en": "ExtendedAE",
+    "zh": "AE2扩展"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "496",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/general_storage.json",
+    "key": "520",
+    "mod": "applied_oritech",
+    "en": "Applied Oritech",
+    "zh": "应用奥瑞科技"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "107",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "108",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "168",
+    "mod": "horsepowered",
+    "en": "Horse Powered",
+    "zh": "马力"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "181",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "184",
+    "mod": "nutritional",
+    "en": "Nutritional",
+    "zh": "营养均衡"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "215",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "216",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/getting_started.json",
+    "key": "238",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/hephaestus.json",
+    "key": "4",
+    "mod": "hephaestus_tools",
+    "en": "Hephaestus Tools",
+    "zh": "匠神工具"
+  },
+  {
+    "file": "localization/translations/chapters/hephaestus.json",
+    "key": "123",
+    "mod": "hephaestus_tools",
+    "en": "Hephaestus Tools",
+    "zh": "匠神工具"
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "key": "258",
+    "mod": "morered",
+    "en": "More Red",
+    "zh": "更多红石电路"
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "key": "334",
+    "mod": "morered",
+    "en": "More Red",
+    "zh": "更多红石电路"
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "key": "336",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/logistics.json",
+    "key": "336",
+    "mod": "morered",
+    "en": "More Red",
+    "zh": "更多红石电路"
+  },
+  {
+    "file": "localization/translations/chapters/nautec.json",
+    "key": "789",
+    "mod": "stellaris",
+    "en": "Stellaris",
+    "zh": "群星"
+  },
+  {
+    "file": "localization/translations/chapters/oritech.json",
+    "key": "45",
+    "mod": "oritech",
+    "en": "Oritech",
+    "zh": "奥瑞科技"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "5",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "6",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "13",
+    "mod": "agritechevolved",
+    "en": "Agritech: Evolved",
+    "zh": "农业科技: 进化"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "53",
+    "mod": "auroral",
+    "en": "Auroral",
+    "zh": "极光"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "66",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "67",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "87",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "94",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/power.json",
+    "key": "128",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "114",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "187",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "187",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "219",
+    "mod": "mobflowutilities",
+    "en": "Mob Flow Utilities",
+    "zh": "生物流动工具"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "296",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "299",
+    "mod": "apothic_spawners",
+    "en": "Apothic Spawners",
+    "zh": "神化刷怪笼"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "305",
+    "mod": "apothic_enchanting",
+    "en": "Apothic Enchanting",
+    "zh": "神化附魔"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "318",
+    "mod": "dimresources",
+    "en": "Dimensional Resources",
+    "zh": "维度资源"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "373",
+    "mod": "mysticalautomation",
+    "en": "Mystical Automation",
+    "zh": "神秘自动化"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "383",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "400",
+    "mod": "mobflowutilities",
+    "en": "Mob Flow Utilities",
+    "zh": "生物流动工具"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "401",
+    "mod": "mystianapiary",
+    "en": "Mystian Apiary",
+    "zh": "神秘蜂房"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "417",
+    "mod": "mystianapiary",
+    "en": "Mystian Apiary",
+    "zh": "神秘蜂房"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "419",
+    "mod": "geore",
+    "en": "GeOre",
+    "zh": "矿石晶洞"
+  },
+  {
+    "file": "localization/translations/chapters/resource_generation.json",
+    "key": "472",
+    "mod": "dimresources",
+    "en": "Dimensional Resources",
+    "zh": "维度资源"
+  },
+  {
+    "file": "localization/translations/chapters/stellaris.json",
+    "key": "41",
+    "mod": "stellaris",
+    "en": "Stellaris",
+    "zh": "群星"
+  },
+  {
+    "file": "localization/translations/chapters/stellaris.json",
+    "key": "111",
+    "mod": "stellaris",
+    "en": "Stellaris",
+    "zh": "群星"
+  },
+  {
+    "file": "localization/translations/chapters/stellaris.json",
+    "key": "136",
+    "mod": "stellaris",
+    "en": "Stellaris",
+    "zh": "群星"
+  },
+  {
+    "file": "localization/translations/chapters/utilities.json",
+    "key": "4",
+    "mod": "neosync",
+    "en": "NeoSync",
+    "zh": "新克隆"
+  },
+  {
+    "file": "localization/translations/chapters/utilities.json",
+    "key": "64",
+    "mod": "neosync",
+    "en": "NeoSync",
+    "zh": "新克隆"
+  },
+  {
+    "file": "localization/translations/chapters/utilities.json",
+    "key": "84",
+    "mod": "neosync",
+    "en": "NeoSync",
+    "zh": "新克隆"
+  },
+  {
+    "file": "localization/translations/chapters/witchery.json",
+    "key": "164",
+    "mod": "witchery",
+    "en": "Witchery",
+    "zh": "巫术"
+  },
+  {
+    "file": "localization/terms.json",
+    "key": "Energized Power",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  },
+  {
+    "file": "localization/terms.json",
+    "key": "Energized Power",
+    "mod": "energizedpower",
+    "en": "Energized Power",
+    "zh": "充能能源"
+  }
+]

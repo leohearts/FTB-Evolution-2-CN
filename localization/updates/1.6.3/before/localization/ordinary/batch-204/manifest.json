@@ -1,0 +1,24 @@
+{
+  "batch": "204",
+  "namespace": "crawl",
+  "jar": ".minecraft/mods/crawl-mc26.1.2-neoforge-0.15.0.jar",
+  "language_path": "assets/crawl/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crawl/lang/zh_cn.json",
+  "include_keys": [
+    "crawl.gui.options_title",
+    "crawl.config.replace_animation"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "8437fabbe8e32985e24a4ab204dd2922f1aab165468808fd789450d3a305b769",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crawl-mc26.1.2-neoforge-0.15.0.jar",
+    "jar_sha256": "8437fabbe8e32985e24a4ab204dd2922f1aab165468808fd789450d3a305b769",
+    "nested_jars": [],
+    "resource": "assets/crawl/lang/en_us.json",
+    "mod_ids": [
+      "crawl"
+    ],
+    "resource_sha256": "88fb747a62780291cbbe0f50737c25195f7d444f9d310f6f008cfadbea200139"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  "%1$s was corroded by %2$s",
+  "%1$s was frozen solid by %2$s",
+  "%1$s was electrocuted by %2$s",
+  "%1$s was zapped by %2$s's turret",
+  "%s was zapped by a rogue turret",
+  "%1$s was blown up by %2$s",
+  "%1$s was blown up by %2$s' turret",
+  "%s was blown up by a rogue turret",
+  "%1$s was incinerated by %2$s",
+  "%1$s was gassed out by %2$s",
+  "%1$s was shot by %2$s",
+  "%1$s was obliterated by %2$s's turret",
+  "%s was obliterated by a rogue turret",
+  "Bomblet",
+  "Sparkler",
+  "Bomblet explodes",
+  "Bomblet primes",
+  "Sparkler shell impact"
+]

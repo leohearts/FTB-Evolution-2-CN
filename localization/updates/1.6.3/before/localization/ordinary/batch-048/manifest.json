@@ -1,0 +1,37 @@
+{
+  "batch": "048",
+  "namespace": "justdirethings",
+  "jar": ".minecraft/mods/justdirethings-1.6.11.jar",
+  "language_path": "assets/justdirethings/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/justdirethings/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.DeferredHolder{ResourceKey[minecraft:creative_mode_tab / justdirethings:justdirethings]}",
+    "justdirethings.festored",
+    "justdirethings.fillmode.jdtonly",
+    "justdirethings.screen.fepertick",
+    "justdirethings.screen.fluid",
+    "justdirethings.screen.hideparticles",
+    "justdirethings.screen.inv-hotbar",
+    "justdirethings.screen.inv-main",
+    "justdirethings.screen.target-mob",
+    "key.category.justdirethings.category"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Just Dire Things",
+    "JustDireThings",
+    "FE/T: %s",
+    "%s: %s/%s MB"
+  ],
+  "jar_sha256": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justdirethings-1.6.11.jar",
+    "jar_sha256": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
+    "nested_jars": [],
+    "resource": "assets/justdirethings/lang/en_us.json",
+    "mod_ids": [
+      "justdirethings"
+    ],
+    "resource_sha256": "7601ce7207c8d52027770317026e027a98354dd16d719794dbe286803bfce46e"
+  }
+}

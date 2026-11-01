@@ -1,0 +1,43 @@
+{
+  "batch": "250",
+  "namespace": "forgeendertech",
+  "jar": ".minecraft/mods/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+  "language_path": "assets/forgeendertech/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/forgeendertech/lang/zh_cn.json",
+  "include_keys": [
+    "forgeendertech.configuration.maxVentPipeLength",
+    "forgeendertech.configuration.maxBlocksInMultiblock",
+    "forgeendertech.configuration.SmokeContainers",
+    "forgeendertech.configuration.debug",
+    "forgeendertech.configuration.requiresDye",
+    "forgeendertech.configuration.Painting",
+    "forgeendertech.configuration.pumpedChimneyAirflow",
+    "forgeendertech.configuration.suctionHoppers",
+    "forgeendertech.configuration.requiresWaterBucket",
+    "forgeendertech.configuration.ventReachDistance"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "maxVentPipeLength",
+    "maxBlocksInMultiblock",
+    "SmokeContainers",
+    "debug",
+    "requiresDye",
+    "Painting",
+    "pumpedChimneyAirflow",
+    "suctionHoppers",
+    "requiresWaterBucket",
+    "ventReachDistance"
+  ],
+  "jar_sha256": "e5a5ce717d4f26b81bb10a6f66e0496d1704d135bf8572a2f89d62db032ae6bb",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+    "jar_sha256": "e5a5ce717d4f26b81bb10a6f66e0496d1704d135bf8572a2f89d62db032ae6bb",
+    "nested_jars": [],
+    "resource": "assets/forgeendertech/lang/en_us.json",
+    "mod_ids": [
+      "forgeendertech"
+    ],
+    "resource_sha256": "07ac1346f62baa81224075049713f110b786409d4864776cae517f5aa9890bf0"
+  }
+}

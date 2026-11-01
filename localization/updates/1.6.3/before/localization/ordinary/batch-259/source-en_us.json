@@ -1,0 +1,6 @@
+{
+  "itemGroup.bmaddon.main": "BM Addon",
+  "screen.bmaddon.blood_generator.energy_label": "FE",
+  "screen.bmaddon.blood_generator.energy_value": "%s / %s FE",
+  "screen.bmaddon.blood_generator.blood_value": "%s / %s mB"
+}

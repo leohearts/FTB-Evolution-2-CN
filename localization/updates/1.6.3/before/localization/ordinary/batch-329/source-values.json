@@ -1,0 +1,5 @@
+[
+  "Sacrificed blood that arrives faster than the basin can hold is not lost. It pools in an [#](8B0000)overflow reserve[#]() holding up to [#](8B0000)twenty times[#]() the basin's capacity, and flows back into the basin each tick as room opens.\\\n\\\nA great offering from a [#](8B0000)Well of Suffering[#]() or a [#](8B0000)Torment Nexus[#]() can therefore feed an altar whose basin is far smaller than the offering itself. A [#](8B0000)Seer's Sigil[#]() reveals what waits in the reserve.",
+  "The Link can only draw what the basin holds, so it never moves more in a tick than the altar's [#](8B0000)capacity[#](). The swiftest charging altars balance the two: enough [#](8B0000)Speed Runes[#]() for a strong draw, and enough [#](8B0000)Capacity Runes[#]() that the basin can keep pace with it.\\\n\\\nThe [#](8B0000)Divinus Orb of Vitae[#]() draws far faster than any lesser orb.",
+  "Reserve: %s / %s"
+]

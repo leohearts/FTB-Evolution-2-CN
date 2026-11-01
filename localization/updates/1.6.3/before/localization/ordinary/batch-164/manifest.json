@@ -1,0 +1,43 @@
+{
+  "batch": "164",
+  "namespace": "irons_artifice",
+  "jar": ".minecraft/mods/irons_artifice-26.1.2-1.1.0.jar",
+  "language_path": "assets/irons_artifice/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/irons_artifice/lang/zh_cn.json",
+  "include_keys": [
+    "entity.irons_artifice.soul",
+    "item.irons_artifice.bullet_box",
+    "item.irons_artifice.soulfire_coin_modifier",
+    "irons_artifice.component_type.explosion_radius",
+    "irons_artifice.component_type.soul_chance_on_hit",
+    "irons_artifice.modifier.soulfire_coin",
+    "irons_artifice.modifier.soulfire_coin_empower",
+    "irons_artifice.value_modifier.plus",
+    "irons_artifice.value_modifier.minus",
+    "irons_artifice.value_modifier.plus_percent",
+    "irons_artifice.value_modifier.minus_percent",
+    "irons_artifice.tooltip.bullet_pouch",
+    "irons_artifice.tooltip.bullet_container.description",
+    "death.attack.irons_artifice.soul",
+    "death.attack.irons_artifice.soul.item",
+    "advancements.irons_artifice.over_over_overkill.title",
+    "advancements.irons_artifice.ultrakill.title"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "+%s %s",
+    "-%s %s",
+    "%s%% %s"
+  ],
+  "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/irons_artifice-26.1.2-1.1.0.jar",
+    "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+    "nested_jars": [],
+    "resource": "assets/irons_artifice/lang/en_us.json",
+    "mod_ids": [
+      "irons_artifice"
+    ],
+    "resource_sha256": "d225f4bb3c0dc23a11742113cb720dd8f8ab43777b819a1db493a90a5e915e31"
+  }
+}

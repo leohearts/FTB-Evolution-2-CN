@@ -1,0 +1,43 @@
+{
+  "batch": "043",
+  "namespace": "sfm",
+  "jar": ".minecraft/mods/Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+  "language_path": "assets/sfm/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sfm/lang/zh_cn.json",
+  "include_keys": [
+    "gui.sfm.label_gun.label_button",
+    "gui.sfm.manager.button.discord",
+    "gui.sfm.program_editor_config.preferred_editor.v2",
+    "key.sfm.label_gun.open_gui",
+    "log.sfm.cable_network.body",
+    "log.sfm.label_position_holder.body",
+    "log.sfm.program.voided_resources",
+    "log.sfm.statement.tick.forget",
+    "log.sfm.statement.tick.if.false",
+    "log.sfm.statement.tick.if.true",
+    "log.sfm.statement.tick.input",
+    "log.sfm.statement.tick.output",
+    "program.sfm.error.literal"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%d)",
+    "Discord",
+    "V2",
+    "%s",
+    "FORGET %s",
+    "FALSE: %s",
+    "TRUE: %s"
+  ],
+  "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+    "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
+    "nested_jars": [],
+    "resource": "assets/sfm/lang/en_us.json",
+    "mod_ids": [
+      "sfm"
+    ],
+    "resource_sha256": "64189966cbcaf6714a4d56f0dcca9e057e70ce7a413fc466325d2bf1cdb0b090"
+  }
+}

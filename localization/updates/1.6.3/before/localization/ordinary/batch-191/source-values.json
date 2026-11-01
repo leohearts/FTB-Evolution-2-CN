@@ -1,0 +1,12 @@
+[
+  "Asynchronous shape generation",
+  "Enable asynchronous (multithreaded) shape generation.",
+  "Shape persistence",
+  "Allow shapes to be saved to a file so they can be restored after restarting the client.",
+  "Shape list random colors",
+  "Enable random colors for new shapes added to the shape list by default.",
+  "Degrees",
+  "Cube size",
+  "Helix",
+  "Polygonal pyramid"
+]

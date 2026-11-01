@@ -1,0 +1,9 @@
+{
+  "config.jade.plugin_integrateddynamicscompat.squeezer": "Squeezer",
+  "config.jade.plugin_integrateddynamicscompat.drying_basin": "Drying Basin",
+  "config.jade.plugin_integrateddynamicscompat.mechanical_squeezer": "Mechanical Squeezer",
+  "config.jade.plugin_integrateddynamicscompat.mechanical_drying_basin": "Mechanical Drying Basin",
+  "config.jade.plugin_integrateddynamicscompat.proxy": "Proxy",
+  "config.jade.plugin_integrateddynamicscompat.part": "Part",
+  "gui.integrateddynamics.jei.category.time.seconds": "%ss"
+}

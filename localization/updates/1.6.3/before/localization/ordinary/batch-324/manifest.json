@@ -1,0 +1,43 @@
+{
+  "batch": "324",
+  "namespace": "kuma_api",
+  "jar": ".minecraft/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+  "jar_sha256": "0dbe6d1714ea60558e8ab978205b8b69b5b3cd0004eb455bcff8831234259d6e",
+  "language_path": "assets/kuma_api/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/kuma_api/lang/zh_cn.json",
+  "include_keys": [
+    "key.keyboard.modifiers",
+    "key.keyboard.modifier.shift",
+    "key.keyboard.modifier.control",
+    "key.keyboard.modifier.alt"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Alt",
+    "Control",
+    "Shift",
+    "%s + %s"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+    "jar_sha256": "0dbe6d1714ea60558e8ab978205b8b69b5b3cd0004eb455bcff8831234259d6e",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+        "sha256": "95ea7006585360931ce4c6846d1234e81ed5e765cc234d0a4318d991ebe66abe"
+      }
+    ],
+    "resource": "assets/kuma_api/lang/en_us.json",
+    "mod_ids": [
+      "balm"
+    ],
+    "resource_sha256": "86c470d8d1f378c93e3c10763f4df59267b3b392f6404c26a34f0351fb193aa1"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/kuma-api-neoforge-26.1.2.2.jar",
+      "sha256": "95ea7006585360931ce4c6846d1234e81ed5e765cc234d0a4318d991ebe66abe"
+    }
+  ]
+}

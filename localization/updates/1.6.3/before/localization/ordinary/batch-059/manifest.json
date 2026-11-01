@@ -1,0 +1,25 @@
+{
+  "batch": "059",
+  "namespace": "tesseract",
+  "jar": ".minecraft/mods/tesseract-1.0.39-neoforge-mc26.1.jar",
+  "language_path": "assets/tesseract/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tesseract/lang/zh_cn.json",
+  "include_keys": [
+    "tesseract.tesseract.highlight.channel_info"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "  %1$s %2$s %3$s"
+  ],
+  "jar_sha256": "8584f9921f57ecbe5a07a1e4d414d5b6b750d28ce4024a489d924c01036f7174",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tesseract-1.0.39-neoforge-mc26.1.jar",
+    "jar_sha256": "8584f9921f57ecbe5a07a1e4d414d5b6b750d28ce4024a489d924c01036f7174",
+    "nested_jars": [],
+    "resource": "assets/tesseract/lang/en_us.json",
+    "mod_ids": [
+      "tesseract"
+    ],
+    "resource_sha256": "fcf0870a2d4b510a8276803a860d0970845f824125e4f455dc53f85ae377cd00"
+  }
+}

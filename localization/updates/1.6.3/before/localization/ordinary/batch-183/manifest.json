@@ -1,0 +1,63 @@
+{
+  "batch": "183",
+  "namespace": "inventoryessentials",
+  "jar": ".minecraft/mods/inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+  "language_path": "assets/inventoryessentials/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/inventoryessentials/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.inventoryessentials.default",
+    "key.inventoryessentials.single_transfer",
+    "key.inventoryessentials.bulk_transfer",
+    "key.inventoryessentials.bulk_transfer_single",
+    "key.inventoryessentials.bulk_transfer_all",
+    "key.inventoryessentials.bulk_drop",
+    "key.inventoryessentials.screen_bulk_drop",
+    "key.inventoryessentials.drag_transfer",
+    "key.inventoryessentials.sort_inventory",
+    "key.inventoryessentials.restock_container",
+    "key.inventoryessentials.restock_inventory",
+    "key.inventoryessentials.dump_to_container",
+    "inventoryessentials.configuration.title",
+    "inventoryessentials.configuration.forceClientImplementation.tooltip",
+    "inventoryessentials.configuration.allowBulkTransferAllOnEmptySlot.tooltip",
+    "inventoryessentials.configuration.bulkTransferArmorSets",
+    "inventoryessentials.configuration.bulkTransferArmorSets.tooltip",
+    "inventoryessentials.configuration.enableSingleTransfer.tooltip",
+    "inventoryessentials.configuration.enableBulkTransfer.tooltip",
+    "inventoryessentials.configuration.enableBulkTransferSingle",
+    "inventoryessentials.configuration.enableBulkTransferSingle.tooltip",
+    "inventoryessentials.configuration.enableBulkTransferAll",
+    "inventoryessentials.configuration.enableBulkTransferAll.tooltip",
+    "inventoryessentials.configuration.enableBulkDrop.tooltip",
+    "inventoryessentials.configuration.enableShiftDrag.tooltip",
+    "inventoryessentials.configuration.enableBundleDrag",
+    "inventoryessentials.configuration.enableBundleDrag.tooltip",
+    "inventoryessentials.configuration.enableBundleAutoFill",
+    "inventoryessentials.configuration.enableBundleAutoFill.tooltip",
+    "inventoryessentials.configuration.enableToolRefill",
+    "inventoryessentials.configuration.enableToolRefill.tooltip",
+    "inventoryessentials.configuration.enableStackRefill",
+    "inventoryessentials.configuration.enableStackRefill.tooltip",
+    "inventoryessentials.configuration.inventorySorting",
+    "inventoryessentials.configuration.inventorySorting.tooltip",
+    "inventoryessentials.configuration.inventorySorting.consolidate_only",
+    "inventoryessentials.configuration.inventorySorting.retain_order",
+    "inventoryessentials.configuration.inventorySorting.alphabetical",
+    "inventoryessentials.configuration.inventorySorting.creative"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Inventory Essentials"
+  ],
+  "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+    "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
+    "nested_jars": [],
+    "resource": "assets/inventoryessentials/lang/en_us.json",
+    "mod_ids": [
+      "inventoryessentials"
+    ],
+    "resource_sha256": "1b45abde5d0356513718f687c3f364b9fad9ae2f7c88f2347cecdb2ebb3387a0"
+  }
+}

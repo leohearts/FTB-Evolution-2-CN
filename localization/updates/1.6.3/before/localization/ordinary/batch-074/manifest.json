@@ -1,0 +1,32 @@
+{
+  "batch": "074",
+  "namespace": "integrateddynamicscompat",
+  "jar": ".minecraft/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+  "language_path": "assets/integrateddynamicscompat/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integrateddynamicscompat/lang/zh_cn.json",
+  "include_keys": [
+    "config.jade.plugin_integrateddynamicscompat.squeezer",
+    "config.jade.plugin_integrateddynamicscompat.drying_basin",
+    "config.jade.plugin_integrateddynamicscompat.mechanical_squeezer",
+    "config.jade.plugin_integrateddynamicscompat.mechanical_drying_basin",
+    "config.jade.plugin_integrateddynamicscompat.proxy",
+    "config.jade.plugin_integrateddynamicscompat.part",
+    "gui.integrateddynamics.jei.category.time.seconds"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%ss"
+  ],
+  "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+    "nested_jars": [],
+    "resource": "assets/integrateddynamicscompat/lang/en_us.json",
+    "mod_ids": [
+      "integrateddynamics",
+      "integrateddynamicscompat"
+    ],
+    "resource_sha256": "28a3be08dd0adb04825981292bcc0a86daee6ba16da701cc7b6126e9dc2d8a97"
+  }
+}

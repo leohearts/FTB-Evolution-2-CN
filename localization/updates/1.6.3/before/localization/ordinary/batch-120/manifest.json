@@ -1,0 +1,32 @@
+{
+  "batch": "120",
+  "namespace": "iris",
+  "jar": ".minecraft/mods/iris-neoforge-1.11.4+mc26.1.2.jar",
+  "language_path": "assets/iris/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/iris/lang/zh_cn.json",
+  "include_keys": [
+    "iris.shaders.debug.restartNoDebug",
+    "iris.load.failure.shader",
+    "iris.load.failure.generic",
+    "iris.keybind.wireframe",
+    "key.category.iris.keybinds",
+    "iris.unsupported.iris",
+    "options.iris.colorSpace",
+    "options.iris.colorSpace.sodium_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Iris"
+  ],
+  "jar_sha256": "32d672a890d3c74f75227abc7e7ef048bbb83a799bf46632f03f0583d4c22be5",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iris-neoforge-1.11.4+mc26.1.2.jar",
+    "jar_sha256": "32d672a890d3c74f75227abc7e7ef048bbb83a799bf46632f03f0583d4c22be5",
+    "nested_jars": [],
+    "resource": "assets/iris/lang/en_us.json",
+    "mod_ids": [
+      "iris"
+    ],
+    "resource_sha256": "9271fd658ca794631e66b00f1860f6ab4f5f0f65c47944c4232400fb047ec47f"
+  }
+}

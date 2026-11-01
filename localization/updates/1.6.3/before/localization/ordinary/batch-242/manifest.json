@@ -1,0 +1,44 @@
+{
+  "batch": "242",
+  "namespace": "modernfix",
+  "jar": ".minecraft/mods/modernfix-neoforge-5.27.24+mc26.1.2.jar",
+  "language_path": "assets/modernfix/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/modernfix/lang/zh_cn.json",
+  "include_keys": [
+    "modernfix.redirector_installed",
+    "modernfix.option.mixin.perf.dynamic_resources.ldlib",
+    "modernfix.option.mixin.perf.compress_unihex_font",
+    "modernfix.option.mixin.bugfix.restore_old_dragon_movement",
+    "modernfix.option.mixin.bugfix.missing_block_entities",
+    "modernfix.option.mixin.bugfix.buffer_builder_leak",
+    "modernfix.option.mixin.bugfix.extra_experimental_screen",
+    "modernfix.option.mixin.bugfix.forge_at_inject_error",
+    "modernfix.option.mixin.bugfix.world_screen_skipped",
+    "modernfix.option.mixin.feature.blockentity_incorrect_thread",
+    "modernfix.option.mixin.feature.cause_lag_by_disabling_threads",
+    "modernfix.option.mixin.feature.registry_event_progress",
+    "modernfix.option.mixin.feature.remove_chat_signing",
+    "modernfix.option.mixin.feature.remove_telemetry",
+    "modernfix.option.mixin.perf.chunk_meshing",
+    "modernfix.option.mixin.perf.faster_structure_location",
+    "modernfix.option.mixin.perf.forge_registry_alloc",
+    "modernfix.option.mixin.perf.memoize_creative_tab_build",
+    "modernfix.option.mixin.perf.potential_spawns_alloc",
+    "modernfix.option.mixin.perf.ticking_chunk_alloc",
+    "modernfix.option.mixin.perf.worldgen_allocation",
+    "modernfix.option.mixin.feature.suppress_narrator_stacktrace"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "120b3ce5a19263fd4e546029af0cb125b3d0529faf23facd8c71eba17516c734",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modernfix-neoforge-5.27.24+mc26.1.2.jar",
+    "jar_sha256": "120b3ce5a19263fd4e546029af0cb125b3d0529faf23facd8c71eba17516c734",
+    "nested_jars": [],
+    "resource": "assets/modernfix/lang/en_us.json",
+    "mod_ids": [
+      "modernfix"
+    ],
+    "resource_sha256": "aeab85d3fd1d8edbbd277e8a665e97c4e98ba0a813c8ba46f009f80ea6b4e0d8"
+  }
+}

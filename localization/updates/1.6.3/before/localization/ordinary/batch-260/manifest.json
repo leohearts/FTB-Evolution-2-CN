@@ -1,0 +1,30 @@
+{
+  "batch": "260",
+  "namespace": "cloth-config2",
+  "jar": ".minecraft/mods/cloth-config-26.1.154.jar",
+  "language_path": "assets/cloth-config2/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cloth-config2/lang/zh_cn.json",
+  "include_keys": [
+    "modifier.cloth-config.alt",
+    "modifier.cloth-config.ctrl",
+    "modifier.cloth-config.shift",
+    "text.cloth-config.testing.2"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Alt + %s",
+    "Ctrl + %s",
+    "Shift + %s"
+  ],
+  "jar_sha256": "d9147c8549fedad478bd18e2ddeef172ef290a081f80bd4d242d54e027ecd9d8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cloth-config-26.1.154.jar",
+    "jar_sha256": "d9147c8549fedad478bd18e2ddeef172ef290a081f80bd4d242d54e027ecd9d8",
+    "nested_jars": [],
+    "resource": "assets/cloth-config2/lang/en_us.json",
+    "mod_ids": [
+      "cloth_config"
+    ],
+    "resource_sha256": "b29f7dbb4be31ff84bdb11890d4795c0565c76a92e062d893ebfdf730ff83c9e"
+  }
+}

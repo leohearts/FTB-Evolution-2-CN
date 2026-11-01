@@ -1,0 +1,23 @@
+[
+  "§7⏬ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏬",
+  "§7⏫ [<ltkeybind>keybind=key.libtooltips.expand;§7</ltkeybind>§7] ⏫",
+  "LibTooltips",
+  "Expand Tooltip",
+  "Enable Tooltips",
+  "Empty line before",
+  "Adds an empty line BEFORE the description, AFTER the [shift]",
+  "Spaces before tooltip",
+  "Adds X spaces BEFORE the tooltip text",
+  "Empty line after",
+  "Adds an empty line AFTER the description",
+  "Description Color",
+  "Which color to use as a base for the tooltip. The value is the color as an integer (use an online color picker)",
+  "LibTooltip's Config",
+  "Such a fancy <ltrgb>rgb rainbow</ltrgb> tooltip!",
+  "And look, it even supports several lines, wow",
+  "To prevent incompatibilities with other text processor APIs,",
+  "it is recommended tags have a non-generic name such as 'ltrgb' instead of 'rgb'",
+  "hide",
+  "Setting a line as 'hide' will stop the rest of the lines from displaying.",
+  "This is useful for translations where different languages might have less lines than the default."
+]

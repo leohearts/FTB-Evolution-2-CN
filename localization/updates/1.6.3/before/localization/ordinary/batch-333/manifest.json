@@ -1,0 +1,35 @@
+{
+  "batch": "333",
+  "namespace": "selling_bin",
+  "jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+  "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+  "language_path": "assets/selling_bin/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/selling_bin/lang/zh_cn.json",
+  "include_keys": [
+    "block.selling_bin.selling_bin"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+    "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+        "sha256": "290fa6210f0735dbabffeb947e1fe894fa2a66ca8245e690dc3710a7ba928c78"
+      }
+    ],
+    "resource": "assets/selling_bin/lang/en_us.json",
+    "mod_ids": [
+      "starcatcher"
+    ],
+    "resource_sha256": "db138afabc70d04ccce957d8ad6a65c2bd041c24f5b1d3342dfb303163b11fd5"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/wds-selling-bin-1.4.1-NEOFORGE-26.1.2.jar",
+      "sha256": "290fa6210f0735dbabffeb947e1fe894fa2a66ca8245e690dc3710a7ba928c78"
+    }
+  ]
+}

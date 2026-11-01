@@ -1,0 +1,8 @@
+{
+  "sophisticatedinventoryinteractions.configuration.compatibility": "Compatibility",
+  "sophisticatedinventoryinteractions.configuration.defaultScreenPolicy": "Default Screen Policy",
+  "sophisticatedinventoryinteractions.configuration.minimumActionableContainerSlots": "Minimum Usable Slots",
+  "sophisticatedinventoryinteractions.configuration.exclude.screenClasses": "Blocked Screens",
+  "sophisticatedinventoryinteractions.configuration.include.screenClasses": "Allowed Screens",
+  "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "Screen Slot Exclusions"
+}

@@ -1,0 +1,13 @@
+[
+  "Texture",
+  "Border",
+  "Mirror parallel",
+  "Mirror perpendicular",
+  "l: %s, r: %s, t: %s, b: %s",
+  "Specified texture '%s' does not exist",
+  "Cannot generate CTM texture from animated texture",
+  "Cannot synthesize inner corners with varying edge sizes or mirroring",
+  "CTM texture generation failed",
+  "CTM texture export failed: %s",
+  "Generated CTM texture exported to %s"
+]

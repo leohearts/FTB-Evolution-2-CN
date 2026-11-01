@@ -1,0 +1,24 @@
+{
+  "batch": "228",
+  "namespace": "terrablender",
+  "jar": ".minecraft/mods/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+  "language_path": "assets/terrablender/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/terrablender/lang/zh_cn.json",
+  "include_keys": [
+    "commands.terrablender.biomeparams.success",
+    "commands.terrablender.biomeparams.failed"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "0628c8c33b270282b09a650f4ed51382d461d95170c9f017c5812027e261ac72",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/TerraBlender-neoforge-26.1.2-26.1.2.0.3.jar",
+    "jar_sha256": "0628c8c33b270282b09a650f4ed51382d461d95170c9f017c5812027e261ac72",
+    "nested_jars": [],
+    "resource": "assets/terrablender/lang/en_us.json",
+    "mod_ids": [
+      "terrablender"
+    ],
+    "resource_sha256": "3bf7acd0e72b563dfc4d2e7b763df3b1816823d325ad31b1f2745dd3e29d7243"
+  }
+}

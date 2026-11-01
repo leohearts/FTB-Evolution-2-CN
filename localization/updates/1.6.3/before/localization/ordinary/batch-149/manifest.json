@@ -1,0 +1,50 @@
+{
+  "batch": "149",
+  "namespace": "beer",
+  "jar": ".minecraft/mods/beer-26.1.2-1.4.4.jar",
+  "language_path": "assets/beer/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/beer/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.beer.enchanting_table.range",
+    "beer.jei.category.main_hand",
+    "beer.jei.category.off_hand",
+    "beer.jei.category.not_consumed",
+    "beer.jei.category.consumed",
+    "beer.jei.category.right_click_table",
+    "beer.jei.category.enchanting_modifiers",
+    "beer.jei.modifier.x_width.description",
+    "beer.jei.modifier.z_width.description",
+    "beer.jei.modifier.y_height.description",
+    "beer.jei.modifier.offhand_decrease",
+    "beer.jei.modifier.xp_cost",
+    "beer.jei.modifier.xp_gain",
+    "beer.message.insufficient_xp",
+    "beer.message.xp_consumed",
+    "beer.message.xp_gained",
+    "jei.beer.enchanting_table.category",
+    "jei.beer.enchanting_table.enhanced_range",
+    "jei.beer.enchanting_table.default_range",
+    "jei.beer.enchanting_table.configurable",
+    "jei.beer.enchanting_table.info.title",
+    "jei.beer.enchanting_table.info.bookshelf_range",
+    "jei.beer.enchanting_table.info.configuration",
+    "jei.beer.enchanting_table.info.range_modification",
+    "jei.beer.bookshelf.info.title",
+    "jei.beer.bookshelf.info.enhanced_range",
+    "jei.beer.bookshelf.info.placement",
+    "config.jade.plugin_beer.beer"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "d8c366d630ca22d96aeb5ca2a35355aae9d8c692270e6744800f9f13938c9b19",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/beer-26.1.2-1.4.4.jar",
+    "jar_sha256": "d8c366d630ca22d96aeb5ca2a35355aae9d8c692270e6744800f9f13938c9b19",
+    "nested_jars": [],
+    "resource": "assets/beer/lang/en_us.json",
+    "mod_ids": [
+      "beer"
+    ],
+    "resource_sha256": "4f967a53a648f4e54d476941da5b515aa0415688ee8d3daebe4ec72ac28c27b5"
+  }
+}

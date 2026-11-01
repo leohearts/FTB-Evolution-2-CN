@@ -1,0 +1,42 @@
+{
+  "batch": "335",
+  "namespace": "tinymultiblocklib",
+  "jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+  "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+  "language_path": "assets/tinymultiblocklib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/tinymultiblocklib/lang/zh_cn.json",
+  "include_keys": [
+    "tinymultiblocklib.configuration.previews_for_everything",
+    "tinymultiblocklib.configuration.previews_for_everything.tooltip",
+    "tinymultiblocklib.configuration.preview_whitelist",
+    "tinymultiblocklib.configuration.preview_whitelist.tooltip",
+    "tinymultiblocklib.configuration.preview_blacklist",
+    "tinymultiblocklib.configuration.preview_blacklist.tooltip",
+    "tinymultiblocklib.configuration.preview_whitelist.button",
+    "tinymultiblocklib.configuration.preview_blacklist.button"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+    "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+        "sha256": "3a8f5e06e59cd5105790081094f61a2f3695d9f6e48dc6fa57164caba9eba68e"
+      }
+    ],
+    "resource": "assets/tinymultiblocklib/lang/en_us.json",
+    "mod_ids": [
+      "starcatcher"
+    ],
+    "resource_sha256": "c43793baed5b0839b38f0d94b5c19180a1148470162d5385348b792aa087b12b"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/tiny-multiblock-lib-neo-26.1-4.0.0.jar",
+      "sha256": "3a8f5e06e59cd5105790081094f61a2f3695d9f6e48dc6fa57164caba9eba68e"
+    }
+  ]
+}

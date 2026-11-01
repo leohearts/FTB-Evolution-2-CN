@@ -1,0 +1,9 @@
+[
+  "Restocked %s recipe items from storage",
+  "Recipe ingredients are already available",
+  "Could not restock any recipe items from storage",
+  "Recipe restocking is disabled by the server",
+  "Restock Recipe Ingredients",
+  "Server",
+  "Enable Recipe Restock"
+]

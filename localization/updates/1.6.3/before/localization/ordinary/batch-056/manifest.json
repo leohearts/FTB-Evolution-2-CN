@@ -1,0 +1,29 @@
+{
+  "batch": "056",
+  "namespace": "ironfurnaces",
+  "jar": ".minecraft/mods/ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+  "language_path": "assets/ironfurnaces/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/ironfurnaces/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.ironfurnaces.heaterX",
+    "tooltip.ironfurnaces.heaterY",
+    "tooltip.ironfurnaces.heaterZ"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "X: ",
+    "Y: ",
+    "Z: "
+  ],
+  "jar_sha256": "5f15a230b541c75a8d5992f845488ca4137562866dab3af3493eada2ed8f426d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+    "jar_sha256": "5f15a230b541c75a8d5992f845488ca4137562866dab3af3493eada2ed8f426d",
+    "nested_jars": [],
+    "resource": "assets/ironfurnaces/lang/en_us.json",
+    "mod_ids": [
+      "ironfurnaces"
+    ],
+    "resource_sha256": "42d4b7167e55948524a25e5b27702faf4eaee3063886902cc7d7961472994526"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "batch": "216",
+  "namespace": "moogs_structures",
+  "jar": ".minecraft/mods/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+  "language_path": "assets/moogs_structures/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/moogs_structures/lang/zh_cn.json",
+  "include_keys": [
+    "moogs_structures.config.title",
+    "moogs_structures.config.reload_notice",
+    "moogs_structures.config.category.replace_vanilla",
+    "moogs_structures.config.category.structures",
+    "moogs_structures.config.universal_frequency",
+    "moogs_structures.config.universal_frequency.tooltip",
+    "moogs_structures.config.all_of_mod",
+    "moogs_structures.config.mod_frequency.tooltip",
+    "moogs_structures.config.preview",
+    "moogs_structures.config.preview.unavailable",
+    "moogs_structures.config.enabled",
+    "moogs_structures.config.disabled",
+    "moogs_structures.cloth_required.title",
+    "moogs_structures.cloth_required.message"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Moog's Structures",
+    "Moog's Structure Lib"
+  ],
+  "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+    "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
+    "nested_jars": [],
+    "resource": "assets/moogs_structures/lang/en_us.json",
+    "mod_ids": [
+      "moogs_structures"
+    ],
+    "resource_sha256": "2d41a9b7b9ad19339e295c4d3557b656f991c22150349ebd99f6ebe90a8ce180"
+  }
+}

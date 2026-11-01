@@ -1,0 +1,35 @@
+{
+  "batch": "042",
+  "namespace": "laserbridges",
+  "jar": ".minecraft/mods/laserbridges-26.1.2-neoforge-6.2.jar",
+  "language_path": "assets/laserbridges/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/laserbridges/lang/zh_cn.json",
+  "include_keys": [
+    "laserbridges.deimosconfig.title",
+    "laserbridges.deimosconfig.max_length",
+    "laserbridges.deimosconfig.blocks_cut_through_by_lasers",
+    "block.laserbridges.laser_source_block",
+    "item.laserbridges.laser_source_block",
+    "block.laserbridges.laser_fence_source_block",
+    "item.laserbridges.laser_fence_source_block",
+    "block.laserbridges.laser_source_fullblock",
+    "item.laserbridges.laser_source_fullblock",
+    "block.laserbridges.laser_fence_source_fullblock",
+    "item.laserbridges.laser_fence_source_fullblock",
+    "block.laserbridges.laser_block_powered",
+    "block.laserbridges.laser_fence_powered"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "97682a3c190af1fe9fed747c53d0e782c6b3d29ed8393fbce2d10c9dfd3d5b37",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/laserbridges-26.1.2-neoforge-6.2.jar",
+    "jar_sha256": "97682a3c190af1fe9fed747c53d0e782c6b3d29ed8393fbce2d10c9dfd3d5b37",
+    "nested_jars": [],
+    "resource": "assets/laserbridges/lang/en_us.json",
+    "mod_ids": [
+      "laserbridges"
+    ],
+    "resource_sha256": "8ba4ae09f63edcd153d5806964aa164b9687e40a3e0ccae4ec33e52f4946e54d"
+  }
+}

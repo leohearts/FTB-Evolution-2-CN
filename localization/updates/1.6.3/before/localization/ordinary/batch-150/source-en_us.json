@@ -1,0 +1,18 @@
+{
+  "command.growthacceleratortiers.boosted_position": "Boosted Data: %s",
+  "command.growthacceleratortiers.directional_position": "Directional Data: %s",
+  "command.growthacceleratortiers.info": "Found the following data on this block:",
+  "command.growthacceleratortiers.modify": "Modified the following data on this block:",
+  "command.growthacceleratortiers.no_data": "No data found on the block",
+  "growthacceleratortiers.configuration.boosted_idle_power_consumption": "Boosted Idle Power Consumption",
+  "growthacceleratortiers.configuration.boosted_internal_energy_multiplier": "Boosted Internal Energy Multiplier",
+  "growthacceleratortiers.configuration.boosted_speed_multiplier": "Boosted Speed Multiplier",
+  "growthacceleratortiers.configuration.cranked_idle_power_consumption": "Cranked Idle Power Consumption",
+  "growthacceleratortiers.configuration.cranked_internal_energy_multiplier": "Cranked Internal Energy Multiplier",
+  "growthacceleratortiers.configuration.cranked_speed_multiplier": "Cranked Speed Multiplier",
+  "growthacceleratortiers.configuration.directional_idle_power_consumption": "Directional Idle Power Consumption",
+  "growthacceleratortiers.configuration.directional_internal_energy_multiplier": "Directional Internal Energy Multiplier",
+  "growthacceleratortiers.configuration.directional_speed_multiplier": "Directional Speed Multiplier",
+  "growthacceleratortiers.configuration.enable_conflicts": "Enable Conflicts",
+  "growthacceleratortiers.configuration.general": "General"
+}

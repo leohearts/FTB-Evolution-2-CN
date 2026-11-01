@@ -1,0 +1,46 @@
+{
+  "batch": "337",
+  "namespace": "trender",
+  "jar": ".minecraft/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar",
+  "jar_sha256": "7a14c25ca050c92909ed7f753a18f63a1993c501a8124658a43c25a8525f8ae0",
+  "language_path": "assets/trender/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/trender/lang/zh_cn.json",
+  "include_keys": [
+    "text.trender.name",
+    "text.trender.tab.general_options",
+    "text.trender.style",
+    "text.trender.style.tooltip",
+    "text.trender.style.MODERN",
+    "text.trender.style.MODERN_DARK",
+    "text.trender.style.VANILLA_OLD",
+    "text.trender.style.VANILLA_MODERN",
+    "text.trender.sendstacktraces",
+    "text.trender.sendstacktraces.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Trender"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar",
+    "jar_sha256": "7a14c25ca050c92909ed7f753a18f63a1993c501a8124658a43c25a8525f8ae0",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+        "sha256": "fceec91616113c7e107f17e2443350f2b824e8d9401a0d785fc0e88113f38ac5"
+      }
+    ],
+    "resource": "assets/trender/lang/en_us.json",
+    "mod_ids": [
+      "entityculling"
+    ],
+    "resource_sha256": "1f5e8de4a884148551d01af15b7d6819bfc346e99c5f5080331c4cea1a329d69"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/TRender-1.0.17-26.1.2-neoforge-SNAPSHOT.jar",
+      "sha256": "fceec91616113c7e107f17e2443350f2b824e8d9401a0d785fc0e88113f38ac5"
+    }
+  ]
+}

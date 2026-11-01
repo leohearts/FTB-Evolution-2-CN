@@ -1,0 +1,8 @@
+{
+  "ftblibrary.select_item.list_mode.jei": "JEI",
+  "ftblibrary.select_item.list_mode.rei": "REI",
+  "ftblibrary.select_item.list_mode.emi": "EMI",
+  "ftblibrary.select_entity.hostiles": "Hostile Mobs",
+  "ftblibrary.select_entity.neutrals": "Neutral Mobs",
+  "ftblibrary.select_entity.animals": "Animals"
+}

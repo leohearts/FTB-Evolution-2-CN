@@ -1,0 +1,55 @@
+0	环境
+1	美西螈
+2	生物
+3	杂项
+4	怪物
+5	地下水生生物
+6	水生环境
+7	水生生物
+8	any
+9	≥ %s
+10	≤ %s
+11	(%s)
+12	abs
+13	avg
+14	biased
+15	binom
+16	ceil
+17	clamp
+18	cos
+19	floor
+20	floorDiv
+21	floorMod
+22	length
+23	max
+24	min
+25	mod
+26	normal
+27	pow
+28	round
+29	sin
+30	sqrt
+31	trapezoid
+32	trunc
+33	U
+34	%s %s: %s
+35	~%s (%s)
+36	~%s
+37	otherwise %s
+38	%s%%
+39	%s to %s
+40	direct_killer
+41	interacting_entity
+42	killer
+43	killer_player
+44	target_entity
+45	this
+46	LVL
+47	score(%s; %s)
+48	score "%2$s" (%1$s)
+49	%s: %s
+50	%s (%s)
+51	- %s
+52	+ %s
+53	False
+54	True

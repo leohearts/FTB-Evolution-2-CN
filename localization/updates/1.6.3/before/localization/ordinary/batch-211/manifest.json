@@ -1,0 +1,25 @@
+{
+  "batch": "211",
+  "namespace": "keybindbundles",
+  "jar": ".minecraft/mods/keybindbundles-2.0.0.jar",
+  "language_path": "assets/keybindbundles/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/keybindbundles/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.keybindbundles.keybindbundles"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "KeyBind Bundles"
+  ],
+  "jar_sha256": "8e16eb32f49d55e7b106d6fd406bdd395d56ad0d04e9ffba3af0446e04d0078b",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/keybindbundles-2.0.0.jar",
+    "jar_sha256": "8e16eb32f49d55e7b106d6fd406bdd395d56ad0d04e9ffba3af0446e04d0078b",
+    "nested_jars": [],
+    "resource": "assets/keybindbundles/lang/en_us.json",
+    "mod_ids": [
+      "keybindbundles"
+    ],
+    "resource_sha256": "12c471f276b91698b06356a395275aaa02ddd49b46febd8e9e7610e90673da68"
+  }
+}

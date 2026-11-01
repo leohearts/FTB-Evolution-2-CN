@@ -1,0 +1,28 @@
+{
+  "batch": "265",
+  "namespace": "titanium",
+  "jar": ".minecraft/mods/titanium-26.1.2-4.0.14.jar",
+  "language_path": "assets/titanium/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/titanium/lang/zh_cn.json",
+  "include_keys": [
+    "block.titanium.block_test",
+    "block.titanium.block_twenty_four_test",
+    "block.titanium.machine_test",
+    "tooltip.titanium.sec_short"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "s"
+  ],
+  "jar_sha256": "0f8c5674298dee3da84ef3c4d1f0cff495bc51372793aae2a3e99a8a1cc2698f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/titanium-26.1.2-4.0.14.jar",
+    "jar_sha256": "0f8c5674298dee3da84ef3c4d1f0cff495bc51372793aae2a3e99a8a1cc2698f",
+    "nested_jars": [],
+    "resource": "assets/titanium/lang/en_us.json",
+    "mod_ids": [
+      "titanium"
+    ],
+    "resource_sha256": "68d1467a6af9b8eefb2c05516c1991f2d99a48849ca035c5e5a78b45762a6bf9"
+  }
+}

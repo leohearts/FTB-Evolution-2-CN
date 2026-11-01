@@ -1,0 +1,35 @@
+{
+  "batch": "252",
+  "namespace": "mss",
+  "jar": ".minecraft/mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+  "language_path": "assets/mss/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mss/lang/zh_cn.json",
+  "include_keys": [
+    "modmenu.nameTranslation.mss",
+    "modmenu.summaryTranslation.mss",
+    "modmenu.descriptionTranslation.mss",
+    "mss.releases",
+    "mss.kofi",
+    "mss.curseforge",
+    "mss.modrinth"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "MSS - Moog's Soaring Structures",
+    "GitHub Releases",
+    "Ko-fi",
+    "CurseForge",
+    "Modrinth"
+  ],
+  "jar_sha256": "2caca5b2dab3ea4541eb3207bab9d5efcc034e3bf7d89788fd95d7b582d24ed2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsSoaringStructures-universal-1.21-2.2.0.jar",
+    "jar_sha256": "2caca5b2dab3ea4541eb3207bab9d5efcc034e3bf7d89788fd95d7b582d24ed2",
+    "nested_jars": [],
+    "resource": "assets/mss/lang/en_us.json",
+    "mod_ids": [
+      "mss"
+    ],
+    "resource_sha256": "bb6d244d61bad91ab3ca4306402b71556931a4380f5a3de173496092f74f2eb0"
+  }
+}

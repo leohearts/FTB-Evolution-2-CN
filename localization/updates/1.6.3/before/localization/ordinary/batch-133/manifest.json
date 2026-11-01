@@ -1,0 +1,47 @@
+{
+  "batch": "133",
+  "namespace": "loot_journal",
+  "jar": ".minecraft/mods/loot_journal-neoforge-26.1-6.2.1.jar",
+  "language_path": "assets/loot_journal/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/loot_journal/lang/zh_cn.json",
+  "include_keys": [
+    "pickup.loot_journal.item",
+    "config.loot_journal.category.itemIdFilters",
+    "config.loot_journal.category.itemTagFilters",
+    "config.loot_journal.category.modIdFilters",
+    "config.loot_journal.group.filters",
+    "config.loot_journal.option.mergeMode",
+    "config.loot_journal.option.mergeMode.desc",
+    "config.loot_journal.option.itemIdFilters",
+    "config.loot_journal.option.itemIdFilters.desc",
+    "config.loot_journal.option.itemIdFilters.button",
+    "config.loot_journal.option.itemIdFilters.label",
+    "config.loot_journal.option.itemTagFilters",
+    "config.loot_journal.option.itemTagFilters.desc",
+    "config.loot_journal.option.itemTagFilters.button",
+    "config.loot_journal.option.itemTagFilters.label",
+    "config.loot_journal.option.modIdFilters",
+    "config.loot_journal.option.modIdFilters.desc",
+    "config.loot_journal.option.modIdFilters.button",
+    "config.loot_journal.option.modIdFilters.label",
+    "config.loot_journal.format.percent",
+    "config.loot_journal.format.pixels"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s",
+    "%s %%",
+    "%s px"
+  ],
+  "jar_sha256": "ef9a01be4c8a82a90d6406fc78c527993a220318098ad1e526dcc5caed0f76d2",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/loot_journal-neoforge-26.1-6.2.1.jar",
+    "jar_sha256": "ef9a01be4c8a82a90d6406fc78c527993a220318098ad1e526dcc5caed0f76d2",
+    "nested_jars": [],
+    "resource": "assets/loot_journal/lang/en_us.json",
+    "mod_ids": [
+      "loot_journal"
+    ],
+    "resource_sha256": "eceb3abeffc5fa17f1570c45c283f42e83d8e007e5e15ef9e9e44a244a00ffc8"
+  }
+}

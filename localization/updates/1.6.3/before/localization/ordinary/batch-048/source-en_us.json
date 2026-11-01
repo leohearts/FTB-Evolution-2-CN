@@ -1,0 +1,12 @@
+{
+  "itemGroup.DeferredHolder{ResourceKey[minecraft:creative_mode_tab / justdirethings:justdirethings]}": "Just Dire Things",
+  "justdirethings.festored": "Forge Energy: %s / %s",
+  "justdirethings.fillmode.jdtonly": "JustDireThings",
+  "justdirethings.screen.fepertick": "FE/T: %s",
+  "justdirethings.screen.fluid": "%s: %s/%s MB",
+  "justdirethings.screen.hideparticles": "Hide Particles",
+  "justdirethings.screen.inv-hotbar": "Hotbar Only",
+  "justdirethings.screen.inv-main": "Main Inventory",
+  "justdirethings.screen.target-mob": "Mobs",
+  "key.category.justdirethings.category": "Just Dire Things"
+}

@@ -1,0 +1,10 @@
+[
+  "%s",
+  "Hide Waystone",
+  "Show Waystone",
+  "Failed - %s",
+  "The destination is outside the world bounds.",
+  "%d, %d, %d",
+  "Warp Settings",
+  "List of variables used in the warpRequirements configuration."
+]

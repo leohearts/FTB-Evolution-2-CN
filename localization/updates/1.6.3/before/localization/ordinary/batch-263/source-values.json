@@ -1,0 +1,6 @@
+[
+  "Reset all cooldown(s) across %s player(s).",
+  "Reset cooldown(s) matching %s across %s player(s).",
+  "Added %s second(s) to cooldown %s across %s player(s).",
+  "Set cooldown %s to %s second(s) across %s player(s)."
+]

@@ -1,0 +1,15 @@
+[
+  "%s Admin Usage:",
+  "--- %s Commands Usage ---",
+  "You do not have permission to use that command.",
+  "This command can only be run as a player.",
+  "Reloads the config file.",
+  "Show this message.",
+  "Successfully generated %1$s %2$s head(s).",
+  "%s Usage:",
+  "Wandering trader spawn failed, try again.",
+  "Wandering trader spawn successful!",
+  "Reset",
+  "Resets Collective's cached player head data, for example to update skins.",
+  "The player head cache has successfully been reset."
+]

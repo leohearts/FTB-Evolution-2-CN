@@ -1,0 +1,16 @@
+{
+  "block.xycraft_machines.energy_selector": "Energy Selector",
+  "block.xycraft_machines.energy_selector.tooltip.1": "Creates an unlimited amount of energy!",
+  "block.xycraft_machines.lava_block": "Lava Block",
+  "block.xycraft_machines.lava_block.tooltip": "Schrödinger's lava block?",
+  "block.xycraft_machines.proxy": "Proxy",
+  "config.jade.plugin_xycraft": "XyCraft",
+  "item.xycraft_machines.build_tool": "Build Tool",
+  "item.xycraft_machines.filter_attribute": "Attribute Filter Mesh",
+  "item.xycraft_machines.filter_list_fluid": "Fluid Filter Mesh",
+  "item.xycraft_machines.filter_list_item": "List Filter Mesh",
+  "item.xycraft_machines.filter_scalar": "Scalar Filter Mesh",
+  "recipe.xycraft.buildings.ore_tap": "Ore Tap",
+  "recipe.xycraft.locked": "Locked Recipe",
+  "sound.xycraft_machines.subtitle.soaryn_box_deposit": "Woop!"
+}

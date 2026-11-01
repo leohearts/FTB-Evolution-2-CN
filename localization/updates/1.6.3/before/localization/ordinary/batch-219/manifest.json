@@ -1,0 +1,32 @@
+{
+  "batch": "219",
+  "namespace": "underwater_village",
+  "jar": ".minecraft/mods/underwater_village-1.0.0 Neoforge 26.1.2.jar",
+  "language_path": "assets/underwater_village/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/underwater_village/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.underwater_village",
+    "block.underwater_village.example_block",
+    "item.underwater_village.example_item",
+    "underwater_village.configuration.title",
+    "underwater_village.configuration.section.underwater_village.common.toml",
+    "underwater_village.configuration.section.underwater_village.common.toml.title",
+    "underwater_village.configuration.items",
+    "underwater_village.configuration.logDirtBlock",
+    "underwater_village.configuration.magicNumberIntroduction",
+    "underwater_village.configuration.magicNumber"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "81a1bf6e1cc545752d0aac4e28e025d16cbdd3a2bd0e2393f6d91b12d147a217",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/underwater_village-1.0.0 Neoforge 26.1.2.jar",
+    "jar_sha256": "81a1bf6e1cc545752d0aac4e28e025d16cbdd3a2bd0e2393f6d91b12d147a217",
+    "nested_jars": [],
+    "resource": "assets/underwater_village/lang/en_us.json",
+    "mod_ids": [
+      "underwater_village"
+    ],
+    "resource_sha256": "381ac5e031739d1d2fdb33bc3d1a8fefbdea27811c31518f16b62e61f1072142"
+  }
+}

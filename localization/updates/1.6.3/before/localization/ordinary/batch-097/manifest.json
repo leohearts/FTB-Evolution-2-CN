@@ -1,0 +1,24 @@
+{
+  "batch": "097",
+  "namespace": "integratedtunnels",
+  "jar": ".minecraft/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+  "language_path": "assets/integratedtunnels/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedtunnels/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.integratedtunnels.concepts.text9"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "c216a5f05ef805e47c589bbfbb5ec04e7eba411bcdc47136ada7739be572e908",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "jar_sha256": "c216a5f05ef805e47c589bbfbb5ec04e7eba411bcdc47136ada7739be572e908",
+    "nested_jars": [],
+    "resource": "assets/integratedtunnels/lang/en_us.json",
+    "mod_ids": [
+      "integratedtunnels",
+      "integratedtunnelscompat"
+    ],
+    "resource_sha256": "7855aa269c651ffa7f53a3d0725a123cb0fb25ff47fb8f45789821d7cc9e6a99"
+  }
+}

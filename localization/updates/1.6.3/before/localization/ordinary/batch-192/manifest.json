@@ -1,0 +1,32 @@
+{
+  "batch": "192",
+  "namespace": "crafting_on_a_stick",
+  "jar": ".minecraft/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
+  "language_path": "assets/crafting_on_a_stick/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/crafting_on_a_stick/lang/zh_cn.json",
+  "include_keys": [
+    "gui.crafting_on_a_stick.selection_wheel.no_tool",
+    "item.crafting_on_a_stick.crafting_table",
+    "item.crafting_on_a_stick.loom",
+    "item.crafting_on_a_stick.grindstone",
+    "item.crafting_on_a_stick.cartography_table",
+    "item.crafting_on_a_stick.stonecutter",
+    "item.crafting_on_a_stick.smithing_table",
+    "item.crafting_on_a_stick.anvil"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s"
+  ],
+  "jar_sha256": "9dca3e70948d916cc3aa3f0dad78601158459022a657d30efeb0a805af97ca74",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
+    "jar_sha256": "9dca3e70948d916cc3aa3f0dad78601158459022a657d30efeb0a805af97ca74",
+    "nested_jars": [],
+    "resource": "assets/crafting_on_a_stick/lang/en_us.json",
+    "mod_ids": [
+      "crafting_on_a_stick"
+    ],
+    "resource_sha256": "c5b31af2e30db8265842ceb77c49864606687f32b88d9d6f05f6951e65cbafb0"
+  }
+}

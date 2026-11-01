@@ -1,0 +1,25 @@
+{
+  "batch": "273",
+  "namespace": "pipezlagfix",
+  "jar": ".minecraft/mods/pipezlagfix-26.1.2-1.1.0.jar",
+  "language_path": "assets/pipezlagfix/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/pipezlagfix/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.pipezlagfix",
+    "block.pipezlagfix.example_block",
+    "item.pipezlagfix.example_item"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "6e9921a8b43df68c756e3672dad945f76012edd85d862b2eb78989de84cf2327",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pipezlagfix-26.1.2-1.1.0.jar",
+    "jar_sha256": "6e9921a8b43df68c756e3672dad945f76012edd85d862b2eb78989de84cf2327",
+    "nested_jars": [],
+    "resource": "assets/pipezlagfix/lang/en_us.json",
+    "mod_ids": [
+      "pipezlagfix"
+    ],
+    "resource_sha256": "35a48cc5f464b4107807059a8dbff93adbf5984b5c462efb3403dfcace9ae99f"
+  }
+}

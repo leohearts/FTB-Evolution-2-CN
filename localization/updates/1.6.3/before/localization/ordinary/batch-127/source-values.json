@@ -1,0 +1,19 @@
+[
+  "R",
+  "G",
+  "B",
+  "A",
+  "Ctrl %s",
+  "Ctrl Shift %s",
+  "Ctrl Shift Alt %s",
+  "Ctrl Alt %s",
+  "Shift %s",
+  "Shift Alt %s",
+  "Alt %s",
+  "§e>§r %s §e<§r",
+  "(%1$s): %2$s",
+  "Shift",
+  "Alt",
+  "Ctrl",
+  "%1$s, %2$s"
+]

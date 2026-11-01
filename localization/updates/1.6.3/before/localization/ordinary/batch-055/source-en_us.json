@@ -1,0 +1,5 @@
+{
+  "gui.computercraft.config.http": "HTTP",
+  "item.computercraft.pocket_computer_advanced.upgraded_twice": "Advanced %s %s Pocket Computer",
+  "item.computercraft.pocket_computer_normal.upgraded_twice": "%s %s Pocket Computer"
+}

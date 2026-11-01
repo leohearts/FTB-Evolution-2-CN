@@ -1,0 +1,39 @@
+---
+title: Commands
+icon: minecraft:command_block
+related_items: []
+---
+
+All commands sit under `/kindredspirits`.
+
+## For everyone
+
+- `/kindredspirits info` prints your bonded spirit's level, stars, experience,
+  bond, saturation, rested experience, gear and abilities, with the requirement
+  for any it has not learned.
+- `/kindredspirits release` clears your bond, the same as the button on the
+  bond screen.
+- `/kindredspirits smelt` triggers Kiln Breath on a Baby Dragon that has
+  learned it.
+- `/kindredspirits skin <player>` dresses your bonded Mini Player in that
+  player's skin, the same as the skin box on the bond screen. Leave the name off
+  to go back to your own skin. It works while the Mini Player is resting too.
+
+## For operators
+
+- `/kindredspirits xp <amount>` grants experience to your bonded spirit.
+- `/kindredspirits bond <points>` grants bond points to your bonded spirit.
+- `/kindredspirits resetrevive <players>` clears the charm's recovery timer for
+  those players.
+- `/kindredspirits minime [mc_name] ["custom name"] [adult|baby]` summons a Mini
+  Player beside you, tamed to you but not bonded, set to wander. It wears the
+  skin of `mc_name` (your own if left off) and carries `custom name` above its
+  head, which defaults to `mc_name`. Put a name with spaces in quotes. End with
+  `baby` for the big-headed baby body, which can follow either name or stand on
+  its own (`/kindredspirits minime baby`); it is an adult otherwise. Set
+  `minime_permission_level` in the common config to 0 to open it to everyone.
+
+## Keybind
+
+**Cycle Companion Orders** (G by default, under the Kindred Spirits category in
+the controls screen) cycles Follow, Stay and Wander on your bonded spirit.

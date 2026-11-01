@@ -1,0 +1,8 @@
+{
+  "tooltip.sophisticatedcore.linked_storage.primary_named": "%s (%s)",
+  "tooltip.sophisticatedcore.linked_storage.secondary_named": "%s (%s)",
+  "item.sophisticatedcore.storage.tooltip.energy": "%s FE",
+  "item.sophisticatedcore.storage.tooltip.fluid": "%s mB %s",
+  "gui.sophisticatedcore.upgrades.tank.contents_tooltip": "%s mB out of %s mB",
+  "gui.sophisticatedcore.upgrades.battery.contents_tooltip": "%s FE out of %s FE"
+}

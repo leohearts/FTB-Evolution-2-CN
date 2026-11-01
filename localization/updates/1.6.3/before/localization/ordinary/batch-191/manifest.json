@@ -1,0 +1,32 @@
+{
+  "batch": "191",
+  "namespace": "buildguide",
+  "jar": ".minecraft/mods/BuildGuide-26.1.2-0.4.9.jar",
+  "language_path": "assets/buildguide/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/buildguide/lang/zh_cn.json",
+  "include_keys": [
+    "config.buildguide.asyncEnabled",
+    "config.buildguide.asyncEnabledComment",
+    "config.buildguide.persistenceEnabled",
+    "config.buildguide.persistenceEnabledComment",
+    "config.buildguide.shapeListRandomColorsDefaultEnabled",
+    "config.buildguide.shapeListRandomColorsDefaultEnabledComment",
+    "property.buildguide.degrees",
+    "screen.buildguide.cubesize",
+    "shape.buildguide.helix",
+    "shape.buildguide.polygonalpyramid"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "a465c1dfca1ed5bdcf21e7f0813f1d7555e65fd5d101dbe41548373bc07e4b21",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/BuildGuide-26.1.2-0.4.9.jar",
+    "jar_sha256": "a465c1dfca1ed5bdcf21e7f0813f1d7555e65fd5d101dbe41548373bc07e4b21",
+    "nested_jars": [],
+    "resource": "assets/buildguide/lang/en_us.json",
+    "mod_ids": [
+      "buildguide"
+    ],
+    "resource_sha256": "278bf83cd566a673b1373b9ee8e3f34c337dc6174cd3c3d5a93a16721ed1c77b"
+  }
+}

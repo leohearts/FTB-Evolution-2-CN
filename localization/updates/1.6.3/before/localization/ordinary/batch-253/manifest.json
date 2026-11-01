@@ -1,0 +1,39 @@
+{
+  "batch": "253",
+  "namespace": "lollipop",
+  "jar": ".minecraft/mods/Powah-7.0.4-alpha.jar",
+  "language_path": "assets/lollipop/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/lollipop/lang/zh_cn.json",
+  "include_keys": [
+    "info.lollipop.fe",
+    "info.lollipop.fe.per.mb",
+    "info.lollipop.fe.pet.tick",
+    "info.lollipop.fe.stored",
+    "info.lollipop.mb",
+    "info.lollipop.mb.pet.tick",
+    "info.lollipop.mb.stored",
+    "info.lollipop.temperature.c"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s FE",
+    "%s FE/%s mb",
+    "%s FE/t",
+    "%s/%s FE",
+    "%s mB",
+    "%s mb/t",
+    "%s/%s mB",
+    "%s C"
+  ],
+  "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Powah-7.0.4-alpha.jar",
+    "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
+    "nested_jars": [],
+    "resource": "assets/lollipop/lang/en_us.json",
+    "mod_ids": [
+      "powah"
+    ],
+    "resource_sha256": "71ce994cb9f7ac8626368116251491fe754c55511f0a7c5c8f791c1f620d2011"
+  }
+}

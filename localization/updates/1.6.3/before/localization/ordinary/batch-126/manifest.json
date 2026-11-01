@@ -1,0 +1,30 @@
+{
+  "batch": "126",
+  "namespace": "colorblindness",
+  "jar": ".minecraft/mods/colorblindness-neoforge-26.1-5.0.0.2.jar",
+  "language_path": "assets/colorblindness/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/colorblindness/lang/zh_cn.json",
+  "include_keys": [
+    "effect.colorblindness.achromatomaly",
+    "effect.colorblindness.achromatopsia",
+    "effect.colorblindness.deuteranomaly",
+    "effect.colorblindness.deuteranopia",
+    "effect.colorblindness.protanomaly",
+    "effect.colorblindness.protanopia",
+    "effect.colorblindness.tritanomaly",
+    "effect.colorblindness.tritanopia"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "925d322fb10f233a8df36da76bb14befe9838789f2fb4a78c98d40ebf59658f9",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/colorblindness-neoforge-26.1-5.0.0.2.jar",
+    "jar_sha256": "925d322fb10f233a8df36da76bb14befe9838789f2fb4a78c98d40ebf59658f9",
+    "nested_jars": [],
+    "resource": "assets/colorblindness/lang/en_us.json",
+    "mod_ids": [
+      "colorblindness"
+    ],
+    "resource_sha256": "e5576d3c6558514ef2ab449f9619ca8bae6f21f351f86994212348709810b89f"
+  }
+}

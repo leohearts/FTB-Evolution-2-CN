@@ -1,0 +1,25 @@
+---
+title: 命令
+icon: minecraft:command_block
+related_items: []
+---
+
+所有命令都位于 `/kindredspirits` 之下.
+
+## 所有人可用
+
+- `/kindredspirits info` 会输出你的已羁绊灵魂的等级, 星星, 经验, 羁绊, 饱和, 休息经验, 装备和能力, 并列出它尚未学会的能力的要求.
+- `/kindredspirits release` 清除你的羁绊, 与羁绊界面上的按钮相同.
+- `/kindredspirits smelt` 对已学会窑炉吐息的幼龙触发该能力.
+- `/kindredspirits skin <player>` 让你的已羁绊迷你玩家穿上该玩家的皮肤, 与羁绊界面上的皮肤框相同.省略名字则恢复为你自己的皮肤.迷你玩家休息时同样有效.
+
+## 管理员可用
+
+- `/kindredspirits xp <amount>` 为你的已羁绊灵魂提供经验.
+- `/kindredspirits bond <points>` 为你的已羁绊灵魂提供羁绊点数.
+- `/kindredspirits resetrevive <players>` 清除这些玩家的护符恢复计时.
+- `/kindredspirits minime [mc_name] ["custom name"] [adult|baby]` 在你身旁召唤一个迷你玩家, 已驯服于你但未建立羁绊, 设置为游荡.它穿着 `mc_name` 的皮肤 (省略则为你自己的), 头顶显示 `custom name`, 默认值为 `mc_name`.名字中有空格时请加引号.以 `baby` 结尾可生成大头的婴儿身体, 它可以跟随任一名字, 也可以单独使用 (`/kindredspirits minime baby`); 否则为成年形态.将通用配置中的 `minime_permission_level` 设为 0 即可对所有人开放.
+
+## 按键绑定
+
+**循环伙伴指令** (默认按键为 G, 位于控制界面的 Kindred Spirits 分类下) 会在你的已羁绊灵魂上循环切换跟随, 驻留和游荡.

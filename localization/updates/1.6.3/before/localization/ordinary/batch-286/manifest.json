@@ -1,0 +1,23 @@
+{
+  "batch": "286",
+  "namespace": "supermartijn642corelib",
+  "jar": ".minecraft/mods/supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+  "language_path": "assets/supermartijn642corelib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/supermartijn642corelib/lang/zh_cn.json",
+  "include_keys": [
+    "supermartijn642corelib.widgets.scrollbar.narration"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "200cd9d404d6b723a702fa9edfb425a9284ed9647a62afbee41d266c37c3a95a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/supermartijn642corelib-1.1.25-neoforge-mc26.1.jar",
+    "jar_sha256": "200cd9d404d6b723a702fa9edfb425a9284ed9647a62afbee41d266c37c3a95a",
+    "nested_jars": [],
+    "resource": "assets/supermartijn642corelib/lang/en_us.json",
+    "mod_ids": [
+      "supermartijn642corelib"
+    ],
+    "resource_sha256": "db0d00cf20bda7f7523c60809a2f7574084b7ab6cf5fa0cf333ff57ee0627bbe"
+  }
+}

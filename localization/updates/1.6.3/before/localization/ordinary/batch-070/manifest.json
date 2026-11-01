@@ -1,0 +1,33 @@
+{
+  "batch": "070",
+  "namespace": "infinitystorage",
+  "jar": ".minecraft/mods/infinitystorage-26.1.2-2.0.3.jar",
+  "language_path": "assets/infinitystorage/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/infinitystorage/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.infinitystorage",
+    "block.infinitystorage.infinity_storage_drive",
+    "item.infinitystorage.infinity_cobblestone_drive",
+    "item.infinitystorage.infinity_water_drive",
+    "item.infinitystorage.infinity_lava_drive",
+    "item.infinitystorage.infinity_dirt_drive",
+    "item.infinitystorage.infinity_gravel_drive",
+    "item.infinitystorage.infinity_sand_drive",
+    "item.infinitystorage.infinity_stone_drive",
+    "item.infinitystorage.empty_infinity_drive",
+    "tooltip.infinitystorage.infinity_storage_drive"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "f158958153f5e8417647804e45978e07612696f7fc4e98f515cdf705b285eceb",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/infinitystorage-26.1.2-2.0.3.jar",
+    "jar_sha256": "f158958153f5e8417647804e45978e07612696f7fc4e98f515cdf705b285eceb",
+    "nested_jars": [],
+    "resource": "assets/infinitystorage/lang/en_us.json",
+    "mod_ids": [
+      "infinitystorage"
+    ],
+    "resource_sha256": "d683a0ec43fa3c05f79cbfa99ed5b19586c150ef94941823c3c7050e95aa6ee7"
+  }
+}

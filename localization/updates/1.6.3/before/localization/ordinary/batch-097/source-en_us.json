@@ -1,0 +1,3 @@
+{
+  "info_book.integratedtunnels.concepts.text9": "Note that if you have an autocrafting mod such as &lIntegrated Crafting&r installed, then you will be able to use the &oCraft&r setting in exporters. This will make it so that if an ingredient is not available for export, it will be autocrafted first."
+}

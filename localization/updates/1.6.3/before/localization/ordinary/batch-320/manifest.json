@@ -1,0 +1,24 @@
+{
+  "batch": "320",
+  "namespace": "arsmagicalegacy",
+  "jar": ".minecraft/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
+  "jar_sha256": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8",
+  "language_path": "assets/arsmagicalegacy/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/arsmagicalegacy/lang/zh_cn.json",
+  "include_keys": [
+    "tag.item.arsmagicalegacy.spell_books"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
+    "jar_sha256": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8",
+    "nested_jars": [],
+    "resource": "assets/arsmagicalegacy/lang/en_us.json",
+    "mod_ids": [
+      "arsmagicalegacy"
+    ],
+    "resource_sha256": "221de9d1ab0e4b5153c267ab1f7c516b9e6f2024f09a38240cac57d1e944f5c2"
+  }
+}

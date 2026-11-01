@@ -1,0 +1,68 @@
+{
+  "batch": "117",
+  "namespace": "resourcefulconfig",
+  "jar": ".minecraft/mods/authme-neoforge-9.2.1+26.1.jar",
+  "language_path": "assets/resourcefulconfig/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/resourcefulconfig/lang/zh_cn.json",
+  "include_keys": [
+    "rconfig.server.title",
+    "rconfig.server.desc",
+    "rconfig.server.wiki",
+    "rconfig.server.properties.white-list",
+    "rconfig.server.properties.white-list.desc",
+    "rconfig.server.properties.max-players",
+    "rconfig.server.properties.max-players.desc",
+    "rconfig.server.properties.motd",
+    "rconfig.server.properties.motd.desc",
+    "rconfig.server.properties.allow-flight",
+    "rconfig.server.properties.allow-flight.desc",
+    "rconfig.server.properties.pvp",
+    "rconfig.server.properties.pvp.desc",
+    "rconfig.server.properties.enforce-whitelist",
+    "rconfig.server.properties.enforce-whitelist.desc",
+    "rconfig.ui.constant.close",
+    "rconfig.ui.constant.reset",
+    "rconfig.ui.constant.edit",
+    "rconfig.ui.constant.edit.string",
+    "rconfig.ui.constant.edit.list",
+    "rconfig.ui.constant.edit.object",
+    "rconfig.ui.constant.choose_item",
+    "rconfig.ui.constant.add_item",
+    "rconfig.ui.constant.add_item.tooltip",
+    "rconfig.ui.constant.remove_item",
+    "rconfig.ui.constant.move_up",
+    "rconfig.ui.constant.move_down",
+    "rconfig.ui.constant.mod_configs",
+    "rconfig.ui.constant.mod_configs.description",
+    "rconfig.color.preset.defaults",
+    "rconfig.color.preset.recents",
+    "rconfig.color.preset.mc_colors"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Wiki"
+  ],
+  "source_note": "Reads the reviewed resource directly from the current AuthMe container; extracted historical input is no longer required.",
+  "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/authme-neoforge-9.2.1+26.1.jar",
+    "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
+    "nested_jars": [
+      {
+        "path": "META-INF/jars/resourcefulconfig-neoforge-26.1-4.0.1.jar",
+        "sha256": "b67d133c7fe615cf5012c960c3a92d1005cf0241dd22762c8783c6b7642719a5"
+      }
+    ],
+    "resource": "assets/resourcefulconfig/lang/en_us.json",
+    "mod_ids": [
+      "authme"
+    ],
+    "resource_sha256": "477bdad1482cddac869c98c2e1570ff2e348334e974feb24e1b8f5c298b848cd"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jars/resourcefulconfig-neoforge-26.1-4.0.1.jar",
+      "sha256": "b67d133c7fe615cf5012c960c3a92d1005cf0241dd22762c8783c6b7642719a5"
+    }
+  ]
+}

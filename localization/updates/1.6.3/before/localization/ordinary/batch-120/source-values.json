@@ -1,0 +1,9 @@
+[
+  "Shader debugging has been enabled; OpenGL debugging is unsupported on NeoForge.",
+  "The shaderpack failed to load! Please report the error to the shader developer. ",
+  "Iris encountered an issue trying to load the shader; please report this to Iris developers. ",
+  "Wireframe (SP only)",
+  "Iris",
+  "Color Space",
+  "The color space to transform the screen to. Works on top of shader packs. Use SRGB if unsure."
+]

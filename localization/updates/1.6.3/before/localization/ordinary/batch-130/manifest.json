@@ -1,0 +1,23 @@
+{
+  "batch": "130",
+  "namespace": "betteradvancements",
+  "jar": ".minecraft/mods/BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+  "language_path": "assets/betteradvancements/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/betteradvancements/lang/zh_cn.json",
+  "include_keys": [
+    "title.betteradvancements.config"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "6399badfcb0677afd01dfa345b743d41b43cdb146b7c9732a72d20be2f7dad05",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+    "jar_sha256": "6399badfcb0677afd01dfa345b743d41b43cdb146b7c9732a72d20be2f7dad05",
+    "nested_jars": [],
+    "resource": "assets/betteradvancements/lang/en_us.json",
+    "mod_ids": [
+      "betteradvancements"
+    ],
+    "resource_sha256": "cc556d46058c7c2555984349a976ae2e87b322bcd0877eb4d883be500d7bce3f"
+  }
+}

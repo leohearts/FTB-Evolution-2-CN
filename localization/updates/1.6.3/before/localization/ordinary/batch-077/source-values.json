@@ -1,0 +1,19 @@
+[
+  "interface channel",
+  "Slot-based",
+  "If predicates should check slot-by-slot instead of slot-agnostic stacked items.",
+  "If predicates should check slot-by-slot instead of slot-agnostic stacked fluids.",
+  "Match Block",
+  "Match item form of block instead of dropped items.",
+  "Right Click Duration",
+  "Number of ticks right click is held down.",
+  "Network Inventory",
+  "If the network is available as player inventory.",
+  "Passive Interaction Ignores Filter",
+  "If anything may always be inserted into/extracted from the network.",
+  "Export Item Slot To Entities",
+  "Export items to the given slot of the facing entities. -1 is any slot, -2 or less is no slot.",
+  "Export the given amount of energy to the facing entities each tick.",
+  "Import Item Slot From Entities",
+  "Import items from the given slot of the facing entities. -1 is any slot, -2 or less is no slot."
+]

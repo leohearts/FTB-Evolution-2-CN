@@ -1,0 +1,32 @@
+{
+  "batch": "170",
+  "namespace": "artifacts",
+  "jar": ".minecraft/mods/artifacts-neoforge-15.1.3.jar",
+  "language_path": "assets/artifacts/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/artifacts/lang/zh_cn.json",
+  "include_keys": [
+    "artifacts.config.client.showArtifactsOnPlayers.description.0",
+    "artifacts.config.client.showArtifactsOnPlayers.description.1",
+    "artifacts.config.client.showArtifactsOnPlayers.title",
+    "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.description",
+    "artifacts.config.items.scarf_of_invisibility.hidesEffectParticles.title",
+    "artifacts.tooltip.plus_mob_effect",
+    "artifacts.tooltip.plus_mob_effect_chance"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "+%s",
+    "+%s (%s%%)"
+  ],
+  "jar_sha256": "9284f552b722637e6951d7d49723fb96f58c5a93f868d7ac58e9633be5a30209",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/artifacts-neoforge-15.1.3.jar",
+    "jar_sha256": "9284f552b722637e6951d7d49723fb96f58c5a93f868d7ac58e9633be5a30209",
+    "nested_jars": [],
+    "resource": "assets/artifacts/lang/en_us.json",
+    "mod_ids": [
+      "artifacts"
+    ],
+    "resource_sha256": "77ebe64b0965413b968ea6c21b83618f72244438e4dd8196b12e5288a3902c1a"
+  }
+}

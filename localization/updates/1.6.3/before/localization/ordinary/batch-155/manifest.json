@@ -1,0 +1,24 @@
+{
+  "batch": "155",
+  "namespace": "animalgarden_bullshark",
+  "jar": ".minecraft/mods/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+  "language_path": "assets/animalgarden_bullshark/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animalgarden_bullshark/lang/zh_cn.json",
+  "include_keys": [
+    "entity.animalgarden_bullshark.bullshark",
+    "item.animalgarden_bullshark.mob_spawn_egg"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "e86ea3921af7702d04c0be2aec67ee04e6290006d60765c86aa79cbdee9905f4",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+    "jar_sha256": "e86ea3921af7702d04c0be2aec67ee04e6290006d60765c86aa79cbdee9905f4",
+    "nested_jars": [],
+    "resource": "assets/animalgarden_bullshark/lang/en_us.json",
+    "mod_ids": [
+      "animalgarden_bullshark"
+    ],
+    "resource_sha256": "6c3d1b876aff01059d12df8187826e49b68ebbd07c6b43405906e5360ffca25e"
+  }
+}

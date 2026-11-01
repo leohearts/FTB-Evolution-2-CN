@@ -1,0 +1,41 @@
+{
+  "batch": "319",
+  "namespace": "apollib",
+  "jar": ".minecraft/mods/tectonic-3.0.28-neoforge-26.1.jar",
+  "jar_sha256": "e80f5ba26aa6deeeabaa75ce0e4f602a3d81b53c5557122799d27b7352e8b7ca",
+  "language_path": "assets/apollib/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/apollib/lang/zh_cn.json",
+  "include_keys": [
+    "config.apollib.default",
+    "config.apollib.done",
+    "config.apollib.done.tooltip",
+    "config.apollib.export",
+    "config.apollib.export.tooltip",
+    "config.apollib.back",
+    "config.apollib.back.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar",
+    "jar_sha256": "e80f5ba26aa6deeeabaa75ce0e4f602a3d81b53c5557122799d27b7352e8b7ca",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+        "sha256": "565434f421a15d0c4eb4bfca1c646329c015f86aeda90501d4979f435a11a39e"
+      }
+    ],
+    "resource": "assets/apollib/lang/en_us.json",
+    "mod_ids": [
+      "tectonic"
+    ],
+    "resource_sha256": "b4c80cb60c370bd77bed5ff5eac4b24e218f31c63f006316ba385bd7f38ddd75"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/apollib-1.1.6-neoforge-26.1.jar",
+      "sha256": "565434f421a15d0c4eb4bfca1c646329c015f86aeda90501d4979f435a11a39e"
+    }
+  ]
+}

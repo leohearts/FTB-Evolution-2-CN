@@ -1,0 +1,10 @@
+0	maxVentPipeLength
+1	maxBlocksInMultiblock
+2	SmokeContainers
+3	debug
+4	requiresDye
+5	Painting
+6	pumpedChimneyAirflow
+7	suctionHoppers
+8	requiresWaterBucket
+9	ventReachDistance

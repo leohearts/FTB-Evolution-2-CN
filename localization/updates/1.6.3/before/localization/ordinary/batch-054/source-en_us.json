@@ -1,0 +1,8 @@
+{
+  "creative_tab.ltxi.main": "LTX Industries",
+  "jei.ltxi.crafting_time": "%ss | %st",
+  "key.category.ltxi.controls": "LTX Industries",
+  "tooltip.ltxi.dump_fluids": "Middle-Click with a wrench to empty tank",
+  "tooltip.ltxi.input_filter_lock": "Toggle input slot lock",
+  "upgrade_effect.ltxi.reduction_mod": "%s %s breach"
+}

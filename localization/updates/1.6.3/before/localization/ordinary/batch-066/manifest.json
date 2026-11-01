@@ -1,0 +1,52 @@
+{
+  "batch": "066",
+  "namespace": "recursiveae2patternprovider",
+  "jar": ".minecraft/mods/recursiveae2patternprovider-1.1.1.jar",
+  "language_path": "assets/recursiveae2patternprovider/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/recursiveae2patternprovider/lang/zh_cn.json",
+  "include_keys": [
+    "gui.recursiveae2patternprovider.plan.hover_hint",
+    "gui.recursiveae2patternprovider.plan.source",
+    "gui.recursiveae2patternprovider.plan.produces",
+    "recursiveae2patternprovider.configuration.title",
+    "recursiveae2patternprovider.configuration.section.recursiveae2patternprovider.common.toml",
+    "recursiveae2patternprovider.configuration.section.recursiveae2patternprovider.common.toml.title",
+    "recursiveae2patternprovider.configuration.enableRecursiveAE2PatternProvider",
+    "recursiveae2patternprovider.configuration.enableRecursiveAE2PatternProvider.tooltip",
+    "recursiveae2patternprovider.configuration.enableEncodingGuiToggle",
+    "recursiveae2patternprovider.configuration.enableEncodingGuiToggle.tooltip",
+    "recursiveae2patternprovider.configuration.defaultAllowSubstitutes",
+    "recursiveae2patternprovider.configuration.defaultAllowSubstitutes.tooltip",
+    "recursiveae2patternprovider.configuration.defaultAllowFluidSubstitutes",
+    "recursiveae2patternprovider.configuration.defaultAllowFluidSubstitutes.tooltip",
+    "recursiveae2patternprovider.configuration.recursionDepth",
+    "recursiveae2patternprovider.configuration.recursionDepth.tooltip",
+    "recursiveae2patternprovider.configuration.recipeItem",
+    "recursiveae2patternprovider.configuration.recipeItem.tooltip",
+    "recursiveae2patternprovider.configuration.maxAlternativesPerItem",
+    "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip",
+    "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes",
+    "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes.tooltip",
+    "recursiveae2patternprovider.configuration.recipeBlacklist",
+    "recursiveae2patternprovider.configuration.recipeBlacklist.tooltip",
+    "jei.category.recursiveae2patternprovider.recursive_pattern",
+    "tooltip.recursiveae2patternprovider.recursive_pattern",
+    "gui.recursiveae2patternprovider.button.recursive_on",
+    "gui.recursiveae2patternprovider.button.recursive_off",
+    "gui.recursiveae2patternprovider.button.recursive_desc_on",
+    "gui.recursiveae2patternprovider.button.recursive_desc_off"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "49b43eb6ea52bb7981274e42389d9006fe16918af8e315b7e1bfebf0f6195aab",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/recursiveae2patternprovider-1.1.1.jar",
+    "jar_sha256": "49b43eb6ea52bb7981274e42389d9006fe16918af8e315b7e1bfebf0f6195aab",
+    "nested_jars": [],
+    "resource": "assets/recursiveae2patternprovider/lang/en_us.json",
+    "mod_ids": [
+      "recursiveae2patternprovider"
+    ],
+    "resource_sha256": "1e0fca612fde485b7213757efbebd6384ca36a3be26c7ab9480e0d432901c30d"
+  }
+}

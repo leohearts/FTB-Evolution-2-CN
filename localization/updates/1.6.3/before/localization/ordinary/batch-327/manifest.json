@@ -1,0 +1,50 @@
+{
+  "batch": "327",
+  "namespace": "mezz_config",
+  "jar": ".minecraft/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
+  "jar_sha256": "5861979f9218b525f2f043a5a7f98ee65d78c5138f0d68a0f8293aaaac042340",
+  "language_path": "assets/mezz_config/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/mezz_config/lang/zh_cn.json",
+  "include_keys": [
+    "mezz_config.config.name",
+    "mezz_config.config.description",
+    "mezz_config.config.valueValues",
+    "mezz_config.config.defaultValue",
+    "mezz_config.config.requiresWorldRestart",
+    "mezz_config.config.requiresGameRestart",
+    "mezz_config.config.fileWatcher",
+    "mezz_config.config.fileWatcher.description",
+    "mezz_config.config.fileWatcher.enabled",
+    "mezz_config.config.fileWatcher.enabled.description",
+    "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds",
+    "mezz_config.config.fileWatcher.changeSettlingDelayMilliseconds.description",
+    "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds",
+    "mezz_config.config.fileWatcher.missingDirectoryRetryIntervalMilliseconds.description",
+    "mezz_config.config.logging",
+    "mezz_config.config.logging.description",
+    "mezz_config.config.logging.logUntranslatedKeys",
+    "mezz_config.config.logging.logUntranslatedKeys.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
+    "jar_sha256": "5861979f9218b525f2f043a5a7f98ee65d78c5138f0d68a0f8293aaaac042340",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+        "sha256": "5eeccb24d021261611a5f0b006803d061090ea2eb05f8687b3d5918692dbdebc"
+      }
+    ],
+    "resource": "assets/mezz_config/lang/en_us.json",
+    "mod_ids": [],
+    "resource_sha256": "0ae4fabb8a9660c4494f586d1c3bdbea31fcddf76a75460a3560e9bc804f071f"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
+      "sha256": "5eeccb24d021261611a5f0b006803d061090ea2eb05f8687b3d5918692dbdebc"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "batch": "078",
+  "namespace": "sophisticatedcore",
+  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.18.2424.jar",
+  "language_path": "assets/sophisticatedcore/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/sophisticatedcore/lang/zh_cn.json",
+  "include_keys": [
+    "tooltip.sophisticatedcore.linked_storage.primary_named",
+    "tooltip.sophisticatedcore.linked_storage.secondary_named",
+    "item.sophisticatedcore.storage.tooltip.energy",
+    "item.sophisticatedcore.storage.tooltip.fluid",
+    "gui.sophisticatedcore.upgrades.tank.contents_tooltip",
+    "gui.sophisticatedcore.upgrades.battery.contents_tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s (%s)",
+    "%s FE",
+    "%s mB %s"
+  ],
+  "jar_sha256": "dd6f9312e31cd59e30c90dc142ea5932d160d7113783ec3bf6c4649dfa64bc6a",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticatedcore-26.1.2-1.5.18.2424.jar",
+    "jar_sha256": "dd6f9312e31cd59e30c90dc142ea5932d160d7113783ec3bf6c4649dfa64bc6a",
+    "nested_jars": [],
+    "resource": "assets/sophisticatedcore/lang/en_us.json",
+    "mod_ids": [
+      "sophisticatedcore"
+    ],
+    "resource_sha256": "d20e140dae773d875a47fdfced5d3ba696acc13484f9ac91334d87d5971959b8"
+  }
+}

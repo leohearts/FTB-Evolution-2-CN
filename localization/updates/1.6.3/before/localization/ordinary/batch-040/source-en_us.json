@@ -1,0 +1,21 @@
+{
+  "block.xycraft_core.multi_block": "Multiblock Component",
+  "key.category.xycraft.key_binds": "XyCraft Keybinds",
+  "tag.block.c.valid_features.static": "Valid Static Feature",
+  "tag.block.xycraft.hot_blocks": "Hot Blocks",
+  "tag.block.xycraft.ignored.fabricator": "Ignored by Fabricator",
+  "tag.block.xycraft.ignored.proxy": "Ignored by Proxy Block",
+  "tag.block.xycraft.ignored.vein_mine": "Ignored by Vein Mine",
+  "tag.block.xycraft.ignored.void_containment": "Ignored by Void Container",
+  "tag.item.c.crafting_groups.aurey": "Aurey Blocks",
+  "tag.item.c.crafting_groups.aurey_glowing": "Glowing Aurey Blocks",
+  "tag.item.c.glass_blocks.phantom": "Phantom Glass",
+  "tag.item.c.marbles": "Marbles",
+  "tag.item.c.nuggets.steel": "Steel Nuggets",
+  "tag.item.xycraft.crafting_groups.cloud.marble": "Marble Cloud Group",
+  "tag.item.xycraft.crafting_groups.marble": "Marble Group",
+  "tag.item.xycraft.creative": "Creative Item",
+  "tag.item.xycraft.ignored.collector": "Cannot be Collected",
+  "tag.item.xycraft.visuals.energy_buffer": "Energy Buffer Visuals",
+  "xycraft.key_binds": "XyCraft"
+}

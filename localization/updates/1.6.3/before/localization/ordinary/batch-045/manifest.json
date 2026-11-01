@@ -1,0 +1,44 @@
+{
+  "batch": "045",
+  "namespace": "little_big_redstone",
+  "jar": ".minecraft/mods/little-big-redstone-1.9.10-alpha-26.1.2.jar",
+  "language_path": "assets/little_big_redstone/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/little_big_redstone/lang/zh_cn.json",
+  "include_keys": [
+    "itemGroup.little_big_redstone.little_big_redstone",
+    "key.category.little_big_redstone.little_big_redstone",
+    "text.little_big_redstone.count_and_percentage",
+    "text.little_big_redstone.floppy_disk_more_items",
+    "text.little_big_redstone.logic_gate_algebra",
+    "text.little_big_redstone.logic_gate_algebra_and",
+    "text.little_big_redstone.logic_gate_algebra_nand",
+    "text.little_big_redstone.logic_gate_algebra_nor",
+    "text.little_big_redstone.logic_gate_algebra_not",
+    "text.little_big_redstone.logic_gate_algebra_or",
+    "text.little_big_redstone.logic_gate_algebra_xor"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Little Big Redstone",
+    "%s (%s)",
+    "+%s",
+    "Q = %s",
+    "A ∧ B",
+    "A ↑ B",
+    "A ↓ B",
+    "¬A",
+    "A ∨ B",
+    "A ⊻ B"
+  ],
+  "jar_sha256": "6c20fa3525e50cb3724701c466a21065bbb4944c990f5a6c761eae8200b15c5f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/little-big-redstone-1.9.10-alpha-26.1.2.jar",
+    "jar_sha256": "6c20fa3525e50cb3724701c466a21065bbb4944c990f5a6c761eae8200b15c5f",
+    "nested_jars": [],
+    "resource": "assets/little_big_redstone/lang/en_us.json",
+    "mod_ids": [
+      "little_big_redstone"
+    ],
+    "resource_sha256": "c97eba253657fc841e267db977f3f9fb7675c2c295fdd12d5fef0338f93567af"
+  }
+}

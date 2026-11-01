@@ -1,0 +1,12 @@
+[
+  "maxVentPipeLength",
+  "maxBlocksInMultiblock",
+  "SmokeContainers",
+  "debug",
+  "requiresDye",
+  "Painting",
+  "pumpedChimneyAirflow",
+  "suctionHoppers",
+  "requiresWaterBucket",
+  "ventReachDistance"
+]

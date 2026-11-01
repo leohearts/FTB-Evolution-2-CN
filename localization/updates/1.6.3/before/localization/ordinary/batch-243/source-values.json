@@ -1,0 +1,22 @@
+[
+  "Sanguine Dynamo",
+  "Blood Bullet",
+  "Spirit Powder",
+  "Animus: NeoVitae",
+  "Up to %s EV/t → %s FE/t",
+  "%s FE per EV",
+  "Redstone lowers the rate",
+  "Not enough EV to reload with blood",
+  "Orb of Vitae placed: up to %s EV/t (%s FE/t)",
+  "This orb cannot power the Sanguine Dynamo",
+  "%s EV/t → %s FE/t (limit %s EV/t) | Buffer: %s / %s FE | Anima: %s EV",
+  "No orb inserted | Buffer: %s / %s FE",
+  "Costs %s EV per round loaded",
+  "Reloads with EV instead of bullets",
+  "Converts Essentia Vitae into Forge Energy",
+  "Redstone signal strength lowers the rate (15 = full)",
+  "Insert a bound Orb of Vitae. The orb sets the maximum rate.",
+  "+%s%% to +%s%% damage from the Spiritus in your gems",
+  "Snares targets so kills drop Spiritus",
+  "Animus"
+]

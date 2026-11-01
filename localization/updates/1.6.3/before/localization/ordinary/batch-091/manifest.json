@@ -1,0 +1,23 @@
+{
+  "batch": "091",
+  "namespace": "universalgrid",
+  "jar": ".minecraft/mods/universalgrid-neoforge-26.1.2-1.0.2.jar",
+  "language_path": "assets/universalgrid/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/universalgrid/lang/zh_cn.json",
+  "include_keys": [
+    "key.universalgrid.switch_wireless_universal_grid_type"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "64545eeeab9d89484fb5d7288daa996b0e5ec284ea4b7a141d6055a604b3ed3e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/universalgrid-neoforge-26.1.2-1.0.2.jar",
+    "jar_sha256": "64545eeeab9d89484fb5d7288daa996b0e5ec284ea4b7a141d6055a604b3ed3e",
+    "nested_jars": [],
+    "resource": "assets/universalgrid/lang/en_us.json",
+    "mod_ids": [
+      "universalgrid"
+    ],
+    "resource_sha256": "d265e01b0d0bdb71b09fdff8994e0e69951d725fcccdc217554b00279071bb67"
+  }
+}

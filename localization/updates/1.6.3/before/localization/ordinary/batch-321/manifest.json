@@ -1,0 +1,99 @@
+{
+  "batch": "321",
+  "namespace": "codedefinedgui",
+  "jar": ".minecraft/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+  "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+  "language_path": "assets/codedefinedgui/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/codedefinedgui/lang/zh_cn.json",
+  "include_keys": [
+    "codedefinedgui.configuration.title",
+    "codedefinedgui.filter.attribute.add",
+    "codedefinedgui.filter.attribute.add.tooltip",
+    "codedefinedgui.filter.attribute.add_inverted",
+    "codedefinedgui.filter.attribute.add_inverted.tooltip",
+    "codedefinedgui.filter.attribute.added_by",
+    "codedefinedgui.filter.attribute.has_enchantment",
+    "codedefinedgui.filter.attribute.has_fluid",
+    "codedefinedgui.filter.attribute.has_name",
+    "codedefinedgui.filter.attribute.in_tag",
+    "codedefinedgui.filter.attribute.inverted",
+    "codedefinedgui.filter.attribute.mode.deny",
+    "codedefinedgui.filter.attribute.mode.deny.tooltip",
+    "codedefinedgui.filter.attribute.mode.deny.tooltip.shift",
+    "codedefinedgui.filter.attribute.mode.match_all",
+    "codedefinedgui.filter.attribute.mode.match_all.tooltip",
+    "codedefinedgui.filter.attribute.mode.match_all.tooltip.shift",
+    "codedefinedgui.filter.attribute.mode.match_any",
+    "codedefinedgui.filter.attribute.mode.match_any.tooltip",
+    "codedefinedgui.filter.attribute.mode.match_any.tooltip.shift",
+    "codedefinedgui.filter.attribute.available",
+    "codedefinedgui.filter.attribute.no_reference",
+    "codedefinedgui.filter.attribute.no_rules",
+    "codedefinedgui.filter.attribute.scroll_to_select",
+    "codedefinedgui.filter.attribute.standard.badly_damaged",
+    "codedefinedgui.filter.attribute.standard.blastable",
+    "codedefinedgui.filter.attribute.standard.compostable",
+    "codedefinedgui.filter.attribute.standard.consumable",
+    "codedefinedgui.filter.attribute.standard.damaged",
+    "codedefinedgui.filter.attribute.standard.enchanted",
+    "codedefinedgui.filter.attribute.standard.equipable",
+    "codedefinedgui.filter.attribute.standard.fluid_container",
+    "codedefinedgui.filter.attribute.standard.furnace_fuel",
+    "codedefinedgui.filter.attribute.standard.not_stackable",
+    "codedefinedgui.filter.attribute.standard.placeable",
+    "codedefinedgui.filter.attribute.standard.renamed",
+    "codedefinedgui.filter.attribute.standard.smeltable",
+    "codedefinedgui.filter.attribute.standard.smokable",
+    "codedefinedgui.filter.attribute.summary.mode",
+    "codedefinedgui.filter.button.done",
+    "codedefinedgui.filter.button.done.tooltip",
+    "codedefinedgui.filter.button.reset",
+    "codedefinedgui.filter.button.reset.tooltip",
+    "codedefinedgui.filter.list.ignore_data",
+    "codedefinedgui.filter.list.ignore_data.tooltip",
+    "codedefinedgui.filter.list.ignore_data.tooltip.shift",
+    "codedefinedgui.filter.list.mode.allow",
+    "codedefinedgui.filter.list.mode.allow.tooltip",
+    "codedefinedgui.filter.list.mode.allow.tooltip.shift",
+    "codedefinedgui.filter.list.mode.deny",
+    "codedefinedgui.filter.list.mode.deny.tooltip",
+    "codedefinedgui.filter.list.mode.deny.tooltip.shift",
+    "codedefinedgui.filter.list.respect_data",
+    "codedefinedgui.filter.list.respect_data.tooltip",
+    "codedefinedgui.filter.list.respect_data.tooltip.shift",
+    "codedefinedgui.filter.list.summary.ignore_data",
+    "codedefinedgui.filter.list.summary.mode",
+    "codedefinedgui.filter.list.summary.respect_data",
+    "codedefinedgui.filter.summary.more",
+    "codedefinedgui.tooltip.show_extended",
+    "item.codedefinedgui.attribute_filter",
+    "item.codedefinedgui.list_filter",
+    "itemGroup.codedefinedgui"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Code Defined GUI"
+  ],
+  "target_pack_version": "1.4.1",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+    "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+    "nested_jars": [
+      {
+        "path": "META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+        "sha256": "ef9704b03bf028fb060cbcd8daf470ec7a87ff3d433baf9703a73ed13a1834e4"
+      }
+    ],
+    "resource": "assets/codedefinedgui/lang/en_us.json",
+    "mod_ids": [
+      "occultism"
+    ],
+    "resource_sha256": "6ab41a3ebcc3d112956015914b8b98adbe88989d3e1acb1708552ca3e4bffd77"
+  },
+  "nested_jars": [
+    {
+      "path": "META-INF/jarjar/codedefinedgui-26.1.2-neoforge-1.12.0.jar",
+      "sha256": "ef9704b03bf028fb060cbcd8daf470ec7a87ff3d433baf9703a73ed13a1834e4"
+    }
+  ]
+}

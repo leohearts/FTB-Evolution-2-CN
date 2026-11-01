@@ -1,0 +1,26 @@
+{
+  "batch": "200",
+  "namespace": "rainshield",
+  "jar": ".minecraft/mods/RainShield-26.1.2-2.0.0.jar",
+  "language_path": "assets/rainshield/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/rainshield/lang/zh_cn.json",
+  "include_keys": [
+    "rainshield.configuration.client",
+    "rainshield.configuration.client.tooltip",
+    "rainshield.configuration.rainShieldDistance",
+    "rainshield.configuration.rainShieldDistance.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "fd94d7c6c45f8ae00e8828724da43835e187e4e6aa57186de90e3dfb10129b96",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/RainShield-26.1.2-2.0.0.jar",
+    "jar_sha256": "fd94d7c6c45f8ae00e8828724da43835e187e4e6aa57186de90e3dfb10129b96",
+    "nested_jars": [],
+    "resource": "assets/rainshield/lang/en_us.json",
+    "mod_ids": [
+      "rainshield"
+    ],
+    "resource_sha256": "ea5a3152d2eee1d4501dcd2e0b2298a347476fc163f939aae301428229481657"
+  }
+}

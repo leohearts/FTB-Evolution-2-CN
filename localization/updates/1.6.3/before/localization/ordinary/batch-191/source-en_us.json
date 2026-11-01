@@ -1,0 +1,12 @@
+{
+  "config.buildguide.asyncEnabled": "Asynchronous shape generation",
+  "config.buildguide.asyncEnabledComment": "Enable asynchronous (multithreaded) shape generation.",
+  "config.buildguide.persistenceEnabled": "Shape persistence",
+  "config.buildguide.persistenceEnabledComment": "Allow shapes to be saved to a file so they can be restored after restarting the client.",
+  "config.buildguide.shapeListRandomColorsDefaultEnabled": "Shape list random colors",
+  "config.buildguide.shapeListRandomColorsDefaultEnabledComment": "Enable random colors for new shapes added to the shape list by default.",
+  "property.buildguide.degrees": "Degrees",
+  "screen.buildguide.cubesize": "Cube size",
+  "shape.buildguide.helix": "Helix",
+  "shape.buildguide.polygonalpyramid": "Polygonal pyramid"
+}

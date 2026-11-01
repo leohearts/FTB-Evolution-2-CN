@@ -1,0 +1,27 @@
+{
+  "batch": "278",
+  "namespace": "plonk",
+  "jar": ".minecraft/mods/plonk-26.1.2-10.0.10-neo.jar",
+  "language_path": "assets/plonk/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/plonk/lang/zh_cn.json",
+  "include_keys": [
+    "key.category.plonk.main",
+    "placeholder.plonk"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Plonk",
+    "PLACEHOLDER"
+  ],
+  "jar_sha256": "beda1dd69ff93735ee6fd1ad8ad62705c71be8e3c2177e933c2a0a7defc19c15",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/plonk-26.1.2-10.0.10-neo.jar",
+    "jar_sha256": "beda1dd69ff93735ee6fd1ad8ad62705c71be8e3c2177e933c2a0a7defc19c15",
+    "nested_jars": [],
+    "resource": "assets/plonk/lang/en_us.json",
+    "mod_ids": [
+      "plonk"
+    ],
+    "resource_sha256": "61804197bc35023175bfc6cf121b05e7231c36e4ff73604879157413e183a9a2"
+  }
+}

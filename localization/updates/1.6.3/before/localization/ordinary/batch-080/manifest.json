@@ -1,0 +1,33 @@
+{
+  "batch": "080",
+  "namespace": "advanced_ae",
+  "jar": ".minecraft/mods/AdvancedAE-26.1.7.jar",
+  "language_path": "assets/advanced_ae/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/advanced_ae/lang/zh_cn.json",
+  "include_keys": [
+    "gui.advanced_ae.OverdriveThroughputMonitorValue",
+    "gui.advanced_ae.SlowThroughputMonitorValue",
+    "gui.advanced_ae.SlowerThroughputMonitorValue",
+    "gui.advanced_ae.ThroughputMonitorValue",
+    "gui.tooltips.advanced_ae.TankAmount"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s%s/t",
+    "%s%s/m",
+    "%s%s/10m",
+    "%s%s/s",
+    "%s / %s B"
+  ],
+  "jar_sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar",
+    "jar_sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233",
+    "nested_jars": [],
+    "resource": "assets/advanced_ae/lang/en_us.json",
+    "mod_ids": [
+      "advanced_ae"
+    ],
+    "resource_sha256": "5e51d65570442553dc00fe35d4fec9a2f9083a4fd519ca344692125238cb032e"
+  }
+}

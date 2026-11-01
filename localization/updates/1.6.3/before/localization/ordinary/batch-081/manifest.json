@@ -1,0 +1,27 @@
+{
+  "batch": "081",
+  "namespace": "refinedfluidsubstitution",
+  "jar": ".minecraft/mods/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+  "language_path": "assets/refinedfluidsubstitution/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/refinedfluidsubstitution/lang/zh_cn.json",
+  "include_keys": [
+    "mod.refinedfluidsubstitution",
+    "item.refinedfluidsubstitution.fluid_substitution_pattern",
+    "item.refinedfluidsubstitution.fluid_substitution_pattern.help"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Refined Fluid Substitution"
+  ],
+  "jar_sha256": "bec44d6dd35060c6412004061490a12d5ee5bcdcb846b68af64d13ddd77311bc",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+    "jar_sha256": "bec44d6dd35060c6412004061490a12d5ee5bcdcb846b68af64d13ddd77311bc",
+    "nested_jars": [],
+    "resource": "assets/refinedfluidsubstitution/lang/en_us.json",
+    "mod_ids": [
+      "refinedfluidsubstitution"
+    ],
+    "resource_sha256": "ef3a9a703cd02aa7ec427c2095ba5d1fe451684647f3f724883cbfdd24951470"
+  }
+}

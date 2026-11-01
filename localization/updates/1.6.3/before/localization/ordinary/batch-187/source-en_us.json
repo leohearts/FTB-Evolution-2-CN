@@ -1,0 +1,16 @@
+{
+  "gui.authme.error.notPurchased": "The account has not purchased Minecraft!",
+  "gui.authme.method.button.microsoft.selectAccount": "Ctrl + click to choose account",
+  "gui.authme.method.button.mojang.unavailable": "Unavailable, click to learn more",
+  "gui.authme.microsoft.warning.title": "Warning! Non-default options for Microsoft authentication",
+  "gui.authme.microsoft.warning.body": "If you did not make this change, then this could leak your account token. Do you wish to continue anyway?",
+  "gui.authme.microsoft.warning.accept": "I know what I'm doing",
+  "gui.authme.microsoft.warning.cancel": "Back to safety",
+  "text.rconfig.authme.description": "Authenticate yourself in Minecraft and re-validate your session",
+  "text.rconfig.authme.option.authButton.description": "Control the behaviour of the authentication button on the multiplayer screen",
+  "text.rconfig.authme.option.methods.description": "Control the behaviour of the available login methods",
+  "text.rconfig.authme.option.methods.microsoft": "Microsoft",
+  "text.rconfig.authme.option.methods.microsoft.description": "Control the behaviour of the Microsoft login method",
+  "text.rconfig.authme.option.methods.offline": "Offline",
+  "text.rconfig.authme.option.methods.offline.description": "Control the behaviour of the offline login method"
+}

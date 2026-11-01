@@ -1,0 +1,58 @@
+{
+  "batch": "076",
+  "namespace": "integratedterminals",
+  "jar": ".minecraft/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+  "language_path": "assets/integratedterminals/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integratedterminals/lang/zh_cn.json",
+  "include_keys": [
+    "gui.integratedterminals.crafting_job.finished.title",
+    "gui.integratedterminals.crafting_job.finished",
+    "gui.integratedterminals.terminal_storage.tooltip.energy.amount",
+    "gui.integratedterminals.terminal_storage.tooltip.fluid.amount",
+    "gui.integratedterminals.terminal_storage.no_tab_selected",
+    "gui.integratedterminals.terminal_storage.no_tabs",
+    "gui.integratedterminals.terminal_storage.ender_chest",
+    "gui.integratedterminals.terminal_storage.tooltip.crafting_machine",
+    "gui.integratedterminals.terminal_storage.tooltip.crafting_machines",
+    "gui.integratedterminals.terminal_storage.tooltip.crafting",
+    "gui.integratedterminals.terminal_storage.tooltip.duration",
+    "gui.integratedterminals.terminal_storage.step.back",
+    "gui.integratedterminals.terminal_storage.step.craft.notify",
+    "gui.integratedterminals.terminal_storage.step.craft.notify.info",
+    "gui.integratedterminals.terminal_storage.tooltip.channels",
+    "gui.integratedterminals.terminal_storage.tooltip.channel_quantity",
+    "gui.integratedterminals.terminal_storage.crafting.filter.type.all_craftable_first",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.estimate",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.remaining",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.seconds",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.unknown.title",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.duration.unknown.desc",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.progress",
+    "gui.integratedterminals.terminal_crafting_job.craftingplan.progress.short",
+    "gui.integratedterminals.craftingplan.status.pending_output_storage",
+    "gui.integratedterminals.craftingplan.status.pending_output_storage.desc",
+    "advancement.integratedterminals.ender_upgrade_storage_terminal",
+    "advancement.integratedterminals.ender_upgrade_storage_terminal.desc",
+    "item.integratedterminals.terminal_storage_portable.ender_upgraded"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s FE",
+    "%s mB",
+    "%ss",
+    "%s%%",
+    "  %s: %s"
+  ],
+  "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
+    "nested_jars": [],
+    "resource": "assets/integratedterminals/lang/en_us.json",
+    "mod_ids": [
+      "integratedterminals",
+      "integratedterminalscompat"
+    ],
+    "resource_sha256": "2d3e3cf9c598e70206ad6cb05e81d30074ecc170be9c1a78ea373d5c4e4669a0"
+  }
+}

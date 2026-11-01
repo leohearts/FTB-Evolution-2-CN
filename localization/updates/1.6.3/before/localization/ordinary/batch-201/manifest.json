@@ -1,0 +1,26 @@
+{
+  "batch": "201",
+  "namespace": "craftingtweaks",
+  "jar": ".minecraft/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+  "language_path": "assets/craftingtweaks/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/craftingtweaks/lang/zh_cn.json",
+  "include_keys": [
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY",
+    "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "8247cc2ba05be39778827f7e5be8d5d426952bd42c53ba14274ffbd6f56c6112",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+    "jar_sha256": "8247cc2ba05be39778827f7e5be8d5d426952bd42c53ba14274ffbd6f56c6112",
+    "nested_jars": [],
+    "resource": "assets/craftingtweaks/lang/en_us.json",
+    "mod_ids": [
+      "craftingtweaks"
+    ],
+    "resource_sha256": "adf319af661c6493b7201fae458e876992f26ce539d811df4febeddd9e50db11"
+  }
+}

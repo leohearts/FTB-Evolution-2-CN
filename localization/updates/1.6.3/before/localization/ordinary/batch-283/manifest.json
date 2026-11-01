@@ -1,0 +1,25 @@
+{
+  "batch": "283",
+  "namespace": "cable_facades",
+  "jar": ".minecraft/mods/cable_facades-26.1.2-NeoForge-2.1.4.jar",
+  "language_path": "assets/cable_facades/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/cable_facades/lang/zh_cn.json",
+  "include_keys": [
+    "cable_facades.creative_tab"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Cable Facades"
+  ],
+  "jar_sha256": "f9584091f2321378b910fbf9190f6a25f65ccc8e05569fbcf4b0d20bfa7e9d4f",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cable_facades-26.1.2-NeoForge-2.1.4.jar",
+    "jar_sha256": "f9584091f2321378b910fbf9190f6a25f65ccc8e05569fbcf4b0d20bfa7e9d4f",
+    "nested_jars": [],
+    "resource": "assets/cable_facades/lang/en_us.json",
+    "mod_ids": [
+      "cable_facades"
+    ],
+    "resource_sha256": "b5c313200f71349f1faa2e2053a4b68e8c916effe3a689c38c11b3a37c9603b3"
+  }
+}

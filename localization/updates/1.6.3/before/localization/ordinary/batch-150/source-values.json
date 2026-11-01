@@ -1,0 +1,18 @@
+[
+  "Boosted Data: %s",
+  "Directional Data: %s",
+  "Found the following data on this block:",
+  "Modified the following data on this block:",
+  "No data found on the block",
+  "Boosted Idle Power Consumption",
+  "Boosted Internal Energy Multiplier",
+  "Boosted Speed Multiplier",
+  "Cranked Idle Power Consumption",
+  "Cranked Internal Energy Multiplier",
+  "Cranked Speed Multiplier",
+  "Directional Idle Power Consumption",
+  "Directional Internal Energy Multiplier",
+  "Directional Speed Multiplier",
+  "Enable Conflicts",
+  "General"
+]

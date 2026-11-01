@@ -1,0 +1,635 @@
+{
+  "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_builder.md": {
+    "30": {
+      "source": "   - **Website** pattern: paste a design **seed / URL**; heat-sink / rod cells follow the seed (including mixed heat sinks per column). On Website, the heat-sink cycle button is inactive."
+    },
+    "31": {
+      "source": "3. **Preview** (under Center) — purple border, yellow rod positions, red = invalid/extra blocks. Status warnings appear **beside Center**."
+    },
+    "32": {
+      "source": "4. **Mark Input** (just above the builder buffer):"
+    },
+    "33": {
+      "source": "   - Assign buffer slots to specific items (see button tooltips)."
+    },
+    "34": {
+      "source": "   - **Drag items from JEI** onto buffer slots for ghost mark filters; double-click a slot to clear."
+    },
+    "39": {
+      "source": "**Simulation** estimates stats and material counts (Website seeds included when valid); it does **not** start the real reactor."
+    },
+    "46": {
+      "source": "Example **finished** layout (builder + hand-placed ports on the **casing frame**). See [Getting started](getting_started.md) for labels."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/getting_started.md": {
+    "76": {
+      "source": "- **Blade height bonus** — rings that grow taller toward the divider gain **+3%** per ascending layer with more blades; shrinking rings lose **−3%**. Multi-column builds need a **rod controller on every column** or take **−5%** — see [Rods and blades](turbine_rod_and_blades.md)."
+    },
+    "77": {
+      "source": "- **Valid formation** — shell, coils, rod controller(s) on the closure deck, and ports must all validate before generation runs."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_builder.md": {
+    "22": {
+      "source": "3. Stock the builder with **casing**, **glass**, **rod controllers** (one per rod column the pattern needs), **rods**, **blades**, and the **storage blocks** you want for coils."
+    },
+    "23": {
+      "source": "4. Pick a **layout** (see [Rods and blades](turbine_rod_and_blades.md)):"
+    },
+    "24": {
+      "source": "   - **Efficient** — one center shaft; blades climb ring by ring (**+3%** height bonus possible)."
+    },
+    "25": {
+      "source": "   - **Productive** — one center shaft; full rings every layer (maximum steam sooner)."
+    },
+    "26": {
+      "source": "   - **Hyperflow** — multi-rod grid; places a **rod controller on each column** (no −5% missing-controller penalty)."
+    },
+    "27": {
+      "source": "   - **Website** — paste a design **seed / URL** into the design field; rods (and coil choice on Website) follow that layout."
+    },
+    "28": {
+      "source": "   - **Custom / None** — frame (and coils for Custom) without rotor contents."
+    },
+    "29": {
+      "source": "5. Choose **coil type** (cycles supported metals; editable on Website too) and **coil layer count** (wide button under Preview, next to it)."
+    },
+    "30": {
+      "source": "6. Use **Preview** (under Center, same width) and the **Simulation** panel for RF/t, steam, and materials. Warnings appear **beside Center**."
+    },
+    "31": {
+      "source": "7. **Mark Input** (just above the builder buffer):"
+    },
+    "32": {
+      "source": "   - Click a buffer slot while Mark Input is on to set which item that slot accepts for build steps."
+    },
+    "33": {
+      "source": "   - You can also **drag items from JEI** onto buffer slots to set ghost mark filters; double-click a slot to clear."
+    },
+    "34": {
+      "source": "8. Press **Build** when ready."
+    },
+    "36": {
+      "source": "Build order: **outer shell** → **closure deck** → **rod controllers** (one per rod column) → **rods** → **blades** → **coil blocks** in the top interior layers."
+    },
+    "38": {
+      "source": "The builder does **not** place the exterior **Turbine Controller** or ports—add those by hand after the build."
+    },
+    "42": {
+      "source": "Shows expected **RF/t** and **steam**, coil and blade bonuses (including the −5% when any rod column lacks a controller), and a **material list**. Website seeds are included in the simulation when the design is valid. Button names can vary by version; read the tooltips on screen while you work."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_generation_and_coils.md": {
+    "24": {
+      "source": "- **Blade layout bonus** depends on how rings stack by height—see [Rods and blades](turbine_rod_and_blades.md). If any rod column lacks a rod controller on the closure deck, that bonus is also cut by **−5%**."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_rod_and_blades.md": {
+    "52": {
+      "source": "## Missing rod-controller penalty"
+    },
+    "54": {
+      "source": "If the turbine has **any rod column** whose closure-deck cell is **not** a [Turbine Rod Controller](turbine_structure.md), blade efficiency is multiplied by **0.95 (−5%)**."
+    },
+    "56": {
+      "source": "- One controller on a single-shaft layout: no penalty."
+    },
+    "57": {
+      "source": "- Multi-column layouts (**Hyperflow**, Website seeds, hand builds): place a controller **on every rod column** to cancel the −5%."
+    },
+    "61": {
+      "source": "The [Turbine Builder](turbine_builder.md) can place rods, blades, and rod controllers for you:"
+    },
+    "63": {
+      "source": "- **Efficient** — single centered rod column; blade rings **climb** layer by layer (best height bonus)."
+    },
+    "64": {
+      "source": "- **Productive** — same single column; each layer gets the **maximum** ring count immediately."
+    },
+    "65": {
+      "source": "- **Hyperflow** — multi-rod grid (with a one-cell margin from walls); the builder places a **rod controller on every column**."
+    },
+    "66": {
+      "source": "- **Website** — rods from an imported design seed; blade growth follows climb/full like Efficient/Productive."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_structure.md": {
+    "29": {
+      "source": "## Rod controllers"
+    },
+    "33": {
+      "source": "Place **Turbine Rod Controller** blocks on the **closure deck**—the casing layer that separates the **rotor** (below) from the **coil zone** (above). They set which way the shaft runs (you can orient them in **six directions**, like a heating coil)."
+    },
+    "35": {
+      "source": "- You need **at least one**. You may place **one controller per rod column**, each sitting **directly on the deck cell above that column’s rod pile**."
+    },
+    "36": {
+      "source": "- All controllers must share the **same deck plane** and the **same facing**."
+    },
+    "37": {
+      "source": "- Controllers are **not** on the outer shell border."
+    },
+    "39": {
+      "source": "If any rod column has rods but **no** controller on its deck cell, blade efficiency takes a **−5%** penalty (see [Rods and blades](turbine_rod_and_blades.md)). Putting a controller on **every** rod column cancels that penalty."
+    },
+    "41": {
+      "source": "- Rods must line up with the controller axis. Wrong-facing rods are fixed when the turbine checks the build, when possible."
+    },
+    "60": {
+      "source": "| **Closure deck** | Layer between rotor and coils | Casing + rod controllers above rod columns |"
+    }
+  },
+  "assets/horsepowered/guides/horsepowered/guide/animal_trap.md": {
+    "59": {
+      "source": "## Biome, Dimension and Waterlog Conditions"
+    },
+    "61": {
+      "source": "When a recipe specifies a biome tag, a dimension or a waterlogged requirement, the trap only counts dice rolls when those conditions are met. The bait stays, the timer keeps running, but no animal is ever caught until you relocate or waterlog the trap. If one bait has recipes for different places, the trap uses the one that matches where it stands."
+    },
+    "63": {
+      "source": "Jade displays in red as `Wrong biome`, `Wrong dimension` or `Needs water` when bait is loaded but the conditions are not satisfied."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/deep_engineering/crystal_cultivation.md": {
+    "22": {
+      "source": "A <ItemLink id=\"prismarine_crystal\"/> turns any beam into a purity 3.0 beam, but the wild ones in Crystal Geodes are rooted where they grew. A **Cultivated Prismarine Crystal** rolls a purity between **3.00 and 6.00** when it finishes growing, rewarding cultivation with a chance of purer beams. It can also be lifted with a wrench and set down anywhere. Growing one takes a seed, a cradle, and ten million AP of high-purity laser power."
+    },
+    "90": {
+      "source": "At ten million AP the seed becomes a full Cultivated Prismarine Crystal standing on the cradle. Its purity is randomly set between **3.00 and 6.00**, in steps of 0.01, when growth completes. Fire a beam into its side, and the top and bottom emit beams at that crystal's purity, sharing the incoming power (see [Laser Power](nautec:getting_started/laser_power.md)). The cradle is empty again and ready for another seed."
+    },
+    "92": {
+      "source": "**To move it**, sneak and right-click any part of it with a wrench. Any mod's wrench works, as long as it is in the `c:tools/wrench` tag, including the <ItemLink id=\"aquarine_steel_wrench\"/>. You get the crystal back as an item, and placing it needs six free blocks of height again. Its rolled purity is preserved when moved or reloaded; moving it does not reroll the value. Check the item tooltip to see its purity."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/getting_started/laser_power.md": {
+    "79": {
+      "source": "Higher purity comes from a <ItemLink id=\"prismarine_crystal\"/> (3.0 in the wild, 3.00-6.00 when newly cultivated), a <ItemLink id=\"bacterial_fuel_cell\"/> (up to 2.5), or a <ItemLink id=\"focusing_lens\"/> added to an existing beam. [Beam Optics](nautec:deep_engineering/beam_optics.md) covers turning, splitting and focusing beams."
+    },
+    "88": {
+      "source": "A six block tall crystal found standing inside Crystal Geodes under the ocean floor (see [Structures](structures.md)). It turns any beam into a purity 3.0 beam. Wild crystals are rooted in place, but you can grow a movable crystal that rolls 3.00-6.00 purity on maturity: see [Crystal Cultivation](nautec:deep_engineering/crystal_cultivation.md)."
+    },
+    "90": {
+      "source": "Fire a beam into the crystal from the side. Any of its six blocks takes a beam on any of its four sides, and beams from several sources add together. The top block then fires straight up and the bottom block fires straight down, both at the crystal's purity: 3.0 for natural crystals, or the fixed value rolled when a cultivated crystal matures. If only one of them reaches a receiver, that beam carries the full incoming power. If both do, the power is split evenly between them, so a crystal never puts out more AP than goes in. These two beams run until they reach a receiver or a solid block, so they work into an empty floor or ceiling as well."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/laser_chemistry/confined_spawner.md": {
+    "9": {
+      "source": "  - nautec:mob_sampler"
+    },
+    "10": {
+      "source": "  - nautec:mob_sample"
+    },
+    "24": {
+      "source": "Sneak and use the Confined Spawner with an empty hand, or with a Matrix, to release it. The cage returns to an ordinary spawner with its current mob and upgrades, and the Matrix returns to your inventory. It only releases once the storage and the experience tank are both empty; until then a message says to empty them first."
+    },
+    "28": {
+      "source": "## <Color id=\"gold\">Changing the Mob</Color>"
+    },
+    "30": {
+      "source": "Make a <ItemLink id=\"mob_sampler\"/> in the Mixer with one Glass Vial, two Aquarine Copper Ingots, a diamond and 250 mB of Electrolyte Algae Serum. Each recipe makes one sampler."
+    },
+    "32": {
+      "source": "Use the sampler on a living mob to collect a <ItemLink id=\"mob_sample\"/>. The creature stays alive and in place. The sampler is consumed, and the sample's tooltip names the mob it came from. Creatures added by other mods work too."
+    },
+    "34": {
+      "source": "Use the sample on a Confined Spawner to change its mob. The sample is consumed. Spawn count, delay, upgrades, filters, stored drops and experience are kept; progress toward the next cycle starts over. Breaking and replacing the spawner keeps the new mob, as does releasing it back into an ordinary spawner. Samples cannot be applied directly to ordinary spawners."
+    },
+    "36": {
+      "source": "Players, dead creatures and entities marked with the `c:capturing_not_supported` entity type tag cannot be sampled. The tag is checked again when applying a sample, so packs can also block samples that were collected before their rules changed."
+    },
+    "38": {
+      "source": "<RecipeFor id=\"mob_sampler\"/>"
+    },
+    "40": {
+      "source": "### <Color id=\"aqua\">Guardian Materials</Color>"
+    },
+    "42": {
+      "source": "Guardians are a useful first target for sampling. A Guardian Confined Spawner supplies renewable Prismarine Shards and Prismarine Crystals for [Aquatic Catalyst fuel](nautec:getting_started/laser_power.md) and NauTec crafting, including Aquarine Copper Compound."
+    },
+    "44": {
+      "source": "It also has a chance to produce <ItemLink id=\"ancient_valve\"/>, <ItemLink id=\"burnt_coil\"/> and <ItemLink id=\"guardian_eye\"/>. This gives you an automated supply of salvage parts and Guardian Eyes for augments and Impulse Laser Modules. See [Salvage](nautec:getting_started/salvage.md) for the extra mob drops and [Crates and Etching](nautec:getting_started/etching.md) for cleaning salvage parts."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/laser_chemistry/crystal_cultivator.md": {
+    "1": {
+      "source": "navigation:"
+    },
+    "2": {
+      "source": "  title: Crystal Cultivator"
+    },
+    "3": {
+      "source": "  icon: nautec:crystal_cultivator"
+    },
+    "4": {
+      "source": "  position: 13"
+    },
+    "5": {
+      "source": "  parent: laser_chemistry/laser_chemistry-index.md"
+    },
+    "6": {
+      "source": "item_ids:"
+    },
+    "7": {
+      "source": "  - nautec:crystal_cultivator"
+    },
+    "10": {
+      "source": "# Crystal Cultivator"
+    },
+    "12": {
+      "source": "<ItemImage id=\"crystal_cultivator\" scale=\"2\"/>"
+    },
+    "14": {
+      "source": "Attach a Crystal Cultivator to any face of a budding block, then aim a laser into its outward-facing crystal tip. It accelerates growth and harvests fully grown clusters from the remaining faces, leaving young buds and the source block in place."
+    },
+    "16": {
+      "source": "Use it with Budding Prismarine to automate Prismarine Crystal Shards, or with vanilla Budding Amethyst. GeoOre budding blocks and AE2 budding quartz are supported when those mods are installed."
+    },
+    "18": {
+      "source": "## Power and purity"
+    },
+    "20": {
+      "source": "The Cultivator needs **20 AP** to harvest. At 20 AP, crystals grow at their ordinary speed; **100 AP gives 10x growth**. Power between those points scales linearly. Higher power continues to help, with diminishing returns: 180 AP gives about 16.24x and 260 AP about 19.89x growth."
+    },
+    "22": {
+      "source": "Purity determines the Fortune enchantment used to harvest. Each whole purity level gives one Fortune level through purity 6: 2.0 purity gives Fortune II and 6.0 gives Fortune VI. Above 6, gains diminish; purity 9 gives Fortune VIII and purity 12 gives Fortune IX. The cluster's normal loot table determines its drops and how Fortune affects them."
+    },
+    "24": {
+      "source": "## Collecting the harvest"
+    },
+    "26": {
+      "source": "The nine-slot output buffer accepts extraction by pipes and hoppers. Right-click with an empty hand to take a stack, or sneak and right-click to collect everything. If the complete harvest will not fit, the mature cluster stays in place until there is room. Waterlogged clusters leave their water behind."
+    },
+    "28": {
+      "source": "Use one Cultivator per budding block. Additional attachments do not stack their growth bonuses. A Cultivator without power does not harvest or accelerate growth, but the budding block can still grow naturally."
+    },
+    "30": {
+      "source": "## Mod compatibility"
+    },
+    "32": {
+      "source": "The Cultivator runs the source block's own growth logic, retaining mod growth settings and requirements. It respects the world's random tick speed, including disabling accelerated growth when that rule is zero."
+    },
+    "34": {
+      "source": "AE2's Flawed, Chipped and Damaged Budding Quartz retain their normal chance to decay after successful growth, so faster growth also uses them up sooner. Use **Flawless Budding Quartz** for a lasting Certus Quartz farm."
+    },
+    "36": {
+      "source": "Pack makers can extend or restrict support with the `nautec:cultivator_sources` and `nautec:cultivator_clusters` block tags. These include the common `c:budding_blocks` and `c:clusters` tags. Only add fully grown harvestable clusters to the latter; immature buds should remain untouched."
+    },
+    "38": {
+      "source": "## Crafting"
+    },
+    "40": {
+      "source": "<RecipeFor id=\"crystal_cultivator\"/>"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/index.md": {
+    "1": {
+      "source": "navigation:"
+    },
+    "2": {
+      "source": "    title: Replication AE2 Bridge"
+    },
+    "3": {
+      "source": "    icon: rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "4": {
+      "source": "    position: 0"
+    },
+    "7": {
+      "source": "# Replication AE2 Bridge"
+    },
+    "9": {
+      "source": "This addon connects **Applied Energistics 2** with **Replication**. Matter from the Replication network can live in your ME system, and AE2 can ask Replication to craft items for you."
+    },
+    "11": {
+      "source": "## Contents"
+    },
+    "13": {
+      "source": "* [AE2–Replication Bridge](bridge.md) — links both networks, energy sharing, and priorities"
+    },
+    "14": {
+      "source": "* [Matter Assembler](matter_assembler.md) — fast AE2 worker that runs Replication jobs"
+    },
+    "15": {
+      "source": "* [Matter Storage](matter_storage.md) — cells, buses, monitors, and item→matter encoding"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/bridge.md": {
+    "1": {
+      "source": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: AE2–Replication Bridge"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "5": {
+      "source": "    position: 10"
+    },
+    "6": {
+      "source": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "12": {
+      "source": "# AE2–Replication Bridge"
+    },
+    "14": {
+      "source": "<Row gap=\"20\">"
+    },
+    "15": {
+      "source": "<BlockImage id=\"rep_ae2_bridge:rep_ae2_bridge\" scale=\"8\"></BlockImage>"
+    },
+    "16": {
+      "source": "</Row>"
+    },
+    "18": {
+      "source": "The Bridge is the link between your **ME network** and a **Replication matter network**. Place it where both can reach it: an ME cable on one side, a matter pipe on another."
+    },
+    "20": {
+      "source": "## What it does"
+    },
+    "22": {
+      "source": "- Shows Replication matter in AE2 terminals (as its own matter type)"
+    },
+    "23": {
+      "source": "- Lets AE2 autocrafting request items through Replication"
+    },
+    "24": {
+      "source": "- Can power the matter network with spare AE energy when you enable it (respects AE2’s FE conversion ratio; stops if the ME grid is energy-starved)"
+    },
+    "25": {
+      "source": "- Accepts finished items from Replicators and Matter Assemblers and stores them in the ME system when space is available"
+    },
+    "27": {
+      "source": "## Using the interface"
+    },
+    "29": {
+      "source": "Right-click the Bridge to open its screen."
+    },
+    "31": {
+      "source": "- **Power Matter Network** — toggle that sends spare AE power into the matter network as FE (dynamic; uses AE2’s FE ratio)"
+    },
+    "32": {
+      "source": "- **Priority** — same priority tab as other AE2 machines; higher values are preferred when the network chooses where work goes"
+    },
+    "34": {
+      "source": "If the ME system is temporarily full, finished items can sit in the Bridge’s buffer and move into storage when there is room again."
+    },
+    "36": {
+      "source": "## Autocrafting matter"
+    },
+    "38": {
+      "source": "When AE2 starts a Replication craft, matter stays in your cells / tanks / Storage Bus (the CPU only holds a phantom reservation). Replication still sees that stock until the pattern actually runs and drains it. Cancelling a craft does not duplicate matter."
+    },
+    "40": {
+      "source": "## Tips"
+    },
+    "42": {
+      "source": "- One Bridge per matter network is usually enough"
+    },
+    "43": {
+      "source": "- Keep the Bridge online on both the ME network and the matter pipes"
+    },
+    "44": {
+      "source": "- Pair it with Matter Assemblers on the same ME network for faster Replication jobs"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/matter_assembler.md": {
+    "1": {
+      "source": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: Matter Assembler"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:matter_assembler"
+    },
+    "5": {
+      "source": "    position: 20"
+    },
+    "6": {
+      "source": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:matter_assembler"
+    },
+    "12": {
+      "source": "# Matter Assembler"
+    },
+    "14": {
+      "source": "<Row gap=\"20\">"
+    },
+    "15": {
+      "source": "<BlockImage id=\"rep_ae2_bridge:matter_assembler\" scale=\"8\"></BlockImage>"
+    },
+    "16": {
+      "source": "</Row>"
+    },
+    "18": {
+      "source": "The Matter Assembler is a fast craft worker on your **ME network**. Together with a Bridge, it can take Replication jobs and finish them much quicker than a normal Replicator."
+    },
+    "20": {
+      "source": "## How it works"
+    },
+    "22": {
+      "source": "- Connect it to the same ME network as your Bridge"
+    },
+    "23": {
+      "source": "- It picks up work from Replication (for example from a Replication terminal) and from AE2 crafting requests that go through the Bridge"
+    },
+    "24": {
+      "source": "- Jobs started from Replication deliver finished items back to Replication"
+    },
+    "25": {
+      "source": "- Jobs started from AE2 deliver finished items into the ME system"
+    },
+    "27": {
+      "source": "## Upgrades and priority"
+    },
+    "29": {
+      "source": "Open the Matter Assembler to insert **acceleration cards** for more speed, and use the **priority** tab if you have several Assemblers and want some to take work first."
+    },
+    "31": {
+      "source": "## Tips"
+    },
+    "33": {
+      "source": "- It needs a Bridge on the same ME grid (chip patterns and Replication tasks come from the Bridge)"
+    },
+    "34": {
+      "source": "- If the destination has no space, the Assembler waits until it can deliver"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/matter_storage.md": {
+    "1": {
+      "source": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: Matter Storage"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:matter_storage_cell_1k"
+    },
+    "5": {
+      "source": "    position: 30"
+    },
+    "6": {
+      "source": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:matter_cell_housing"
+    },
+    "10": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_1k"
+    },
+    "11": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_4k"
+    },
+    "12": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_16k"
+    },
+    "13": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_64k"
+    },
+    "14": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_256k"
+    },
+    "15": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_creative"
+    },
+    "18": {
+      "source": "# Matter Storage"
+    },
+    "20": {
+      "source": "<Row gap=\"20\">"
+    },
+    "21": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_1k\" scale=\"4\"></ItemImage>"
+    },
+    "22": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_4k\" scale=\"4\"></ItemImage>"
+    },
+    "23": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_16k\" scale=\"4\"></ItemImage>"
+    },
+    "24": {
+      "source": "</Row>"
+    },
+    "26": {
+      "source": "Matter storage cells keep Replication matter inside your **ME system**, similar to how normal cells store items. With a Bridge connected, matter in those cells is available to the matter network as well."
+    },
+    "28": {
+      "source": "## Cells and housing"
+    },
+    "30": {
+      "source": "- Build cells from a **Matter Cell Housing** and the matching AE2 cell component (1k / 4k / 16k / 64k / 256k)"
+    },
+    "31": {
+      "source": "- Capacity matches that component — larger components hold more matter"
+    },
+    "32": {
+      "source": "- You can also craft a cell in one step with the housing pattern and a component in the center"
+    },
+    "33": {
+      "source": "- The **Creative Matter Storage Cell** provides unlimited amounts of every matter type (creative / testing)"
+    },
+    "35": {
+      "source": "Place the cells in ME drives or chests like any other storage cell. Terminals can filter the Matter type separately from items and fluids."
+    },
+    "37": {
+      "source": "## Import, export, and storage bus"
+    },
+    "39": {
+      "source": "AE2 **Import Bus**, **Export Bus**, and **Storage Bus** can move matter against adjacent Replication **matter tanks** and **Disintegrators** when this addon is loaded. Enable the Matter key type on the bus like you would for fluids."
+    },
+    "41": {
+      "source": "A **Storage Bus** on a matter tank both **lists** the tank contents in the ME system and can insert or extract matter (bidirectional). Import Bus pulls tank → ME; Export Bus pushes ME → tank."
+    },
+    "43": {
+      "source": "## Disintegration patterns (item → matter)"
+    },
+    "45": {
+      "source": "On the **Pattern Encoding Terminal**, use the extra **Matter** tab (blueprint icon):"
+    },
+    "47": {
+      "source": "- Put an item in the input (raise the count to scale outputs)"
+    },
+    "48": {
+      "source": "- The panel previews matter amounts (not selectable)"
+    },
+    "49": {
+      "source": "- Encode produces a normal AE2 **processing pattern**"
+    },
+    "51": {
+      "source": "Place that pattern in a **Pattern Provider** facing a **Disintegrator**. Pull the resulting matter with an **Import Bus** (or Storage Bus) on the Disintegrator. The Bridge also mirrors matter from the Replication network into ME as stock."
+    },
+    "53": {
+      "source": "## JEI matter items"
+    },
+    "55": {
+      "source": "Virtual matter items from this addon are JEI helpers. Dragging them into AE2 filters or monitors configures the real **Matter** key automatically."
+    },
+    "57": {
+      "source": "## Storage monitors"
+    },
+    "59": {
+      "source": "Right-click an unlocked **Storage Monitor** while holding a Replication **Matter Tank** or a virtual matter item:"
+    },
+    "61": {
+      "source": "- Filled tank / matter item → that matter type"
+    },
+    "62": {
+      "source": "- Empty tank on an empty monitor → AE2 configures the tank item itself"
+    },
+    "63": {
+      "source": "- Empty tank when something is already set → first matter type, then cycle"
+    },
+    "65": {
+      "source": "## Autocrafting and matter visibility"
+    },
+    "67": {
+      "source": "With a Bridge, AE2 craft jobs reserve matter without pulling it out of ME. Stock stays in cells / tanks / buses so Replication can still see it; the real drain happens when the pattern runs. Cancel clears the phantom reservation and does not duplicate matter."
+    },
+    "69": {
+      "source": "## Tips"
+    },
+    "71": {
+      "source": "- Matter shown through the Bridge and matter stored in cells is the same pool for Replication machines that use the Bridge"
+    },
+    "72": {
+      "source": "- Autocraft jobs that output matter need an Import/Storage Bus on the Disintegrator; Bridge mirror alone shows stock but does not finish Pattern Provider output collection"
+    },
+    "73": {
+      "source": "- Keep enough cell space if you move large amounts of matter through AE2"
+    }
+  }
+}

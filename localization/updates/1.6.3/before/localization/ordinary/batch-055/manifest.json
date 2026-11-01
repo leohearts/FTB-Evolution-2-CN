@@ -1,0 +1,27 @@
+{
+  "batch": "055",
+  "namespace": "computercraft",
+  "jar": ".minecraft/mods/cc-tweaked-26.1.2-forge-1.120.0.jar",
+  "language_path": "assets/computercraft/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/computercraft/lang/zh_cn.json",
+  "include_keys": [
+    "gui.computercraft.config.http",
+    "item.computercraft.pocket_computer_advanced.upgraded_twice",
+    "item.computercraft.pocket_computer_normal.upgraded_twice"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "HTTP"
+  ],
+  "jar_sha256": "298265ac55a43aa3ea05f00af0b2e31805f2afb4757273cd1091ebc8c35f534d",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cc-tweaked-26.1.2-forge-1.120.0.jar",
+    "jar_sha256": "298265ac55a43aa3ea05f00af0b2e31805f2afb4757273cd1091ebc8c35f534d",
+    "nested_jars": [],
+    "resource": "assets/computercraft/lang/en_us.json",
+    "mod_ids": [
+      "computercraft"
+    ],
+    "resource_sha256": "56890b86ad13267b8f6a10d1f74660d32c146c188907f0d3c79ad2de95ef0e61"
+  }
+}

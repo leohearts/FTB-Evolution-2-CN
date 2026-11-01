@@ -1,0 +1,26 @@
+{
+  "batch": "263",
+  "namespace": "shogi",
+  "jar": ".minecraft/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
+  "language_path": "assets/shogi/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/shogi/lang/zh_cn.json",
+  "include_keys": [
+    "commands.shogi.cooldown.reset.all.success",
+    "commands.shogi.cooldown.reset.success",
+    "commands.shogi.cooldown.add.success",
+    "commands.shogi.cooldown.set.success"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
+    "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
+    "nested_jars": [],
+    "resource": "assets/shogi/lang/en_us.json",
+    "mod_ids": [
+      "shogi"
+    ],
+    "resource_sha256": "12eb8424e7b0198f1bfd778d88c09f93cb2cb42dfdc0648df3258abfc011259d"
+  }
+}

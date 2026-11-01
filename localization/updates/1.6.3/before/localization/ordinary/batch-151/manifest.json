@@ -1,0 +1,39 @@
+{
+  "batch": "151",
+  "namespace": "animal_pen",
+  "jar": ".minecraft/mods/animal_pen-neoforge-26.1-2.5.1.jar",
+  "language_path": "assets/animal_pen/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/animal_pen/lang/zh_cn.json",
+  "include_keys": [
+    "tag.block.animal_pen.aviaries",
+    "tag.item.animal_pen.aviaries",
+    "tag.item.animal_pen.can_aviary",
+    "display.animal_pen.count",
+    "gui.animal_pen.variant_selection_screen.fixed_size",
+    "gui.animal_pen.variant_selection_screen.decoration_open_tooltip",
+    "gui.animal_pen.variant_selection_screen.decoration_close_tooltip",
+    "option.animal_pen.trigger_advancements.tooltip[1]",
+    "option.animal_pen.increase_statistics.tooltip[1]",
+    "option.animal_pen.attack_cooldown.tooltip[1]",
+    "option.animal_pen.max_stored_animal_variants.tooltip[1]",
+    "option.animal_pen.max_stored_animal_variants.tooltip[3]",
+    "advancements.animal_pen.entity.minecraft.happy_ghast.title",
+    "advancements.animal_pen.entity.minecraft.happy_ghast.description"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%d"
+  ],
+  "source_note": "上游 zh_cn.json 语法错误 (第 322 行前缺逗号) 且内容仍为英文, 故不作为参照; 不修改 JAR",
+  "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animal_pen-neoforge-26.1-2.5.1.jar",
+    "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+    "nested_jars": [],
+    "resource": "assets/animal_pen/lang/en_us.json",
+    "mod_ids": [
+      "animal_pen"
+    ],
+    "resource_sha256": "5a0e5af28c0d8f21570861131866bb54b1db710b28040fd9803adeedd928e5c3"
+  }
+}

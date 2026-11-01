@@ -1,0 +1,9 @@
+[
+  "Previews for Everything",
+  "Enables previews for everything, Used for debugging",
+  "Preview Whitelist",
+  "List of blocks for which to show previews",
+  "Preview Blacklist",
+  "List of blocks for which to hide previews",
+  "Edit"
+]

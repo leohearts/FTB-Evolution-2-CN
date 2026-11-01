@@ -1,0 +1,6 @@
+{
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX": "Vanilla Crafting Guide Offset X",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetX.tooltip": "Offset from the right when repositioning the vanilla recipe book button.",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY": "Vanilla Crafting Guide Offset Y",
+  "craftingtweaks.configuration.client.vanillaCraftingGuideOffsetY.tooltip": "Offset from the top when repositioning the vanilla recipe book button."
+}

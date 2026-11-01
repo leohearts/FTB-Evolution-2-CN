@@ -1,0 +1,23 @@
+{
+  "batch": "209",
+  "namespace": "comforts",
+  "jar": ".minecraft/mods/comforts-neoforge-15.0.0+26.1.2.jar",
+  "language_path": "assets/comforts/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/comforts/lang/zh_cn.json",
+  "include_keys": [
+    "item.comforts.hammock.ropes_too_far"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "23b7a63b3729dc590174ca0ca5740c22ddc93718ead6fa579a921d3e7fa5ac83",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/comforts-neoforge-15.0.0+26.1.2.jar",
+    "jar_sha256": "23b7a63b3729dc590174ca0ca5740c22ddc93718ead6fa579a921d3e7fa5ac83",
+    "nested_jars": [],
+    "resource": "assets/comforts/lang/en_us.json",
+    "mod_ids": [
+      "comforts"
+    ],
+    "resource_sha256": "2e5684aa3ef4c81a71483f87aa7e3bc0cc506b60a85c65e617ccf2a9c22015a8"
+  }
+}

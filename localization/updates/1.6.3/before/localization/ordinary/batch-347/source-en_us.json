@@ -1,0 +1,7 @@
+{
+  "info.mffs.cannot_harness": "Cannot harness %s FE from the Fortron field.",
+  "block.mffs.coercion_deriver": "Coercion Deriver",
+  "block.mffs.fortron_capacitor": "Fortron Capacitor",
+  "screen.mffs.frequency.tooltip": "Machines with the same frequency will share Fortron energy.",
+  "screen.mffs.fortron.tooltip": "Fortron is the type of force energy used in MFFS machines."
+}

@@ -1,0 +1,53 @@
+{
+  "batch": "095",
+  "namespace": "integrateddynamics",
+  "jar": ".minecraft/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+  "language_path": "assets/integrateddynamics/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/integrateddynamics/lang/zh_cn.json",
+  "include_keys": [
+    "info_book.integrateddynamics.tutorials.saving_state",
+    "info_book.integrateddynamics.tutorials.saving_state.text1",
+    "info_book.integrateddynamics.tutorials.saving_state.text2",
+    "info_book.integrateddynamics.tutorials.saving_state.text3",
+    "info_book.integrateddynamics.tutorials.saving_state.text4",
+    "info_book.integrateddynamics.tutorials.saving_state.text5",
+    "info_book.integrateddynamics.tutorials.saving_state.text6",
+    "info_book.integrateddynamics.tutorials.saving_state.text7",
+    "info_book.integrateddynamics.tutorials.saving_state.text8",
+    "info_book.integrateddynamics.manual.logic.value_types.recipe.text5",
+    "info_book.integrateddynamics.manual.logic.advanced.nbt_path.text12",
+    "info_book.integrateddynamics.manual.logic.advanced.nbt_path.text13",
+    "info_book.integrateddynamics.manual.parts.settings",
+    "info_book.integrateddynamics.manual.parts.settings.text1",
+    "info_book.integrateddynamics.manual.parts.settings.text2",
+    "info_book.integrateddynamics.manual.parts.settings.text3",
+    "info_book.integrateddynamics.manual.parts.settings.text4",
+    "info_book.integrateddynamics.manual.parts.settings.text5",
+    "info_book.integrateddynamics.manual.parts.settings.text6",
+    "info_book.integrateddynamics.manual.parts.settings.text7",
+    "info_book.integrateddynamics.manual.parts.offsets",
+    "info_book.integrateddynamics.manual.parts.offsets.text1",
+    "info_book.integrateddynamics.manual.parts.offsets.text2",
+    "info_book.integrateddynamics.manual.parts.offsets.text3",
+    "info_book.integrateddynamics.manual.parts.offsets.text4",
+    "info_book.integrateddynamics.manual.machines.materializer.text4",
+    "info_book.integrateddynamics.manual.logic_programming.text8",
+    "info_book.integrateddynamics.manual.diagnostics.text1",
+    "info_book.integrateddynamics.manual.diagnostics.text2",
+    "info_book.integrateddynamics.manual.diagnostics.text3"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
+    "nested_jars": [],
+    "resource": "assets/integrateddynamics/lang/en_us.json",
+    "mod_ids": [
+      "integrateddynamics",
+      "integrateddynamicscompat"
+    ],
+    "resource_sha256": "d625d4cf11ce42e550aad02b4cc1ab3eec72042873d15dbcb36bd51f16461173"
+  }
+}

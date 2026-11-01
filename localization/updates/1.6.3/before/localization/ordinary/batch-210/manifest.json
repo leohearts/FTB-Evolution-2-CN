@@ -1,0 +1,25 @@
+{
+  "batch": "210",
+  "namespace": "justzoom",
+  "jar": ".minecraft/mods/justzoom_neoforge_3.0.1_MC_26.1.2.jar",
+  "language_path": "assets/justzoom/lang/en_us.json",
+  "target": ".minecraft/kubejs/assets/justzoom/lang/zh_cn.json",
+  "include_keys": [
+    "justzoom.keybinds.category"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "Just Zoom"
+  ],
+  "jar_sha256": "fd4589751277c052d8cdbe1638df4eb188890d8cbe6ba8f3b08ad8959bc563c6",
+  "resource_binding": {
+    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justzoom_neoforge_3.0.1_MC_26.1.2.jar",
+    "jar_sha256": "fd4589751277c052d8cdbe1638df4eb188890d8cbe6ba8f3b08ad8959bc563c6",
+    "nested_jars": [],
+    "resource": "assets/justzoom/lang/en_us.json",
+    "mod_ids": [
+      "justzoom"
+    ],
+    "resource_sha256": "8527cf42fed88cd40ca9a23ee42d37957503d44437133b3deb55ac75dbf19d07"
+  }
+}
