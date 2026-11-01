@@ -70,5 +70,10 @@
   "attribute.name.irons_lib.dodge_chance": "闪避几率",
   "attribute.name.irons_lib.dodge_chance.desc": "抵消来袭伤害的百分比几率, 附带特效",
   "attribute.name.irons_lib.healing_received": "受到治疗",
-  "attribute.name.irons_lib.healing_received.desc": "受到治疗的百分比提升"
+  "attribute.name.irons_lib.healing_received.desc": "受到治疗的百分比提升",
+  "transmog.irons_lib.autumn_knight": "秋日骑士",
+  "transmog.irons_lib.pumpkin_head": "南瓜头",
+  "transmog.irons_lib.pumpkin_head_creeper": "南瓜头 - 苦力怕",
+  "transmog.irons_lib.pumpkin_head_happy": "南瓜头 - 开心",
+  "transmog.irons_lib.pumpkin_head_sad": "南瓜头 - 难过"
 }

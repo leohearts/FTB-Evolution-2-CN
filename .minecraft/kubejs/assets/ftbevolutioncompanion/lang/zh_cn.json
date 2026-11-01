@@ -516,5 +516,9 @@
   "trait.ftbevolutioncompanion.nautical.desc": "水下无惩罚, 潜入水中时获得时运 III 和抢夺 III.",
   "trait.ftbevolutioncompanion.dragonfire.desc": "点燃目标并将其拉向你.",
   "trait.ftbevolutioncompanion.dragonfrost.desc": "冻结并减速目标.",
-  "trait.ftbevolutioncompanion.dragonstorm.desc": "向附近敌人释放连锁闪电."
+  "trait.ftbevolutioncompanion.dragonstorm.desc": "向附近敌人释放连锁闪电.",
+  "key.ftbevolutioncompanion.toggle_sword_block": "切换持剑格挡",
+  "ftbevolutioncompanion.skills.toggle.sword_block.on": "持剑格挡已启用",
+  "ftbevolutioncompanion.skills.toggle.sword_block.off": "持剑格挡已禁用",
+  "message.ftbevolutioncompanion.mffs.remote_out_of_range": "已链接的力场投影仪距离过远, 无法打开."
 }

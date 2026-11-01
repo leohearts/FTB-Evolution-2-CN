@@ -1,0 +1,31 @@
+{
+  "batch": "356",
+  "namespace": "recursiveae2patternprovider",
+  "jar": ".minecraft/mods/recursiveae2patternprovider-1.1.2.jar",
+  "jar_sha256": "e5768d04376561c60f3d924f086f0a493840307f2bf2cf54af1a054762407eb1",
+  "language_path": "assets/recursiveae2patternprovider/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/recursiveae2patternprovider-1.1.2.jar",
+    "jar_sha256": "e5768d04376561c60f3d924f086f0a493840307f2bf2cf54af1a054762407eb1",
+    "nested_jars": [],
+    "resource": "assets/recursiveae2patternprovider/lang/en_us.json",
+    "mod_ids": [
+      "recursiveae2patternprovider"
+    ],
+    "resource_sha256": "5beb2c95588218c32c660ea42e776a31ed5dd8a365cf9402127d992d62aab303"
+  },
+  "target": ".minecraft/kubejs/assets/recursiveae2patternprovider/lang/zh_cn.json",
+  "include_keys": [
+    "recursiveae2patternprovider.configuration.defaultRecursiveMode",
+    "recursiveae2patternprovider.configuration.defaultRecursiveMode.tooltip",
+    "recursiveae2patternprovider.configuration.retainRecipeAlternatives",
+    "recursiveae2patternprovider.configuration.retainRecipeAlternatives.tooltip",
+    "recursiveae2patternprovider.configuration.generatedIngredientAlternatives",
+    "recursiveae2patternprovider.configuration.generatedIngredientAlternatives.tooltip",
+    "recursiveae2patternprovider.configuration.debugLogging",
+    "recursiveae2patternprovider.configuration.debugLogging.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

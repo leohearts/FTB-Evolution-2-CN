@@ -1,0 +1,27 @@
+{
+  "batch": "359",
+  "namespace": "dimenergy",
+  "jar": ".minecraft/mods/dimenergy-26.1.2-1.1.0.jar",
+  "jar_sha256": "af0e7c6dac0354baccebb161392985c8208c8b1c7ead91af5ba849aa0828d83f",
+  "language_path": "assets/dimenergy/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/dimenergy-26.1.2-1.1.0.jar",
+    "jar_sha256": "af0e7c6dac0354baccebb161392985c8208c8b1c7ead91af5ba849aa0828d83f",
+    "nested_jars": [],
+    "resource": "assets/dimenergy/lang/en_us.json",
+    "mod_ids": [
+      "dimenergy"
+    ],
+    "resource_sha256": "31bbe3e7483dedd454164faa87c51ac07986bdeec3ed20ebfb3272448010fc4b"
+  },
+  "target": ".minecraft/kubejs/assets/dimenergy/lang/zh_cn.json",
+  "include_keys": [
+    "block.dimenergy.dimensional_rift_energy",
+    "gui.dimenergy.exporting",
+    "gui.dimenergy.true",
+    "gui.dimenergy.false"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

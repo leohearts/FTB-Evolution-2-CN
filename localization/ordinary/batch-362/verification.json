@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "362",
+  "namespace": "hephaestus",
+  "source_keys": 3,
+  "unique_values": 2,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 510,
+  "source_sha256": "e662fa06a39610539717b09e62cc97240754cbdbe7a8598a3f59ae95c725e1e1",
+  "in_game_tested": false
+}

@@ -1,0 +1,27 @@
+{
+  "batch": "360",
+  "namespace": "ftbevolutioncompanion",
+  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.26.jar",
+  "jar_sha256": "05d632e2e52eb52d6ef8b4fd469e1e769f633bcdd700d26c08ffb5c5fa7406ac",
+  "language_path": "assets/ftbevolutioncompanion/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-evolution-companion-26.1.2.26.jar",
+    "jar_sha256": "05d632e2e52eb52d6ef8b4fd469e1e769f633bcdd700d26c08ffb5c5fa7406ac",
+    "nested_jars": [],
+    "resource": "assets/ftbevolutioncompanion/lang/en_us.json",
+    "mod_ids": [
+      "ftbevolutioncompanion"
+    ],
+    "resource_sha256": "6e8de32190532e57a8c9c36e4b23efaf6840be8e091e50fbe43dc865b221b619"
+  },
+  "target": ".minecraft/kubejs/assets/ftbevolutioncompanion/lang/zh_cn.json",
+  "include_keys": [
+    "key.ftbevolutioncompanion.toggle_sword_block",
+    "ftbevolutioncompanion.skills.toggle.sword_block.on",
+    "ftbevolutioncompanion.skills.toggle.sword_block.off",
+    "message.ftbevolutioncompanion.mffs.remote_out_of_range"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

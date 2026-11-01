@@ -304,5 +304,10 @@
   "mob_category.water_creature": "水生生物",
   "sidebar_button.ftbchunks.claim_chunks": "FTB区块声明: 领地管理器",
   "tag.item.ftbchunks.right_click_blacklist": "右击黑名单",
-  "tag.item.ftbchunks.right_click_whitelist": "右击白名单"
+  "tag.item.ftbchunks.right_click_whitelist": "右击白名单",
+  "ftbchunks.nether_portal.failure": "无法传送至此处: 已阻止生成目标传送门!",
+  "ftbchunks.nether_portal.no_portal": "已允许传送, 但阻止了传送门生成",
+  "ftbchunks.admin_bypass_reminder": "提醒: FTB Chunks管理员绕过保护当前已启用.\n可使用'/ftbchunks admin bypass_protection'切换.",
+  "ftbchunks.config.server.nether_portal_creation": "下界传送门生成",
+  "ftbchunks.config.server.nether_portal_creation.tooltip": "当原版尝试在其他队伍已认领的区块中为玩家生成下界传送门时的处理方式\nno_portal: 允许玩家传送, 但不生成传送门结构\nfailure: 完全阻止传送\nallow: 照常生成传送门"
 }

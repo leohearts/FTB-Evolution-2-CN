@@ -1,0 +1,5 @@
+{
+  "book.modonomicon.demo.conditional.always_locked.condition.tooltip": "This entry is intentionally always locked to demonstrate the \"false\" condition.",
+  "book.modonomicon.demo.formatting.always_locked.condition.tooltip": "This entry is intentionally always locked to demonstrate the \"false\" condition.",
+  "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip": "This entry is intentionally always locked to demonstrate the \"false\" condition."
+}

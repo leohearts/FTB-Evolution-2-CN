@@ -1,0 +1,24 @@
+{
+  "batch": "365",
+  "namespace": "ftbarmory",
+  "jar": ".minecraft/mods/ftb-armory-26.1.2.11.jar",
+  "jar_sha256": "3c000a020168a04a7ecc07715e4e28be206b8c71ab2d58193532b1948fe87d32",
+  "language_path": "assets/ftbarmory/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-armory-26.1.2.11.jar",
+    "jar_sha256": "3c000a020168a04a7ecc07715e4e28be206b8c71ab2d58193532b1948fe87d32",
+    "nested_jars": [],
+    "resource": "assets/ftbarmory/lang/en_us.json",
+    "mod_ids": [
+      "ftbarmory"
+    ],
+    "resource_sha256": "5f7bb819472a89a4650978a11e88f4507b918bdfe19758c430c2422ba36ed8d8"
+  },
+  "target": ".minecraft/kubejs/assets/ftbarmory/lang/zh_cn.json",
+  "include_keys": [
+    "item.ftbarmory.productivity_upgrade.tooltip.mystian"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

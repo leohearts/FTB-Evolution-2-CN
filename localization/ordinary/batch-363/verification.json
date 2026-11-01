@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "363",
+  "namespace": "modonomicon",
+  "source_keys": 3,
+  "unique_values": 1,
+  "chinese_values": 3,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 24,
+  "source_sha256": "fe0f196bb468bbac3456a847a46d2988ac955538a777a3e7cd0418c7694fb0c0",
+  "in_game_tested": false
+}

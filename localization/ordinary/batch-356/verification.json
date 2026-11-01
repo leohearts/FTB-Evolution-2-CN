@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "356",
+  "namespace": "recursiveae2patternprovider",
+  "source_keys": 8,
+  "unique_values": 8,
+  "chinese_values": 8,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 38,
+  "source_sha256": "5beb2c95588218c32c660ea42e776a31ed5dd8a365cf9402127d992d62aab303",
+  "in_game_tested": false
+}

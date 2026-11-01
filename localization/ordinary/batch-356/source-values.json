@@ -1,0 +1,10 @@
+[
+  "Default Recursive Mode",
+  "Start newly opened pattern encoding terminals in recursive mode. The terminal toggle can override this for the current session. Uses the server setting in multiplayer; existing patterns are not converted",
+  "Retain Recipe Alternatives",
+  "Publish valid recipe alternatives so AE2 can check them against stock during each crafting calculation. Stored block/nugget conversions are included but ranked after real crafting recipes. At most 'Max Alternatives Per Item' recipes are published; when off, only the cost-ranked static selection is used",
+  "Generated Ingredient Alternatives",
+  "Publish validated ingredient variants for generated patterns (e.g. accepted log/plank choices). Each variant uses exact item inputs so substitutions cannot consume stock reserved for another dependency. Does not change manually encoded root patterns",
+  "Debug Logging",
+  "Write per-item recipe selection details to the log (selected, rejected and dropped recipes). Verbose; enable only when diagnosing which recipes are generated"
+]

@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "367",
+  "namespace": "tesseract_api",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 5,
+  "source_sha256": "85986cbd44eeff31380c791d46da8fb6ec1403adfa3b41d2f7a87098a4b9a469",
+  "in_game_tested": false
+}

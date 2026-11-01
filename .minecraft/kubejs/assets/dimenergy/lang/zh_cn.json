@@ -1,3 +1,7 @@
 {
-  "block.dimenergy.dimensional_energy": "维度能量单元"
+  "block.dimenergy.dimensional_energy": "维度能量单元",
+  "block.dimenergy.dimensional_rift_energy": "维度裂隙能量单元",
+  "gui.dimenergy.exporting": "输出中:",
+  "gui.dimenergy.true": "是",
+  "gui.dimenergy.false": "否"
 }

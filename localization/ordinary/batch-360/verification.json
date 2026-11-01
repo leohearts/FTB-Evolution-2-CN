@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "360",
+  "namespace": "ftbevolutioncompanion",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 522,
+  "source_sha256": "6e8de32190532e57a8c9c36e4b23efaf6840be8e091e50fbe43dc865b221b619",
+  "in_game_tested": false
+}

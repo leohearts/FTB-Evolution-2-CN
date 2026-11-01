@@ -1,0 +1,26 @@
+{
+  "batch": "362",
+  "namespace": "hephaestus",
+  "jar": ".minecraft/mods/hephaestus-neoforge-26.1.2-1.0.19.jar",
+  "jar_sha256": "6095fd5b28f47fa24add3ffaff42c70c105f22cc56551423aa429e3298bbca37",
+  "language_path": "assets/hephaestus/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/hephaestus-neoforge-26.1.2-1.0.19.jar",
+    "jar_sha256": "6095fd5b28f47fa24add3ffaff42c70c105f22cc56551423aa429e3298bbca37",
+    "nested_jars": [],
+    "resource": "assets/hephaestus/lang/en_us.json",
+    "mod_ids": [
+      "hephaestus"
+    ],
+    "resource_sha256": "e662fa06a39610539717b09e62cc97240754cbdbe7a8598a3f59ae95c725e1e1"
+  },
+  "target": ".minecraft/kubejs/assets/hephaestus/lang/zh_cn.json",
+  "include_keys": [
+    "fluid_type.hephaestus.molten_replica",
+    "item.hephaestus.molten_replica_bucket",
+    "block.hephaestus.molten_replica_block"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

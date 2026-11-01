@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "353",
+  "namespace": "rep_ae2_bridge",
+  "source_keys": 30,
+  "unique_values": 26,
+  "chinese_values": 27,
+  "reviewed_non_prose_values": 3,
+  "installed_overlay_keys": 30,
+  "source_sha256": "75d5ebe8b0ed1de267a59cb93b0fb59cc9c6e132ebb5fc0bdf3cfaff032536cb",
+  "in_game_tested": false
+}

@@ -1,0 +1,15 @@
+{
+  "collective.shared.message.adminusage": "%s 管理员用法:",
+  "collective.shared.message.commandsusage": "--- %s 命令用法 ---",
+  "collective.shared.message.nopermission": "你无权使用该命令.",
+  "collective.shared.message.playeronly": "该命令只能以玩家身份执行.",
+  "collective.shared.message.reloadsconfigfile": "重载配置文件.",
+  "collective.shared.message.showmessage": "显示此消息.",
+  "collective.shared.message.successfullygeneratedhead": "已成功生成 %1$s 个 %2$s 头颅.",
+  "collective.shared.message.usage": "%s 用法:",
+  "collective.shared.message.wanderingtraderspawnfailed": "流浪商人生成失败, 请重试.",
+  "collective.shared.message.wanderingtraderspawnsuccesful": "流浪商人生成成功!",
+  "collective.collective.gui.reset": "重置",
+  "collective.collective.message.headcachehelp": "重置 Collective 缓存的玩家头颅数据, 例如用于更新皮肤.",
+  "collective.collective.message.headcachereset": "玩家头颅缓存已成功重置."
+}

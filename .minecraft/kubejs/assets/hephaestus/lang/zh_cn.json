@@ -505,5 +505,8 @@
   "jade.hephaestus.melting_entry": "%s %s%%",
   "jade.hephaestus.melting_more": "另有 +%s 项...",
   "config.jade.plugin_hephaestus.smeltery_progress": "冶炼炉熔化进度",
-  "config.jade.plugin_hephaestus.melter_progress": "熔化炉熔化进度"
+  "config.jade.plugin_hephaestus.melter_progress": "熔化炉熔化进度",
+  "fluid_type.hephaestus.molten_replica": "熔融复制物质",
+  "item.hephaestus.molten_replica_bucket": "熔融复制物质桶",
+  "block.hephaestus.molten_replica_block": "熔融复制物质"
 }

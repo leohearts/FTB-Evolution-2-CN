@@ -1,0 +1,51 @@
+{
+  "batch": "354",
+  "namespace": "nautec",
+  "jar": ".minecraft/mods/nautec-26.1.2-NeoForge-2.0.21.jar",
+  "jar_sha256": "76c76028e75920bc0a5fc578c23697014d80880de019a01da9bf1251262d2e61",
+  "language_path": "assets/nautec/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/nautec-26.1.2-NeoForge-2.0.21.jar",
+    "jar_sha256": "76c76028e75920bc0a5fc578c23697014d80880de019a01da9bf1251262d2e61",
+    "nested_jars": [],
+    "resource": "assets/nautec/lang/en_us.json",
+    "mod_ids": [
+      "nautec"
+    ],
+    "resource_sha256": "5668fdc4e3a3f346b17551eb8b8de03d26f8db84f895f8588d614f44ce2a22f3"
+  },
+  "target": ".minecraft/kubejs/assets/nautec/lang/zh_cn.json",
+  "include_keys": [
+    "block.nautec.crystal_cultivator",
+    "item.nautec.mob_sample",
+    "item.nautec.mob_sampler",
+    "nautec.bio_reactor.warning.low_power",
+    "nautec.cultivator.buffer",
+    "nautec.cultivator.fortune",
+    "nautec.cultivator.speed",
+    "nautec.guide.recipe.additive",
+    "nautec.guide.recipe.augment",
+    "nautec.guide.recipe.depth",
+    "nautec.guide.recipe.duration",
+    "nautec.guide.recipe.enchant_target",
+    "nautec.guide.recipe.fluid_amount",
+    "nautec.guide.recipe.growth",
+    "nautec.guide.recipe.mutation_chance",
+    "nautec.guide.recipe.power",
+    "nautec.guide.recipe.power_total",
+    "nautec.jei.cultivated_crystal",
+    "nautec.mob_sample.applied",
+    "nautec.mob_sample.confined_only",
+    "nautec.mob_sample.empty",
+    "nautec.mob_sample.mob",
+    "nautec.mob_sample.tooltip",
+    "nautec.mob_sample.unsupported",
+    "nautec.mob_sampler.tooltip",
+    "nautec.mob_sampler.unsupported"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "%s mB"
+  ],
+  "target_pack_version": "1.6.3"
+}

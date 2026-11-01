@@ -1,0 +1,27 @@
+{
+  "batch": "361",
+  "namespace": "hephaestus_tools",
+  "jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
+  "jar_sha256": "de31bdcc1125eb1de2c2972b5ad8d2f14416010f26d27496e2b9c9ee0c1677eb",
+  "language_path": "assets/hephaestus_tools/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
+    "jar_sha256": "de31bdcc1125eb1de2c2972b5ad8d2f14416010f26d27496e2b9c9ee0c1677eb",
+    "nested_jars": [],
+    "resource": "assets/hephaestus_tools/lang/en_us.json",
+    "mod_ids": [
+      "hephaestus_tools"
+    ],
+    "resource_sha256": "286b8134f1bca5a729bd34c1365f684328a41958903668d412d8d11512de8432"
+  },
+  "target": ".minecraft/kubejs/assets/hephaestus_tools/lang/zh_cn.json",
+  "include_keys": [
+    "item.hephaestus_tools.forge_key",
+    "material.hephaestus_tools.replica",
+    "trait.hephaestus_tools.beheading",
+    "trait.hephaestus_tools.beheading.desc"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

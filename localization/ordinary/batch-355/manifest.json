@@ -1,0 +1,40 @@
+{
+  "batch": "355",
+  "namespace": "little_big_redstone",
+  "jar": ".minecraft/mods/little-big-redstone-1.9.11-26.1.2.jar",
+  "jar_sha256": "666f5fb6927d9db6126a605d275f3a7bc0215dd0dc3f2523d06ccd607ea15bab",
+  "language_path": "assets/little_big_redstone/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/little-big-redstone-1.9.11-26.1.2.jar",
+    "jar_sha256": "666f5fb6927d9db6126a605d275f3a7bc0215dd0dc3f2523d06ccd607ea15bab",
+    "nested_jars": [],
+    "resource": "assets/little_big_redstone/lang/en_us.json",
+    "mod_ids": [
+      "little_big_redstone"
+    ],
+    "resource_sha256": "a503e421704543937d35c9951b2a8b426e3aac74a9f2d6e9661906bd48e98ba2"
+  },
+  "target": ".minecraft/kubejs/assets/little_big_redstone/lang/zh_cn.json",
+  "include_keys": [
+    "entity.little_big_redstone.sticky_note",
+    "entity.little_big_redstone.sticky_note.black",
+    "entity.little_big_redstone.sticky_note.blue",
+    "entity.little_big_redstone.sticky_note.brown",
+    "entity.little_big_redstone.sticky_note.cyan",
+    "entity.little_big_redstone.sticky_note.gray",
+    "entity.little_big_redstone.sticky_note.green",
+    "entity.little_big_redstone.sticky_note.light_blue",
+    "entity.little_big_redstone.sticky_note.light_gray",
+    "entity.little_big_redstone.sticky_note.lime",
+    "entity.little_big_redstone.sticky_note.magenta",
+    "entity.little_big_redstone.sticky_note.orange",
+    "entity.little_big_redstone.sticky_note.pink",
+    "entity.little_big_redstone.sticky_note.purple",
+    "entity.little_big_redstone.sticky_note.red",
+    "entity.little_big_redstone.sticky_note.white",
+    "entity.little_big_redstone.sticky_note.yellow"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

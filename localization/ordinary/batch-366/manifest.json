@@ -1,0 +1,24 @@
+{
+  "batch": "366",
+  "namespace": "sophisticatedinventoryinteractions",
+  "jar": ".minecraft/mods/sophisticatedinventoryinteractions-26.1.2-0.1.19.231.jar",
+  "jar_sha256": "bea01f3fb72a0c1bc5ca50152331501f21d79195057eecfa367b8c4a7e92b5bf",
+  "language_path": "assets/sophisticatedinventoryinteractions/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/sophisticatedinventoryinteractions-26.1.2-0.1.19.231.jar",
+    "jar_sha256": "bea01f3fb72a0c1bc5ca50152331501f21d79195057eecfa367b8c4a7e92b5bf",
+    "nested_jars": [],
+    "resource": "assets/sophisticatedinventoryinteractions/lang/en_us.json",
+    "mod_ids": [
+      "sophisticatedinventoryinteractions"
+    ],
+    "resource_sha256": "4e2c8f469f5a72a703731961e8b92561751e2f5ff1415293e3eb1e0443e46e46"
+  },
+  "target": ".minecraft/kubejs/assets/sophisticatedinventoryinteractions/lang/zh_cn.json",
+  "include_keys": [
+    "sophisticatedinventoryinteractions.configuration.layout.playerSortOffsetOverrides"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

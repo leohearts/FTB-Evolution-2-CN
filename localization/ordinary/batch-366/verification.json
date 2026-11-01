@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "366",
+  "namespace": "sophisticatedinventoryinteractions",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 7,
+  "source_sha256": "4e2c8f469f5a72a703731961e8b92561751e2f5ff1415293e3eb1e0443e46e46",
+  "in_game_tested": false
+}

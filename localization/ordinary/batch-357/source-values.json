@@ -1,0 +1,7 @@
+[
+  "Cannot teleport here: remote portal creation prevented!",
+  "Teleportation allowed, portal creation prevented",
+  "Reminder: FTB Chunks admin bypass is currently enabled.\nYou can toggle this with '/ftbchunks admin bypass_protection'.",
+  "Nether Portal Creation",
+  "How to act if vanilla attempts to create a nether portal for a player in a chunk that's claimed by another team\nno_portal: allow the player to teleport but don't create a portal structure\nfailure: prevent teleportation completely\nallow: just go ahead and create the portal as normal"
+]

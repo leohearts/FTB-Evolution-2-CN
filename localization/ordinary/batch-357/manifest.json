@@ -1,0 +1,28 @@
+{
+  "batch": "357",
+  "namespace": "ftbchunks",
+  "jar": ".minecraft/mods/ftb-chunks-neoforge-26.1.2.9.jar",
+  "jar_sha256": "bc8d3144b481684974479840a98fdc085b2bd372bbcd5aff0aab6d26bee29940",
+  "language_path": "assets/ftbchunks/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-chunks-neoforge-26.1.2.9.jar",
+    "jar_sha256": "bc8d3144b481684974479840a98fdc085b2bd372bbcd5aff0aab6d26bee29940",
+    "nested_jars": [],
+    "resource": "assets/ftbchunks/lang/en_us.json",
+    "mod_ids": [
+      "ftbchunks"
+    ],
+    "resource_sha256": "df18f76cc0a92a0fcddfde15dd5d430e8956042166e0490ccae7e2612d2c1e47"
+  },
+  "target": ".minecraft/kubejs/assets/ftbchunks/lang/zh_cn.json",
+  "include_keys": [
+    "ftbchunks.nether_portal.failure",
+    "ftbchunks.nether_portal.no_portal",
+    "ftbchunks.admin_bypass_reminder",
+    "ftbchunks.config.server.nether_portal_creation",
+    "ftbchunks.config.server.nether_portal_creation.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

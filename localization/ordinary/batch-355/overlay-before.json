@@ -1,0 +1,13 @@
+{
+  "itemGroup.little_big_redstone.little_big_redstone": "Little Big Redstone",
+  "key.category.little_big_redstone.little_big_redstone": "Little Big Redstone",
+  "text.little_big_redstone.count_and_percentage": "%s (%s)",
+  "text.little_big_redstone.floppy_disk_more_items": "+%s",
+  "text.little_big_redstone.logic_gate_algebra": "Q = %s",
+  "text.little_big_redstone.logic_gate_algebra_and": "A ∧ B",
+  "text.little_big_redstone.logic_gate_algebra_nand": "A ↑ B",
+  "text.little_big_redstone.logic_gate_algebra_nor": "A ↓ B",
+  "text.little_big_redstone.logic_gate_algebra_not": "¬A",
+  "text.little_big_redstone.logic_gate_algebra_or": "A ∨ B",
+  "text.little_big_redstone.logic_gate_algebra_xor": "A ⊻ B"
+}

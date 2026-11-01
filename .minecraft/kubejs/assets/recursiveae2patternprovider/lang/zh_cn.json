@@ -28,5 +28,13 @@
   "gui.recursiveae2patternprovider.button.recursive_on": "递归样板: 开",
   "gui.recursiveae2patternprovider.button.recursive_off": "递归样板: 关",
   "gui.recursiveae2patternprovider.button.recursive_desc_on": "已启用自动依赖样板生成",
-  "gui.recursiveae2patternprovider.button.recursive_desc_off": "已禁用自动依赖样板生成"
+  "gui.recursiveae2patternprovider.button.recursive_desc_off": "已禁用自动依赖样板生成",
+  "recursiveae2patternprovider.configuration.defaultRecursiveMode": "默认递归模式",
+  "recursiveae2patternprovider.configuration.defaultRecursiveMode.tooltip": "新打开的样板编码终端默认以递归模式启动. 终端上的开关可在当前会话中覆盖此设置. 多人游戏中使用服务器设置; 已有样板不会被转换",
+  "recursiveae2patternprovider.configuration.retainRecipeAlternatives": "保留配方替代项",
+  "recursiveae2patternprovider.configuration.retainRecipeAlternatives.tooltip": "发布有效的配方替代项, 以便AE2在每次合成计算时根据库存进行检查. 存储方块/粒的转换配方也会包含在内, 但排序在真正的合成配方之后. 最多发布'每个物品的最大备选配方数'个配方; 关闭时仅使用按成本排序的静态选择",
+  "recursiveae2patternprovider.configuration.generatedIngredientAlternatives": "生成原料替代项",
+  "recursiveae2patternprovider.configuration.generatedIngredientAlternatives.tooltip": "为生成的样板发布经过验证的原料变体(例如可接受的原木/木板选择). 每个变体使用精确的物品输入, 因此替换不会消耗为其他依赖预留的库存. 不会更改手动编码的根样板",
+  "recursiveae2patternprovider.configuration.debugLogging": "调试日志",
+  "recursiveae2patternprovider.configuration.debugLogging.tooltip": "将每个物品的配方选择详情(已选中, 已拒绝和已丢弃的配方)写入日志. 输出内容较多, 仅在排查生成了哪些配方时启用"
 }

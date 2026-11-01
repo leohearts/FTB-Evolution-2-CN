@@ -73,5 +73,8 @@
   "jade.horsepowered.trap_next_drop": "下次产出: %s",
   "jade.horsepowered.trap_wrong_biome": "生物群系不符",
   "jade.horsepowered.trap_needs_water": "需要水",
-  "biome.horsepowered.fish_habitat": "河流与海洋"
+  "biome.horsepowered.fish_habitat": "河流与海洋",
+  "gui.horsepowered.jei.trap_dimension": "维度: %s",
+  "gui.horsepowered.jei.trap_dimensions": "有效维度:",
+  "jade.horsepowered.trap_wrong_dimension": "维度错误"
 }

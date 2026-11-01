@@ -616,5 +616,9 @@
   "subtitles.hephaestus_tools.arsenal_table_open": "锻造台打开",
   "subtitles.hephaestus_tools.arsenal_table_close": "锻造台关闭",
   "subtitles.hephaestus_tools.arsenal_table_craft": "锻造台敲击",
-  "subtitles.hephaestus_tools.arsenal_table_craft_hold": "锻造台工作"
+  "subtitles.hephaestus_tools.arsenal_table_craft_hold": "锻造台工作",
+  "item.hephaestus_tools.forge_key": "锻造钥匙",
+  "material.hephaestus_tools.replica": "复制物质",
+  "trait.hephaestus_tools.beheading": "斩首",
+  "trait.hephaestus_tools.beheading.desc": "击杀生物时有25%的几率掉落其头颅."
 }

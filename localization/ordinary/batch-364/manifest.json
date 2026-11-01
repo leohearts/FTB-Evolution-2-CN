@@ -1,0 +1,26 @@
+{
+  "batch": "364",
+  "namespace": "horsepowered",
+  "jar": ".minecraft/mods/horsepowered-26.1.2-3.11.7.jar",
+  "jar_sha256": "abaca363d6b857747705179dce9ad38b5d1f70a2eb797203e606004a2c5e3d67",
+  "language_path": "assets/horsepowered/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/horsepowered-26.1.2-3.11.7.jar",
+    "jar_sha256": "abaca363d6b857747705179dce9ad38b5d1f70a2eb797203e606004a2c5e3d67",
+    "nested_jars": [],
+    "resource": "assets/horsepowered/lang/en_us.json",
+    "mod_ids": [
+      "horsepowered"
+    ],
+    "resource_sha256": "c3c9c543499717ad119bf7dd91368eccba363964ec9bf1011099e7af8e88451a"
+  },
+  "target": ".minecraft/kubejs/assets/horsepowered/lang/zh_cn.json",
+  "include_keys": [
+    "gui.horsepowered.jei.trap_dimension",
+    "gui.horsepowered.jei.trap_dimensions",
+    "jade.horsepowered.trap_wrong_dimension"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

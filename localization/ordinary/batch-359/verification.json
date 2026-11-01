@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "359",
+  "namespace": "dimenergy",
+  "source_keys": 4,
+  "unique_values": 4,
+  "chinese_values": 4,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 5,
+  "source_sha256": "31bbe3e7483dedd454164faa87c51ac07986bdeec3ed20ebfb3272448010fc4b",
+  "in_game_tested": false
+}

@@ -4,5 +4,6 @@
   "sophisticatedinventoryinteractions.configuration.minimumActionableContainerSlots": "最少可用槽位",
   "sophisticatedinventoryinteractions.configuration.exclude.screenClasses": "屏蔽的界面",
   "sophisticatedinventoryinteractions.configuration.include.screenClasses": "允许的界面",
-  "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "界面槽位排除"
+  "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "界面槽位排除",
+  "sophisticatedinventoryinteractions.configuration.layout.playerSortOffsetOverrides": "玩家排序偏移"
 }

@@ -1,0 +1,8 @@
+{
+  "sophisticatedinventoryinteractions.configuration.compatibility": "兼容性",
+  "sophisticatedinventoryinteractions.configuration.defaultScreenPolicy": "默认界面策略",
+  "sophisticatedinventoryinteractions.configuration.minimumActionableContainerSlots": "最少可用槽位",
+  "sophisticatedinventoryinteractions.configuration.exclude.screenClasses": "屏蔽的界面",
+  "sophisticatedinventoryinteractions.configuration.include.screenClasses": "允许的界面",
+  "sophisticatedinventoryinteractions.configuration.slotExclusions.screenSlotOverrides": "界面槽位排除"
+}

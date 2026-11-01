@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "348",
+  "namespace": "justenoughcraftingtables",
+  "source_keys": 111,
+  "unique_values": 104,
+  "chinese_values": 109,
+  "reviewed_non_prose_values": 2,
+  "installed_overlay_keys": 111,
+  "source_sha256": "906cea8d4c0850de351d4bc9009b58ae485643e5bfd30a767d0d3e9b9fc1acd7",
+  "in_game_tested": false
+}

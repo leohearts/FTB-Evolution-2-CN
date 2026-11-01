@@ -1,0 +1,26 @@
+{
+  "batch": "363",
+  "namespace": "modonomicon",
+  "jar": ".minecraft/mods/modonomicon-26.1.2-neoforge-2.19.0.jar",
+  "jar_sha256": "9da6829bc88a81190364f8a13cde2cd613ed8249a5010048f012fa51b7f2525b",
+  "language_path": "assets/modonomicon/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/modonomicon-26.1.2-neoforge-2.19.0.jar",
+    "jar_sha256": "9da6829bc88a81190364f8a13cde2cd613ed8249a5010048f012fa51b7f2525b",
+    "nested_jars": [],
+    "resource": "assets/modonomicon/lang/en_us.json",
+    "mod_ids": [
+      "modonomicon"
+    ],
+    "resource_sha256": "fe0f196bb468bbac3456a847a46d2988ac955538a777a3e7cd0418c7694fb0c0"
+  },
+  "target": ".minecraft/kubejs/assets/modonomicon/lang/zh_cn.json",
+  "include_keys": [
+    "book.modonomicon.demo.conditional.always_locked.condition.tooltip",
+    "book.modonomicon.demo.formatting.always_locked.condition.tooltip",
+    "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

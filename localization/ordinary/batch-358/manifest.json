@@ -1,0 +1,28 @@
+{
+  "batch": "358",
+  "namespace": "irons_lib",
+  "jar": ".minecraft/mods/irons_lib-26.1.2-2.3.0.jar",
+  "jar_sha256": "d9e7827800cca96ab6a3a3c829d25f22dd857ddd0d7c5a6d14936afcd792fc31",
+  "language_path": "assets/irons_lib/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/irons_lib-26.1.2-2.3.0.jar",
+    "jar_sha256": "d9e7827800cca96ab6a3a3c829d25f22dd857ddd0d7c5a6d14936afcd792fc31",
+    "nested_jars": [],
+    "resource": "assets/irons_lib/lang/en_us.json",
+    "mod_ids": [
+      "irons_lib"
+    ],
+    "resource_sha256": "59780df370a897107d37c475fa4a9f641f561faf8d70678983cf2e4a05b6a244"
+  },
+  "target": ".minecraft/kubejs/assets/irons_lib/lang/zh_cn.json",
+  "include_keys": [
+    "transmog.irons_lib.autumn_knight",
+    "transmog.irons_lib.pumpkin_head",
+    "transmog.irons_lib.pumpkin_head_creeper",
+    "transmog.irons_lib.pumpkin_head_happy",
+    "transmog.irons_lib.pumpkin_head_sad"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

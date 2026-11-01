@@ -1,0 +1,23 @@
+{
+  "key.category.modonomicon.modonomicon": "Modonomicon",
+  "key.modonomicon.open_associated_entry": "打开关联书页",
+  "modonomicon.configuration.associatedItemsHoldDurationMs": "关联物品按住时长",
+  "modonomicon.configuration.associatedItemsHoldDurationMs.tooltip": "悬停在关联物品上时, 需要按住打开键多久 (毫秒) 才会打开对应的书页.",
+  "modonomicon.configuration.debug": "调试设置",
+  "modonomicon.configuration.debugOverlay": "调试叠加层",
+  "modonomicon.configuration.debugOverlay.tooltip": "启用书籍调试叠加层.打开书时按 F6 切换.它会用不同颜色描出页面, 内容区与文本区的边框, 便于调整布局偏移.",
+  "modonomicon.configuration.enableSmoothZoom.tooltip": "在书籍分类中启用平滑缩放",
+  "modonomicon.configuration.fontFallbackLocales.tooltip": "若默认 Modonomicon 字体不支持你的语言 (表现为书中只显示方块状图形而非字符), 请将你的语言加入此列表, 以回退到内置的 Minecraft 字体.",
+  "modonomicon.configuration.pauseGameWhenOpen": "打开时暂停游戏",
+  "modonomicon.configuration.pauseGameWhenOpen.tooltip": "若为是, 打开 Modonomicon 书籍时游戏会暂停 (仅单人).",
+  "modonomicon.configuration.showRecipeLookupHints": "显示配方查询提示",
+  "modonomicon.configuration.showRecipeLookupHints.tooltip": "在物品提示中显示配方查看器提示 (点击显示配方, Shift 点击显示用途).",
+  "modonomicon.configuration.showResearchToasts": "显示研究提示",
+  "modonomicon.configuration.showResearchToasts.tooltip": "授予研究事实, 数值增加或节点解锁时显示弹窗提示.",
+  "modonomicon.configuration.storeLastOpenPageWhenClosingEntry.tooltip": "关闭条目时保存最后打开的页面.无论此设置如何, 用 Esc 关闭整本书时都会保存.",
+  "modonomicon.gui.hover.book_link_locked": "%s.\n%s",
+  "tooltip.modonomicon.associated.hold_to_open": "按住 %s 持续 %ss",
+  "tooltip.modonomicon.associated.locked": "已锁定: 请在书中解锁",
+  "tooltip.modonomicon.fluid.amount": "%s mb",
+  "tooltip.modonomicon.fluid.amount_and_capacity": "%s / %s mb"
+}

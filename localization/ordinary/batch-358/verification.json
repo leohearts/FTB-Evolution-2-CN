@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "358",
+  "namespace": "irons_lib",
+  "source_keys": 5,
+  "unique_values": 5,
+  "chinese_values": 5,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 77,
+  "source_sha256": "59780df370a897107d37c475fa4a9f641f561faf8d70678983cf2e4a05b6a244",
+  "in_game_tested": false
+}

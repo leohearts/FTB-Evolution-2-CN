@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "365",
+  "namespace": "ftbarmory",
+  "source_keys": 1,
+  "unique_values": 1,
+  "chinese_values": 1,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 213,
+  "source_sha256": "5f7bb819472a89a4650978a11e88f4507b918bdfe19758c430c2422ba36ed8d8",
+  "in_game_tested": false
+}

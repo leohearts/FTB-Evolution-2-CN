@@ -210,5 +210,6 @@
   "wand.thaumaturge.cap.adamantite": "精金凸饰",
   "wand.thaumaturge.cap.aeternium": "永恒合金镶环",
   "pack.ftbarmory.ae2": "FTB Armory: AE2",
-  "pack.ftbarmory.thaumaturge": "FTB Armory: Thaumaturge"
+  "pack.ftbarmory.thaumaturge": "FTB Armory: Thaumaturge",
+  "item.ftbarmory.productivity_upgrade.tooltip.mystian": "在Mystian Apiary中产出变为%s倍, 每多装一个翻倍, 最多四个"
 }

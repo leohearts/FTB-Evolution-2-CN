@@ -19,5 +19,8 @@
   "tooltip.modonomicon.associated.hold_to_open": "按住 %s 持续 %ss",
   "tooltip.modonomicon.associated.locked": "已锁定: 请在书中解锁",
   "tooltip.modonomicon.fluid.amount": "%s mb",
-  "tooltip.modonomicon.fluid.amount_and_capacity": "%s / %s mb"
+  "tooltip.modonomicon.fluid.amount_and_capacity": "%s / %s mb",
+  "book.modonomicon.demo.conditional.always_locked.condition.tooltip": "此条目被刻意设为始终锁定, 用于演示\"false\"条件.",
+  "book.modonomicon.demo.formatting.always_locked.condition.tooltip": "此条目被刻意设为始终锁定, 用于演示\"false\"条件.",
+  "book.modonomicon.demo_index.conditional.always_locked.condition.tooltip": "此条目被刻意设为始终锁定, 用于演示\"false\"条件."
 }

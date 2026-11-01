@@ -1,0 +1,24 @@
+{
+  "batch": "367",
+  "namespace": "tesseract_api",
+  "jar": ".minecraft/mods/tesseract-api-neoforge-1.13.6-26.1.2.jar",
+  "jar_sha256": "5dcdf7d9679fabca2d355d5d52c9a62d84d9f36b5d5b667c0829a48442364feb",
+  "language_path": "assets/tesseract_api/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/tesseract-api-neoforge-1.13.6-26.1.2.jar",
+    "jar_sha256": "5dcdf7d9679fabca2d355d5d52c9a62d84d9f36b5d5b667c0829a48442364feb",
+    "nested_jars": [],
+    "resource": "assets/tesseract_api/lang/en_us.json",
+    "mod_ids": [
+      "tesseract_api"
+    ],
+    "resource_sha256": "85986cbd44eeff31380c791d46da8fb6ec1403adfa3b41d2f7a87098a4b9a469"
+  },
+  "target": ".minecraft/kubejs/assets/tesseract_api/lang/zh_cn.json",
+  "include_keys": [
+    "text.tesseract_api.spliterator_last"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [],
+  "target_pack_version": "1.6.3"
+}

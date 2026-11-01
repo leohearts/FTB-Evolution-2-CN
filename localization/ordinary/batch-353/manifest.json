@@ -1,0 +1,56 @@
+{
+  "batch": "353",
+  "namespace": "rep_ae2_bridge",
+  "jar": ".minecraft/mods/rep_ae2_bridge-3.0.0.0.0-neoforge-26.1.2.jar",
+  "jar_sha256": "0dd268d8a98a45b79ccca95c8d94537d4bdb310af3c44f1fe70686bfeaecbe96",
+  "language_path": "assets/rep_ae2_bridge/lang/en_us.json",
+  "resource_binding": {
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/rep_ae2_bridge-3.0.0.0.0-neoforge-26.1.2.jar",
+    "jar_sha256": "0dd268d8a98a45b79ccca95c8d94537d4bdb310af3c44f1fe70686bfeaecbe96",
+    "nested_jars": [],
+    "resource": "assets/rep_ae2_bridge/lang/en_us.json",
+    "mod_ids": [
+      "rep_ae2_bridge"
+    ],
+    "resource_sha256": "75d5ebe8b0ed1de267a59cb93b0fb59cc9c6e132ebb5fc0bdf3cfaff032536cb"
+  },
+  "target": ".minecraft/kubejs/assets/rep_ae2_bridge/lang/zh_cn.json",
+  "include_keys": [
+    "item.rep_ae2_bridge.earth",
+    "item.rep_ae2_bridge.nether",
+    "item.rep_ae2_bridge.organic",
+    "item.rep_ae2_bridge.ender",
+    "item.rep_ae2_bridge.metallic",
+    "item.rep_ae2_bridge.precious",
+    "item.rep_ae2_bridge.living",
+    "item.rep_ae2_bridge.quantum",
+    "block.rep_ae2_bridge.rep_ae2_bridge",
+    "block.rep_ae2_bridge.repae2bridge",
+    "item.rep_ae2_bridge.repae2bridge",
+    "item.rep_ae2_bridge.custom_matter",
+    "itemGroup.rep_ae2_bridge.rep_ae2_bridge_tab",
+    "gui.rep_ae2_bridge.bridge",
+    "gui.rep_ae2_bridge.matter_assembler",
+    "gui.rep_ae2_bridge.feed_replication_energy",
+    "gui.rep_ae2_bridge.feed_replication_energy.hint",
+    "block.rep_ae2_bridge.matter_assembler",
+    "item.rep_ae2_bridge.matter_cell_housing",
+    "item.rep_ae2_bridge.matter_storage_cell_1k",
+    "item.rep_ae2_bridge.matter_storage_cell_4k",
+    "item.rep_ae2_bridge.matter_storage_cell_16k",
+    "item.rep_ae2_bridge.matter_storage_cell_64k",
+    "item.rep_ae2_bridge.matter_storage_cell_256k",
+    "item.rep_ae2_bridge.matter_storage_cell_creative",
+    "item.rep_ae2_bridge.matter_storage_cell_creative.tooltip",
+    "item.rep_ae2_bridge.guide",
+    "tooltip.rep_ae2_bridge.guide.line0",
+    "gui.rep_ae2_bridge.matter_encoding",
+    "gui.rep_ae2_bridge.matter_encoding.primary_output"
+  ],
+  "context_overrides": {},
+  "unchanged_values": [
+    "RepAE2Bridge",
+    "%s"
+  ],
+  "target_pack_version": "1.6.3"
+}

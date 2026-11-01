@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "batch": "350",
+  "namespace": "rsinsertexportupgrade",
+  "source_keys": 44,
+  "unique_values": 43,
+  "chinese_values": 44,
+  "reviewed_non_prose_values": 0,
+  "installed_overlay_keys": 44,
+  "source_sha256": "d5b7b600ed9bcc80828c28bfdf879c8dc48cef31acd8e6c55951a69a6207e0c3",
+  "in_game_tested": false
+}
