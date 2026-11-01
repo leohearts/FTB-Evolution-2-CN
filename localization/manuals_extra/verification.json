@@ -1,9 +1,9 @@
 {
   "status": "passed",
-  "pages_in_scope": 317,
-  "pages_translated": 317,
-  "pages_native_checked": 256,
-  "pages_token_checked": 317,
+  "pages_in_scope": 322,
+  "pages_translated": 322,
+  "pages_native_checked": 261,
+  "pages_token_checked": 322,
   "outputs_missing_or_drifted": [],
   "native_problems": [],
   "reviewed_ast_differences": [

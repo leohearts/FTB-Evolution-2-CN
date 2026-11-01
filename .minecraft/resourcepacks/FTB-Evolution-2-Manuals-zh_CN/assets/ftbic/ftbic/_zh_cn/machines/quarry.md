@@ -35,7 +35,7 @@ item_ids:
 
 <ItemImage id="minecraft:air" scale="0.25"/>
 
-**参数:** HV级,缓存320,000 FE,耗能24 FE/t.
+**参数:** HV级,缓存320,000 FE,耗能256 FE/t.
 
 采石场是少数没有高级版本的机器之一,请使用<ItemLink id="overclocker_upgrade" />加速.
 
@@ -50,7 +50,7 @@ item_ids:
 
 - 带 **精准采集** 的<ItemLink id="minecraft:diamond_pickaxe" />可完整采集石头,矿石,玻璃和刷怪笼.
 - 带 **时运III** 的<ItemLink id="minecraft:diamond_pickaxe" />会像玩家挖掘一样增加宝石,红石和青金石掉落.
-- **效率** 每级提供10%的采矿速度加成,并与<ItemLink id="overclocker_upgrade" />乘算叠加.仅效率V就能使原本8游戏刻的开采时间缩短至大约一半.
+- **效率** 每级提供10%的采矿速度加成,并与<ItemLink id="overclocker_upgrade" />乘算叠加,同时按相同比例提高耗能.效率V可使采石场速度提高到1.5倍,耗能也变为1.5倍.
 - 耐久等其他附魔无效,因为采石场默认不消耗工具耐久.
 
 默认情况下,镐不会损失耐久.如需模拟原版每挖一个方块消耗一点耐久的行为,可在`ftbic-common.toml`中设置`quarry_pickaxe_takes_damage = true`.镐损坏后槽位清空,开采恢复为无工具时的掉落规则.

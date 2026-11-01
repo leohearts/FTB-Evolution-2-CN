@@ -1,5 +1,5 @@
-GuideME native Markdown/MDX parser: parsed 557 pages successfully.
-GuideME embedded SnakeYAML: parsed 557 frontmatters successfully.
+GuideME native Markdown/MDX parser: parsed 562 pages successfully.
+GuideME embedded SnakeYAML: parsed 562 frontmatters successfully.
 SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.

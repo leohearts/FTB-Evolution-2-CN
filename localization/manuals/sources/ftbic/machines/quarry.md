@@ -35,7 +35,7 @@ item_ids:
 
 <ItemImage id="minecraft:air" scale="0.25"/>
 
-**Stats:** HV tier, 320,000 FE buffer, 24 FE/t use.
+**Stats:** HV tier, 320,000 FE buffer, 256 FE/t use.
 
 The Quarry is one of the few machines without an advanced variant — instead, use <ItemLink id="overclocker_upgrade" />s to speed it up.
 
@@ -50,7 +50,7 @@ The Quarry has a pickaxe slot between the pause button and the battery slot. Any
 
 - <ItemLink id="minecraft:diamond_pickaxe" /> with **Silk Touch** drops stone, raw ores, glass and spawners intact.
 - <ItemLink id="minecraft:diamond_pickaxe" /> with **Fortune III** multiplies gem, redstone, and lapis drops the same way a player would.
-- **Efficiency** grants a 10% mining-speed bonus per level, stacking multiplicatively with <ItemLink id="overclocker_upgrade" />s. Efficiency V on its own cuts the 8-tick mine time roughly in half.
+- **Efficiency** grants a 10% mining-speed bonus per level, stacking multiplicatively with <ItemLink id="overclocker_upgrade" />s, and raises power use by the same amount. Efficiency V makes the Quarry 1.5 times faster and uses 1.5 times the power.
 - Other enchants like Unbreaking have no effect — the Quarry does not depend on tool durability.
 
 By default the pickaxe never takes durability damage. To mirror vanilla behaviour where each block mined costs one durability, set `quarry_pickaxe_takes_damage = true` in `ftbic-common.toml`. If the pickaxe breaks, the slot empties and mining falls back to the no-tool drop table.

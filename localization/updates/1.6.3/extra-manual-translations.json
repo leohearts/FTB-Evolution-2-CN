@@ -1,0 +1,836 @@
+{
+  "assets/colossal_reactors/guides/colossal_reactors/guide/multiblock/reactor_builder.md": {
+    "30": {
+      "source": "   - **Website** pattern: paste a design **seed / URL**; heat-sink / rod cells follow the seed (including mixed heat sinks per column). On Website, the heat-sink cycle button is inactive.",
+      "translation": "   - **网站设计**图案: 粘贴设计**种子 / URL**; 散热介质 / 燃料棒格子将按种子放置(包括每柱混合的散热介质). 在网站设计模式下, 散热介质切换按钮不可用."
+    },
+    "31": {
+      "source": "3. **Preview** (under Center) — purple border, yellow rod positions, red = invalid/extra blocks. Status warnings appear **beside Center**.",
+      "translation": "3. **预览**(位于居中按钮下方): 紫色边框, 黄色燃料棒位置, 红色 = 无效/多余方块. 状态警告显示在**居中按钮旁**."
+    },
+    "32": {
+      "source": "4. **Mark Input** (just above the builder buffer):",
+      "translation": "4. **标记输入**(位于建造器缓冲物品栏正上方):"
+    },
+    "33": {
+      "source": "   - Assign buffer slots to specific items (see button tooltips).",
+      "translation": "   - 将缓冲槽位分配给特定物品(见按钮提示)."
+    },
+    "34": {
+      "source": "   - **Drag items from JEI** onto buffer slots for ghost mark filters; double-click a slot to clear.",
+      "translation": "   - 从 **JEI 拖拽物品**到缓冲槽位, 可设置虚拟标记过滤; 双击槽位即可清除."
+    },
+    "39": {
+      "source": "**Simulation** estimates stats and material counts (Website seeds included when valid); it does **not** start the real reactor.",
+      "translation": "**模拟**会估算性能与材料数量(有效的网站设计种子也包括在内); 它**不会**启动真正的反应堆."
+    },
+    "46": {
+      "source": "Example **finished** layout (builder + hand-placed ports on the **casing frame**). See [Getting started](getting_started.md) for labels.",
+      "translation": "示例**成品**布局(建造器 + 在**外壳框架**上手动放置的端口). 标签说明见[入门](getting_started.md)."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/getting_started.md": {
+    "76": {
+      "source": "- **Blade height bonus** — rings that grow taller toward the divider gain **+3%** per ascending layer with more blades; shrinking rings lose **−3%**. Multi-column builds need a **rod controller on every column** or take **−5%** — see [Rods and blades](turbine_rod_and_blades.md).",
+      "translation": "- **叶片高度加成**: 越靠近隔墙, 叶片越多的环, 每上升一层获得 **+3%**; 逐层收缩的环损失 **−3%**. 多列结构需要**每列都有转轴控制器**, 否则受到 **−5%** 惩罚; 见[转轴与叶片](turbine_rod_and_blades.md)."
+    },
+    "77": {
+      "source": "- **Valid formation** — shell, coils, rod controller(s) on the closure deck, and ports must all validate before generation runs.",
+      "translation": "- **有效结构**: 外壳, 线圈, 封闭平台上的转轴控制器和端口都必须通过验证, 才会开始发电."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_builder.md": {
+    "22": {
+      "source": "3. Stock the builder with **casing**, **glass**, **rod controllers** (one per rod column the pattern needs), **rods**, **blades**, and the **storage blocks** you want for coils.",
+      "translation": "3. 为建造器准备**外壳**, **玻璃**, **转轴控制器**(布局所需的每个转轴列各一个), **转轴**, **叶片**, 以及你想用于线圈的**储存方块**."
+    },
+    "23": {
+      "source": "4. Pick a **layout** (see [Rods and blades](turbine_rod_and_blades.md)):",
+      "translation": "4. 选择**布局**(见[转轴与叶片](turbine_rod_and_blades.md)):"
+    },
+    "24": {
+      "source": "   - **Efficient** — one center shaft; blades climb ring by ring (**+3%** height bonus possible).",
+      "translation": "   - **高效**: 单根中心转轴; 叶片逐环向上增长(可能获得 **+3%** 高度加成)."
+    },
+    "25": {
+      "source": "   - **Productive** — one center shaft; full rings every layer (maximum steam sooner).",
+      "translation": "   - **高产**: 单根中心转轴; 每层都是完整叶片环(更快达到最大蒸汽量)."
+    },
+    "26": {
+      "source": "   - **Hyperflow** — multi-rod grid; places a **rod controller on each column** (no −5% missing-controller penalty).",
+      "translation": "   - **超流**: 多转轴网格; 在**每个转轴列上放置转轴控制器**(不会受到缺少控制器的 −5% 惩罚)."
+    },
+    "27": {
+      "source": "   - **Website** — paste a design **seed / URL** into the design field; rods (and coil choice on Website) follow that layout.",
+      "translation": "   - **网站设计**: 将设计**种子 / URL** 粘贴到设计栏中; 转轴(以及网站设计模式下的线圈选择)将按该布局放置."
+    },
+    "28": {
+      "source": "   - **Custom / None** — frame (and coils for Custom) without rotor contents.",
+      "translation": "   - **自定义 / 无**: 仅建造框架(自定义模式还包括线圈), 不含转子内容."
+    },
+    "29": {
+      "source": "5. Choose **coil type** (cycles supported metals; editable on Website too) and **coil layer count** (wide button under Preview, next to it).",
+      "translation": "5. 选择**线圈类型**(循环切换支持的金属; 网站设计模式下也可编辑)以及**线圈层数**(位于预览下方的宽按钮旁)."
+    },
+    "30": {
+      "source": "6. Use **Preview** (under Center, same width) and the **Simulation** panel for RF/t, steam, and materials. Warnings appear **beside Center**.",
+      "translation": "6. 使用**预览**(位于居中下方, 宽度相同)与**模拟**面板查看 RF/t, 蒸汽和材料. 警告显示在**居中旁边**."
+    },
+    "31": {
+      "source": "7. **Mark Input** (just above the builder buffer):",
+      "translation": "7. **标记输入**(位于建造器缓存正上方):"
+    },
+    "32": {
+      "source": "   - Click a buffer slot while Mark Input is on to set which item that slot accepts for build steps.",
+      "translation": "   - 开启标记输入时点击缓存槽位, 可设置该槽位在建造步骤中接受的物品."
+    },
+    "33": {
+      "source": "   - You can also **drag items from JEI** onto buffer slots to set ghost mark filters; double-click a slot to clear.",
+      "translation": "   - 也可以**从 JEI 拖动物品**到缓存槽位上设置虚拟标记过滤; 双击槽位可清除."
+    },
+    "34": {
+      "source": "8. Press **Build** when ready.",
+      "translation": "8. 准备好后按下**建造**."
+    },
+    "36": {
+      "source": "Build order: **outer shell** → **closure deck** → **rod controllers** (one per rod column) → **rods** → **blades** → **coil blocks** in the top interior layers.",
+      "translation": "建造顺序: **外壳** → **封闭平台** → **转轴控制器**(每个转轴列一个) → **转轴** → **叶片** → 顶部内部层中的**线圈方块**."
+    },
+    "38": {
+      "source": "The builder does **not** place the exterior **Turbine Controller** or ports—add those by hand after the build.",
+      "translation": "建造器**不会**放置外部的**涡轮机控制器**或端口, 建造完成后请手动添加."
+    },
+    "42": {
+      "source": "Shows expected **RF/t** and **steam**, coil and blade bonuses (including the −5% when any rod column lacks a controller), and a **material list**. Website seeds are included in the simulation when the design is valid. Button names can vary by version; read the tooltips on screen while you work.",
+      "translation": "显示预期的 **RF/t** 与**蒸汽**, 线圈与叶片加成(包括任一转轴列缺少控制器时的 −5%), 以及**材料清单**. 设计有效时, 网站设计种子也会计入模拟. 按钮名称可能随版本变化; 操作时请阅读界面上的提示."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_generation_and_coils.md": {
+    "24": {
+      "source": "- **Blade layout bonus** depends on how rings stack by height—see [Rods and blades](turbine_rod_and_blades.md). If any rod column lacks a rod controller on the closure deck, that bonus is also cut by **−5%**.",
+      "translation": "- **叶片布局加成**取决于各环在高度上的堆叠方式, 见[转轴与叶片](turbine_rod_and_blades.md). 若任一转轴列在封闭平台上缺少转轴控制器, 该加成还会降低 **−5%**."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_rod_and_blades.md": {
+    "52": {
+      "source": "## Missing rod-controller penalty",
+      "translation": "## 缺少转轴控制器的惩罚"
+    },
+    "54": {
+      "source": "If the turbine has **any rod column** whose closure-deck cell is **not** a [Turbine Rod Controller](turbine_structure.md), blade efficiency is multiplied by **0.95 (−5%)**.",
+      "translation": "如果涡轮机中有**任意转轴列**的封闭平台格**不是**[涡轮转轴控制器](turbine_structure.md), 叶片效率将乘以 **0.95 (−5%)**."
+    },
+    "56": {
+      "source": "- One controller on a single-shaft layout: no penalty.",
+      "translation": "- 单转轴布局中有一个控制器: 无惩罚."
+    },
+    "57": {
+      "source": "- Multi-column layouts (**Hyperflow**, Website seeds, hand builds): place a controller **on every rod column** to cancel the −5%.",
+      "translation": "- 多列布局(**超流**, 网站设计种子, 手动建造): 在**每个转轴列**上放置控制器以消除 −5%."
+    },
+    "61": {
+      "source": "The [Turbine Builder](turbine_builder.md) can place rods, blades, and rod controllers for you:",
+      "translation": "[涡轮机建造器](turbine_builder.md)可以为你放置转轴, 叶片和转轴控制器:"
+    },
+    "63": {
+      "source": "- **Efficient** — single centered rod column; blade rings **climb** layer by layer (best height bonus).",
+      "translation": "- **高效**: 单根居中转轴列; 叶片环逐层**递增**(最佳高度加成)."
+    },
+    "64": {
+      "source": "- **Productive** — same single column; each layer gets the **maximum** ring count immediately.",
+      "translation": "- **高产**: 同样为单列; 每层立即获得**最大**环数."
+    },
+    "65": {
+      "source": "- **Hyperflow** — multi-rod grid (with a one-cell margin from walls); the builder places a **rod controller on every column**.",
+      "translation": "- **超流**: 多转轴网格(与墙壁留出一格间距); 建造器会在**每一列上放置转轴控制器**."
+    },
+    "66": {
+      "source": "- **Website** — rods from an imported design seed; blade growth follows climb/full like Efficient/Productive.",
+      "translation": "- **网站设计**: 转轴来自导入的设计种子; 叶片增长方式与高效/高产相同, 分为递增/填满."
+    }
+  },
+  "assets/colossal_reactors/guides/colossal_reactors/guide/turbine/turbine_structure.md": {
+    "29": {
+      "source": "## Rod controllers",
+      "translation": "## 转轴控制器"
+    },
+    "33": {
+      "source": "Place **Turbine Rod Controller** blocks on the **closure deck**—the casing layer that separates the **rotor** (below) from the **coil zone** (above). They set which way the shaft runs (you can orient them in **six directions**, like a heating coil).",
+      "translation": "将**涡轮转轴控制器**放置在**封闭平台**上, 即分隔**转子**(下方)与**线圈区域**(上方)的外壳层. 它们决定转轴的运行方向(可以像加热线圈那样朝**六个方向**定向)."
+    },
+    "35": {
+      "source": "- You need **at least one**. You may place **one controller per rod column**, each sitting **directly on the deck cell above that column’s rod pile**.",
+      "translation": "- 你需要**至少一个**. 可以**每个转轴列放置一个控制器**, 每个都位于**该柱转轴堆正上方的封闭平台格**上."
+    },
+    "36": {
+      "source": "- All controllers must share the **same deck plane** and the **same facing**.",
+      "translation": "- 所有控制器必须位于**同一封闭平台平面**, 并且**朝向相同**."
+    },
+    "37": {
+      "source": "- Controllers are **not** on the outer shell border.",
+      "translation": "- 控制器**不能**位于外壳边框上."
+    },
+    "39": {
+      "source": "If any rod column has rods but **no** controller on its deck cell, blade efficiency takes a **−5%** penalty (see [Rods and blades](turbine_rod_and_blades.md)). Putting a controller on **every** rod column cancels that penalty.",
+      "translation": "如果某个转轴列有转轴, 但其封闭平台格上**没有**控制器, 叶片效率会受到 **−5%** 的惩罚(见[转轴与叶片](turbine_rod_and_blades.md)). 在**每个**转轴列上都放置控制器即可消除该惩罚."
+    },
+    "41": {
+      "source": "- Rods must line up with the controller axis. Wrong-facing rods are fixed when the turbine checks the build, when possible.",
+      "translation": "- 转轴必须与控制器的轴向对齐. 朝向错误的转轴会在涡轮机检查建造时尽可能被修正."
+    },
+    "60": {
+      "source": "| **Closure deck** | Layer between rotor and coils | Casing + rod controllers above rod columns |",
+      "translation": "| **封闭平台** | 转子与线圈之间的层 | 外壳 + 转轴列上方的转轴控制器 |"
+    }
+  },
+  "assets/horsepowered/guides/horsepowered/guide/animal_trap.md": {
+    "59": {
+      "source": "## Biome, Dimension and Waterlog Conditions",
+      "translation": "## 生物群系, 维度与含水条件"
+    },
+    "61": {
+      "source": "When a recipe specifies a biome tag, a dimension or a waterlogged requirement, the trap only counts dice rolls when those conditions are met. The bait stays, the timer keeps running, but no animal is ever caught until you relocate or waterlog the trap. If one bait has recipes for different places, the trap uses the one that matches where it stands.",
+      "translation": "当配方指定了生物群系标签, 维度或含水要求时, 陷阱只会在满足这些条件时进行随机判定. 诱饵会保留, 计时也会继续, 但在你移动陷阱或使其含水之前, 永远抓不到动物. 如果同一种诱饵有对应不同地点的配方, 陷阱会使用与其所在位置相符的配方."
+    },
+    "63": {
+      "source": "Jade displays in red as `Wrong biome`, `Wrong dimension` or `Needs water` when bait is loaded but the conditions are not satisfied.",
+      "translation": "当已装入诱饵但条件不满足时, Jade 会以红色显示 `Wrong biome`, `Wrong dimension` 或 `Needs water`."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/deep_engineering/crystal_cultivation.md": {
+    "22": {
+      "source": "A <ItemLink id=\"prismarine_crystal\"/> turns any beam into a purity 3.0 beam, but the wild ones in Crystal Geodes are rooted where they grew. A **Cultivated Prismarine Crystal** rolls a purity between **3.00 and 6.00** when it finishes growing, rewarding cultivation with a chance of purer beams. It can also be lifted with a wrench and set down anywhere. Growing one takes a seed, a cradle, and ten million AP of high-purity laser power.",
+      "translation": "<ItemLink id=\"prismarine_crystal\"/>可将任何光束转变为纯度 3.0 的光束, 但水晶晶洞中的天然水晶扎根于其生长处. **培育海棱水晶**在生长完成时会随机获得 **3.00 至 6.00** 之间的纯度, 让培育有机会带来更纯的光束. 它还可以用扳手抬起, 放到任何地方. 培育一颗需要晶种, 培育座和一千万 AP 的高纯度激光能量."
+    },
+    "90": {
+      "source": "At ten million AP the seed becomes a full Cultivated Prismarine Crystal standing on the cradle. Its purity is randomly set between **3.00 and 6.00**, in steps of 0.01, when growth completes. Fire a beam into its side, and the top and bottom emit beams at that crystal's purity, sharing the incoming power (see [Laser Power](nautec:getting_started/laser_power.md)). The cradle is empty again and ready for another seed.",
+      "translation": "达到一千万 AP 时, 晶种会变成立在培育座上的完整培育海棱水晶. 生长完成时, 它的纯度会在 **3.00 至 6.00** 之间随机确定, 步长为 0.01. 向其侧面发射光束, 顶部和底部会发出与该水晶纯度相同的光束, 并共享输入的功率(见[激光能量](nautec:getting_started/laser_power.md)). 培育座重新变空, 可以放入下一个晶种."
+    },
+    "92": {
+      "source": "**To move it**, sneak and right-click any part of it with a wrench. Any mod's wrench works, as long as it is in the `c:tools/wrench` tag, including the <ItemLink id=\"aquarine_steel_wrench\"/>. You get the crystal back as an item, and placing it needs six free blocks of height again. Its rolled purity is preserved when moved or reloaded; moving it does not reroll the value. Check the item tooltip to see its purity.",
+      "translation": "**要移动它**, 请潜行并用扳手右键点击它的任意部分. 任何模组的扳手都可以, 只要它位于 `c:tools/wrench` 标签中, 包括<ItemLink id=\"aquarine_steel_wrench\"/>. 你会以物品形式取回水晶, 再次放置仍需要六格空闲高度. 移动或重新加载后, 已随机出的纯度会保留; 移动不会重新随机该数值. 查看物品工具提示即可了解其纯度."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/getting_started/laser_power.md": {
+    "79": {
+      "source": "Higher purity comes from a <ItemLink id=\"prismarine_crystal\"/> (3.0 in the wild, 3.00-6.00 when newly cultivated), a <ItemLink id=\"bacterial_fuel_cell\"/> (up to 2.5), or a <ItemLink id=\"focusing_lens\"/> added to an existing beam. [Beam Optics](nautec:deep_engineering/beam_optics.md) covers turning, splitting and focusing beams.",
+      "translation": "更高纯度来自<ItemLink id=\"prismarine_crystal\"/>(野生为 3.0, 新培育的为 3.00-6.00), <ItemLink id=\"bacterial_fuel_cell\"/>(最高 2.5), 或添加到现有光束中的<ItemLink id=\"focusing_lens\"/>. [光束光学](nautec:deep_engineering/beam_optics.md)介绍光束的转向, 分流和聚焦."
+    },
+    "88": {
+      "source": "A six block tall crystal found standing inside Crystal Geodes under the ocean floor (see [Structures](structures.md)). It turns any beam into a purity 3.0 beam. Wild crystals are rooted in place, but you can grow a movable crystal that rolls 3.00-6.00 purity on maturity: see [Crystal Cultivation](nautec:deep_engineering/crystal_cultivation.md).",
+      "translation": "一种六格高的水晶, 立于海底下的水晶晶洞中(参见[结构](structures.md)). 它会把任何光束变成纯度 3.0 的光束. 野生水晶固定原地, 但你可以培育一株可移动的水晶, 成熟时随机获得 3.00-6.00 的纯度: 参见[水晶培育](nautec:deep_engineering/crystal_cultivation.md)."
+    },
+    "90": {
+      "source": "Fire a beam into the crystal from the side. Any of its six blocks takes a beam on any of its four sides, and beams from several sources add together. The top block then fires straight up and the bottom block fires straight down, both at the crystal's purity: 3.0 for natural crystals, or the fixed value rolled when a cultivated crystal matures. If only one of them reaches a receiver, that beam carries the full incoming power. If both do, the power is split evenly between them, so a crystal never puts out more AP than goes in. These two beams run until they reach a receiver or a solid block, so they work into an empty floor or ceiling as well.",
+      "translation": "从侧面将光束射入水晶. 它的六个方块中的任何一个都能在四个侧面中的任意一面接受光束, 来自多个源头的光束会相加. 然后顶部方块向上直射, 底部方块向下直射, 两者均为水晶的纯度: 天然水晶为 3.0, 培育水晶则为其成熟时随机确定的固定值. 如果只有其中一束到达接收方, 该光束携带全部输入功率. 如果两束都到达, 功率在它们之间平均分配, 因此水晶输出的 AP 绝不会多于输入. 这两道光束会一直运行, 直到到达接收方或实心方块, 因此射向空地面或空天花板也有效."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/laser_chemistry/confined_spawner.md": {
+    "9": {
+      "source": "  - nautec:mob_sampler",
+      "translation": "  - nautec:mob_sampler"
+    },
+    "10": {
+      "source": "  - nautec:mob_sample",
+      "translation": "  - nautec:mob_sample"
+    },
+    "24": {
+      "source": "Sneak and use the Confined Spawner with an empty hand, or with a Matrix, to release it. The cage returns to an ordinary spawner with its current mob and upgrades, and the Matrix returns to your inventory. It only releases once the storage and the experience tank are both empty; until then a message says to empty them first.",
+      "translation": "潜行并用空手或刷怪笼约束矩阵对约束刷怪笼使用, 可将其释放. 笼子会恢复为普通刷怪笼, 并保留当前的生物和升级, 刷怪笼约束矩阵会回到你的物品栏. 只有当存储和经验储罐都为空时才能释放; 在此之前会提示先清空它们."
+    },
+    "28": {
+      "source": "## <Color id=\"gold\">Changing the Mob</Color>",
+      "translation": "## <Color id=\"gold\">更换生物</Color>"
+    },
+    "30": {
+      "source": "Make a <ItemLink id=\"mob_sampler\"/> in the Mixer with one Glass Vial, two Aquarine Copper Ingots, a diamond and 250 mB of Electrolyte Algae Serum. Each recipe makes one sampler.",
+      "translation": "在搅拌机中用一个玻璃试管, 两个海蓝铜锭, 一颗钻石和 250 mB 电解藻类浆液制作<ItemLink id=\"mob_sampler\"/>. 每次配方产出一个采样器."
+    },
+    "32": {
+      "source": "Use the sampler on a living mob to collect a <ItemLink id=\"mob_sample\"/>. The creature stays alive and in place. The sampler is consumed, and the sample's tooltip names the mob it came from. Creatures added by other mods work too.",
+      "translation": "对活着的生物使用采样器即可采集<ItemLink id=\"mob_sample\"/>. 该生物会存活并留在原地. 采样器会被消耗, 样本的提示信息会注明其来源生物. 其他模组添加的生物同样适用."
+    },
+    "34": {
+      "source": "Use the sample on a Confined Spawner to change its mob. The sample is consumed. Spawn count, delay, upgrades, filters, stored drops and experience are kept; progress toward the next cycle starts over. Breaking and replacing the spawner keeps the new mob, as does releasing it back into an ordinary spawner. Samples cannot be applied directly to ordinary spawners.",
+      "translation": "对约束刷怪笼使用样本可更换其生物. 样本会被消耗. 生成数量, 延迟, 升级, 过滤器, 存储的掉落物和经验都会保留; 下一周期的进度会重新开始. 破坏并重新放置刷怪笼会保留新生物, 释放回普通刷怪笼时也是如此. 样本不能直接用于普通刷怪笼."
+    },
+    "36": {
+      "source": "Players, dead creatures and entities marked with the `c:capturing_not_supported` entity type tag cannot be sampled. The tag is checked again when applying a sample, so packs can also block samples that were collected before their rules changed.",
+      "translation": "玩家, 已死亡的生物以及带有 `c:capturing_not_supported` 实体类型标签的实体无法采样. 使用样本时会再次检查该标签, 因此整合包也可以阻止在规则更改前采集的样本."
+    },
+    "38": {
+      "source": "<RecipeFor id=\"mob_sampler\"/>",
+      "translation": "<RecipeFor id=\"mob_sampler\"/>"
+    },
+    "40": {
+      "source": "### <Color id=\"aqua\">Guardian Materials</Color>",
+      "translation": "### <Color id=\"aqua\">守卫者材料</Color>"
+    },
+    "42": {
+      "source": "Guardians are a useful first target for sampling. A Guardian Confined Spawner supplies renewable Prismarine Shards and Prismarine Crystals for [Aquatic Catalyst fuel](nautec:getting_started/laser_power.md) and NauTec crafting, including Aquarine Copper Compound.",
+      "translation": "守卫者是很适合首先采样的目标. 守卫者约束刷怪笼可再生地提供海晶碎片和海晶砂粒, 用于[海蓝催化器燃料](nautec:getting_started/laser_power.md)和 海蓝科技合成, 包括海蓝铜混合物."
+    },
+    "44": {
+      "source": "It also has a chance to produce <ItemLink id=\"ancient_valve\"/>, <ItemLink id=\"burnt_coil\"/> and <ItemLink id=\"guardian_eye\"/>. This gives you an automated supply of salvage parts and Guardian Eyes for augments and Impulse Laser Modules. See [Salvage](nautec:getting_started/salvage.md) for the extra mob drops and [Crates and Etching](nautec:getting_started/etching.md) for cleaning salvage parts.",
+      "translation": "它还有几率产出<ItemLink id=\"ancient_valve\"/>, <ItemLink id=\"burnt_coil\"/>和<ItemLink id=\"guardian_eye\"/>. 这能为你自动供应打捞零件和守卫者之眼, 用于增强模块和脉冲激光模块. 额外的生物掉落参见[打捞](nautec:getting_started/salvage.md), 清理打捞零件参见[板条箱与蚀刻](nautec:getting_started/etching.md)."
+    }
+  },
+  "assets/nautec/guides/nautec/guide/laser_chemistry/crystal_cultivator.md": {
+    "1": {
+      "source": "navigation:",
+      "translation": "navigation:"
+    },
+    "2": {
+      "source": "  title: Crystal Cultivator",
+      "translation": "  title: 晶体培育器"
+    },
+    "3": {
+      "source": "  icon: nautec:crystal_cultivator",
+      "translation": "  icon: nautec:crystal_cultivator"
+    },
+    "4": {
+      "source": "  position: 13",
+      "translation": "  position: 13"
+    },
+    "5": {
+      "source": "  parent: laser_chemistry/laser_chemistry-index.md",
+      "translation": "  parent: laser_chemistry/laser_chemistry-index.md"
+    },
+    "6": {
+      "source": "item_ids:",
+      "translation": "item_ids:"
+    },
+    "7": {
+      "source": "  - nautec:crystal_cultivator",
+      "translation": "  - nautec:crystal_cultivator"
+    },
+    "10": {
+      "source": "# Crystal Cultivator",
+      "translation": "# 晶体培育器"
+    },
+    "12": {
+      "source": "<ItemImage id=\"crystal_cultivator\" scale=\"2\"/>",
+      "translation": "<ItemImage id=\"crystal_cultivator\" scale=\"2\"/>"
+    },
+    "14": {
+      "source": "Attach a Crystal Cultivator to any face of a budding block, then aim a laser into its outward-facing crystal tip. It accelerates growth and harvests fully grown clusters from the remaining faces, leaving young buds and the source block in place.",
+      "translation": "将晶体培育器安装在任意母岩方块的一面上, 再将激光对准其朝外的晶体尖端. 它会加速生长, 并从其余各面收获完全长成的晶簇, 保留未成熟的晶芽和母岩方块."
+    },
+    "16": {
+      "source": "Use it with Budding Prismarine to automate Prismarine Crystal Shards, or with vanilla Budding Amethyst. GeoOre budding blocks and AE2 budding quartz are supported when those mods are installed.",
+      "translation": "可搭配海晶母岩自动产出海棱水晶碎片, 也可搭配原版紫水晶母岩. 安装矿石晶洞和 AE2 后, 也支持矿石晶洞的母岩方块和 AE2 的赛特斯石英母岩."
+    },
+    "18": {
+      "source": "## Power and purity",
+      "translation": "## 功率与纯度"
+    },
+    "20": {
+      "source": "The Cultivator needs **20 AP** to harvest. At 20 AP, crystals grow at their ordinary speed; **100 AP gives 10x growth**. Power between those points scales linearly. Higher power continues to help, with diminishing returns: 180 AP gives about 16.24x and 260 AP about 19.89x growth.",
+      "translation": "培育器需要**20 AP**才能收获. 20 AP时晶体以正常速度生长; **100 AP时生长速度为10x**. 两者之间按线性缩放. 更高的功率仍有效果, 但收益递减: 180 AP约为16.24x, 260 AP约为19.89x."
+    },
+    "22": {
+      "source": "Purity determines the Fortune enchantment used to harvest. Each whole purity level gives one Fortune level through purity 6: 2.0 purity gives Fortune II and 6.0 gives Fortune VI. Above 6, gains diminish; purity 9 gives Fortune VIII and purity 12 gives Fortune IX. The cluster's normal loot table determines its drops and how Fortune affects them.",
+      "translation": "纯度决定收获时使用的时运附魔等级. 纯度6以内, 每一整级纯度提供一级时运: 2.0纯度为时运II, 6.0为时运VI. 超过6后收益递减: 纯度9为时运VIII, 纯度12为时运IX. 掉落物及时运的影响由晶簇的常规战利品表决定."
+    },
+    "24": {
+      "source": "## Collecting the harvest",
+      "translation": "## 收集产物"
+    },
+    "26": {
+      "source": "The nine-slot output buffer accepts extraction by pipes and hoppers. Right-click with an empty hand to take a stack, or sneak and right-click to collect everything. If the complete harvest will not fit, the mature cluster stays in place until there is room. Waterlogged clusters leave their water behind.",
+      "translation": "九格输出缓存支持管道和漏斗抽取. 空手右键可取出一组, 潜行右键可取出全部. 若无法容纳全部收获物, 成熟晶簇会保留原位直到有空间. 含水晶簇被收获后会留下水."
+    },
+    "28": {
+      "source": "Use one Cultivator per budding block. Additional attachments do not stack their growth bonuses. A Cultivator without power does not harvest or accelerate growth, but the budding block can still grow naturally.",
+      "translation": "每个母岩方块只需一个培育器. 额外安装的培育器不会叠加生长加成. 未供能的培育器不会收获或加速生长, 但母岩方块仍会自然生长."
+    },
+    "30": {
+      "source": "## Mod compatibility",
+      "translation": "## 模组兼容"
+    },
+    "32": {
+      "source": "The Cultivator runs the source block's own growth logic, retaining mod growth settings and requirements. It respects the world's random tick speed, including disabling accelerated growth when that rule is zero.",
+      "translation": "培育器会运行母岩方块自身的生长逻辑, 保留模组的生长设置和条件. 它遵循世界的随机刻速度, 该规则为零时也会停止加速生长."
+    },
+    "34": {
+      "source": "AE2's Flawed, Chipped and Damaged Budding Quartz retain their normal chance to decay after successful growth, so faster growth also uses them up sooner. Use **Flawless Budding Quartz** for a lasting Certus Quartz farm.",
+      "translation": "AE2的有瑕的, 开裂的和损坏的赛特斯石英母岩在成功生长后仍有正常的退化几率, 因此生长越快消耗也越快. 要建立持久的赛特斯石英农场, 请使用**无瑕的赛特斯石英母岩**."
+    },
+    "36": {
+      "source": "Pack makers can extend or restrict support with the `nautec:cultivator_sources` and `nautec:cultivator_clusters` block tags. These include the common `c:budding_blocks` and `c:clusters` tags. Only add fully grown harvestable clusters to the latter; immature buds should remain untouched.",
+      "translation": "整合包作者可通过`nautec:cultivator_sources`和`nautec:cultivator_clusters`方块标签扩展或限制支持范围. 它们包含通用的`c:budding_blocks`和`c:clusters`标签. 后者只应添加完全长成且可收获的晶簇; 未成熟的晶芽不应被触及."
+    },
+    "38": {
+      "source": "## Crafting",
+      "translation": "## 合成"
+    },
+    "40": {
+      "source": "<RecipeFor id=\"crystal_cultivator\"/>",
+      "translation": "<RecipeFor id=\"crystal_cultivator\"/>"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/index.md": {
+    "1": {
+      "source": "navigation:",
+      "translation": "navigation:"
+    },
+    "2": {
+      "source": "    title: Replication AE2 Bridge",
+      "translation": "    title: 复制-AE2 桥接器"
+    },
+    "3": {
+      "source": "    icon: rep_ae2_bridge:rep_ae2_bridge",
+      "translation": "    icon: rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "4": {
+      "source": "    position: 0",
+      "translation": "    position: 0"
+    },
+    "7": {
+      "source": "# Replication AE2 Bridge",
+      "translation": "# 复制-AE2 桥接器"
+    },
+    "9": {
+      "source": "This addon connects **Applied Energistics 2** with **Replication**. Matter from the Replication network can live in your ME system, and AE2 can ask Replication to craft items for you.",
+      "translation": "此附属模组将 **应用能源2** 与 **Replication** 相连. Replication 网络中的物质可存入你的 ME 系统, AE2 也能请求 Replication 为你合成物品."
+    },
+    "11": {
+      "source": "## Contents",
+      "translation": "## 目录"
+    },
+    "13": {
+      "source": "* [AE2–Replication Bridge](bridge.md) — links both networks, energy sharing, and priorities",
+      "translation": "* [AE2-复制桥接器](bridge.md) - 连接两个网络, 能量共享与优先级"
+    },
+    "14": {
+      "source": "* [Matter Assembler](matter_assembler.md) — fast AE2 worker that runs Replication jobs",
+      "translation": "* [物质装配机](matter_assembler.md) - 执行 Replication 任务的高速 AE2 工作单元"
+    },
+    "15": {
+      "source": "* [Matter Storage](matter_storage.md) — cells, buses, monitors, and item→matter encoding",
+      "translation": "* [物质存储](matter_storage.md) - 元件, 总线, 监控器以及物品->物质编码"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/bridge.md": {
+    "1": {
+      "source": "navigation:",
+      "translation": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md",
+      "translation": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: AE2–Replication Bridge",
+      "translation": "    title: AE2-复制桥接器"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:rep_ae2_bridge",
+      "translation": "    icon: rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "5": {
+      "source": "    position: 10",
+      "translation": "    position: 10"
+    },
+    "6": {
+      "source": "categories:",
+      "translation": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components",
+      "translation": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:",
+      "translation": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:rep_ae2_bridge",
+      "translation": "- rep_ae2_bridge:rep_ae2_bridge"
+    },
+    "12": {
+      "source": "# AE2–Replication Bridge",
+      "translation": "# AE2-复制桥接器"
+    },
+    "14": {
+      "source": "<Row gap=\"20\">",
+      "translation": "<Row gap=\"20\">"
+    },
+    "15": {
+      "source": "<BlockImage id=\"rep_ae2_bridge:rep_ae2_bridge\" scale=\"8\"></BlockImage>",
+      "translation": "<BlockImage id=\"rep_ae2_bridge:rep_ae2_bridge\" scale=\"8\"></BlockImage>"
+    },
+    "16": {
+      "source": "</Row>",
+      "translation": "</Row>"
+    },
+    "18": {
+      "source": "The Bridge is the link between your **ME network** and a **Replication matter network**. Place it where both can reach it: an ME cable on one side, a matter pipe on another.",
+      "translation": "桥接器用于连接你的**ME网络**与**Replication物质网络**. 请将其放在两者都能接入的位置: 一侧接ME线缆, 另一侧接物质管道."
+    },
+    "20": {
+      "source": "## What it does",
+      "translation": "## 功能"
+    },
+    "22": {
+      "source": "- Shows Replication matter in AE2 terminals (as its own matter type)",
+      "translation": "- 在AE2终端中显示Replication物质(作为独立的物质类型)"
+    },
+    "23": {
+      "source": "- Lets AE2 autocrafting request items through Replication",
+      "translation": "- 允许AE2自动合成通过Replication请求物品"
+    },
+    "24": {
+      "source": "- Can power the matter network with spare AE energy when you enable it (respects AE2’s FE conversion ratio; stops if the ME grid is energy-starved)",
+      "translation": "- 启用后可用多余的AE能量为物质网络供能(遵循AE2的FE转换比例; ME网络能量不足时停止)"
+    },
+    "25": {
+      "source": "- Accepts finished items from Replicators and Matter Assemblers and stores them in the ME system when space is available",
+      "translation": "- 接收来自复制器和物质装配机的成品, 并在有空间时存入ME系统"
+    },
+    "27": {
+      "source": "## Using the interface",
+      "translation": "## 使用界面"
+    },
+    "29": {
+      "source": "Right-click the Bridge to open its screen.",
+      "translation": "右击桥接器打开其界面."
+    },
+    "31": {
+      "source": "- **Power Matter Network** — toggle that sends spare AE power into the matter network as FE (dynamic; uses AE2’s FE ratio)",
+      "translation": "- **为物质网络供能** - 开关, 将多余的AE能量以FE形式送入物质网络(动态调整; 使用AE2的FE比例)"
+    },
+    "32": {
+      "source": "- **Priority** — same priority tab as other AE2 machines; higher values are preferred when the network chooses where work goes",
+      "translation": "- **优先级** - 与其他AE2机器相同的优先级选项卡; 网络分配任务时优先选择数值更高者"
+    },
+    "34": {
+      "source": "If the ME system is temporarily full, finished items can sit in the Bridge’s buffer and move into storage when there is room again.",
+      "translation": "若ME系统暂时已满, 成品会暂存在桥接器的缓存中, 待有空间后再移入存储."
+    },
+    "36": {
+      "source": "## Autocrafting matter",
+      "translation": "## 自动合成物质"
+    },
+    "38": {
+      "source": "When AE2 starts a Replication craft, matter stays in your cells / tanks / Storage Bus (the CPU only holds a phantom reservation). Replication still sees that stock until the pattern actually runs and drains it. Cancelling a craft does not duplicate matter.",
+      "translation": "当AE2发起Replication合成时, 物质仍保留在你的元件/储罐/存储总线中(CPU仅持有虚拟预留). 在样板实际运行并消耗物质之前, Replication仍能看到这些库存. 取消合成不会导致物质复制."
+    },
+    "40": {
+      "source": "## Tips",
+      "translation": "## 提示"
+    },
+    "42": {
+      "source": "- One Bridge per matter network is usually enough",
+      "translation": "- 每个物质网络通常只需一个桥接器"
+    },
+    "43": {
+      "source": "- Keep the Bridge online on both the ME network and the matter pipes",
+      "translation": "- 确保桥接器同时在ME网络和物质管道上保持在线"
+    },
+    "44": {
+      "source": "- Pair it with Matter Assemblers on the same ME network for faster Replication jobs",
+      "translation": "- 在同一ME网络上搭配物质装配机, 可加快Replication任务"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/matter_assembler.md": {
+    "1": {
+      "source": "navigation:",
+      "translation": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md",
+      "translation": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: Matter Assembler",
+      "translation": "    title: 物质装配机"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:matter_assembler",
+      "translation": "    icon: rep_ae2_bridge:matter_assembler"
+    },
+    "5": {
+      "source": "    position: 20",
+      "translation": "    position: 20"
+    },
+    "6": {
+      "source": "categories:",
+      "translation": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components",
+      "translation": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:",
+      "translation": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:matter_assembler",
+      "translation": "- rep_ae2_bridge:matter_assembler"
+    },
+    "12": {
+      "source": "# Matter Assembler",
+      "translation": "# 物质装配机"
+    },
+    "14": {
+      "source": "<Row gap=\"20\">",
+      "translation": "<Row gap=\"20\">"
+    },
+    "15": {
+      "source": "<BlockImage id=\"rep_ae2_bridge:matter_assembler\" scale=\"8\"></BlockImage>",
+      "translation": "<BlockImage id=\"rep_ae2_bridge:matter_assembler\" scale=\"8\"></BlockImage>"
+    },
+    "16": {
+      "source": "</Row>",
+      "translation": "</Row>"
+    },
+    "18": {
+      "source": "The Matter Assembler is a fast craft worker on your **ME network**. Together with a Bridge, it can take Replication jobs and finish them much quicker than a normal Replicator.",
+      "translation": "物质装配机是你**ME网络**中的快速合成工作单元. 与桥接器配合使用时, 它可以接取 Replication 任务, 完成速度远超普通复制器."
+    },
+    "20": {
+      "source": "## How it works",
+      "translation": "## 工作原理"
+    },
+    "22": {
+      "source": "- Connect it to the same ME network as your Bridge",
+      "translation": "- 将其连接到与桥接器相同的ME网络"
+    },
+    "23": {
+      "source": "- It picks up work from Replication (for example from a Replication terminal) and from AE2 crafting requests that go through the Bridge",
+      "translation": "- 它会接取来自 Replication 的任务(例如来自 Replication 终端), 以及经由桥接器发出的AE2合成请求"
+    },
+    "24": {
+      "source": "- Jobs started from Replication deliver finished items back to Replication",
+      "translation": "- 由 Replication 发起的任务, 成品会送回 Replication"
+    },
+    "25": {
+      "source": "- Jobs started from AE2 deliver finished items into the ME system",
+      "translation": "- 由AE2发起的任务, 成品会送入ME系统"
+    },
+    "27": {
+      "source": "## Upgrades and priority",
+      "translation": "## 升级与优先级"
+    },
+    "29": {
+      "source": "Open the Matter Assembler to insert **acceleration cards** for more speed, and use the **priority** tab if you have several Assemblers and want some to take work first.",
+      "translation": "打开物质装配机可插入**加速卡**以提升速度. 若你有多台装配机并希望部分优先接取任务, 可使用**优先级**标签页."
+    },
+    "31": {
+      "source": "## Tips",
+      "translation": "## 提示"
+    },
+    "33": {
+      "source": "- It needs a Bridge on the same ME grid (chip patterns and Replication tasks come from the Bridge)",
+      "translation": "- 需要在同一ME网络中有桥接器(芯片样板和 Replication 任务均来自桥接器)"
+    },
+    "34": {
+      "source": "- If the destination has no space, the Assembler waits until it can deliver",
+      "translation": "- 若目标位置没有空间, 装配机会等待, 直到可以交付"
+    }
+  },
+  "assets/rep_ae2_bridge/guides/rep_ae2_bridge/guide/matter_storage.md": {
+    "1": {
+      "source": "navigation:",
+      "translation": "navigation:"
+    },
+    "2": {
+      "source": "    parent: index.md",
+      "translation": "    parent: index.md"
+    },
+    "3": {
+      "source": "    title: Matter Storage",
+      "translation": "    title: 物质存储"
+    },
+    "4": {
+      "source": "    icon: rep_ae2_bridge:matter_storage_cell_1k",
+      "translation": "    icon: rep_ae2_bridge:matter_storage_cell_1k"
+    },
+    "5": {
+      "source": "    position: 30",
+      "translation": "    position: 30"
+    },
+    "6": {
+      "source": "categories:",
+      "translation": "categories:"
+    },
+    "7": {
+      "source": "- rep_bridge_components",
+      "translation": "- rep_bridge_components"
+    },
+    "8": {
+      "source": "item_ids:",
+      "translation": "item_ids:"
+    },
+    "9": {
+      "source": "- rep_ae2_bridge:matter_cell_housing",
+      "translation": "- rep_ae2_bridge:matter_cell_housing"
+    },
+    "10": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_1k",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_1k"
+    },
+    "11": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_4k",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_4k"
+    },
+    "12": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_16k",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_16k"
+    },
+    "13": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_64k",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_64k"
+    },
+    "14": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_256k",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_256k"
+    },
+    "15": {
+      "source": "- rep_ae2_bridge:matter_storage_cell_creative",
+      "translation": "- rep_ae2_bridge:matter_storage_cell_creative"
+    },
+    "18": {
+      "source": "# Matter Storage",
+      "translation": "# 物质存储"
+    },
+    "20": {
+      "source": "<Row gap=\"20\">",
+      "translation": "<Row gap=\"20\">"
+    },
+    "21": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_1k\" scale=\"4\"></ItemImage>",
+      "translation": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_1k\" scale=\"4\"></ItemImage>"
+    },
+    "22": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_4k\" scale=\"4\"></ItemImage>",
+      "translation": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_4k\" scale=\"4\"></ItemImage>"
+    },
+    "23": {
+      "source": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_16k\" scale=\"4\"></ItemImage>",
+      "translation": "<ItemImage id=\"rep_ae2_bridge:matter_storage_cell_16k\" scale=\"4\"></ItemImage>"
+    },
+    "24": {
+      "source": "</Row>",
+      "translation": "</Row>"
+    },
+    "26": {
+      "source": "Matter storage cells keep Replication matter inside your **ME system**, similar to how normal cells store items. With a Bridge connected, matter in those cells is available to the matter network as well.",
+      "translation": "物质存储元件可将 Replication 物质保存在你的 **ME 系统**中, 与普通元件存储物品的方式类似. 连接桥接器后, 这些元件中的物质也可供物质网络使用."
+    },
+    "28": {
+      "source": "## Cells and housing",
+      "translation": "## 元件与外壳"
+    },
+    "30": {
+      "source": "- Build cells from a **Matter Cell Housing** and the matching AE2 cell component (1k / 4k / 16k / 64k / 256k)",
+      "translation": "- 使用 **物质元件外壳** 和对应的 AE2 元件组件 (1k / 4k / 16k / 64k / 256k) 建造元件"
+    },
+    "31": {
+      "source": "- Capacity matches that component — larger components hold more matter",
+      "translation": "- 容量与所用组件一致, 组件越大, 可容纳的物质越多"
+    },
+    "32": {
+      "source": "- You can also craft a cell in one step with the housing pattern and a component in the center",
+      "translation": "- 也可按外壳的合成样板, 在中间放入组件, 一步合成元件"
+    },
+    "33": {
+      "source": "- The **Creative Matter Storage Cell** provides unlimited amounts of every matter type (creative / testing)",
+      "translation": "- **创造物质存储元件** 提供无限量的所有物质类型 (创造/测试用)"
+    },
+    "35": {
+      "source": "Place the cells in ME drives or chests like any other storage cell. Terminals can filter the Matter type separately from items and fluids.",
+      "translation": "像其他存储元件一样, 将元件放入 ME驱动器或箱子即可. 终端可将物质类型与物品, 流体分开筛选."
+    },
+    "37": {
+      "source": "## Import, export, and storage bus",
+      "translation": "## 输入, 输出与存储总线"
+    },
+    "39": {
+      "source": "AE2 **Import Bus**, **Export Bus**, and **Storage Bus** can move matter against adjacent Replication **matter tanks** and **Disintegrators** when this addon is loaded. Enable the Matter key type on the bus like you would for fluids.",
+      "translation": "加载本附属后, AE2 的 **ME输入总线**, **ME输出总线** 和 **ME存储总线** 可与相邻的 Replication **物质储罐** 及 **分解器** 之间传输物质. 像设置流体一样, 在总线上启用物质键类型即可."
+    },
+    "41": {
+      "source": "A **Storage Bus** on a matter tank both **lists** the tank contents in the ME system and can insert or extract matter (bidirectional). Import Bus pulls tank → ME; Export Bus pushes ME → tank.",
+      "translation": "装在物质储罐上的 **ME存储总线** 既会在 ME 系统中 **列出** 储罐内容, 也能插入或提取物质 (双向). 输入总线将物质从储罐拉入 ME; 输出总线将物质从 ME 推入储罐."
+    },
+    "43": {
+      "source": "## Disintegration patterns (item → matter)",
+      "translation": "## 分解样板 (物品 → 物质)"
+    },
+    "45": {
+      "source": "On the **Pattern Encoding Terminal**, use the extra **Matter** tab (blueprint icon):",
+      "translation": "在 **ME样板编码终端** 上, 使用额外的 **物质** 标签页 (蓝图图标):"
+    },
+    "47": {
+      "source": "- Put an item in the input (raise the count to scale outputs)",
+      "translation": "- 在输入栏放入物品 (提高数量可按比例增加产出)"
+    },
+    "48": {
+      "source": "- The panel previews matter amounts (not selectable)",
+      "translation": "- 面板会预览物质数量 (不可选择)"
+    },
+    "49": {
+      "source": "- Encode produces a normal AE2 **processing pattern**",
+      "translation": "- 编码后生成一个普通的 AE2 **处理样板**"
+    },
+    "51": {
+      "source": "Place that pattern in a **Pattern Provider** facing a **Disintegrator**. Pull the resulting matter with an **Import Bus** (or Storage Bus) on the Disintegrator. The Bridge also mirrors matter from the Replication network into ME as stock.",
+      "translation": "将该样板放入朝向 **分解器** 的 **ME样板供应器**. 在分解器上用 **ME输入总线** (或存储总线) 抽取产出的物质. 桥接器还会将 Replication 网络中的物质作为库存映射到 ME 中."
+    },
+    "53": {
+      "source": "## JEI matter items",
+      "translation": "## JEI 物质物品"
+    },
+    "55": {
+      "source": "Virtual matter items from this addon are JEI helpers. Dragging them into AE2 filters or monitors configures the real **Matter** key automatically.",
+      "translation": "本附属的虚拟物质物品是 JEI 辅助物品. 将其拖入 AE2 过滤器或监控器时, 会自动配置为真正的 **物质** 键."
+    },
+    "57": {
+      "source": "## Storage monitors",
+      "translation": "## 存储监控器"
+    },
+    "59": {
+      "source": "Right-click an unlocked **Storage Monitor** while holding a Replication **Matter Tank** or a virtual matter item:",
+      "translation": "手持 Replication **物质储罐** 或虚拟物质物品, 右键未锁定的 **存储监控器**:"
+    },
+    "61": {
+      "source": "- Filled tank / matter item → that matter type",
+      "translation": "- 已装填的储罐/物质物品 → 设为该物质类型"
+    },
+    "62": {
+      "source": "- Empty tank on an empty monitor → AE2 configures the tank item itself",
+      "translation": "- 对空监控器使用空罐 → AE2 将设为储罐物品本身"
+    },
+    "63": {
+      "source": "- Empty tank when something is already set → first matter type, then cycle",
+      "translation": "- 已有设置时使用空罐 → 先设为第一种物质类型, 之后循环切换"
+    },
+    "65": {
+      "source": "## Autocrafting and matter visibility",
+      "translation": "## 自动合成与物质可见性"
+    },
+    "67": {
+      "source": "With a Bridge, AE2 craft jobs reserve matter without pulling it out of ME. Stock stays in cells / tanks / buses so Replication can still see it; the real drain happens when the pattern runs. Cancel clears the phantom reservation and does not duplicate matter.",
+      "translation": "有桥接器时, AE2 合成任务会预留物质, 但不会将其从 ME 中取出. 库存仍保留在元件/储罐/总线中, 因此 Replication 依然可以看到; 实际消耗发生在样板运行时. 取消任务会清除虚拟预留, 不会复制物质."
+    },
+    "69": {
+      "source": "## Tips",
+      "translation": "## 提示"
+    },
+    "71": {
+      "source": "- Matter shown through the Bridge and matter stored in cells is the same pool for Replication machines that use the Bridge",
+      "translation": "- 对于使用桥接器的 Replication 机器, 通过桥接器显示的物质与元件中存储的物质属于同一物质池"
+    },
+    "72": {
+      "source": "- Autocraft jobs that output matter need an Import/Storage Bus on the Disintegrator; Bridge mirror alone shows stock but does not finish Pattern Provider output collection",
+      "translation": "- 产出物质的自动合成任务需要在分解器上安装输入/存储总线; 仅靠桥接器映射只能显示库存, 无法完成样板供应器的产物回收"
+    },
+    "73": {
+      "source": "- Keep enough cell space if you move large amounts of matter through AE2",
+      "translation": "- 若要通过 AE2 转移大量物质, 请确保元件空间充足"
+    }
+  }
+}
