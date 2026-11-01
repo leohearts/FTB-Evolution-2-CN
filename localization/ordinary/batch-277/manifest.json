@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/patchouli-neoforge-26.1-94.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/patchouli-neoforge-26.1-94.jar",
     "jar_sha256": "00f9e611930614eacd565916c906a4341363e4a43e271c1a01bda8227707dd49",
     "nested_jars": [],
     "resource": "assets/patchouli/lang/en_us.json",

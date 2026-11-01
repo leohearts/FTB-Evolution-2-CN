@@ -1,7 +1,7 @@
 {
   "batch": "099",
   "namespace": "ftbechoes",
-  "jar": ".minecraft/mods/ftb-echoes-26.1.2.1.jar",
+  "jar": ".minecraft/mods/ftb-echoes-26.1.2.2.jar",
   "language_path": "assets/ftbechoes/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbechoes/lang/zh_cn.json",
   "include_keys": [
@@ -66,10 +66,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "dce482653ba3bed5bd3638a7403ec647b585e140b3bccae314d6af7c731d81cf",
+  "jar_sha256": "abcf6ec7e471b950ac11688ea438422f712d73d265840562d6c1222a0768faba",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-echoes-26.1.2.1.jar",
-    "jar_sha256": "dce482653ba3bed5bd3638a7403ec647b585e140b3bccae314d6af7c731d81cf",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-echoes-26.1.2.2.jar",
+    "jar_sha256": "abcf6ec7e471b950ac11688ea438422f712d73d265840562d6c1222a0768faba",
     "nested_jars": [],
     "resource": "assets/ftbechoes/lang/en_us.json",
     "mod_ids": [

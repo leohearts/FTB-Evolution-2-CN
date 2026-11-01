@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "bde5b9dd1774b496975495cedcfcb1fd67ba95060879660712cd2fd874cb50ad",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/peekaboo-1.0.0+26.1.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/peekaboo-1.0.0+26.1.1.jar",
     "jar_sha256": "bde5b9dd1774b496975495cedcfcb1fd67ba95060879660712cd2fd874cb50ad",
     "nested_jars": [],
     "resource": "assets/peekaboo/lang/en_us.json",

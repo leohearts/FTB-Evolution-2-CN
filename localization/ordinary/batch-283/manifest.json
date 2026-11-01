@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "f9584091f2321378b910fbf9190f6a25f65ccc8e05569fbcf4b0d20bfa7e9d4f",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cable_facades-26.1.2-NeoForge-2.1.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cable_facades-26.1.2-NeoForge-2.1.4.jar",
     "jar_sha256": "f9584091f2321378b910fbf9190f6a25f65ccc8e05569fbcf4b0d20bfa7e9d4f",
     "nested_jars": [],
     "resource": "assets/cable_facades/lang/en_us.json",

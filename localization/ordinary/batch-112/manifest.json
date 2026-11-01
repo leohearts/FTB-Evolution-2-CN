@@ -67,7 +67,7 @@
   "unchanged_values": [],
   "jar_sha256": "f03c6bab3b2c1221cdec896d34ec23aa8afe3d4264f02cedd14897cdc3fdd662",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/BHMenu-NeoForge-26.1-2.4.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/BHMenu-NeoForge-26.1-2.4.4.jar",
     "jar_sha256": "f03c6bab3b2c1221cdec896d34ec23aa8afe3d4264f02cedd14897cdc3fdd662",
     "nested_jars": [],
     "resource": "assets/bhmenu/lang/en_us.json",

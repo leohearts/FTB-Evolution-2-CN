@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "40cf0ec0ba821d57c65b940ef2bc6f1a1f87878961ae3788fbd487214d632d6c",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animalgarden-alligatorgar-1.0.0-neoforge-26.1.1.8.jar",
     "jar_sha256": "40cf0ec0ba821d57c65b940ef2bc6f1a1f87878961ae3788fbd487214d632d6c",
     "nested_jars": [],
     "resource": "assets/animalgarden_alligatorgar/lang/en_us.json",

@@ -343,7 +343,7 @@
   ],
   "jar_sha256": "bfaad85e4d2fe2dbb4701722cdc291ea132590bf231e2b48f68b7d01f48d71bc",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/kindredspirits-26.1.2-1.0.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/kindredspirits-26.1.2-1.0.9.jar",
     "jar_sha256": "bfaad85e4d2fe2dbb4701722cdc291ea132590bf231e2b48f68b7d01f48d71bc",
     "nested_jars": [],
     "resource": "assets/kindredspirits/lang/en_us.json",

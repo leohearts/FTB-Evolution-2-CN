@@ -19,7 +19,7 @@
   ],
   "jar_sha256": "ef13d58fb1b3e57cd39f5bce76ebff923ef9426f378d218c9d9b1f5f3ab873e7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/RBMAddon26.1.2-beta3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/RBMAddon26.1.2-beta3.jar",
     "jar_sha256": "ef13d58fb1b3e57cd39f5bce76ebff923ef9426f378d218c9d9b1f5f3ab873e7",
     "nested_jars": [],
     "resource": "assets/bmaddon/lang/en_us.json",

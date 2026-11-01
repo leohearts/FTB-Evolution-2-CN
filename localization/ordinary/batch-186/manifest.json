@@ -34,7 +34,7 @@
   "unchanged_values": [],
   "jar_sha256": "674e81fc172b3b5324ce2ef3c98d367cd351f4932e96e60dd63a5291eb25a020",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/simple_weather-1.1.15.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/simple_weather-1.1.15.jar",
     "jar_sha256": "674e81fc172b3b5324ce2ef3c98d367cd351f4932e96e60dd63a5291eb25a020",
     "nested_jars": [],
     "resource": "assets/simple_weather/lang/en_us.json",

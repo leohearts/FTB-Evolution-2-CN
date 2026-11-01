@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "7143c10fa34498aeedd40633b1f2b3337600d312528794637fe5a234637a83ea",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justdirefuels-1.1.0-26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/justdirefuels-1.1.0-26.1.jar",
     "jar_sha256": "7143c10fa34498aeedd40633b1f2b3337600d312528794637fe5a234637a83ea",
     "nested_jars": [],
     "resource": "assets/justdirefuels/lang/en_us.json",

@@ -1,7 +1,7 @@
 {
   "batch": "023",
   "namespace": "cakesticklib",
-  "jar": ".minecraft/mods/cakesticklib-1.18.jar",
+  "jar": ".minecraft/mods/cakesticklib-1.18.2.jar",
   "language_path": "assets/cakesticklib/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/cakesticklib/lang/zh_cn.json",
   "include_keys": [
@@ -276,10 +276,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "f3aaba99041a3f03ccea43127fc20f8f6923fa5c65a5558c3071d40a26e4bdc2",
+  "jar_sha256": "88a8f76bef95e2707035d8a380a2a10c438c999555686d993dfbcc773c00a486",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cakesticklib-1.18.jar",
-    "jar_sha256": "f3aaba99041a3f03ccea43127fc20f8f6923fa5c65a5558c3071d40a26e4bdc2",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cakesticklib-1.18.2.jar",
+    "jar_sha256": "88a8f76bef95e2707035d8a380a2a10c438c999555686d993dfbcc773c00a486",
     "nested_jars": [],
     "resource": "assets/cakesticklib/lang/en_us.json",
     "mod_ids": [

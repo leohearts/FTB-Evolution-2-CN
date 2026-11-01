@@ -1,7 +1,7 @@
 {
   "batch": "265",
   "namespace": "titanium",
-  "jar": ".minecraft/mods/titanium-26.1.2-4.0.14.jar",
+  "jar": ".minecraft/mods/titanium-26.1.2-4.0.16.jar",
   "language_path": "assets/titanium/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/titanium/lang/zh_cn.json",
   "include_keys": [
@@ -14,10 +14,10 @@
   "unchanged_values": [
     "s"
   ],
-  "jar_sha256": "0f8c5674298dee3da84ef3c4d1f0cff495bc51372793aae2a3e99a8a1cc2698f",
+  "jar_sha256": "909229db608e7bca882bbe8a916b17be4038d7d10065358c24f22c5283f56de6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/titanium-26.1.2-4.0.14.jar",
-    "jar_sha256": "0f8c5674298dee3da84ef3c4d1f0cff495bc51372793aae2a3e99a8a1cc2698f",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/titanium-26.1.2-4.0.16.jar",
+    "jar_sha256": "909229db608e7bca882bbe8a916b17be4038d7d10065358c24f22c5283f56de6",
     "nested_jars": [],
     "resource": "assets/titanium/lang/en_us.json",
     "mod_ids": [

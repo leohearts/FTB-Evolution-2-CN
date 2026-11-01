@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "e72dadf160dce841d3c395138938eaee0ce09b9986bb7c1d5d3591c27752af11",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Measurements-neoforge-26.1-4.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Measurements-neoforge-26.1-4.0.0.jar",
     "jar_sha256": "e72dadf160dce841d3c395138938eaee0ce09b9986bb7c1d5d3591c27752af11",
     "nested_jars": [],
     "resource": "assets/measurements/lang/en_us.json",

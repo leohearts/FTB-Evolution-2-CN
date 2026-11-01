@@ -48,7 +48,7 @@
   "unchanged_values": [],
   "jar_sha256": "9a14c886005b9f2476d56451c90ee126e787ed60e64c803e477ce744b4138829",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cabletiers-neoforge-26.1.2-1.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cabletiers-neoforge-26.1.2-1.0.3.jar",
     "jar_sha256": "9a14c886005b9f2476d56451c90ee126e787ed60e64c803e477ce744b4138829",
     "nested_jars": [],
     "resource": "assets/cabletiers/lang/en_us.json",

@@ -27,7 +27,7 @@
   ],
   "jar_sha256": "6474119c645a21f509da518845ab42bff84d496f80a86ce5e551d7a4745b4893",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/appliedenergistics2-26.1.13-beta.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/appliedenergistics2-26.1.13-beta.jar",
     "jar_sha256": "6474119c645a21f509da518845ab42bff84d496f80a86ce5e551d7a4745b4893",
     "nested_jars": [],
     "resource": "assets/ae2/lang/en_us.json",

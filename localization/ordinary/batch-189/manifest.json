@@ -23,7 +23,7 @@
   "unchanged_values": [],
   "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ToolBelt-26.1.2-2.9.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ToolBelt-26.1.2-2.9.5.jar",
     "jar_sha256": "5df697905865a66f681c7c0f74cc4c44e5ed1b03c1a5bf64901b25d6e9c439e2",
     "nested_jars": [],
     "resource": "assets/toolbelt/lang/en_us.json",

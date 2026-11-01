@@ -24,7 +24,7 @@
   ],
   "jar_sha256": "99eda9bcd42932e163854c7493a0797ee5dc6aace8bce1b620c8f85f24ab10f0",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iceandfire-2.2-beta.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/iceandfire-2.2-beta.4.jar",
     "jar_sha256": "99eda9bcd42932e163854c7493a0797ee5dc6aace8bce1b620c8f85f24ab10f0",
     "nested_jars": [],
     "resource": "assets/iceandfire/lang/en_us.json",

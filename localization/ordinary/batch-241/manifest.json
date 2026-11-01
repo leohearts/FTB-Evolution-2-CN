@@ -34,7 +34,7 @@
   "unchanged_values": [],
   "jar_sha256": "080bf7eb2268750ffcd27b12ad69396355201c3aa1ddaf5d85bf93a2b5490749",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/limacore-26.1.2-2.11.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/limacore-26.1.2-2.11.3.jar",
     "jar_sha256": "080bf7eb2268750ffcd27b12ad69396355201c3aa1ddaf5d85bf93a2b5490749",
     "nested_jars": [],
     "resource": "assets/limacore/lang/en_us.json",

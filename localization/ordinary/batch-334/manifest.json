@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/comforts-neoforge-15.0.0+26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/comforts-neoforge-15.0.0+26.1.2.jar",
     "jar_sha256": "23b7a63b3729dc590174ca0ca5740c22ddc93718ead6fa579a921d3e7fa5ac83",
     "nested_jars": [
       {

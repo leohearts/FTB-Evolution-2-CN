@@ -197,7 +197,7 @@
   ],
   "jar_sha256": "53938850aa4fecb09f41d83f5cd609dde7f238489b4035b24c627e22a63734bb",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/betterfishtanks-1.3.0-26.1-NeoForge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/betterfishtanks-1.3.0-26.1-NeoForge.jar",
     "jar_sha256": "53938850aa4fecb09f41d83f5cd609dde7f238489b4035b24c627e22a63734bb",
     "nested_jars": [],
     "resource": "assets/betterfishtanks/lang/en_us.json",

@@ -17,7 +17,7 @@
   ],
   "jar_sha256": "5f15a230b541c75a8d5992f845488ca4137562866dab3af3493eada2ed8f426d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ironfurnaces-neoforge-26.1.2-4.4.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ironfurnaces-neoforge-26.1.2-4.4.2.jar",
     "jar_sha256": "5f15a230b541c75a8d5992f845488ca4137562866dab3af3493eada2ed8f426d",
     "nested_jars": [],
     "resource": "assets/ironfurnaces/lang/en_us.json",

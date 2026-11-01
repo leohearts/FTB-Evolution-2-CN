@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "43425188398e285b372f7977aa66945b15dc3bb35290d1df9e9698bc06cfdaef",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/dankstorage-neoforge-26.1.2-2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/dankstorage-neoforge-26.1.2-2.jar",
     "jar_sha256": "43425188398e285b372f7977aa66945b15dc3bb35290d1df9e9698bc06cfdaef",
     "nested_jars": [],
     "resource": "assets/dankstorage/lang/en_us.json",

@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "cf8df68bbde624ade6b47733c30c4b34faee1e6f26ead4220b77cf32de9b01f8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/IronJetpacks-26.1.2-9.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/IronJetpacks-26.1.2-9.0.3.jar",
     "jar_sha256": "cf8df68bbde624ade6b47733c30c4b34faee1e6f26ead4220b77cf32de9b01f8",
     "nested_jars": [],
     "resource": "assets/ironjetpacks/lang/en_us.json",

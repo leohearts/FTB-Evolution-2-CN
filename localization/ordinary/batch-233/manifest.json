@@ -257,7 +257,7 @@
   ],
   "jar_sha256": "658c90ce6b450697abd44dbd87345d96508efc3308000d761b2053f4f6784262",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ApothicEnchanting-26.1.2-2.1.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ApothicEnchanting-26.1.2-2.1.0.jar",
     "jar_sha256": "658c90ce6b450697abd44dbd87345d96508efc3308000d761b2053f4f6784262",
     "nested_jars": [],
     "resource": "assets/apothic_enchanting/lang/en_us.json",

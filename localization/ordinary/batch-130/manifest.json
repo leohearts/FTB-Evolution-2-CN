@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "6399badfcb0677afd01dfa345b743d41b43cdb146b7c9732a72d20be2f7dad05",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/BetterAdvancements-NeoForge-26.1.2-0.6.0.76.jar",
     "jar_sha256": "6399badfcb0677afd01dfa345b743d41b43cdb146b7c9732a72d20be2f7dad05",
     "nested_jars": [],
     "resource": "assets/betteradvancements/lang/en_us.json",

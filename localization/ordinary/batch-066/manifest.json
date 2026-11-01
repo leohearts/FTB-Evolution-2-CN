@@ -1,7 +1,7 @@
 {
   "batch": "066",
   "namespace": "recursiveae2patternprovider",
-  "jar": ".minecraft/mods/recursiveae2patternprovider-1.1.1.jar",
+  "jar": ".minecraft/mods/recursiveae2patternprovider-1.1.2.jar",
   "language_path": "assets/recursiveae2patternprovider/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/recursiveae2patternprovider/lang/zh_cn.json",
   "include_keys": [
@@ -38,15 +38,15 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "49b43eb6ea52bb7981274e42389d9006fe16918af8e315b7e1bfebf0f6195aab",
+  "jar_sha256": "e5768d04376561c60f3d924f086f0a493840307f2bf2cf54af1a054762407eb1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/recursiveae2patternprovider-1.1.1.jar",
-    "jar_sha256": "49b43eb6ea52bb7981274e42389d9006fe16918af8e315b7e1bfebf0f6195aab",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/recursiveae2patternprovider-1.1.2.jar",
+    "jar_sha256": "e5768d04376561c60f3d924f086f0a493840307f2bf2cf54af1a054762407eb1",
     "nested_jars": [],
     "resource": "assets/recursiveae2patternprovider/lang/en_us.json",
     "mod_ids": [
       "recursiveae2patternprovider"
     ],
-    "resource_sha256": "1e0fca612fde485b7213757efbebd6384ca36a3be26c7ab9480e0d432901c30d"
+    "resource_sha256": "5beb2c95588218c32c660ea42e776a31ed5dd8a365cf9402127d992d62aab303"
   }
 }

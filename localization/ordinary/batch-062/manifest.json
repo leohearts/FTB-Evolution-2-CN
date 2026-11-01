@@ -90,7 +90,7 @@
   "unchanged_values": [],
   "jar_sha256": "da60cc2dfdef0644ab5048f0c8d186a1a436308fda30f87d18ea645c1b55305a",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/stepcrafter-neoforge-26.1.2-1.0.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/stepcrafter-neoforge-26.1.2-1.0.4.jar",
     "jar_sha256": "da60cc2dfdef0644ab5048f0c8d186a1a436308fda30f87d18ea645c1b55305a",
     "nested_jars": [],
     "resource": "assets/stepcrafter/lang/en_us.json",

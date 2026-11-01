@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "562efb502d22833ac0dec2f3c01210a6d08d76c8fc34987f6d3ddf1597a51ff6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/combat_roll-neoforge-3.0.1+26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/combat_roll-neoforge-3.0.1+26.1.2.jar",
     "jar_sha256": "562efb502d22833ac0dec2f3c01210a6d08d76c8fc34987f6d3ddf1597a51ff6",
     "nested_jars": [],
     "resource": "assets/combat_roll/lang/en_us.json",

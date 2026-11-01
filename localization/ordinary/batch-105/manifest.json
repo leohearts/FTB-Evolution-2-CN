@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "6c7d1c092177b95279a51b1d86e6954b24f0e5a5db024e77fce56e5b38c886db",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-essentials-neoforge-26.1.2.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-essentials-neoforge-26.1.2.5.jar",
     "jar_sha256": "6c7d1c092177b95279a51b1d86e6954b24f0e5a5db024e77fce56e5b38c886db",
     "nested_jars": [],
     "resource": "assets/ftbessentials/lang/en_us.json",

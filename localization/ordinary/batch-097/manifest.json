@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "c216a5f05ef805e47c589bbfbb5ec04e7eba411bcdc47136ada7739be572e908",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/integratedtunnels-26.1.2-neoforge-1.13.2.jar",
     "jar_sha256": "c216a5f05ef805e47c589bbfbb5ec04e7eba411bcdc47136ada7739be572e908",
     "nested_jars": [],
     "resource": "assets/integratedtunnels/lang/en_us.json",

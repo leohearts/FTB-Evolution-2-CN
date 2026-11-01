@@ -31,7 +31,7 @@
   ],
   "jar_sha256": "e5a5ce717d4f26b81bb10a6f66e0496d1704d135bf8572a2f89d62db032ae6bb",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/forgeendertech-26.1.0.0-neoforge-26.1.2-build.0046.jar",
     "jar_sha256": "e5a5ce717d4f26b81bb10a6f66e0496d1704d135bf8572a2f89d62db032ae6bb",
     "nested_jars": [],
     "resource": "assets/forgeendertech/lang/en_us.json",

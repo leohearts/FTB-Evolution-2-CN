@@ -79,7 +79,7 @@
   ],
   "jar_sha256": "77842333110cafed391d4e0d38f43688a6586df8a742d95b0a23c8f90408d5b0",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ExtremeSoundMuffler-4.04_NeoForge-26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ExtremeSoundMuffler-4.04_NeoForge-26.1.jar",
     "jar_sha256": "77842333110cafed391d4e0d38f43688a6586df8a742d95b0a23c8f90408d5b0",
     "nested_jars": [],
     "resource": "assets/extremesoundmuffler/lang/en_us.json",

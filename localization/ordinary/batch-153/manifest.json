@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "d2e5e9a86b544e2d1bfcaee95b4da1539095872e99cc31b774f15224060536be",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animalgarden-crocodile-1.1.0-neoforge-26.1.2.7.jar",
     "jar_sha256": "d2e5e9a86b544e2d1bfcaee95b4da1539095872e99cc31b774f15224060536be",
     "nested_jars": [],
     "resource": "assets/animalgarden_crocodile/lang/en_us.json",

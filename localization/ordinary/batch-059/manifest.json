@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "8584f9921f57ecbe5a07a1e4d414d5b6b750d28ce4024a489d924c01036f7174",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tesseract-1.0.39-neoforge-mc26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/tesseract-1.0.39-neoforge-mc26.1.jar",
     "jar_sha256": "8584f9921f57ecbe5a07a1e4d414d5b6b750d28ce4024a489d924c01036f7174",
     "nested_jars": [],
     "resource": "assets/tesseract/lang/en_us.json",

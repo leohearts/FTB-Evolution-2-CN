@@ -17,7 +17,7 @@
   ],
   "jar_sha256": "fc2f273c02788c5ff6736439de8cef9a7eb2662f768e8ee1ac23c57323ee740c",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jupiter-2.4.3-26.1.2-universal.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/jupiter-2.4.3-26.1.2-universal.jar",
     "jar_sha256": "fc2f273c02788c5ff6736439de8cef9a7eb2662f768e8ee1ac23c57323ee740c",
     "nested_jars": [],
     "resource": "assets/jupiter/lang/en_us.json",

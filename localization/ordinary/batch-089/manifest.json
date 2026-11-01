@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "525bcd265b3dd878193882c70db5d18f553380678dad59f60e424d8e7ff60cb9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modular-routers-26.1.2.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/modular-routers-26.1.2.2.jar",
     "jar_sha256": "525bcd265b3dd878193882c70db5d18f553380678dad59f60e424d8e7ff60cb9",
     "nested_jars": [],
     "resource": "assets/modularrouters/lang/en_us.json",

@@ -14,7 +14,7 @@
   ],
   "jar_sha256": "2cdba40e2b06429a5b705c5aa7e54aaac466325b62bad34ad8eed76cee17e8ff",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/configured-neoforge-26.1.2-2.7.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/configured-neoforge-26.1.2-2.7.5.jar",
     "jar_sha256": "2cdba40e2b06429a5b705c5aa7e54aaac466325b62bad34ad8eed76cee17e8ff",
     "nested_jars": [],
     "resource": "assets/configured/lang/en_us.json",

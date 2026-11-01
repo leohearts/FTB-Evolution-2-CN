@@ -88,7 +88,7 @@
   ],
   "jar_sha256": "a1fdbfd58d71ff327107f713a90ca0e36422c76f9ebf6d4d2dc0d8f95838fabd",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/nutritional-26.1.2-1.2.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/nutritional-26.1.2-1.2.4.jar",
     "jar_sha256": "a1fdbfd58d71ff327107f713a90ca0e36422c76f9ebf6d4d2dc0d8f95838fabd",
     "nested_jars": [],
     "resource": "assets/nutritional/lang/en_us.json",

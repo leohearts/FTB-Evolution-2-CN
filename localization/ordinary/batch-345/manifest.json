@@ -5,7 +5,7 @@
   "jar_sha256": "45be35f54efd7e783c1d1bdf86d2dcf9dd6b288dcee22172e2d9aef3726b557d",
   "language_path": "assets/resettable_trial_chambers/lang/en_us.json",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/resettable_trial_chambers-1.1.0-neoforge-26.1.x.jar",
     "jar_sha256": "45be35f54efd7e783c1d1bdf86d2dcf9dd6b288dcee22172e2d9aef3726b557d",
     "nested_jars": [],
     "resource": "assets/resettable_trial_chambers/lang/en_us.json",

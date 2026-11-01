@@ -34,7 +34,7 @@
   ],
   "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animusnv-26.1.2-5.2.20.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animusnv-26.1.2-5.2.20.jar",
     "jar_sha256": "39ec9469e98c49465afca0b800004d0d4b29898b99281ea227b5ba6e1bb75f08",
     "nested_jars": [],
     "resource": "assets/animusnv/lang/en_us.json",

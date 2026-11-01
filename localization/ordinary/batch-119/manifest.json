@@ -33,7 +33,7 @@
   ],
   "jar_sha256": "cc86e80d23fb771097441dee77be5d971b4955cafa604690e61cc010083e5dd8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/EnchantmentDescriptions-neoforge-MC26.1.2-26.1.2.6.jar",
     "jar_sha256": "cc86e80d23fb771097441dee77be5d971b4955cafa604690e61cc010083e5dd8",
     "nested_jars": [],
     "resource": "assets/enchdesc/lang/en_us.json",

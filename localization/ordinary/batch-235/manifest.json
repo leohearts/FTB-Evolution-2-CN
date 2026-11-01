@@ -1,7 +1,7 @@
 {
   "batch": "235",
   "namespace": "irons_lib",
-  "jar": ".minecraft/mods/irons_lib-26.1.2-2.2.0.jar",
+  "jar": ".minecraft/mods/irons_lib-26.1.2-2.3.0.jar",
   "language_path": "assets/irons_lib/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/irons_lib/lang/zh_cn.json",
   "include_keys": [
@@ -82,15 +82,15 @@
   "unchanged_values": [
     "[%s] +"
   ],
-  "jar_sha256": "da9807860837fae923b5e2a91fd42bb1168c62fa922e80f0b6459a7c043bc173",
+  "jar_sha256": "d9e7827800cca96ab6a3a3c829d25f22dd857ddd0d7c5a6d14936afcd792fc31",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/irons_lib-26.1.2-2.2.0.jar",
-    "jar_sha256": "da9807860837fae923b5e2a91fd42bb1168c62fa922e80f0b6459a7c043bc173",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/irons_lib-26.1.2-2.3.0.jar",
+    "jar_sha256": "d9e7827800cca96ab6a3a3c829d25f22dd857ddd0d7c5a6d14936afcd792fc31",
     "nested_jars": [],
     "resource": "assets/irons_lib/lang/en_us.json",
     "mod_ids": [
       "irons_lib"
     ],
-    "resource_sha256": "185240b97b38e029a8ee036909c0d229a64e46c32778286448e8b3d40831220a"
+    "resource_sha256": "59780df370a897107d37c475fa4a9f641f561faf8d70678983cf2e4a05b6a244"
   }
 }

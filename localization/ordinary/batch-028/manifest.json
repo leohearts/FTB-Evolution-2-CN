@@ -162,7 +162,7 @@
   ],
   "jar_sha256": "698598e2c4fbb36eb10c75142d5fe73c8318dca54b9e01ab3ce2fbc3828863e7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/retrofactorymanager-26.1.2-1.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/retrofactorymanager-26.1.2-1.0.3.jar",
     "jar_sha256": "698598e2c4fbb36eb10c75142d5fe73c8318dca54b9e01ab3ce2fbc3828863e7",
     "nested_jars": [],
     "resource": "assets/retrofactorymanager/lang/en_us.json",

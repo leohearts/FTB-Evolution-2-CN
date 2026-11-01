@@ -43,7 +43,7 @@
   "unchanged_values": [],
   "jar_sha256": "e38d08da7a43249d281dbc4aabae37cca59e980a925c4a52f5a830950386c777",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/matc-1.8.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/matc-1.8.0.jar",
     "jar_sha256": "e38d08da7a43249d281dbc4aabae37cca59e980a925c4a52f5a830950386c777",
     "nested_jars": [],
     "resource": "assets/matc/lang/en_us.json",

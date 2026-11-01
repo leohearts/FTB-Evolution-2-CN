@@ -25,7 +25,7 @@
   ],
   "jar_sha256": "689916dbd53de7215175cbe89c3904b326db3d28460827d8c03d2694e5762ccf",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedstorage-neoforge-3.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/refinedstorage-neoforge-3.2.1.jar",
     "jar_sha256": "689916dbd53de7215175cbe89c3904b326db3d28460827d8c03d2694e5762ccf",
     "nested_jars": [],
     "resource": "assets/refinedstorage/lang/en_us.json",

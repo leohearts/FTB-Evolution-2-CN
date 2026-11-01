@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "d03904ef9cca5d53ef4884e43ea9a720a3182fd8b6968e72fade768942cb9286",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/adrenaline-26.1.2-1.0.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/adrenaline-26.1.2-1.0.2.jar",
     "jar_sha256": "d03904ef9cca5d53ef4884e43ea9a720a3182fd8b6968e72fade768942cb9286",
     "nested_jars": [],
     "resource": "assets/adrenaline/lang/en_us.json",

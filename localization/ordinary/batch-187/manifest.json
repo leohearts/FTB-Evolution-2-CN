@@ -26,7 +26,7 @@
   ],
   "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/authme-neoforge-9.2.1+26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/authme-neoforge-9.2.1+26.1.jar",
     "jar_sha256": "618e8e217299ba3592ac18e03dd16a8e0cb31777a5b7a58d7bacaf36021cf22e",
     "nested_jars": [],
     "resource": "assets/authme/lang/en_us.json",

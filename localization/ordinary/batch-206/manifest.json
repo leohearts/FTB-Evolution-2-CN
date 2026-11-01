@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "a1a2e467d9791fbe91cb08e96f805c5033cef8c8ef73e3ced261e4db6f0301ce",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tiab-neoforge-8.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/tiab-neoforge-8.0.0.jar",
     "jar_sha256": "a1a2e467d9791fbe91cb08e96f805c5033cef8c8ef73e3ced261e4db6f0301ce",
     "nested_jars": [],
     "resource": "assets/tiab/lang/en_us.json",

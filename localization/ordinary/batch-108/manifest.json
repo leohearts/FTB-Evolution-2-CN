@@ -207,7 +207,7 @@
   ],
   "jar_sha256": "a28178fcaaa8db5861d9610b40f8fd41167460a902e9beb7cbf3ea1718e99185",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/mezz_config_gui-26.1.2-neoforge-mc26.1.2-0.5.10.jar",
     "jar_sha256": "a28178fcaaa8db5861d9610b40f8fd41167460a902e9beb7cbf3ea1718e99185",
     "nested_jars": [],
     "resource": "assets/mezz_config_gui/lang/en_us.json",

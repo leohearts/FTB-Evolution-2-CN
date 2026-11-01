@@ -140,7 +140,7 @@
   ],
   "jar_sha256": "5cfb90c8dde51645142bcd4160687e87103f79c92ce14a06a0379691f6481a54",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-quests-neoforge-26.1.2.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-quests-neoforge-26.1.2.9.jar",
     "jar_sha256": "5cfb90c8dde51645142bcd4160687e87103f79c92ce14a06a0379691f6481a54",
     "nested_jars": [],
     "resource": "assets/ftbquests/lang/en_us.json",

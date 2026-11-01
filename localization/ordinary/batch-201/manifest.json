@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "8247cc2ba05be39778827f7e5be8d5d426952bd42c53ba14274ffbd6f56c6112",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/craftingtweaks-neoforge-26.1.2-26.1.2.3.jar",
     "jar_sha256": "8247cc2ba05be39778827f7e5be8d5d426952bd42c53ba14274ffbd6f56c6112",
     "nested_jars": [],
     "resource": "assets/craftingtweaks/lang/en_us.json",

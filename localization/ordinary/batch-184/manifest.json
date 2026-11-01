@@ -42,7 +42,7 @@
   "unchanged_values": [],
   "jar_sha256": "5a235c4af817ac64ab6a05531045537697ae264bd0c7f2dd65b28e98263c80e9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/utilitarian-26.1.2-0.22.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/utilitarian-26.1.2-0.22.0.jar",
     "jar_sha256": "5a235c4af817ac64ab6a05531045537697ae264bd0c7f2dd65b28e98263c80e9",
     "nested_jars": [],
     "resource": "assets/utilitarian/lang/en_us.json",

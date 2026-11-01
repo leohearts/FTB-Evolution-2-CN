@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "298265ac55a43aa3ea05f00af0b2e31805f2afb4757273cd1091ebc8c35f534d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cc-tweaked-26.1.2-forge-1.120.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cc-tweaked-26.1.2-forge-1.120.0.jar",
     "jar_sha256": "298265ac55a43aa3ea05f00af0b2e31805f2afb4757273cd1091ebc8c35f534d",
     "nested_jars": [],
     "resource": "assets/computercraft/lang/en_us.json",

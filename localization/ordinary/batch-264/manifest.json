@@ -1,28 +1,26 @@
 {
   "batch": "264",
   "namespace": "tesseract_api",
-  "jar": ".minecraft/mods/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
+  "jar": ".minecraft/mods/tesseract-api-neoforge-1.13.6-26.1.2.jar",
   "language_path": "assets/tesseract_api/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/tesseract_api/lang/zh_cn.json",
   "include_keys": [
     "eu_cost_transformer.tesseract_api.percentage",
-    "text.tesseract_api.mi_machine_batcher_recipe",
-    "text.tesseract_api.mi_machine_batcher_size_and_cost",
     "text.tesseract_api.tooltips_shift_required"
   ],
   "context_overrides": {},
   "unchanged_values": [
     "%d%%"
   ],
-  "jar_sha256": "00e9681e7cf177aa158dfae46cfaff72d2d68e5ed64e95be4c7c36ee97fd0ed5",
+  "jar_sha256": "5dcdf7d9679fabca2d355d5d52c9a62d84d9f36b5d5b667c0829a48442364feb",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tesseract-api-neoforge-1.13.5-alpha-26.1.2.jar",
-    "jar_sha256": "00e9681e7cf177aa158dfae46cfaff72d2d68e5ed64e95be4c7c36ee97fd0ed5",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/tesseract-api-neoforge-1.13.6-26.1.2.jar",
+    "jar_sha256": "5dcdf7d9679fabca2d355d5d52c9a62d84d9f36b5d5b667c0829a48442364feb",
     "nested_jars": [],
     "resource": "assets/tesseract_api/lang/en_us.json",
     "mod_ids": [
       "tesseract_api"
     ],
-    "resource_sha256": "40370ffa2cecbe16f502e1e02c7b82220d2a952169f8ffca402b6ffcc39bd399"
+    "resource_sha256": "85986cbd44eeff31380c791d46da8fb6ec1403adfa3b41d2f7a87098a4b9a469"
   }
 }

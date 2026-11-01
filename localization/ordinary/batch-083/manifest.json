@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "bcb4f1ecc7210cd8b92cd5c729dea67ac4cf396642a9709f060e8a6e25153cd9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/belts-neoforge-2.0.0-exp1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/belts-neoforge-2.0.0-exp1.jar",
     "jar_sha256": "bcb4f1ecc7210cd8b92cd5c729dea67ac4cf396642a9709f060e8a6e25153cd9",
     "nested_jars": [],
     "resource": "assets/belts/lang/en_us.json",

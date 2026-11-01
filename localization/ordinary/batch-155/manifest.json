@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "e86ea3921af7702d04c0be2aec67ee04e6290006d60765c86aa79cbdee9905f4",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animalgarden-bullshark-1.1.1-neoforge-26.1.1.10.jar",
     "jar_sha256": "e86ea3921af7702d04c0be2aec67ee04e6290006d60765c86aa79cbdee9905f4",
     "nested_jars": [],
     "resource": "assets/animalgarden_bullshark/lang/en_us.json",

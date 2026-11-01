@@ -24,7 +24,7 @@
   ],
   "jar_sha256": "5fe49f56103892ec71d89f5e05ffe64c0c1476af8069e1f1c2fe28f91d8064ca",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Replication-26.1.2-1.2.8.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Replication-26.1.2-1.2.8.jar",
     "jar_sha256": "5fe49f56103892ec71d89f5e05ffe64c0c1476af8069e1f1c2fe28f91d8064ca",
     "nested_jars": [],
     "resource": "assets/replication/lang/en_us.json",

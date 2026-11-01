@@ -195,7 +195,7 @@
   ],
   "jar_sha256": "fb8213b3dd2a42a017b800317a550799ac5b3721fbf00aac59bcdbecfe2b9456",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mobflowutilities-3.2.1.9-mc-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/mobflowutilities-3.2.1.9-mc-26.1.2.jar",
     "jar_sha256": "fb8213b3dd2a42a017b800317a550799ac5b3721fbf00aac59bcdbecfe2b9456",
     "nested_jars": [],
     "resource": "assets/mobflowutilities/lang/en_us.json",

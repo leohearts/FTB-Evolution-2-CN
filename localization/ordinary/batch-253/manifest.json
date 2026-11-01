@@ -27,7 +27,7 @@
   ],
   "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Powah-7.0.4-alpha.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Powah-7.0.4-alpha.jar",
     "jar_sha256": "c91523449abef54d76f7f01ef6dd2b7ac7060524a49b524beb781617b7340fed",
     "nested_jars": [],
     "resource": "assets/lollipop/lang/en_us.json",

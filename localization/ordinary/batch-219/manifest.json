@@ -20,7 +20,7 @@
   "unchanged_values": [],
   "jar_sha256": "81a1bf6e1cc545752d0aac4e28e025d16cbdd3a2bd0e2393f6d91b12d147a217",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/underwater_village-1.0.0 Neoforge 26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/underwater_village-1.0.0 Neoforge 26.1.2.jar",
     "jar_sha256": "81a1bf6e1cc545752d0aac4e28e025d16cbdd3a2bd0e2393f6d91b12d147a217",
     "nested_jars": [],
     "resource": "assets/underwater_village/lang/en_us.json",

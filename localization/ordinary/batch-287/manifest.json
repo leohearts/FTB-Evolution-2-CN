@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "44157e38189e1c426731ba01333e33f580af06f28606aa34f523b269329535ae",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/volumetrics-1.0.17.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/volumetrics-1.0.17.jar",
     "jar_sha256": "44157e38189e1c426731ba01333e33f580af06f28606aa34f523b269329535ae",
     "nested_jars": [],
     "resource": "assets/volumetrics/lang/en_us.json",

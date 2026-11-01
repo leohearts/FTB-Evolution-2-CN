@@ -23,7 +23,7 @@
   "unchanged_values": [],
   "jar_sha256": "97682a3c190af1fe9fed747c53d0e782c6b3d29ed8393fbce2d10c9dfd3d5b37",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/laserbridges-26.1.2-neoforge-6.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/laserbridges-26.1.2-neoforge-6.2.jar",
     "jar_sha256": "97682a3c190af1fe9fed747c53d0e782c6b3d29ed8393fbce2d10c9dfd3d5b37",
     "nested_jars": [],
     "resource": "assets/laserbridges/lang/en_us.json",

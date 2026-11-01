@@ -27,7 +27,7 @@
   ],
   "jar_sha256": "4e9c52fdc6f5389e0f29b42dfc63d883adcdd3cc4b83b89b178ab3a43e114491",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ScannableReforged-MC26.1.2-neoforge-1.0.1.jar",
     "jar_sha256": "4e9c52fdc6f5389e0f29b42dfc63d883adcdd3cc4b83b89b178ab3a43e114491",
     "nested_jars": [],
     "resource": "assets/scannable/lang/en_us.json",

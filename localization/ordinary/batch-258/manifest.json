@@ -1,7 +1,7 @@
 {
   "batch": "258",
   "namespace": "ftblibrary",
-  "jar": ".minecraft/mods/ftb-library-neoforge-26.1.2.9.jar",
+  "jar": ".minecraft/mods/ftb-library-neoforge-26.1.2.11.jar",
   "language_path": "assets/ftblibrary/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftblibrary/lang/zh_cn.json",
   "include_keys": [
@@ -18,10 +18,10 @@
     "REI",
     "EMI"
   ],
-  "jar_sha256": "4b7108293d3a190b4a1e06055343143cfba740ca13b83794d9f8933c8de84851",
+  "jar_sha256": "a832a980064e0ed7eda9698c402c830f4ba85dd176abd29a84e2611910f130a5",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-library-neoforge-26.1.2.9.jar",
-    "jar_sha256": "4b7108293d3a190b4a1e06055343143cfba740ca13b83794d9f8933c8de84851",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-library-neoforge-26.1.2.11.jar",
+    "jar_sha256": "a832a980064e0ed7eda9698c402c830f4ba85dd176abd29a84e2611910f130a5",
     "nested_jars": [],
     "resource": "assets/ftblibrary/lang/en_us.json",
     "mod_ids": [

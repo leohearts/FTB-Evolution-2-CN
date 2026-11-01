@@ -17,7 +17,7 @@
   ],
   "jar_sha256": "83891fd855550f51869b3f558682866dac3c476b5198fd671a2ebd789c017c32",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/MagnumTorch-v26.1.0-mc26.1.x-NeoForge.jar",
     "jar_sha256": "83891fd855550f51869b3f558682866dac3c476b5198fd671a2ebd789c017c32",
     "nested_jars": [],
     "resource": "assets/magnumtorch/lang/en_us.json",

@@ -37,7 +37,7 @@
   "unchanged_values": [],
   "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/stellaris-26.1.2-neoforge-2.0.9.jar",
     "jar_sha256": "e12a9a6ce1f99af06b2b97387af4b3b70056dadd6a5302c6e8de5b5c7ea8d83a",
     "nested_jars": [],
     "resource": "assets/stellaris/lang/en_us.json",

@@ -16,7 +16,7 @@
   ],
   "jar_sha256": "f477c14c7fc5f7080aa3dee11899fc9fc52c3b00a28eaffb81023371df42324e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pipez-neoforge-1.2.31+26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/pipez-neoforge-1.2.31+26.1.2.jar",
     "jar_sha256": "f477c14c7fc5f7080aa3dee11899fc9fc52c3b00a28eaffb81023371df42324e",
     "nested_jars": [],
     "resource": "assets/pipez/lang/en_us.json",

@@ -804,7 +804,7 @@
   "scope": "Missing ordinary-language keys from the current resource inventory",
   "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/integrateddynamics-26.1.2-neoforge-1.36.2.jar",
     "jar_sha256": "e791d33b59cf16c2bbee58397cdfd3a96fc70ad7ade9a826b483d0bb9ccb6c7e",
     "nested_jars": [],
     "resource": "assets/integrateddynamics/lang/en_us.json",

@@ -84,7 +84,7 @@
   ],
   "jar_sha256": "0571122e424767db8794b45fcf0c30f73012ca9d950f3a9c2d9315c5981f9d0a",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fancymenu_neoforge_3.9.14_MC_26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/fancymenu_neoforge_3.9.14_MC_26.1.2.jar",
     "jar_sha256": "0571122e424767db8794b45fcf0c30f73012ca9d950f3a9c2d9315c5981f9d0a",
     "nested_jars": [],
     "resource": "assets/fancymenu/lang/en_us.json",

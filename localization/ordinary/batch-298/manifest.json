@@ -86,7 +86,7 @@
   "unchanged_values": [],
   "jar_sha256": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/arsmagicalegacy-26.1.2-1.7.1.jar",
     "jar_sha256": "ec1385de7ed675830d308d4872467acfbd2c4c231eba85a7041b1a769d31b6c8",
     "nested_jars": [],
     "resource": "assets/arsmagicalegacy/lang/en_us.json",

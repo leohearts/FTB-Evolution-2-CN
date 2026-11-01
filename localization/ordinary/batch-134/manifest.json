@@ -73,7 +73,7 @@
   ],
   "jar_sha256": "bbe547d5dcbf77456ed28224e49c0b143a975d1d2b2cab721372872908cd5021",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/AdvancedLootInfo-neoforge-26.1.2-2.5.0.jar",
     "jar_sha256": "bbe547d5dcbf77456ed28224e49c0b143a975d1d2b2cab721372872908cd5021",
     "nested_jars": [],
     "resource": "assets/ali/lang/en_us.json",

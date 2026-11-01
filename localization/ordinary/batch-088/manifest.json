@@ -14,7 +14,7 @@
   ],
   "jar_sha256": "a23ede2b51180d9b19ee370ed4e0bece14dbc9a4c8055a6e2e6b77589b554e67",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/laserio-1.10.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/laserio-1.10.2.jar",
     "jar_sha256": "a23ede2b51180d9b19ee370ed4e0bece14dbc9a4c8055a6e2e6b77589b554e67",
     "nested_jars": [],
     "resource": "assets/laserio/lang/en_us.json",

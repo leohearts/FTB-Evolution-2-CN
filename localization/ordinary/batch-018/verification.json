@@ -6,7 +6,7 @@
   "unique_values": 289,
   "chinese_values": 304,
   "reviewed_non_prose_values": 2,
-  "installed_overlay_keys": 306,
-  "source_sha256": "10b0c56a4ec4a21827600eb9021afd9b056bbf9e443a651c9edce456cffc2dd9",
+  "installed_overlay_keys": 311,
+  "source_sha256": "df18f76cc0a92a0fcddfde15dd5d430e8956042166e0490ccae7e2612d2c1e47",
   "in_game_tested": false
 }

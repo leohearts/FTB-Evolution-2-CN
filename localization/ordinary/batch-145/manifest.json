@@ -37,7 +37,7 @@
   ],
   "jar_sha256": "25cdb105c705aa3476e50718afcf1f4375745496af8af8b773644d81a67efc99",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/HorsingAround-26.1.2-0.3.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/HorsingAround-26.1.2-0.3.5.jar",
     "jar_sha256": "25cdb105c705aa3476e50718afcf1f4375745496af8af8b773644d81a67efc99",
     "nested_jars": [],
     "resource": "assets/horsingaround/lang/en_us.json",

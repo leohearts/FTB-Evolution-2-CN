@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "9b1323019767b590337ad17a111df6aadf079b9fb1d21a7269e975c35c7337a0",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/javd-neo-26.1.1.0+mc26.1.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/javd-neo-26.1.1.0+mc26.1.1.jar",
     "jar_sha256": "9b1323019767b590337ad17a111df6aadf079b9fb1d21a7269e975c35c7337a0",
     "nested_jars": [],
     "resource": "assets/javd/lang/en_us.json",

@@ -192,7 +192,7 @@
   "%s FE/t",
   "Output x%s",
   "%s mB water per tick",
-  "Feed the cradle laser beams of purity 2.0 or higher. After %s AP the seed becomes a Cultivated Prismarine Crystal standing on the cradle, which works like a natural one and can be moved with a wrench.",
+  "Feed the cradle laser beams of purity 2.0 or higher. After %s AP the seed becomes a Cultivated Prismarine Crystal with a random purity from 3.00 to 6.00. It can be moved with a wrench without changing its purity.",
   "Craft a Dormant Crystal Seed, then awaken it in a Resonance Chamber at purity 3.0. Set the awakened seed in a Crystal Cradle.",
   "Duration: %s",
   "Leave in an EAS source for %ss",

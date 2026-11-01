@@ -16,7 +16,7 @@
   "unchanged_values": [],
   "jar_sha256": "c8d4d69e7b732fdde76b6a5f595f280481f3c9494a31d8d032356812e1ea710e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/MutantMonsters-v26.1.3-mc26.1.x-NeoForge.jar",
     "jar_sha256": "c8d4d69e7b732fdde76b6a5f595f280481f3c9494a31d8d032356812e1ea710e",
     "nested_jars": [],
     "resource": "assets/mutantmonsters/lang/en_us.json",

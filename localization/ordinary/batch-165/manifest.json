@@ -28,7 +28,7 @@
   ],
   "jar_sha256": "311b592b9c9d6679bf7ac13bcd305f7f29dd7ee5dbad073ecb764bb5d1674c5c",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/GatewaysToEternity-26.1.2-6.0.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/GatewaysToEternity-26.1.2-6.0.2.jar",
     "jar_sha256": "311b592b9c9d6679bf7ac13bcd305f7f29dd7ee5dbad073ecb764bb5d1674c5c",
     "nested_jars": [],
     "resource": "assets/gateways/lang/en_us.json",

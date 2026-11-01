@@ -1,7 +1,7 @@
 {
   "batch": "049",
   "namespace": "hephaestus_tools",
-  "jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
+  "jar": ".minecraft/mods/hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
   "language_path": "assets/hephaestus_tools/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/hephaestus_tools/lang/zh_cn.json",
   "include_keys": [
@@ -17,15 +17,15 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "b1c1b100291f725825ad416b945cb7ca512cc26af7cb1e2c50eac2226c793971",
+  "jar_sha256": "de31bdcc1125eb1de2c2972b5ad8d2f14416010f26d27496e2b9c9ee0c1677eb",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/hephaestus_tools-neoforge-26.1.2-1.0.9.jar",
-    "jar_sha256": "b1c1b100291f725825ad416b945cb7ca512cc26af7cb1e2c50eac2226c793971",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/hephaestus_tools-neoforge-26.1.2-1.0.11.jar",
+    "jar_sha256": "de31bdcc1125eb1de2c2972b5ad8d2f14416010f26d27496e2b9c9ee0c1677eb",
     "nested_jars": [],
     "resource": "assets/hephaestus_tools/lang/en_us.json",
     "mod_ids": [
       "hephaestus_tools"
     ],
-    "resource_sha256": "909de16c2c3b439c57b512443ecb79f52de85d3e85c9389bca783ee3c964d5e2"
+    "resource_sha256": "286b8134f1bca5a729bd34c1365f684328a41958903668d412d8d11512de8432"
   }
 }

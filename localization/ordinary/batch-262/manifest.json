@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "c2e40a8f7541aefdca3aaac0d2dd9ae71de95e19857ac9a1baba87c953082e42",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/eccentrictome-1.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/eccentrictome-1.2.1.jar",
     "jar_sha256": "c2e40a8f7541aefdca3aaac0d2dd9ae71de95e19857ac9a1baba87c953082e42",
     "nested_jars": [],
     "resource": "assets/eccentrictome/lang/en_us.json",

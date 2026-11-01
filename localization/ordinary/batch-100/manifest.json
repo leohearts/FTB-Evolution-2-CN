@@ -1,7 +1,7 @@
 {
   "batch": "100",
   "namespace": "ftbpc",
-  "jar": ".minecraft/mods/ftb-pack-companion-26.1.2.5.jar",
+  "jar": ".minecraft/mods/ftb-pack-companion-26.1.2.6.jar",
   "language_path": "assets/ftbpc/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbpc/lang/zh_cn.json",
   "include_keys": [
@@ -39,10 +39,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+  "jar_sha256": "b675f6d80450388055e8023f4c69d2ed921cf36e0934bdd88202b2908b11afde",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-pack-companion-26.1.2.5.jar",
-    "jar_sha256": "518377c5786f8e8f9e64fbcee7cad808802b266a469dc019cd2aae8745c262a5",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-pack-companion-26.1.2.6.jar",
+    "jar_sha256": "b675f6d80450388055e8023f4c69d2ed921cf36e0934bdd88202b2908b11afde",
     "nested_jars": [],
     "resource": "assets/ftbpc/lang/en_us.json",
     "mod_ids": [

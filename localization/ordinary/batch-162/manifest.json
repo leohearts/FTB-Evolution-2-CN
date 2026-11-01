@@ -64,7 +64,7 @@
   ],
   "jar_sha256": "8ce73663502ac70f958a1613be1d6d4059bfdd1366f2b2a0309d5e563d5dfcf9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/irons_jewelry-26.1.2-2.0.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/irons_jewelry-26.1.2-2.0.2.1.jar",
     "jar_sha256": "8ce73663502ac70f958a1613be1d6d4059bfdd1366f2b2a0309d5e563d5dfcf9",
     "nested_jars": [],
     "resource": "assets/irons_jewelry/lang/en_us.json",

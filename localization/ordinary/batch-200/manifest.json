@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "fd94d7c6c45f8ae00e8828724da43835e187e4e6aa57186de90e3dfb10129b96",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/RainShield-26.1.2-2.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/RainShield-26.1.2-2.0.0.jar",
     "jar_sha256": "fd94d7c6c45f8ae00e8828724da43835e187e4e6aa57186de90e3dfb10129b96",
     "nested_jars": [],
     "resource": "assets/rainshield/lang/en_us.json",

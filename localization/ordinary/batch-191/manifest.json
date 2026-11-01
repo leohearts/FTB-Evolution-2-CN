@@ -20,7 +20,7 @@
   "unchanged_values": [],
   "jar_sha256": "a465c1dfca1ed5bdcf21e7f0813f1d7555e65fd5d101dbe41548373bc07e4b21",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/BuildGuide-26.1.2-0.4.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/BuildGuide-26.1.2-0.4.9.jar",
     "jar_sha256": "a465c1dfca1ed5bdcf21e7f0813f1d7555e65fd5d101dbe41548373bc07e4b21",
     "nested_jars": [],
     "resource": "assets/buildguide/lang/en_us.json",

@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "19a81eea5a2c67105712176062863579237c450ee0dbe791ee11f475a61d3171",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/aquariuslibs-1.2.0-neoforge-26.2.0.2.jar",
     "jar_sha256": "19a81eea5a2c67105712176062863579237c450ee0dbe791ee11f475a61d3171",
     "nested_jars": [],
     "resource": "assets/aquarius_libs/lang/en_us.json",

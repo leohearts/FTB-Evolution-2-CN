@@ -19,7 +19,7 @@
   "unchanged_values": [],
   "jar_sha256": "e40a36cd2efaca260d29cb78b5adb51610eabc26e130f1196936c00b122b2235",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MysticalAgradditions-26.1.2-9.0.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/MysticalAgradditions-26.1.2-9.0.4.jar",
     "jar_sha256": "e40a36cd2efaca260d29cb78b5adb51610eabc26e130f1196936c00b122b2235",
     "nested_jars": [],
     "resource": "assets/mysticalagradditions/lang/en_us.json",

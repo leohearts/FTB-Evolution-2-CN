@@ -24,7 +24,7 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivebees-26.1.2-15.4.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/productivebees-26.1.2-15.4.0.jar",
     "jar_sha256": "404c27d92b38d9e6f9b5a07fe99bc5f6d12578de816a548e3d7575cc498333f3",
     "nested_jars": [],
     "resource": "assets/productivebees/lang/en_us.json",

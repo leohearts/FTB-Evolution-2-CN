@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "2a2061c38e5434e56f59c1c7fbd900636cb717cc21842892953446dbb43147db",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/rsrreforged-neoforge-26.1.2-1.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/rsrreforged-neoforge-26.1.2-1.0.3.jar",
     "jar_sha256": "2a2061c38e5434e56f59c1c7fbd900636cb717cc21842892953446dbb43147db",
     "nested_jars": [],
     "resource": "assets/rsrreforged/lang/en_us.json",

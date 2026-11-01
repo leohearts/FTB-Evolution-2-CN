@@ -2,11 +2,11 @@
   "status": "passed",
   "batch": "264",
   "namespace": "tesseract_api",
-  "source_keys": 4,
-  "unique_values": 4,
-  "chinese_values": 3,
+  "source_keys": 2,
+  "unique_values": 2,
+  "chinese_values": 1,
   "reviewed_non_prose_values": 1,
-  "installed_overlay_keys": 4,
-  "source_sha256": "40370ffa2cecbe16f502e1e02c7b82220d2a952169f8ffca402b6ffcc39bd399",
+  "installed_overlay_keys": 5,
+  "source_sha256": "85986cbd44eeff31380c791d46da8fb6ec1403adfa3b41d2f7a87098a4b9a469",
   "in_game_tested": false
 }

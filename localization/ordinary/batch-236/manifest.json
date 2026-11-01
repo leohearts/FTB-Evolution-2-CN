@@ -76,7 +76,7 @@
   "unchanged_values": [],
   "jar_sha256": "c6728b686f3bf573927b228db354ab8f46ee826c67f4eb9babaec094ef68cc52",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/iska_lib-1.12.0.1.0-neoforge-26.1.2.jar",
     "jar_sha256": "c6728b686f3bf573927b228db354ab8f46ee826c67f4eb9babaec094ef68cc52",
     "nested_jars": [],
     "resource": "assets/iska_lib/lang/en_us.json",

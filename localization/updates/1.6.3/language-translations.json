@@ -1,0 +1,147 @@
+{
+  "gui.colossal_reactors.reactor_builder.pattern.1": {
+    "source": "Dots",
+    "translation": "点阵",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.2": {
+    "source": "Checkerboard",
+    "translation": "棋盘",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.3": {
+    "source": "Frame",
+    "translation": "回形",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.4": {
+    "source": "Custom",
+    "translation": "自定义",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.1": {
+    "source": "Rods are placed evenly spaced.\nExample:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\nApproximately: 30% rod, 70% heat sink.",
+    "translation": "均匀间隔放置燃料棒.\n示例:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\n大约: 30% 燃料棒, 70% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.2": {
+    "source": "Rods are placed in a checkerboard pattern.\nExample:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\nApproximately: 50% rod, 50% heat sink.",
+    "translation": "以棋盘格放置燃料棒.\n示例:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\n大约: 50% 燃料棒, 50% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.3": {
+    "source": "Rods are placed in expanding frames.\nExample:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\nApproximately: 90% rod, 10% heat sink.",
+    "translation": "以逐层扩展的回形放置燃料棒.\n示例:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\n大约: 90% 燃料棒, 10% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.4": {
+    "source": "Places the frame and fills the interior with heat sinks only (no rods).",
+    "translation": "放置框架, 内部仅填充散热介质(不放置燃料棒).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.1": {
+    "source": "Efficient",
+    "translation": "高效",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.2": {
+    "source": "Productive",
+    "translation": "高产",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.1": {
+    "source": "Blade rings on fewer layers (higher efficiency per blade).",
+    "translation": "叶片环分布在较少层数上(每片叶片效率更高).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.2": {
+    "source": "Blade rings on more layers (higher throughput).",
+    "translation": "叶片环分布在较多层数上(吞吐量更高).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  "gui.colossal_reactors.resource_port.toggle.solid.tooltip": {
+    "source": "Click to allow or block solid items through this port.",
+    "translation": "点击允许或阻止固体物品通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  "gui.colossal_reactors.resource_port.toggle.liquid.tooltip": {
+    "source": "Click to allow or block fluids through this port.",
+    "translation": "点击允许或阻止流体通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  "gui.colossal_reactors.resource_port.toggle.gas.tooltip": {
+    "source": "Click to allow or block Mekanism gases through this port.",
+    "translation": "点击允许或阻止 Mekanism 气体通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  "gui.colossal_reactors.reactor_builder.pattern.0": {
+    "source": "Website",
+    "translation": "网站设计",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.0": {
+    "source": "Website",
+    "translation": "网站设计",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  "gui.colossal_reactors.reactor_builder.tooltip.pattern.0": {
+    "source": "Import a design from the third-party ModDecoded calculator.",
+    "translation": "从第三方 ModDecoded 计算器导入设计.",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.0": {
+    "source": "Import a design from the third-party ModDecoded calculator.",
+    "translation": "从第三方 ModDecoded 计算器导入设计.",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  "gui.colossal_reactors.turbine_builder.pattern.3": {
+    "source": "Hyperflow",
+    "translation": "超流",
+    "reason": "New turbine layout name"
+  },
+  "gui.colossal_reactors.turbine_builder.tooltip.pattern.3": {
+    "source": "Multi-rod grid with a rod controller on each column.",
+    "translation": "多转轴网格, 每列各有一个转轴控制器.",
+    "reason": "New turbine layout description"
+  },
+  "message.colossal_reactors.turbine_invalid.multiple_rod_controllers": {
+    "source": "Invalid: rod controllers found (%s) — each must sit on the deck above a rod column",
+    "translation": "无效: 发现的转轴控制器(%s), 每个都必须位于转轴列上方的平台上",
+    "reason": "Multiple rod controllers are now valid; each must sit above a rod column"
+  },
+  "gui.hephaestus_tools.build.ready_hint": {
+    "source": "All parts ready! Press Forge (or Space).",
+    "translation": "全部部件已就绪! 按下锻造按钮(或 Space).",
+    "reason": "Wording changed from attached to ready"
+  },
+  "nautec.jei.crystal_cradle": {
+    "source": "Feed the cradle laser beams of purity 2.0 or higher. After %s AP the seed becomes a Cultivated Prismarine Crystal with a random purity from 3.00 to 6.00. It can be moved with a wrench without changing its purity.",
+    "translation": "向晶体培育座输入纯度不低于 2.0 的激光束. 积累 %s AP 后, 晶种会变为纯度随机在 3.00 到 6.00 之间的培育海棱水晶. 可用扳手移动, 纯度不会改变.",
+    "reason": "Cultivated crystals now roll a random purity and keep it when moved"
+  },
+  "mastery.hephaestus_tools.frontier.desc": {
+    "source": "Balanced gathering bonus; later saves durability, gives light extra ore drops and rewards streaks.",
+    "translation": "均衡的采集加成; 后期可节省耐久, 提供少量额外矿石掉落并奖励连续采集.",
+    "reason": "Extra drops now limited to ores"
+  },
+  "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip": {
+    "source": "How many distinct crafting recipes to publish per dependency item. Best recipes come first; stock conversions (e.g. block to ingots and back) come last and do not count toward the limit. 1 = only the best recipe",
+    "translation": "为每个依赖物品发布多少个不同的合成配方. 最佳配方排在最前; 库存转换(例如方块与锭的互相转换)排在最后, 且不计入此上限. 1 = 仅最佳配方",
+    "reason": "Option now counts distinct published recipes and excludes stock conversions; recommendation removed"
+  },
+  "item.ftbarmory.adamantite_storage_stack_upgrade.tooltip": {
+    "source": "Multiplies the number of stacks that can fit in a slot by 36",
+    "translation": "使每个槽位可容纳的堆叠数乘以 36",
+    "reason": "Multiplier changed from 32 to 36"
+  },
+  "item.ftbarmory.adamantite_backpack_stack_upgrade.tooltip": {
+    "source": "Multiplies the number of stacks that can fit in a slot by 20",
+    "translation": "使每个槽位可容纳的堆叠数乘以 20",
+    "reason": "Multiplier changed from 16 to 20"
+  },
+  "text.easy_npc_example.hello.text": {
+    "source": "Hello @initiator, my name is @npc, nice to meet you!\n\nDo you want to know more about me?",
+    "translation": "你好 @initiator, 我是 @npc, 很高兴见到你!\n\n想多了解我一些吗?",
+    "reason": "Comma added in English; existing translation already has it"
+  }
+}

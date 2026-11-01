@@ -1,7 +1,7 @@
 {
   "batch": "164",
   "namespace": "irons_artifice",
-  "jar": ".minecraft/mods/irons_artifice-26.1.2-1.1.0.jar",
+  "jar": ".minecraft/mods/irons_artifice-26.1.2-1.1.1.jar",
   "language_path": "assets/irons_artifice/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/irons_artifice/lang/zh_cn.json",
   "include_keys": [
@@ -29,10 +29,10 @@
     "-%s %s",
     "%s%% %s"
   ],
-  "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+  "jar_sha256": "0f3dd46e5164e94ef1fc6577b1d1286c59e4fabe881c31e3f1705a90c013da86",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/irons_artifice-26.1.2-1.1.0.jar",
-    "jar_sha256": "8ee3aca61fa83e95f7d4c6bc1abb78ba24aef6c97e666ef01554d0d725f1ac80",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/irons_artifice-26.1.2-1.1.1.jar",
+    "jar_sha256": "0f3dd46e5164e94ef1fc6577b1d1286c59e4fabe881c31e3f1705a90c013da86",
     "nested_jars": [],
     "resource": "assets/irons_artifice/lang/en_us.json",
     "mod_ids": [

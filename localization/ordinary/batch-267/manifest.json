@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "cff0f38b3192bc0b1e89ab43a5d11bc26f10e3aafc40d7c1d5e8d20d59f7d683",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsApi-26.1.2-NeoForge-6.1.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/YungsApi-26.1.2-NeoForge-6.1.3.jar",
     "jar_sha256": "cff0f38b3192bc0b1e89ab43a5d11bc26f10e3aafc40d7c1d5e8d20d59f7d683",
     "nested_jars": [],
     "resource": "assets/yungsapi/lang/en_us.json",

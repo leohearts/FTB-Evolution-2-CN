@@ -1,7 +1,7 @@
 {
   "batch": "060",
   "namespace": "energizedpower",
-  "jar": ".minecraft/mods/energizedpower-3.0.1+26.1.x-neoforge.jar",
+  "jar": ".minecraft/mods/energizedpower-3.0.5+26.1.x-neoforge.jar",
   "language_path": "assets/energizedpower/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/energizedpower/lang/zh_cn.json",
   "include_keys": [
@@ -71,10 +71,10 @@
     "Discord",
     "Reddit"
   ],
-  "jar_sha256": "09df0adc4ab9d7fdde1ce6fb8b441e79d54f91d7d54e6db91f4d0b5f3f8ed877",
+  "jar_sha256": "9576b44fe1a96efc289389b276d880498dbf0a39649126f321371af2d5f6cbc0",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/energizedpower-3.0.1+26.1.x-neoforge.jar",
-    "jar_sha256": "09df0adc4ab9d7fdde1ce6fb8b441e79d54f91d7d54e6db91f4d0b5f3f8ed877",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/energizedpower-3.0.5+26.1.x-neoforge.jar",
+    "jar_sha256": "9576b44fe1a96efc289389b276d880498dbf0a39649126f321371af2d5f6cbc0",
     "nested_jars": [],
     "resource": "assets/energizedpower/lang/en_us.json",
     "mod_ids": [

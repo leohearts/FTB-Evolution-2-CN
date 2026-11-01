@@ -1,7 +1,7 @@
 {
   "batch": "246",
   "namespace": "armor_cosmetic",
-  "jar": ".minecraft/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
+  "jar": ".minecraft/mods/armor_cosmetic-26.1.2-neoforge-26.1.2.78-1.1.3.jar",
   "language_path": "assets/armor_cosmetic/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/armor_cosmetic/lang/zh_cn.json",
   "include_keys": [
@@ -21,15 +21,15 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+  "jar_sha256": "bcdac66fa54238ee7e43412fb9991dd2bc5781fb68dc2dd45ca2168d405ab6b7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/armor_cosmetic-26.1.2-neoforge-1.1.2.jar",
-    "jar_sha256": "444fd753c98853fc8a3ea947905748c839299489bc8b3db5fd15d1201626a5d3",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/armor_cosmetic-26.1.2-neoforge-26.1.2.78-1.1.3.jar",
+    "jar_sha256": "bcdac66fa54238ee7e43412fb9991dd2bc5781fb68dc2dd45ca2168d405ab6b7",
     "nested_jars": [],
     "resource": "assets/armor_cosmetic/lang/en_us.json",
     "mod_ids": [
       "armor_cosmetic"
     ],
-    "resource_sha256": "118fa792ae3a9d5acd00d9a6e24bfe50f9bd8d3fcdb6a0e703942877bc690b55"
+    "resource_sha256": "6b109d9f367c6e5c41b947e0e9ddb5b01b5b0605ada705df9f2c9a0666a1d1e8"
   }
 }

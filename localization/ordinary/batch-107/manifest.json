@@ -242,7 +242,7 @@
   ],
   "jar_sha256": "e46e29ee4d767d975571b1b0bf7d3efc4a8d5c7c4191bf90d980e1515b9c9f67",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/TravelersTitles-26.1.2-NeoForge-6.1.0.jar",
     "jar_sha256": "e46e29ee4d767d975571b1b0bf7d3efc4a8d5c7c4191bf90d980e1515b9c9f67",
     "nested_jars": [],
     "resource": "assets/travelerstitles/lang/en_us.json",

@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "9284f552b722637e6951d7d49723fb96f58c5a93f868d7ac58e9633be5a30209",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/artifacts-neoforge-15.1.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/artifacts-neoforge-15.1.3.jar",
     "jar_sha256": "9284f552b722637e6951d7d49723fb96f58c5a93f868d7ac58e9633be5a30209",
     "nested_jars": [],
     "resource": "assets/artifacts/lang/en_us.json",

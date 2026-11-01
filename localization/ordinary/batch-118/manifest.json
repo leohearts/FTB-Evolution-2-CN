@@ -23,7 +23,7 @@
   "unchanged_values": [],
   "jar_sha256": "ff54e11ab5c5698f46541251ed26a64c016a6f8d058b013ef8d945f13c6750ba",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fancytabsections-6.2-NEOFORGE-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/fancytabsections-6.2-NEOFORGE-26.1.2.jar",
     "jar_sha256": "ff54e11ab5c5698f46541251ed26a64c016a6f8d058b013ef8d945f13c6750ba",
     "nested_jars": [],
     "resource": "assets/fancytabsections/lang/en_us.json",

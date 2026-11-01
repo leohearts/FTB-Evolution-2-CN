@@ -16,7 +16,7 @@
   "unchanged_values": [],
   "jar_sha256": "4e1bd12aa644320195553e76edbdb159150dd51db6268f532544206567ef165a",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/refinedstorage-quartz-arsenal-neoforge-2.0.6.jar",
     "jar_sha256": "4e1bd12aa644320195553e76edbdb159150dd51db6268f532544206567ef165a",
     "nested_jars": [],
     "resource": "assets/refinedstorage_quartz_arsenal/lang/en_us.json",

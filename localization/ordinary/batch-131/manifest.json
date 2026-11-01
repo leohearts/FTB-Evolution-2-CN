@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "32bfe1ed3dea0684259568dbf2b6fe02e939bf398e54af383238bb3b8cac4da6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/appleskin-neoforge-mc26.1-3.0.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/appleskin-neoforge-mc26.1-3.0.9.jar",
     "jar_sha256": "32bfe1ed3dea0684259568dbf2b6fe02e939bf398e54af383238bb3b8cac4da6",
     "nested_jars": [],
     "resource": "assets/appleskin/lang/en_us.json",

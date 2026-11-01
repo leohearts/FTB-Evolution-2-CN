@@ -27,7 +27,7 @@
   ],
   "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/MoogsStructureLib-neoforge-26.1.2-3.4.2.jar",
     "jar_sha256": "76534ab157aa32100fb985d41cb4dd5640a96dcfa8cd03e0762e7234e7511f5e",
     "nested_jars": [],
     "resource": "assets/moogs_structures/lang/en_us.json",

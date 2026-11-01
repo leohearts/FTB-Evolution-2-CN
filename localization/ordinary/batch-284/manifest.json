@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "46db96de8ac7d905d6ead1de792899671cbdb45cfa6e2a807b0f68055352f33d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cyclopscore-26.1.2-neoforge-1.31.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cyclopscore-26.1.2-neoforge-1.31.3.jar",
     "jar_sha256": "46db96de8ac7d905d6ead1de792899671cbdb45cfa6e2a807b0f68055352f33d",
     "nested_jars": [],
     "resource": "assets/cyclopscore/lang/en_us.json",

@@ -1,7 +1,7 @@
 {
   "batch": "311",
   "namespace": "witchery_forbidden_magic",
-  "jar": ".minecraft/mods/witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
+  "jar": ".minecraft/mods/witchery_forbidden_magic-0.5.28-mc26.1.2.jar",
   "language_path": "assets/witchery_forbidden_magic/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/witchery_forbidden_magic/lang/zh_cn.json",
   "include_keys": [
@@ -11,10 +11,10 @@
   "unchanged_values": [
     "30W"
   ],
-  "jar_sha256": "966dec2f664c6cd04d4028b6792e53618b06ca83941b81eee642c4883ddc4ea2",
+  "jar_sha256": "9b8bf03b5bdccda6a8a8c9b6e12b66c9f6a5e07ae60e72bb10e7e819200561b5",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/witchery_forbidden_magic-0.5.22+mc26.1.2.jar",
-    "jar_sha256": "966dec2f664c6cd04d4028b6792e53618b06ca83941b81eee642c4883ddc4ea2",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/witchery_forbidden_magic-0.5.28-mc26.1.2.jar",
+    "jar_sha256": "9b8bf03b5bdccda6a8a8c9b6e12b66c9f6a5e07ae60e72bb10e7e819200561b5",
     "nested_jars": [],
     "resource": "assets/witchery_forbidden_magic/lang/en_us.json",
     "mod_ids": [

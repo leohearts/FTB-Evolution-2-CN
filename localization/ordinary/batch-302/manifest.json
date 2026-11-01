@@ -1,7 +1,7 @@
 {
   "batch": "302",
   "namespace": "occultism",
-  "jar": ".minecraft/mods/occultism-26.1.2-neoforge-1.256.1.jar",
+  "jar": ".minecraft/mods/occultism-26.1.2-neoforge-1.257.2.jar",
   "language_path": "assets/occultism/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/occultism/lang/zh_cn.json",
   "include_keys": [
@@ -83,10 +83,10 @@
     "x4",
     "x6"
   ],
-  "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+  "jar_sha256": "73258aff0f07f8eb4688fc5667c1f7f67b9b161cae8bc0fa5beeb35b682ff9aa",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/occultism-26.1.2-neoforge-1.256.1.jar",
-    "jar_sha256": "97ec1447e8d34ac103cc6c6cc966c2894f3b023901d8dd1efe9b5e5c98078959",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/occultism-26.1.2-neoforge-1.257.2.jar",
+    "jar_sha256": "73258aff0f07f8eb4688fc5667c1f7f67b9b161cae8bc0fa5beeb35b682ff9aa",
     "nested_jars": [],
     "resource": "assets/occultism/lang/en_us.json",
     "mod_ids": [

@@ -46,7 +46,7 @@
   "unchanged_values": [],
   "jar_sha256": "d266a139569808910f1f8b155950b7e6b05f8b55e4b2cbc6e40bc11b4f45365e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pipe_connector-neoforge-0.6.8.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/pipe_connector-neoforge-0.6.8.jar",
     "jar_sha256": "d266a139569808910f1f8b155950b7e6b05f8b55e4b2cbc6e40bc11b4f45365e",
     "nested_jars": [],
     "resource": "assets/pipe_connector/lang/en_us.json",

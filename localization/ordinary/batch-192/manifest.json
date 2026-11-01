@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "9dca3e70948d916cc3aa3f0dad78601158459022a657d30efeb0a805af97ca74",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/crafting_on_a_stick-neoforge-26.1-1.1.jar",
     "jar_sha256": "9dca3e70948d916cc3aa3f0dad78601158459022a657d30efeb0a805af97ca74",
     "nested_jars": [],
     "resource": "assets/crafting_on_a_stick/lang/en_us.json",

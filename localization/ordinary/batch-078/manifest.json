@@ -1,7 +1,7 @@
 {
   "batch": "078",
   "namespace": "sophisticatedcore",
-  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.18.2424.jar",
+  "jar": ".minecraft/mods/sophisticatedcore-26.1.2-1.5.20.2437.jar",
   "language_path": "assets/sophisticatedcore/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/sophisticatedcore/lang/zh_cn.json",
   "include_keys": [
@@ -18,10 +18,10 @@
     "%s FE",
     "%s mB %s"
   ],
-  "jar_sha256": "dd6f9312e31cd59e30c90dc142ea5932d160d7113783ec3bf6c4649dfa64bc6a",
+  "jar_sha256": "db461ba6ee503d8c4ee6160293853e2fc651acc9a85bb877fc34117d331daf6e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticatedcore-26.1.2-1.5.18.2424.jar",
-    "jar_sha256": "dd6f9312e31cd59e30c90dc142ea5932d160d7113783ec3bf6c4649dfa64bc6a",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/sophisticatedcore-26.1.2-1.5.20.2437.jar",
+    "jar_sha256": "db461ba6ee503d8c4ee6160293853e2fc651acc9a85bb877fc34117d331daf6e",
     "nested_jars": [],
     "resource": "assets/sophisticatedcore/lang/en_us.json",
     "mod_ids": [

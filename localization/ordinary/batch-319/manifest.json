@@ -18,7 +18,7 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/tectonic-3.0.28-neoforge-26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/tectonic-3.0.28-neoforge-26.1.jar",
     "jar_sha256": "e80f5ba26aa6deeeabaa75ce0e4f602a3d81b53c5557122799d27b7352e8b7ca",
     "nested_jars": [
       {

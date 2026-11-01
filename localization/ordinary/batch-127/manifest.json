@@ -45,7 +45,7 @@
   ],
   "jar_sha256": "1cae023c36e8b557b1b759366e44b423511e8918f3c9b4fe91566c688b7445d7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fzzy_config-0.7.7+26.1+neoforge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/fzzy_config-0.7.7+26.1+neoforge.jar",
     "jar_sha256": "1cae023c36e8b557b1b759366e44b423511e8918f3c9b4fe91566c688b7445d7",
     "nested_jars": [],
     "resource": "assets/fzzy_config/lang/en_us.json",

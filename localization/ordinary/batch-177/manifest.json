@@ -1,7 +1,7 @@
 {
   "batch": "177",
   "namespace": "easy_npc",
-  "jar": ".minecraft/mods/easy_npc-neoforge-26.1.2-7.16.0.jar",
+  "jar": ".minecraft/mods/easy_npc-neoforge-26.1.2-7.17.1.jar",
   "language_path": "assets/easy_npc/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/easy_npc/lang/zh_cn.json",
   "include_keys": [
@@ -91,10 +91,10 @@
     "Easy Model NPC",
     "- %1$s"
   ],
-  "jar_sha256": "cf8642777380183aeb66f6b15769b057fb6bb1b07b36c69025361e45dc1a16b8",
+  "jar_sha256": "67eee3e46407a3b5229308b7c949c4a83f8736b967d5d7d000a2bcc4caa7c04e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/easy_npc-neoforge-26.1.2-7.16.0.jar",
-    "jar_sha256": "cf8642777380183aeb66f6b15769b057fb6bb1b07b36c69025361e45dc1a16b8",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/easy_npc-neoforge-26.1.2-7.17.1.jar",
+    "jar_sha256": "67eee3e46407a3b5229308b7c949c4a83f8736b967d5d7d000a2bcc4caa7c04e",
     "nested_jars": [],
     "resource": "assets/easy_npc/lang/en_us.json",
     "mod_ids": [

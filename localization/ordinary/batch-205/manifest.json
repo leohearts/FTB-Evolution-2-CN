@@ -14,7 +14,7 @@
   ],
   "jar_sha256": "6c8c0e0caf6931d1eee09d92656a971f03a920627e83fbf2f090779263b15c5f",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/easy-villagers-neoforge-1.1.42+26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/easy-villagers-neoforge-1.1.42+26.1.2.jar",
     "jar_sha256": "6c8c0e0caf6931d1eee09d92656a971f03a920627e83fbf2f090779263b15c5f",
     "nested_jars": [],
     "resource": "assets/easy_villagers/lang/en_us.json",

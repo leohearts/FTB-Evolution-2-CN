@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "0201b58f5bdd33b2edffc786fbea7fbdbae06861f5beea1e6144ce4774e66e21",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ExtendedAE-26.1-1.0.4-neoforge.jar",
     "jar_sha256": "0201b58f5bdd33b2edffc786fbea7fbdbae06861f5beea1e6144ce4774e66e21",
     "nested_jars": [],
     "resource": "assets/extendedae/lang/en_us.json",

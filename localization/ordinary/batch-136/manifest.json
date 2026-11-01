@@ -338,7 +338,7 @@
   ],
   "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/productivefarming-26.1.2-0.13.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/productivefarming-26.1.2-0.13.0.jar",
     "jar_sha256": "e02d8f265b385c4b9cc7b81c0f56627035a9736d0f71e31bb71b5d2d1a27e157",
     "nested_jars": [],
     "resource": "assets/productivefarming/lang/en_us.json",

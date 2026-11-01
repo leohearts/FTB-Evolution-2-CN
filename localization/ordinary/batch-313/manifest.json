@@ -1,7 +1,7 @@
 {
   "batch": "313",
   "namespace": "starcatcher",
-  "jar": ".minecraft/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
+  "jar": ".minecraft/mods/starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar",
   "language_path": "assets/starcatcher/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/starcatcher/lang/zh_cn.json",
   "include_keys": [
@@ -58,10 +58,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+  "jar_sha256": "1b30319e3a45c5083313a513678770483e4abda7036d31d61e20d12699feddaa",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/starcatcher-3.3.10-NEOFORGE-26.1.2.jar",
-    "jar_sha256": "fe7037546e601e0085b6305bdd35af3842fc0ff4a6793a0e1b52ce27e21fda2a",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/starcatcher-3.3.10.2-NEOFORGE-26.1.2.jar",
+    "jar_sha256": "1b30319e3a45c5083313a513678770483e4abda7036d31d61e20d12699feddaa",
     "nested_jars": [],
     "resource": "assets/starcatcher/lang/en_us.json",
     "mod_ids": [

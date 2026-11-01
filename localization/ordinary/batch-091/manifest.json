@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "64545eeeab9d89484fb5d7288daa996b0e5ec284ea4b7a141d6055a604b3ed3e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/universalgrid-neoforge-26.1.2-1.0.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/universalgrid-neoforge-26.1.2-1.0.2.jar",
     "jar_sha256": "64545eeeab9d89484fb5d7288daa996b0e5ec284ea4b7a141d6055a604b3ed3e",
     "nested_jars": [],
     "resource": "assets/universalgrid/lang/en_us.json",

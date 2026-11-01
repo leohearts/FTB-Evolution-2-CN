@@ -1,7 +1,7 @@
 {
   "batch": "087",
   "namespace": "sophisticatedstorage",
-  "jar": ".minecraft/mods/sophisticatedstorage-26.1.2-1.5.123.2190.jar",
+  "jar": ".minecraft/mods/sophisticatedstorage-26.1.2-1.5.125.2202.jar",
   "language_path": "assets/sophisticatedstorage/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/sophisticatedstorage/lang/zh_cn.json",
   "include_keys": [
@@ -13,10 +13,10 @@
     " - %s: %s",
     "%s (%s)"
   ],
-  "jar_sha256": "980cef1cb3c5d7304e533bfbd7166417fd9cfc585a0c988c8da90f3713aa2680",
+  "jar_sha256": "1c3a0378d38f52e58c46489f04173d6208e9e739b52129001a76abe10d944d94",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticatedstorage-26.1.2-1.5.123.2190.jar",
-    "jar_sha256": "980cef1cb3c5d7304e533bfbd7166417fd9cfc585a0c988c8da90f3713aa2680",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/sophisticatedstorage-26.1.2-1.5.125.2202.jar",
+    "jar_sha256": "1c3a0378d38f52e58c46489f04173d6208e9e739b52129001a76abe10d944d94",
     "nested_jars": [],
     "resource": "assets/sophisticatedstorage/lang/en_us.json",
     "mod_ids": [

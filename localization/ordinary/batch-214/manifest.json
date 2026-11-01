@@ -60,7 +60,7 @@
   "unchanged_values": [],
   "jar_sha256": "97c6d1f1f4f12789075b8bf793c0ff20a97e0210cfc089f9c7377c59345bfa6f",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/structurify-neoforge-2.0.43+mc26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/structurify-neoforge-2.0.43+mc26.1.2.jar",
     "jar_sha256": "97c6d1f1f4f12789075b8bf793c0ff20a97e0210cfc089f9c7377c59345bfa6f",
     "nested_jars": [],
     "resource": "assets/structurify/lang/en_us.json",

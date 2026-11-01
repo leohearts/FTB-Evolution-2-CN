@@ -1,7 +1,7 @@
 {
   "batch": "094",
   "namespace": "enderthing",
-  "jar": ".minecraft/mods/Enderthing-26.1.2-1.10.2.jar",
+  "jar": ".minecraft/mods/Enderthing-26.1.2-1.10.3.jar",
   "language_path": "assets/enderthing/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/enderthing/lang/zh_cn.json",
   "include_keys": [
@@ -9,10 +9,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "3d55eb450b259e7a062bc9bf168a1edb8f76628a4a9f7274d688f70023ae458a",
+  "jar_sha256": "a9699a924338800f328f731d7d73cddc09cb78dc6327fe08d49fdb83169b08f6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Enderthing-26.1.2-1.10.2.jar",
-    "jar_sha256": "3d55eb450b259e7a062bc9bf168a1edb8f76628a4a9f7274d688f70023ae458a",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Enderthing-26.1.2-1.10.3.jar",
+    "jar_sha256": "a9699a924338800f328f731d7d73cddc09cb78dc6327fe08d49fdb83169b08f6",
     "nested_jars": [],
     "resource": "assets/enderthing/lang/en_us.json",
     "mod_ids": [

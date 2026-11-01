@@ -26,7 +26,7 @@
   ],
   "jar_sha256": "02cb3fbc2012a9cd1fc0c3e2d16bce9123ed3138a2aa9c4cec696d6801df2873",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/xycraft-machines-0.9.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/xycraft-machines-0.9.2.jar",
     "jar_sha256": "02cb3fbc2012a9cd1fc0c3e2d16bce9123ed3138a2aa9c4cec696d6801df2873",
     "nested_jars": [],
     "resource": "assets/xycraft_machines/lang/en_us.json",

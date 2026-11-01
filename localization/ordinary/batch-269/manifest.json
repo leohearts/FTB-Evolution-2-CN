@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "a7430f74b6d36ab6ce92a52e726f9d1c821f6e1dec9893021675258d6ec28e36",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/baguettelib-26.1.2-NeoForge-2.0.7.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/baguettelib-26.1.2-NeoForge-2.0.7.jar",
     "jar_sha256": "a7430f74b6d36ab6ce92a52e726f9d1c821f6e1dec9893021675258d6ec28e36",
     "nested_jars": [],
     "resource": "assets/baguettelib/lang/en_us.json",

@@ -1,7 +1,7 @@
 {
   "batch": "310",
   "namespace": "witchery",
-  "jar": ".minecraft/mods/witchery-0.5.26+mc26.1.2.jar",
+  "jar": ".minecraft/mods/witchery-0.5.36-mc26.1.2.jar",
   "language_path": "assets/witchery/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/witchery/lang/zh_cn.json",
   "include_keys": [
@@ -10,15 +10,15 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "a30c90e2b1c82b90ed021298fb533ad91cd30f3089212cd3726211c84b09ee94",
+  "jar_sha256": "5e7b48bf6f1058fd463c8e5d9c3589497ec8daf26263b5be1d40eab8aa086188",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/witchery-0.5.26+mc26.1.2.jar",
-    "jar_sha256": "a30c90e2b1c82b90ed021298fb533ad91cd30f3089212cd3726211c84b09ee94",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/witchery-0.5.36-mc26.1.2.jar",
+    "jar_sha256": "5e7b48bf6f1058fd463c8e5d9c3589497ec8daf26263b5be1d40eab8aa086188",
     "nested_jars": [],
     "resource": "assets/witchery/lang/en_us.json",
     "mod_ids": [
       "witchery"
     ],
-    "resource_sha256": "2083aeca17b326f990ad8fac858c276c275403fea62ea79069a88cfd138f19a5"
+    "resource_sha256": "ad3816c7c6a24828e3c3aaee76e0a992d012323dc2677465c115205ca5407f24"
   }
 }

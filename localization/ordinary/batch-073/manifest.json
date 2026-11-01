@@ -17,7 +17,7 @@
   "unchanged_values": [],
   "jar_sha256": "31c369b8e37ecd9d3b0c410cfb6f28896c936201a46f90b2457b9b23d5d27185",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/functionalstorage-26.1.2-1.6.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/functionalstorage-26.1.2-1.6.4.jar",
     "jar_sha256": "31c369b8e37ecd9d3b0c410cfb6f28896c936201a46f90b2457b9b23d5d27185",
     "nested_jars": [],
     "resource": "assets/functionalstorage/lang/en_us.json",

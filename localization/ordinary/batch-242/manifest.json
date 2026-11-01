@@ -1,7 +1,7 @@
 {
   "batch": "242",
   "namespace": "modernfix",
-  "jar": ".minecraft/mods/modernfix-neoforge-5.27.24+mc26.1.2.jar",
+  "jar": ".minecraft/mods/modernfix-neoforge-5.27.25+mc26.1.2.jar",
   "language_path": "assets/modernfix/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/modernfix/lang/zh_cn.json",
   "include_keys": [
@@ -30,10 +30,10 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "120b3ce5a19263fd4e546029af0cb125b3d0529faf23facd8c71eba17516c734",
+  "jar_sha256": "ec138b53d3bf9b35d201950c901288c8f81d692dc6e8f2ffd1aac98e3726e58d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modernfix-neoforge-5.27.24+mc26.1.2.jar",
-    "jar_sha256": "120b3ce5a19263fd4e546029af0cb125b3d0529faf23facd8c71eba17516c734",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/modernfix-neoforge-5.27.25+mc26.1.2.jar",
+    "jar_sha256": "ec138b53d3bf9b35d201950c901288c8f81d692dc6e8f2ffd1aac98e3726e58d",
     "nested_jars": [],
     "resource": "assets/modernfix/lang/en_us.json",
     "mod_ids": [

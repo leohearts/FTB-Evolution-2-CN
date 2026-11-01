@@ -25,7 +25,7 @@
   ],
   "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/MoogsTemplesReimagined-universal-1.21-2.0.4.jar",
     "jar_sha256": "a0c2d78808ad101d4e8c12945ce3b1465cad61296751be6bc2f86074c9480335",
     "nested_jars": [],
     "resource": "assets/mtr/lang/en_us.json",

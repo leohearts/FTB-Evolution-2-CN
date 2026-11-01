@@ -20,7 +20,7 @@
   ],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/balm-neoforge-26.1.2-26.1.2.15.jar",
     "jar_sha256": "0dbe6d1714ea60558e8ab978205b8b69b5b3cd0004eb455bcff8831234259d6e",
     "nested_jars": [
       {

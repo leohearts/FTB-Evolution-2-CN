@@ -16,7 +16,7 @@
   "unchanged_values": [],
   "jar_sha256": "fc9c0b5ca81feb7a2c6f92fecbad0bf42f6d3b11c5d24ff3d1a2648457413d07",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/getittogetherdrops-neoforge-26.1.1-1.5.jar",
     "jar_sha256": "fc9c0b5ca81feb7a2c6f92fecbad0bf42f6d3b11c5d24ff3d1a2648457413d07",
     "nested_jars": [],
     "resource": "assets/getittogetherdrops/lang/en_us.json",

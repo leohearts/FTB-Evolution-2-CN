@@ -1,8 +1,8 @@
 {
   "batch": "327",
   "namespace": "mezz_config",
-  "jar": ".minecraft/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
-  "jar_sha256": "5861979f9218b525f2f043a5a7f98ee65d78c5138f0d68a0f8293aaaac042340",
+  "jar": ".minecraft/mods/mezz_config-26.1.2-neoforge-0.6.9-standalone.jar",
+  "jar_sha256": "be0654992878a02f5a387548dce56660c780de854db1b7577d8f14a9693d6720",
   "language_path": "assets/mezz_config/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/mezz_config/lang/zh_cn.json",
   "include_keys": [
@@ -29,12 +29,12 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mezz_config-26.1.2-neoforge-0.6.8-standalone.jar",
-    "jar_sha256": "5861979f9218b525f2f043a5a7f98ee65d78c5138f0d68a0f8293aaaac042340",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/mezz_config-26.1.2-neoforge-0.6.9-standalone.jar",
+    "jar_sha256": "be0654992878a02f5a387548dce56660c780de854db1b7577d8f14a9693d6720",
     "nested_jars": [
       {
-        "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
-        "sha256": "5eeccb24d021261611a5f0b006803d061090ea2eb05f8687b3d5918692dbdebc"
+        "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.9.jar",
+        "sha256": "99797b85dafc13744587dadf40d7458c5cb2a03acc663264be8f43f550f6dca5"
       }
     ],
     "resource": "assets/mezz_config/lang/en_us.json",
@@ -43,8 +43,8 @@
   },
   "nested_jars": [
     {
-      "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.8.jar",
-      "sha256": "5eeccb24d021261611a5f0b006803d061090ea2eb05f8687b3d5918692dbdebc"
+      "path": "META-INF/jarjar/mezz_config-26.1.2-neoforge-0.6.9.jar",
+      "sha256": "99797b85dafc13744587dadf40d7458c5cb2a03acc663264be8f43f550f6dca5"
     }
   ]
 }

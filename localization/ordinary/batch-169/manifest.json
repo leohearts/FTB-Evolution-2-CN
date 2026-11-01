@@ -17,7 +17,7 @@
   "unchanged_values": [],
   "jar_sha256": "5b03f0c69aa33b0afc7dcdc2e3ef10ee8ed5b4275bd2b78ee74945b6ea1ce376",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/goblintraders-neoforge-26.1.2-1.12.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/goblintraders-neoforge-26.1.2-1.12.0.jar",
     "jar_sha256": "5b03f0c69aa33b0afc7dcdc2e3ef10ee8ed5b4275bd2b78ee74945b6ea1ce376",
     "nested_jars": [],
     "resource": "assets/goblintraders/lang/en_us.json",

@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "f97b67194a60abda5c750d704232ccc8a4753426b1ac5ae31e2a5915cc7f1994",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/trashslot-neoforge-26.1.2-26.1.2.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/trashslot-neoforge-26.1.2-26.1.2.4.jar",
     "jar_sha256": "f97b67194a60abda5c750d704232ccc8a4753426b1ac5ae31e2a5915cc7f1994",
     "nested_jars": [],
     "resource": "assets/trashslot/lang/en_us.json",

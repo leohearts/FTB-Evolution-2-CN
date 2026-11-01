@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "b1cb63a9b6549e044e2657ef7d865d086ab0014f21795693c5520e209b47b96e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/polylib-neoforge-26.1.2-2.0.11.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/polylib-neoforge-26.1.2-2.0.11.jar",
     "jar_sha256": "b1cb63a9b6549e044e2657ef7d865d086ab0014f21795693c5520e209b47b96e",
     "nested_jars": [],
     "resource": "assets/polylib/lang/en_us.json",

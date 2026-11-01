@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "bcfdf14ff8b35c2115894e8c80c61f9f715a603e9e92257c0e6efb408de284a5",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/GeOre-26.1.2-8.1.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/GeOre-26.1.2-8.1.0.jar",
     "jar_sha256": "bcfdf14ff8b35c2115894e8c80c61f9f715a603e9e92257c0e6efb408de284a5",
     "nested_jars": [],
     "resource": "assets/geore/lang/en_us.json",

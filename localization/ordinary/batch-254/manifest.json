@@ -18,7 +18,7 @@
   "unchanged_values": [],
   "jar_sha256": "d36258f401c07a19decd4cf9e41992c2bd1cf75f04583362c7c3accfadcac6c3",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/bblcore-26.1.2-12.6.12.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/bblcore-26.1.2-12.6.12.jar",
     "jar_sha256": "d36258f401c07a19decd4cf9e41992c2bd1cf75f04583362c7c3accfadcac6c3",
     "nested_jars": [],
     "resource": "assets/bblcore/lang/en_us.json",

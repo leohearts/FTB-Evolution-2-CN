@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "6f7688792eecc66a9fc38afd5d7f32b30c6ef3023360eeb783a3a115b202c5b8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/oritechthings-0.1.8.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/oritechthings-0.1.8.jar",
     "jar_sha256": "6f7688792eecc66a9fc38afd5d7f32b30c6ef3023360eeb783a3a115b202c5b8",
     "nested_jars": [],
     "resource": "assets/oritechthings/lang/en_us.json",

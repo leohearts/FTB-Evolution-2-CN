@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "af53cf3d61643a76b2704aa6fba510ab7ce7e05ae77764e6a081cbfc0e72a5d9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animalgarden-seaotter-1.1.1-neoforge-26.2.0.6.jar",
     "jar_sha256": "af53cf3d61643a76b2704aa6fba510ab7ce7e05ae77764e6a081cbfc0e72a5d9",
     "nested_jars": [],
     "resource": "assets/animalgarden_seaotter/lang/en_us.json",

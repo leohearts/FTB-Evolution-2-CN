@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/evilcraft-26.1.2-neoforge-1.2.108.jar",
     "jar_sha256": "49ddbe0e812694647ab625b3088e33e5969222fa8e4291f1319ddd378f1e9f3d",
     "nested_jars": [],
     "resource": "assets/evilcraft/lang/en_us.json",

@@ -1,7 +1,7 @@
 {
   "batch": "090",
   "namespace": "appflux",
-  "jar": ".minecraft/mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
+  "jar": ".minecraft/mods/AppliedFlux-26.1-1.0.4-neoforge.jar",
   "language_path": "assets/appflux/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/appflux/lang/zh_cn.json",
   "include_keys": [
@@ -11,10 +11,10 @@
   "unchanged_values": [
     "FE"
   ],
-  "jar_sha256": "1eec8ffcd0c3c25745dd8c0cadbcfaad50bedfe12792783c310b8533da06cdec",
+  "jar_sha256": "bde9550146204e5811f0abc07a5aa1d64753a43dd7c9219c0f01416e98cc2191",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AppliedFlux-26.1-1.0.2-neoforge.jar",
-    "jar_sha256": "1eec8ffcd0c3c25745dd8c0cadbcfaad50bedfe12792783c310b8533da06cdec",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/AppliedFlux-26.1-1.0.4-neoforge.jar",
+    "jar_sha256": "bde9550146204e5811f0abc07a5aa1d64753a43dd7c9219c0f01416e98cc2191",
     "nested_jars": [],
     "resource": "assets/appflux/lang/en_us.json",
     "mod_ids": [

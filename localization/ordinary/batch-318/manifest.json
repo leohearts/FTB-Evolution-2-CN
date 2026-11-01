@@ -16,7 +16,7 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ae2wtlib-26.1.2-beta.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ae2wtlib-26.1.2-beta.jar",
     "jar_sha256": "7671b8ed49f7aabcb17c62184e4369c606ad325777a0123aa77c4a3e92a5ad48",
     "nested_jars": [
       {

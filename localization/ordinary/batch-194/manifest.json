@@ -17,7 +17,7 @@
   "unchanged_values": [],
   "jar_sha256": "ebf6c540daecb9e8894be7701efc3849280dc992b70c05dc1ef724ebbc31a3e9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/sophisticateditemactions-26.1.2-0.4.18.439.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/sophisticateditemactions-26.1.2-0.4.18.439.jar",
     "jar_sha256": "ebf6c540daecb9e8894be7701efc3849280dc992b70c05dc1ef724ebbc31a3e9",
     "nested_jars": [],
     "resource": "assets/sophisticateditemactions/lang/en_us.json",

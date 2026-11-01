@@ -69,7 +69,7 @@
   ],
   "jar_sha256": "52fd9a69083e1dbd57a0e82e21df5268b39a19762ce98aaa008f961b627c7220",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/directorscamera-26.1.2-1.0.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/directorscamera-26.1.2-1.0.1.jar",
     "jar_sha256": "52fd9a69083e1dbd57a0e82e21df5268b39a19762ce98aaa008f961b627c7220",
     "nested_jars": [],
     "resource": "assets/directorscamera/lang/en_us.json",

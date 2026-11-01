@@ -17,7 +17,7 @@
   ],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedAE-26.1.7.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/AdvancedAE-26.1.7.jar",
     "jar_sha256": "fae810b62ecd1746ab9b74ba6e0b5242ab7c0e92d291704e4ea755c83230b233",
     "nested_jars": [
       {

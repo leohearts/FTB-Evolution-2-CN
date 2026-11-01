@@ -18,7 +18,7 @@
   ],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/jecharacters-26.1.2-neoforge-4.6.9.jar",
     "jar_sha256": "7126bf837295dcff3b276946805f46909fe41481f488dd9a4d43a7a0a38f627e",
     "nested_jars": [],
     "resource": "assets/jecharacters/lang/en_us.json",

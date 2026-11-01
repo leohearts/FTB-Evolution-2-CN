@@ -35,7 +35,7 @@
   ],
   "jar_sha256": "ef9a01be4c8a82a90d6406fc78c527993a220318098ad1e526dcc5caed0f76d2",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/loot_journal-neoforge-26.1-6.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/loot_journal-neoforge-26.1-6.2.1.jar",
     "jar_sha256": "ef9a01be4c8a82a90d6406fc78c527993a220318098ad1e526dcc5caed0f76d2",
     "nested_jars": [],
     "resource": "assets/loot_journal/lang/en_us.json",

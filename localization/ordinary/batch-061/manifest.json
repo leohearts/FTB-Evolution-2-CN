@@ -190,7 +190,7 @@
   "unchanged_values": [],
   "jar_sha256": "aeb0ce367d24fa7610371139820d5a71a0270637a4436f83a2d7aed4fa0f64ed",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/compressium-26.1.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/compressium-26.1.2.1.jar",
     "jar_sha256": "aeb0ce367d24fa7610371139820d5a71a0270637a4436f83a2d7aed4fa0f64ed",
     "nested_jars": [],
     "resource": "assets/compressium/lang/en_us.json",

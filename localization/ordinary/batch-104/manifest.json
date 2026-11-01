@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "32ab8b18d4b6db201c57563c8ca9795d147a08cb477a5db3a01bb3915a2e362f",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftbpromoter-26.1.2.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftbpromoter-26.1.2.1.jar",
     "jar_sha256": "32ab8b18d4b6db201c57563c8ca9795d147a08cb477a5db3a01bb3915a2e362f",
     "nested_jars": [],
     "resource": "assets/ftbpromoter/lang/en_us.json",

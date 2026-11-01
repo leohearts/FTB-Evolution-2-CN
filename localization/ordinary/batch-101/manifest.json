@@ -28,7 +28,7 @@
   "unchanged_values": [],
   "jar_sha256": "7a467df980bbb9d051ccb6aa96d40548e776886bd9dc8d5b2684cd5ffac76f0c",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-teams-neoforge-26.1.2.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-teams-neoforge-26.1.2.4.jar",
     "jar_sha256": "7a467df980bbb9d051ccb6aa96d40548e776886bd9dc8d5b2684cd5ffac76f0c",
     "nested_jars": [],
     "resource": "assets/ftbteams/lang/en_us.json",

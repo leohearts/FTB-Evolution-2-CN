@@ -27,7 +27,7 @@
   ],
   "jar_sha256": "06365155a29b06199aa2160489349948cb44072d335125e5f0a5003dcb76c386",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/jei-26.1.2-neoforge-29.47.0.111.jar",
     "jar_sha256": "06365155a29b06199aa2160489349948cb44072d335125e5f0a5003dcb76c386",
     "nested_jars": [],
     "resource": "assets/jei/lang/en_us.json",

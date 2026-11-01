@@ -38,7 +38,7 @@
   "unchanged_values": [],
   "jar_sha256": "d8c366d630ca22d96aeb5ca2a35355aae9d8c692270e6744800f9f13938c9b19",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/beer-26.1.2-1.4.4.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/beer-26.1.2-1.4.4.jar",
     "jar_sha256": "d8c366d630ca22d96aeb5ca2a35355aae9d8c692270e6744800f9f13938c9b19",
     "nested_jars": [],
     "resource": "assets/beer/lang/en_us.json",

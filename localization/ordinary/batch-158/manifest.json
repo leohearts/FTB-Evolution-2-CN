@@ -157,7 +157,7 @@
   "unchanged_values": [],
   "jar_sha256": "75e90190be8df90eaf6aadbb3e949565ff40bdac5e372581722bcd7575afcfce",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/resonance-neoforge-26.1.2-1.0.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/resonance-neoforge-26.1.2-1.0.2.jar",
     "jar_sha256": "75e90190be8df90eaf6aadbb3e949565ff40bdac5e372581722bcd7575afcfce",
     "nested_jars": [],
     "resource": "assets/resonance/lang/en_us.json",

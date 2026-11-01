@@ -1,7 +1,7 @@
 {
   "batch": "157",
   "namespace": "ftbarmory",
-  "jar": ".minecraft/mods/ftb-armory-26.1.2.10.jar",
+  "jar": ".minecraft/mods/ftb-armory-26.1.2.11.jar",
   "language_path": "assets/ftbarmory/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbarmory/lang/zh_cn.json",
   "include_keys": [
@@ -223,15 +223,15 @@
     "FTB Armory: AE2",
     "FTB Armory: Thaumaturge"
   ],
-  "jar_sha256": "f99266f089659c41ca3156af96bf668936c735969f1da63361ccb6144d931d7b",
+  "jar_sha256": "3c000a020168a04a7ecc07715e4e28be206b8c71ab2d58193532b1948fe87d32",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-armory-26.1.2.10.jar",
-    "jar_sha256": "f99266f089659c41ca3156af96bf668936c735969f1da63361ccb6144d931d7b",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-armory-26.1.2.11.jar",
+    "jar_sha256": "3c000a020168a04a7ecc07715e4e28be206b8c71ab2d58193532b1948fe87d32",
     "nested_jars": [],
     "resource": "assets/ftbarmory/lang/en_us.json",
     "mod_ids": [
       "ftbarmory"
     ],
-    "resource_sha256": "18a196c66e46851c17a524956832e68d2f5ab164380c5ed4b0fdf7011cbf6498"
+    "resource_sha256": "5f7bb819472a89a4650978a11e88f4507b918bdfe19758c430c2422ba36ed8d8"
   }
 }

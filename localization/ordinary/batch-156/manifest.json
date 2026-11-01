@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "6a6ea0ff7536665ae4643d3bf3c5bce334616efc63aadffb403fe561d40dfddd",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cookingforblockheads-neoforge-26.1.2-26.1.2.6.jar",
     "jar_sha256": "6a6ea0ff7536665ae4643d3bf3c5bce334616efc63aadffb403fe561d40dfddd",
     "nested_jars": [],
     "resource": "assets/cookingforblockheads/lang/en_us.json",

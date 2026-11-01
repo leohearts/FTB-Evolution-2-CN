@@ -17,7 +17,7 @@
   "Recipe Item",
   "Item required to craft recursive patterns. Use format 'namespace:item_name' (e.g. 'minecraft:iron_ingot', 'minecraft:diamond', 'ae2:calculation_processor')",
   "Max Alternatives Per Item",
-  "How many crafting recipes to generate per dependency item. 1 = only the best recipe (recommended)",
+  "How many distinct crafting recipes to publish per dependency item. Best recipes come first; stock conversions (e.g. block to ingots and back) come last and do not count toward the limit. 1 = only the best recipe",
   "Skip Self-Referential Recipes",
   "Ignore recipes that consume their own output (e.g. 'clear settings' / NBT-wipe recipes)",
   "Recipe Blacklist",

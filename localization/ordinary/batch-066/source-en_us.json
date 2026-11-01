@@ -18,7 +18,7 @@
   "recursiveae2patternprovider.configuration.recipeItem": "Recipe Item",
   "recursiveae2patternprovider.configuration.recipeItem.tooltip": "Item required to craft recursive patterns. Use format 'namespace:item_name' (e.g. 'minecraft:iron_ingot', 'minecraft:diamond', 'ae2:calculation_processor')",
   "recursiveae2patternprovider.configuration.maxAlternativesPerItem": "Max Alternatives Per Item",
-  "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip": "How many crafting recipes to generate per dependency item. 1 = only the best recipe (recommended)",
+  "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip": "How many distinct crafting recipes to publish per dependency item. Best recipes come first; stock conversions (e.g. block to ingots and back) come last and do not count toward the limit. 1 = only the best recipe",
   "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes": "Skip Self-Referential Recipes",
   "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes.tooltip": "Ignore recipes that consume their own output (e.g. 'clear settings' / NBT-wipe recipes)",
   "recursiveae2patternprovider.configuration.recipeBlacklist": "Recipe Blacklist",

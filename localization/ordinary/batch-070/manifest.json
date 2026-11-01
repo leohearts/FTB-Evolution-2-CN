@@ -21,7 +21,7 @@
   "unchanged_values": [],
   "jar_sha256": "f158958153f5e8417647804e45978e07612696f7fc4e98f515cdf705b285eceb",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/infinitystorage-26.1.2-2.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/infinitystorage-26.1.2-2.0.3.jar",
     "jar_sha256": "f158958153f5e8417647804e45978e07612696f7fc4e98f515cdf705b285eceb",
     "nested_jars": [],
     "resource": "assets/infinitystorage/lang/en_us.json",

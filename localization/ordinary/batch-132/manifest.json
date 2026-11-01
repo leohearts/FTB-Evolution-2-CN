@@ -33,7 +33,7 @@
   ],
   "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Emojiful-Neoforge-26.1.2-5.3.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Emojiful-Neoforge-26.1.2-5.3.2.jar",
     "jar_sha256": "df03f65a07f09fd96f99d7d648b70cbd407a143f819449ef8a1f944524fff235",
     "nested_jars": [],
     "resource": "assets/emojiful/lang/en_us.json",

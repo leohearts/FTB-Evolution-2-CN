@@ -51,7 +51,7 @@
   "unchanged_values": [],
   "jar_sha256": "4a32a47eb6d2997d974d1b8641174687126d1cfeac6287bf3d784d1e5a4da2a6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/neovitae-26.1.2-1.1.49.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/neovitae-26.1.2-1.1.49.jar",
     "jar_sha256": "4a32a47eb6d2997d974d1b8641174687126d1cfeac6287bf3d784d1e5a4da2a6",
     "nested_jars": [],
     "resource": "assets/neovitae/lang/en_us.json",

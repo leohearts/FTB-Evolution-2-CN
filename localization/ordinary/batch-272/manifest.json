@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "62ae3f4d323e658e88a6ebd274302e7d6adc8d4a331ff60227ba37db1ff9a718",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/imfast-NEOFORGE-26.1.2-1.0.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/imfast-NEOFORGE-26.1.2-1.0.3.jar",
     "jar_sha256": "62ae3f4d323e658e88a6ebd274302e7d6adc8d4a331ff60227ba37db1ff9a718",
     "nested_jars": [],
     "resource": "assets/imfast/lang/en_us.json",

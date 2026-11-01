@@ -22,7 +22,7 @@
   "unchanged_values": [],
   "jar_sha256": "3e748d19d895c1d1443f3f2aadb3912d7c16cdf7e5751f94c88f8e3b4e012474",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/jamd-neo-26.1.1.1+mc26.1.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/jamd-neo-26.1.1.1+mc26.1.1.jar",
     "jar_sha256": "3e748d19d895c1d1443f3f2aadb3912d7c16cdf7e5751f94c88f8e3b4e012474",
     "nested_jars": [],
     "resource": "assets/jamd/lang/en_us.json",

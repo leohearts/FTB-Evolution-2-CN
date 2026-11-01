@@ -17,7 +17,7 @@
   ],
   "jar_sha256": "f4859891f880097b9f68164e3d10d251c037d9f6d1d9f72a9156bc5f9dc5a019",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/YungsBetterCaves-26.1.2-NeoForge-4.1.2.jar",
     "jar_sha256": "f4859891f880097b9f68164e3d10d251c037d9f6d1d9f72a9156bc5f9dc5a019",
     "nested_jars": [],
     "resource": "assets/bettercaves/lang/en_us.json",

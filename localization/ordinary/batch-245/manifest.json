@@ -1,7 +1,7 @@
 {
   "batch": "245",
   "namespace": "modonomicon",
-  "jar": ".minecraft/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
+  "jar": ".minecraft/mods/modonomicon-26.1.2-neoforge-2.19.0.jar",
   "language_path": "assets/modonomicon/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/modonomicon/lang/zh_cn.json",
   "include_keys": [
@@ -34,15 +34,15 @@
     "%s mb",
     "%s / %s mb"
   ],
-  "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+  "jar_sha256": "9da6829bc88a81190364f8a13cde2cd613ed8249a5010048f012fa51b7f2525b",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/modonomicon-26.1.2-neoforge-2.17.1.jar",
-    "jar_sha256": "b28fe5ece1ee4bed789109e80f172ae3802bb9fa2366ac6dd4f9d955775d75e6",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/modonomicon-26.1.2-neoforge-2.19.0.jar",
+    "jar_sha256": "9da6829bc88a81190364f8a13cde2cd613ed8249a5010048f012fa51b7f2525b",
     "nested_jars": [],
     "resource": "assets/modonomicon/lang/en_us.json",
     "mod_ids": [
       "modonomicon"
     ],
-    "resource_sha256": "16c8722cf799424271b09566908e42a41b26b03bd0aad04591f57a1994689368"
+    "resource_sha256": "fe0f196bb468bbac3456a847a46d2988ac955538a777a3e7cd0418c7694fb0c0"
   }
 }

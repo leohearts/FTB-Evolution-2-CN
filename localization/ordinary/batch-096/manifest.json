@@ -21,7 +21,7 @@
   "unchanged_values": [],
   "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/integratedterminals-26.1.2-neoforge-1.11.1.jar",
     "jar_sha256": "54d770821bcc477646c4d964855fa8e6ec3924b7a35a0a681a0836ab27d3a632",
     "nested_jars": [],
     "resource": "assets/integratedterminals/lang/en_us.json",

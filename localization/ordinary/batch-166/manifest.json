@@ -20,7 +20,7 @@
   "unchanged_values": [],
   "jar_sha256": "510b3d0070cbd1424e5145be8f6229ce24b1d514b105a47ee95ec77998b251a3",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/puffish_attributes-0.8.2-26.1-neoforge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/puffish_attributes-0.8.2-26.1-neoforge.jar",
     "jar_sha256": "510b3d0070cbd1424e5145be8f6229ce24b1d514b105a47ee95ec77998b251a3",
     "nested_jars": [],
     "resource": "assets/puffish_attributes/lang/en_us.json",

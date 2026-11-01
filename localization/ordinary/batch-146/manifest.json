@@ -35,7 +35,7 @@
   "unchanged_values": [],
   "jar_sha256": "108b3ce47977e2405176926cd3d7e904aa7a10b1ddeadb813e5488308b3abc72",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/fertilization-neoforge-26.1.2-26.1.2.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/fertilization-neoforge-26.1.2-26.1.2.3.jar",
     "jar_sha256": "108b3ce47977e2405176926cd3d7e904aa7a10b1ddeadb813e5488308b3abc72",
     "nested_jars": [],
     "resource": "assets/fertilization/lang/en_us.json",

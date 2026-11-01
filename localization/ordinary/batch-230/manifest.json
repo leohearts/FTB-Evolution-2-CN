@@ -11,7 +11,7 @@
   "unchanged_values": [],
   "jar_sha256": "ef58fbb700a95ed37490225cebd33c14a3e0b9ac1f3b03a1e90f47d2196ff622",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/huge-structure-blocks-neoforge-1.1.9.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/huge-structure-blocks-neoforge-1.1.9.jar",
     "jar_sha256": "ef58fbb700a95ed37490225cebd33c14a3e0b9ac1f3b03a1e90f47d2196ff622",
     "nested_jars": [],
     "resource": "assets/hugestructureblocks/lang/en_us.json",

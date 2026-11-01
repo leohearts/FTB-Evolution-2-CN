@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "1768b172c938de0aa457771e60af9286bcca754e083ebc96f8a229cfe2a95a0d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/RootsClassic-26.1.2-1.6.7.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/RootsClassic-26.1.2-1.6.7.jar",
     "jar_sha256": "1768b172c938de0aa457771e60af9286bcca754e083ebc96f8a229cfe2a95a0d",
     "nested_jars": [],
     "resource": "assets/rootsclassic/lang/en_us.json",

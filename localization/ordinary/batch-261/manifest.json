@@ -16,7 +16,7 @@
   ],
   "jar_sha256": "a4b074d5cacfd0e65eb002c7d6dcf1bdced4374c9af377fd14e83260248a910d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crashutilities-10.0.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/crashutilities-10.0.1.jar",
     "jar_sha256": "a4b074d5cacfd0e65eb002c7d6dcf1bdced4374c9af377fd14e83260248a910d",
     "nested_jars": [],
     "resource": "assets/crashutilities/lang/en_us.json",

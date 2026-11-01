@@ -57,7 +57,7 @@
   ],
   "jar_sha256": "2bb5a5e79e877c7032fa3c09f8dc2e32f00f3f6f9c447e941d0045ecbd6f978b",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/oracle_index-neoforge-2.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/oracle_index-neoforge-2.0.0.jar",
     "jar_sha256": "2bb5a5e79e877c7032fa3c09f8dc2e32f00f3f6f9c447e941d0045ecbd6f978b",
     "nested_jars": [],
     "resource": "assets/oracle_index/lang/en_us.json",

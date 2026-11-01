@@ -20,7 +20,7 @@
   ],
   "jar_sha256": "32d672a890d3c74f75227abc7e7ef048bbb83a799bf46632f03f0583d4c22be5",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/iris-neoforge-1.11.4+mc26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/iris-neoforge-1.11.4+mc26.1.2.jar",
     "jar_sha256": "32d672a890d3c74f75227abc7e7ef048bbb83a799bf46632f03f0583d4c22be5",
     "nested_jars": [],
     "resource": "assets/iris/lang/en_us.json",

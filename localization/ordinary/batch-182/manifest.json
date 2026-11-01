@@ -53,7 +53,7 @@
   ],
   "jar_sha256": "c202472abcc1b556577f388780be9b74e0d11587912d20d127082b96c29b03f1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/SimpleTeleportersReforged-26.1.2-5.1.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/SimpleTeleportersReforged-26.1.2-5.1.0.jar",
     "jar_sha256": "c202472abcc1b556577f388780be9b74e0d11587912d20d127082b96c29b03f1",
     "nested_jars": [],
     "resource": "assets/simpleteleporters/lang/en_us.json",

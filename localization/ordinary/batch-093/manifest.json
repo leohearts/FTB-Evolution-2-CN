@@ -1,7 +1,7 @@
 {
   "batch": "093",
   "namespace": "dimenergy",
-  "jar": ".minecraft/mods/dimenergy-26.1.2-1.0.1.jar",
+  "jar": ".minecraft/mods/dimenergy-26.1.2-1.1.0.jar",
   "language_path": "assets/dimenergy/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/dimenergy/lang/zh_cn.json",
   "include_keys": [
@@ -9,15 +9,15 @@
   ],
   "context_overrides": {},
   "unchanged_values": [],
-  "jar_sha256": "5d3b5d08a1fa86ddaeb9a1ee3c532aa410b7087a17da1a35dab418499f3c1ad0",
+  "jar_sha256": "af0e7c6dac0354baccebb161392985c8208c8b1c7ead91af5ba849aa0828d83f",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/dimenergy-26.1.2-1.0.1.jar",
-    "jar_sha256": "5d3b5d08a1fa86ddaeb9a1ee3c532aa410b7087a17da1a35dab418499f3c1ad0",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/dimenergy-26.1.2-1.1.0.jar",
+    "jar_sha256": "af0e7c6dac0354baccebb161392985c8208c8b1c7ead91af5ba849aa0828d83f",
     "nested_jars": [],
     "resource": "assets/dimenergy/lang/en_us.json",
     "mod_ids": [
       "dimenergy"
     ],
-    "resource_sha256": "74ab8967c6f40f38c63b629cc775a26dc8ff12efbc3c59b124480d807cc8c3c6"
+    "resource_sha256": "31bbe3e7483dedd454164faa87c51ac07986bdeec3ed20ebfb3272448010fc4b"
   }
 }

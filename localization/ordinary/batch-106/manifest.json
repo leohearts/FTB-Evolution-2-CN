@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "b0be45bfb74c0a023354d9a51d90a42b869b9250f9ca63afe5aaaf189c5d49c2",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-backups-3-26.1.2.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-backups-3-26.1.2.2.jar",
     "jar_sha256": "b0be45bfb74c0a023354d9a51d90a42b869b9250f9ca63afe5aaaf189c5d49c2",
     "nested_jars": [],
     "resource": "assets/ftbbackups3/lang/en_us.json",

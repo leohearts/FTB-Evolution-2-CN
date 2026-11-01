@@ -1312,7 +1312,7 @@
   "nautec.jei.combustion.output": "%s FE/t",
   "nautec.jei.combustion.output_multiplier": "输出 x%s",
   "nautec.jei.combustion.water": "每刻 %s mB 水",
-  "nautec.jei.crystal_cradle": "向晶体培育座输入纯度不低于 2.0 的激光束. 积累 %s AP 后, 晶种会变为立于培育座上的培育海棱水晶, 其功能与天然水晶相同, 且可用扳手移动.",
+  "nautec.jei.crystal_cradle": "向晶体培育座输入纯度不低于 2.0 的激光束. 积累 %s AP 后, 晶种会变为纯度随机在 3.00 到 6.00 之间的培育海棱水晶. 可用扳手移动, 纯度不会改变.",
   "nautec.jei.crystal_seed": "先合成休眠晶种, 再在纯度为 3.0 的共鸣室中将其唤醒. 将唤醒的晶种放入晶体培育座.",
   "nautec.jei.duration_ticks": "持续时间: %s",
   "nautec.jei.eas_infusion.hint": "在 EAS 源方块中浸泡 %s秒",

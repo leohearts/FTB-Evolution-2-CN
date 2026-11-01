@@ -55,7 +55,7 @@
   "unchanged_values": [],
   "jar_sha256": "903925d66282f900bc0054a0ae966c58156e355191496b2e9b6d7a084be4abb9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/frostbear-neoforge-26.1.2-2.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/frostbear-neoforge-26.1.2-2.0.0.jar",
     "jar_sha256": "903925d66282f900bc0054a0ae966c58156e355191496b2e9b6d7a084be4abb9",
     "nested_jars": [],
     "resource": "assets/frostbear/lang/en_us.json",

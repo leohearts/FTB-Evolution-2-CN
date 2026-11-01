@@ -1,7 +1,7 @@
 {
   "batch": "151",
   "namespace": "animal_pen",
-  "jar": ".minecraft/mods/animal_pen-neoforge-26.1-2.5.1.jar",
+  "jar": ".minecraft/mods/animal_pen-neoforge-26.1-2.5.2.jar",
   "language_path": "assets/animal_pen/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/animal_pen/lang/zh_cn.json",
   "include_keys": [
@@ -25,10 +25,10 @@
     "%d"
   ],
   "source_note": "上游 zh_cn.json 语法错误 (第 322 行前缺逗号) 且内容仍为英文, 故不作为参照; 不修改 JAR",
-  "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+  "jar_sha256": "e2b66773b97548559dcf254f34c7fe3815ac38b62b5cf1585081274681921bd7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/animal_pen-neoforge-26.1-2.5.1.jar",
-    "jar_sha256": "7eb2272b515cf71c86057c11bc110f14043fbaca19c6cf4b03ff41e3e0da9f8c",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/animal_pen-neoforge-26.1-2.5.2.jar",
+    "jar_sha256": "e2b66773b97548559dcf254f34c7fe3815ac38b62b5cf1585081274681921bd7",
     "nested_jars": [],
     "resource": "assets/animal_pen/lang/en_us.json",
     "mod_ids": [

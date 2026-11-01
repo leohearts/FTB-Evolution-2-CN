@@ -30,7 +30,7 @@
   "unchanged_values": [],
   "jar_sha256": "168bb9cc6958e7482a141b29647f1754e48f1c92f7287a929742c8a97c8a3242",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/dimresources-26.1.2-1.0.10.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/dimresources-26.1.2-1.0.10.jar",
     "jar_sha256": "168bb9cc6958e7482a141b29647f1754e48f1c92f7287a929742c8a97c8a3242",
     "nested_jars": [],
     "resource": "assets/dimresources/lang/en_us.json",

@@ -178,7 +178,7 @@
   ],
   "jar_sha256": "7291a42d5e94c0495c1c9ec981a0d611cc1192e36d4574da658d4a052b59f0d9",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justdynathings-2.0-alpha-build-13.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/justdynathings-2.0-alpha-build-13.jar",
     "jar_sha256": "7291a42d5e94c0495c1c9ec981a0d611cc1192e36d4574da658d4a052b59f0d9",
     "nested_jars": [],
     "resource": "assets/justdynathings/lang/en_us.json",

@@ -51,7 +51,7 @@
   ],
   "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/inventoryessentials-neoforge-26.1.2-26.1.2.7.jar",
     "jar_sha256": "1d7d835b4da44975bfc2810568bfd4ad8f8e895c7309ce197098e4ef81837454",
     "nested_jars": [],
     "resource": "assets/inventoryessentials/lang/en_us.json",

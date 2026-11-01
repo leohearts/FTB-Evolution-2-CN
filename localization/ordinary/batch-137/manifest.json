@@ -170,7 +170,7 @@
   ],
   "jar_sha256": "af8f6960476f08bb3d650c86dc1cb61f904fea804577103588aeb4466d7791da",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/agritechevolved-2.2.0.6+neoforge-mc26.1.2.jar",
     "jar_sha256": "af8f6960476f08bb3d650c86dc1cb61f904fea804577103588aeb4466d7791da",
     "nested_jars": [],
     "resource": "assets/agritechevolved/lang/en_us.json",

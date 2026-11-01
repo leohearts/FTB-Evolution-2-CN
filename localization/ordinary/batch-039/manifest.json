@@ -28,12 +28,11 @@
   "context_overrides": {},
   "unchanged_values": [
     "%s µI",
-    "EnderIO",
-    "%d/%d mb - %s"
+    "EnderIO"
   ],
   "jar_sha256": "166b8ae6f86b7bd9f7c1ebb48ca80ff4e4ee12e910db3dc29f09ea87e94bcb0d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/enderio-9.0.6-alpha.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/enderio-9.0.6-alpha.jar",
     "jar_sha256": "166b8ae6f86b7bd9f7c1ebb48ca80ff4e4ee12e910db3dc29f09ea87e94bcb0d",
     "nested_jars": [],
     "resource": "assets/enderio/lang/en_us.json",

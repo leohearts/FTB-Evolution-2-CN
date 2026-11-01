@@ -2,11 +2,11 @@
   "status": "passed",
   "batch": "247",
   "namespace": "collective",
-  "source_keys": 13,
-  "unique_values": 13,
-  "chinese_values": 13,
+  "source_keys": 12,
+  "unique_values": 12,
+  "chinese_values": 12,
   "reviewed_non_prose_values": 0,
-  "installed_overlay_keys": 13,
-  "source_sha256": "6920a7a2bb9e2194a9a365141ed363a347b86eeb8673b5c5927476921d50cea2",
+  "installed_overlay_keys": 55,
+  "source_sha256": "b5e7c7488c63b69812f8dc0b152e7cb7d8ce4a0bc30483c05367d54da595b225",
   "in_game_tested": false
 }

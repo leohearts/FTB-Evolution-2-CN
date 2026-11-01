@@ -20,7 +20,7 @@
   "unchanged_values": [],
   "jar_sha256": "ddc6f54e80872b1b56764b0220d0b26c32ae2e2125e73a93b3acf9eed628fbd4",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EclipseUI-neoforge-1.0.4+mc26.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/EclipseUI-neoforge-1.0.4+mc26.1.jar",
     "jar_sha256": "ddc6f54e80872b1b56764b0220d0b26c32ae2e2125e73a93b3acf9eed628fbd4",
     "nested_jars": [],
     "resource": "assets/eclipseui/lang/en_us.json",

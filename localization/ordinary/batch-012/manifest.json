@@ -8,7 +8,7 @@
   "unchanged_values": [],
   "jar_sha256": "f72370a2e1f2f99707a73d502b53ddd10f08e7008e58bdc9e5930f6837deda0d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/apothic_compats-0.3.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/apothic_compats-0.3.1.jar",
     "jar_sha256": "f72370a2e1f2f99707a73d502b53ddd10f08e7008e58bdc9e5930f6837deda0d",
     "nested_jars": [],
     "resource": "assets/apothic_compats/lang/en_us.json",

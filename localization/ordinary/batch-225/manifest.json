@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "76f4e7e2ff5ae35e408db09cc0536cffa83efa9ef50fbd5983072841093a6c70",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/YungsBetterMineshafts-26.1.2-NeoForge-6.1.1.jar",
     "jar_sha256": "76f4e7e2ff5ae35e408db09cc0536cffa83efa9ef50fbd5983072841093a6c70",
     "nested_jars": [],
     "resource": "assets/bettermineshafts/lang/en_us.json",

@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "b74dd7ab9eb15e7a70cb163fd8dc6d76312bd0439555722485ad2cf6e5fe61d4",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-materials-26.1.2.6.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-materials-26.1.2.6.jar",
     "jar_sha256": "b74dd7ab9eb15e7a70cb163fd8dc6d76312bd0439555722485ad2cf6e5fe61d4",
     "nested_jars": [],
     "resource": "assets/ftbmaterials/lang/en_us.json",

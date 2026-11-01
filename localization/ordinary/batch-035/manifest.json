@@ -54,7 +54,7 @@
   ],
   "jar_sha256": "2dd23f6b30799332d91c5a2a96b1b83c354e89210e33a4224b1eddaaef8fffd6",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/energymeter-neoforge-26.1.2-0.5.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/energymeter-neoforge-26.1.2-0.5.1.jar",
     "jar_sha256": "2dd23f6b30799332d91c5a2a96b1b83c354e89210e33a4224b1eddaaef8fffd6",
     "nested_jars": [],
     "resource": "assets/energymeter/lang/en_us.json",

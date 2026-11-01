@@ -23,7 +23,7 @@
   ],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/entityculling-neoforge-1.11.3-mc26.1.2.jar",
     "jar_sha256": "7a14c25ca050c92909ed7f753a18f63a1993c501a8124658a43c25a8525f8ae0",
     "nested_jars": [
       {

@@ -115,7 +115,7 @@
   ],
   "jar_sha256": "efb94750cbfd9cd475d5a67a159b4d1906b0a4f5f906eae7dbe1f1177db50fac",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/AdvancedCoreInfo-neoforge-26.1.2-1.5.0.jar",
     "jar_sha256": "efb94750cbfd9cd475d5a67a159b4d1906b0a4f5f906eae7dbe1f1177db50fac",
     "nested_jars": [],
     "resource": "assets/aci/lang/en_us.json",

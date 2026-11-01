@@ -31,7 +31,7 @@
   ],
   "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Super Factory Manager (SFM)-MC26.1.2-4.34.0.jar",
     "jar_sha256": "cace8809600cea007dbe5c73dc04c2f780375547ec0717a1ec8c25d991140bf1",
     "nested_jars": [],
     "resource": "assets/sfm/lang/en_us.json",

@@ -54,7 +54,7 @@
   ],
   "jar_sha256": "3cd0629abfbacfb90a32d10f8c613549cf2580926a0e267dc9ad6fadd301b502",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Jade-mc26.1-NeoForge-26.1.12.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Jade-mc26.1-NeoForge-26.1.12.jar",
     "jar_sha256": "3cd0629abfbacfb90a32d10f8c613549cf2580926a0e267dc9ad6fadd301b502",
     "nested_jars": [],
     "resource": "assets/jade/lang/en_us.json",

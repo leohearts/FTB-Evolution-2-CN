@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "beebb0c0c4b7269614f055c6b119b141f0831036844c5216d27a9f1a66ffa084",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/squatgrow-neoforge-26.1.2.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/squatgrow-neoforge-26.1.2.2.jar",
     "jar_sha256": "beebb0c0c4b7269614f055c6b119b141f0831036844c5216d27a9f1a66ffa084",
     "nested_jars": [],
     "resource": "assets/squatgrow/lang/en_us.json",

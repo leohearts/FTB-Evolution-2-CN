@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "8e16eb32f49d55e7b106d6fd406bdd395d56ad0d04e9ffba3af0446e04d0078b",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/keybindbundles-2.0.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/keybindbundles-2.0.0.jar",
     "jar_sha256": "8e16eb32f49d55e7b106d6fd406bdd395d56ad0d04e9ffba3af0446e04d0078b",
     "nested_jars": [],
     "resource": "assets/keybindbundles/lang/en_us.json",

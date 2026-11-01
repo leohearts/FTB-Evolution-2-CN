@@ -1,7 +1,7 @@
 {
   "batch": "030",
   "namespace": "auroral",
-  "jar": ".minecraft/mods/auroral-26.1.2-1.5.10.jar",
+  "jar": ".minecraft/mods/auroral-26.1.2-1.5.11.jar",
   "language_path": "assets/auroral/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/auroral/lang/zh_cn.json",
   "include_keys": [
@@ -171,10 +171,10 @@
     "Auroral",
     "S'nore"
   ],
-  "jar_sha256": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+  "jar_sha256": "e55c75151c4f989dcaea2cbcd5b138c0bd036ec994856661956130187696ccf7",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/auroral-26.1.2-1.5.10.jar",
-    "jar_sha256": "0b3fc172be2899c0b78f616639f15197b5155df205d4dde1c7787653ae294761",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/auroral-26.1.2-1.5.11.jar",
+    "jar_sha256": "e55c75151c4f989dcaea2cbcd5b138c0bd036ec994856661956130187696ccf7",
     "nested_jars": [],
     "resource": "assets/auroral/lang/en_us.json",
     "mod_ids": [

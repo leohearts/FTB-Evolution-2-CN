@@ -131,7 +131,7 @@
   ],
   "jar_sha256": "3bdfc3b89d328e4d2c443861fe7fab9a15b6cceab267f490fb9dd73d4980e237",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/graveless-neoforge-26.1.2-1.4.3.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/graveless-neoforge-26.1.2-1.4.3.jar",
     "jar_sha256": "3bdfc3b89d328e4d2c443861fe7fab9a15b6cceab267f490fb9dd73d4980e237",
     "nested_jars": [],
     "resource": "assets/graveless/lang/en_us.json",

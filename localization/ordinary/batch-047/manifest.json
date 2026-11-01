@@ -20,7 +20,7 @@
   "unchanged_values": [],
   "jar_sha256": "9466a3992f0f27cc1faf0f560c260e1e5741d27977fe4f032ac7079f15f7a01b",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/interdimensionalwirelesstransmitter-neoforge-26.1.2-1.0.1.jar",
     "jar_sha256": "9466a3992f0f27cc1faf0f560c260e1e5741d27977fe4f032ac7079f15f7a01b",
     "nested_jars": [],
     "resource": "assets/interdimensionalwirelesstransmitter/lang/en_us.json",

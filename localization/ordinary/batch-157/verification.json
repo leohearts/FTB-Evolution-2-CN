@@ -3,10 +3,10 @@
   "batch": "157",
   "namespace": "ftbarmory",
   "source_keys": 212,
-  "unique_values": 205,
+  "unique_values": 206,
   "chinese_values": 210,
   "reviewed_non_prose_values": 2,
-  "installed_overlay_keys": 212,
-  "source_sha256": "18a196c66e46851c17a524956832e68d2f5ab164380c5ed4b0fdf7011cbf6498",
+  "installed_overlay_keys": 213,
+  "source_sha256": "5f7bb819472a89a4650978a11e88f4507b918bdfe19758c430c2422ba36ed8d8",
   "in_game_tested": false
 }

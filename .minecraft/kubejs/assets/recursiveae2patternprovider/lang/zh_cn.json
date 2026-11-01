@@ -18,7 +18,7 @@
   "recursiveae2patternprovider.configuration.recipeItem": "配方物品",
   "recursiveae2patternprovider.configuration.recipeItem.tooltip": "合成递归样板所需的物品.使用格式 'namespace:item_name' (例如 'minecraft:iron_ingot', 'minecraft:diamond', 'ae2:calculation_processor')",
   "recursiveae2patternprovider.configuration.maxAlternativesPerItem": "每个物品的最大备选配方数",
-  "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip": "为每个依赖物品生成多少个合成配方.1 = 仅最佳配方 (推荐)",
+  "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip": "为每个依赖物品发布多少个不同的合成配方. 最佳配方排在最前; 库存转换(例如方块与锭的互相转换)排在最后, 且不计入此上限. 1 = 仅最佳配方",
   "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes": "跳过自引用配方",
   "recursiveae2patternprovider.configuration.skipSelfReferentialRecipes.tooltip": "忽略消耗自身产物的配方 (例如 '清除设置' / NBT 擦除配方)",
   "recursiveae2patternprovider.configuration.recipeBlacklist": "配方黑名单",

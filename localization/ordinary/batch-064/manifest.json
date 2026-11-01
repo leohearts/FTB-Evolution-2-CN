@@ -77,7 +77,7 @@
   ],
   "jar_sha256": "7c3f61db2858c0ae6fbc351a569018137a1c8831766da2f163b2e3a69e814a2d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-filter-system-neoforge-26.1.2.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-filter-system-neoforge-26.1.2.2.jar",
     "jar_sha256": "7c3f61db2858c0ae6fbc351a569018137a1c8831766da2f163b2e3a69e814a2d",
     "nested_jars": [],
     "resource": "assets/ftbfiltersystem/lang/en_us.json",

@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "fe64a1fad6b6f39a95f22ea6ba9506b712e36b96c46b80f1cf38fe144900a4b2",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/EuphoriaPatcher-1.10.5-r5.9.3-neoforge.jar",
     "jar_sha256": "fe64a1fad6b6f39a95f22ea6ba9506b712e36b96c46b80f1cf38fe144900a4b2",
     "nested_jars": [],
     "resource": "assets/euphoria_patcher/lang/en_us.json",

@@ -14,7 +14,7 @@
   "unchanged_values": [],
   "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/shogi-neoforge-26.1.2-26.1.2.12.jar",
     "jar_sha256": "7a211e2899f6bbaded2c03a468f651fece0bec22c1738b907999a8fefb75e2d8",
     "nested_jars": [],
     "resource": "assets/shogi/lang/en_us.json",

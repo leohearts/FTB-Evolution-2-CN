@@ -25,7 +25,7 @@
   ],
   "jar_sha256": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/justdirethings-1.6.11.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/justdirethings-1.6.11.jar",
     "jar_sha256": "27d26abcba9607b0c069de316541c781aebbbb167b1553aea6ca6934d3219436",
     "nested_jars": [],
     "resource": "assets/justdirethings/lang/en_us.json",

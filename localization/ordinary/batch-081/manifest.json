@@ -15,7 +15,7 @@
   ],
   "jar_sha256": "bec44d6dd35060c6412004061490a12d5ee5bcdcb846b68af64d13ddd77311bc",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/refinedfluidsubstitution-neoforge-26.1.2-1.0.1.jar",
     "jar_sha256": "bec44d6dd35060c6412004061490a12d5ee5bcdcb846b68af64d13ddd77311bc",
     "nested_jars": [],
     "resource": "assets/refinedfluidsubstitution/lang/en_us.json",

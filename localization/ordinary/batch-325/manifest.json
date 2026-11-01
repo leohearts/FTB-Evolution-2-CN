@@ -1,8 +1,8 @@
 {
   "batch": "325",
   "namespace": "ltxi",
-  "jar": ".minecraft/mods/ltxi-26.1.2-2.4.1.jar",
-  "jar_sha256": "a4d19556df227fc5374714ee6535f755bb6c57341f9a996d1ef2f6e84045c91a",
+  "jar": ".minecraft/mods/ltxi-26.1.2-2.4.3.jar",
+  "jar_sha256": "fbefa35ea737c52af020d4edb5d9c1d22a705a9163037c26361396402a9d965b",
   "language_path": "assets/ltxi/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ltxi/lang/zh_cn.json",
   "include_keys": [
@@ -29,8 +29,8 @@
   "unchanged_values": [],
   "target_pack_version": "1.4.1",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ltxi-26.1.2-2.4.1.jar",
-    "jar_sha256": "a4d19556df227fc5374714ee6535f755bb6c57341f9a996d1ef2f6e84045c91a",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ltxi-26.1.2-2.4.3.jar",
+    "jar_sha256": "fbefa35ea737c52af020d4edb5d9c1d22a705a9163037c26361396402a9d965b",
     "nested_jars": [],
     "resource": "assets/ltxi/lang/en_us.json",
     "mod_ids": [

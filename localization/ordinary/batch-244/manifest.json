@@ -36,7 +36,7 @@
   ],
   "jar_sha256": "784ca1fdc25af5cb8bb445ba3d94c966d3fff097e80cf3b647bcc54e8fe5e39d",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/libtooltips-2.3.2-NEOFORGE-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/libtooltips-2.3.2-NEOFORGE-26.1.2.jar",
     "jar_sha256": "784ca1fdc25af5cb8bb445ba3d94c966d3fff097e80cf3b647bcc54e8fe5e39d",
     "nested_jars": [],
     "resource": "assets/libtooltips/lang/en_us.json",

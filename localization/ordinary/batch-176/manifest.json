@@ -118,7 +118,7 @@
   ],
   "jar_sha256": "0e0509e737335026716b329eae09283147fb855d7995d822108d0f132a9ded3e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/littlejoys-neoforge-26.1.2-26.1.2.5.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/littlejoys-neoforge-26.1.2-26.1.2.5.jar",
     "jar_sha256": "0e0509e737335026716b329eae09283147fb855d7995d822108d0f132a9ded3e",
     "nested_jars": [],
     "resource": "assets/littlejoys/lang/en_us.json",

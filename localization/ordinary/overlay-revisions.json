@@ -1267,5 +1267,266 @@
     "previous": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 速度与[抬腿高度](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n",
     "translation": "依使魔等级不同可施加不同效果.\n你可以用[使魔石板](entry://occultism:dictionary_of_spirits/familiar_rituals/tablet)进行配置.\n\\\n\\\n**默认:** 速度与[最大行走高度](entry://occultism:dictionary_of_spirits/getting_started/effects@step_height).\n",
     "reason": "2026-10-23 物品名对齐: 以游戏内当前物品/方块/实体/效果名为准, 修正说明文本中的旧称."
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.resource_port.toggle.solid.tooltip",
+    "source": "Click to allow or block solid items through this port.",
+    "previous": "点击循环切换传输介质: 固体, 液体或气体.",
+    "translation": "点击允许或阻止固体物品通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.resource_port.toggle.liquid.tooltip",
+    "source": "Click to allow or block fluids through this port.",
+    "previous": "点击循环切换传输介质: 固体, 液体或气体.",
+    "translation": "点击允许或阻止流体通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.resource_port.toggle.gas.tooltip",
+    "source": "Click to allow or block Mekanism gases through this port.",
+    "previous": "点击循环切换传输介质: 固体, 液体或气体.",
+    "translation": "点击允许或阻止 Mekanism 气体通过此端口.",
+    "reason": "Resource port toggles are now per medium allow/block switches instead of one cycle button"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.pattern.0",
+    "source": "Website",
+    "previous": "点阵",
+    "translation": "网站设计",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.pattern.1",
+    "source": "Dots",
+    "previous": "棋盘",
+    "translation": "点阵",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.pattern.2",
+    "source": "Checkerboard",
+    "previous": "回形",
+    "translation": "棋盘",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.pattern.3",
+    "source": "Frame",
+    "previous": "自定义",
+    "translation": "回形",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.pattern.4",
+    "source": "Custom",
+    "previous": "无",
+    "translation": "自定义",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.tooltip.pattern.0",
+    "source": "Import a design from the third-party ModDecoded calculator.",
+    "previous": "均匀间隔放置燃料棒.\n示例:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\n大约: 30% 燃料棒, 70% 散热介质.",
+    "translation": "从第三方 ModDecoded 计算器导入设计.",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.tooltip.pattern.1",
+    "source": "Rods are placed evenly spaced.\nExample:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\nApproximately: 30% rod, 70% heat sink.",
+    "previous": "以棋盘格放置燃料棒.\n示例:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\n大约: 50% 燃料棒, 50% 散热介质.",
+    "translation": "均匀间隔放置燃料棒.\n示例:\n■□■□■\n□□□□□\n■□■□■\n□□□□□\n■□■□■\n大约: 30% 燃料棒, 70% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.tooltip.pattern.2",
+    "source": "Rods are placed in a checkerboard pattern.\nExample:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\nApproximately: 50% rod, 50% heat sink.",
+    "previous": "以逐层扩展的回形放置燃料棒.\n示例:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\n大约: 90% 燃料棒, 10% 散热介质.",
+    "translation": "以棋盘格放置燃料棒.\n示例:\n■□■□■\n□■□■□\n■□■□■\n□■□■□\n■□■□■\n大约: 50% 燃料棒, 50% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.tooltip.pattern.3",
+    "source": "Rods are placed in expanding frames.\nExample:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\nApproximately: 90% rod, 10% heat sink.",
+    "previous": "放置框架, 内部仅填充散热介质(不放置燃料棒).",
+    "translation": "以逐层扩展的回形放置燃料棒.\n示例:\n■■■■■\n■□□□■\n■□■□■\n■□□□■\n■■■■■\n大约: 90% 燃料棒, 10% 散热介质.",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.reactor_builder.tooltip.pattern.4",
+    "source": "Places the frame and fills the interior with heat sinks only (no rods).",
+    "previous": "仅放置框架(不放置燃料棒或散热介质).",
+    "translation": "放置框架, 内部仅填充散热介质(不放置燃料棒).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.pattern.0",
+    "source": "Website",
+    "previous": "高效",
+    "translation": "网站设计",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.pattern.1",
+    "source": "Efficient",
+    "previous": "高产",
+    "translation": "高效",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.pattern.2",
+    "source": "Productive",
+    "previous": "自定义",
+    "translation": "高产",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.pattern.3",
+    "source": "Hyperflow",
+    "previous": "无",
+    "translation": "超流",
+    "reason": "New turbine layout name"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.tooltip.pattern.0",
+    "source": "Import a design from the third-party ModDecoded calculator.",
+    "previous": "叶片环分布在较少层数上(每片叶片效率更高).",
+    "translation": "从第三方 ModDecoded 计算器导入设计.",
+    "reason": "New option imports a design from the ModDecoded website"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.tooltip.pattern.1",
+    "source": "Blade rings on fewer layers (higher efficiency per blade).",
+    "previous": "叶片环分布在较多层数上(吞吐量更高).",
+    "translation": "叶片环分布在较少层数上(每片叶片效率更高).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.tooltip.pattern.2",
+    "source": "Blade rings on more layers (higher throughput).",
+    "previous": "仅放置外壳, 隔墙与线圈(不放置转轴或叶片).",
+    "translation": "叶片环分布在较多层数上(吞吐量更高).",
+    "reason": "Colossal Reactors 2.5 inserted a Website pattern at index 0; the existing translation follows its English option"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "gui.colossal_reactors.turbine_builder.tooltip.pattern.3",
+    "source": "Multi-rod grid with a rod controller on each column.",
+    "previous": "仅放置外壳与隔墙(不放置转轴, 叶片或线圈).",
+    "translation": "多转轴网格, 每列各有一个转轴控制器.",
+    "reason": "New turbine layout description"
+  },
+  {
+    "batch": "batch-001",
+    "namespace": "colossal_reactors",
+    "key": "message.colossal_reactors.turbine_invalid.multiple_rod_controllers",
+    "source": "Invalid: rod controllers found (%s) — each must sit on the deck above a rod column",
+    "previous": "无效: 发现 %s 个转轴控制器(必须恰好有 1 个)",
+    "translation": "无效: 发现的转轴控制器(%s), 每个都必须位于转轴列上方的平台上",
+    "reason": "Multiple rod controllers are now valid; each must sit above a rod column"
+  },
+  {
+    "batch": "batch-002",
+    "namespace": "hephaestus_tools",
+    "key": "gui.hephaestus_tools.build.ready_hint",
+    "source": "All parts ready! Press Forge (or Space).",
+    "previous": "全部部件已安装! 按下锻造按钮(或 Space).",
+    "translation": "全部部件已就绪! 按下锻造按钮(或 Space).",
+    "reason": "Wording changed from attached to ready"
+  },
+  {
+    "batch": "batch-005",
+    "namespace": "nautec",
+    "key": "nautec.jei.crystal_cradle",
+    "source": "Feed the cradle laser beams of purity 2.0 or higher. After %s AP the seed becomes a Cultivated Prismarine Crystal with a random purity from 3.00 to 6.00. It can be moved with a wrench without changing its purity.",
+    "previous": "向晶体培育座输入纯度不低于 2.0 的激光束. 积累 %s AP 后, 晶种会变为立于培育座上的培育海棱水晶, 其功能与天然水晶相同, 且可用扳手移动.",
+    "translation": "向晶体培育座输入纯度不低于 2.0 的激光束. 积累 %s AP 后, 晶种会变为纯度随机在 3.00 到 6.00 之间的培育海棱水晶. 可用扳手移动, 纯度不会改变.",
+    "reason": "Cultivated crystals now roll a random purity and keep it when moved"
+  },
+  {
+    "batch": "batch-049",
+    "namespace": "hephaestus_tools",
+    "key": "mastery.hephaestus_tools.frontier.desc",
+    "source": "Balanced gathering bonus; later saves durability, gives light extra ore drops and rewards streaks.",
+    "previous": "均衡的采集加成; 后期可节省耐久, 提供少量额外掉落并奖励连续采集.",
+    "translation": "均衡的采集加成; 后期可节省耐久, 提供少量额外矿石掉落并奖励连续采集.",
+    "reason": "Extra drops now limited to ores"
+  },
+  {
+    "batch": "batch-066",
+    "namespace": "recursiveae2patternprovider",
+    "key": "recursiveae2patternprovider.configuration.maxAlternativesPerItem.tooltip",
+    "source": "How many distinct crafting recipes to publish per dependency item. Best recipes come first; stock conversions (e.g. block to ingots and back) come last and do not count toward the limit. 1 = only the best recipe",
+    "previous": "为每个依赖物品生成多少个合成配方.1 = 仅最佳配方 (推荐)",
+    "translation": "为每个依赖物品发布多少个不同的合成配方. 最佳配方排在最前; 库存转换(例如方块与锭的互相转换)排在最后, 且不计入此上限. 1 = 仅最佳配方",
+    "reason": "Option now counts distinct published recipes and excludes stock conversions; recommendation removed"
+  },
+  {
+    "batch": "batch-157",
+    "namespace": "ftbarmory",
+    "key": "item.ftbarmory.adamantite_storage_stack_upgrade.tooltip",
+    "source": "Multiplies the number of stacks that can fit in a slot by 36",
+    "previous": "使每个槽位可容纳的堆叠数乘以 32",
+    "translation": "使每个槽位可容纳的堆叠数乘以 36",
+    "reason": "Multiplier changed from 32 to 36"
+  },
+  {
+    "batch": "batch-157",
+    "namespace": "ftbarmory",
+    "key": "item.ftbarmory.adamantite_backpack_stack_upgrade.tooltip",
+    "source": "Multiplies the number of stacks that can fit in a slot by 20",
+    "previous": "使每个槽位可容纳的堆叠数乘以 16",
+    "translation": "使每个槽位可容纳的堆叠数乘以 20",
+    "reason": "Multiplier changed from 16 to 20"
+  },
+  {
+    "batch": "batch-195",
+    "namespace": "easy_npc_example",
+    "key": "text.easy_npc_example.hello.text",
+    "source": "Hello @initiator, my name is @npc, nice to meet you!\n\nDo you want to know more about me?",
+    "previous": "你好 @initiator, 我是 @npc, 很高兴见到你!\n\n想多了解我一些吗?",
+    "translation": "你好 @initiator, 我是 @npc, 很高兴见到你!\n\n想多了解我一些吗?",
+    "reason": "Comma added in English; existing translation already has it"
   }
 ]

@@ -1,7 +1,7 @@
 {
   "batch": "007",
   "namespace": "ftbevolutioncompanion",
-  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.24.jar",
+  "jar": ".minecraft/mods/ftb-evolution-companion-26.1.2.26.jar",
   "language_path": "assets/ftbevolutioncompanion/lang/en_us.json",
   "target": ".minecraft/kubejs/assets/ftbevolutioncompanion/lang/zh_cn.json",
   "context_overrides": {},
@@ -356,15 +356,15 @@
     "trait.ftbevolutioncompanion.dragonfrost.desc",
     "trait.ftbevolutioncompanion.dragonstorm.desc"
   ],
-  "jar_sha256": "1ad3dad2ff66277aa807d304964f54441781f656e9a069e732039ded8e924054",
+  "jar_sha256": "05d632e2e52eb52d6ef8b4fd469e1e769f633bcdd700d26c08ffb5c5fa7406ac",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/ftb-evolution-companion-26.1.2.24.jar",
-    "jar_sha256": "1ad3dad2ff66277aa807d304964f54441781f656e9a069e732039ded8e924054",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/ftb-evolution-companion-26.1.2.26.jar",
+    "jar_sha256": "05d632e2e52eb52d6ef8b4fd469e1e769f633bcdd700d26c08ffb5c5fa7406ac",
     "nested_jars": [],
     "resource": "assets/ftbevolutioncompanion/lang/en_us.json",
     "mod_ids": [
       "ftbevolutioncompanion"
     ],
-    "resource_sha256": "5af400763218c52a5926988be8fa6afcfe5620ef2839f7fa1a65353ce267ed6c"
+    "resource_sha256": "6e8de32190532e57a8c9c36e4b23efaf6840be8e091e50fbe43dc865b221b619"
   }
 }

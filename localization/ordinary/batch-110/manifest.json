@@ -125,7 +125,7 @@
   ],
   "jar_sha256": "10d92f15bb554408a71faa4964cb81eb47465a56b2b5eb22348459f2d80a7ad0",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/another_config_manager-1.0.0.0.0-neoforge-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/another_config_manager-1.0.0.0.0-neoforge-26.1.2.jar",
     "jar_sha256": "10d92f15bb554408a71faa4964cb81eb47465a56b2b5eb22348459f2d80a7ad0",
     "nested_jars": [],
     "resource": "assets/another_config_manager/lang/en_us.json",

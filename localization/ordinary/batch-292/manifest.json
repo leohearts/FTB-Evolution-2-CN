@@ -262,7 +262,7 @@
   "unchanged_values": [],
   "jar_sha256": "8ce75011032335cf0a2c22f240e06423faac07276b1af11d3455d5fc880f6651",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/Anima-1.0.3+Neoforge-26.1.2.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/Anima-1.0.3+Neoforge-26.1.2.jar",
     "jar_sha256": "8ce75011032335cf0a2c22f240e06423faac07276b1af11d3455d5fc880f6651",
     "nested_jars": [],
     "resource": "assets/anima/lang/en_us.json",

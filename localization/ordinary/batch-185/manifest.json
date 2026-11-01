@@ -40,7 +40,7 @@
   ],
   "jar_sha256": "ee1b35b0ddb890936795031859ad99a2cc1b6f88a46769303bca8e0b4b1ac048",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/lootr-neoforge-26.1.2-1.23.38.123.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/lootr-neoforge-26.1.2-1.23.38.123.jar",
     "jar_sha256": "ee1b35b0ddb890936795031859ad99a2cc1b6f88a46769303bca8e0b4b1ac048",
     "nested_jars": [],
     "resource": "assets/lootr/lang/en_us.json",

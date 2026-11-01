@@ -94,7 +94,7 @@
   ],
   "jar_sha256": "bf77bb58fbbf186b290d3b01844254cf4791c067c75fdc160266eb5f1d977901",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mystianapiary-neoforge-1.10.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/mystianapiary-neoforge-1.10.jar",
     "jar_sha256": "bf77bb58fbbf186b290d3b01844254cf4791c067c75fdc160266eb5f1d977901",
     "nested_jars": [],
     "resource": "assets/mystianapiary/lang/en_us.json",

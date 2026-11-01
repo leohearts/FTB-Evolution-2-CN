@@ -12,7 +12,7 @@
   "unchanged_values": [],
   "jar_sha256": "8437fabbe8e32985e24a4ab204dd2922f1aab165468808fd789450d3a305b769",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/crawl-mc26.1.2-neoforge-0.15.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/crawl-mc26.1.2-neoforge-0.15.0.jar",
     "jar_sha256": "8437fabbe8e32985e24a4ab204dd2922f1aab165468808fd789450d3a305b769",
     "nested_jars": [],
     "resource": "assets/crawl/lang/en_us.json",

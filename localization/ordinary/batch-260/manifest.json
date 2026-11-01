@@ -18,7 +18,7 @@
   ],
   "jar_sha256": "d9147c8549fedad478bd18e2ddeef172ef290a081f80bd4d242d54e027ecd9d8",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/cloth-config-26.1.154.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/cloth-config-26.1.154.jar",
     "jar_sha256": "d9147c8549fedad478bd18e2ddeef172ef290a081f80bd4d242d54e027ecd9d8",
     "nested_jars": [],
     "resource": "assets/cloth-config2/lang/en_us.json",

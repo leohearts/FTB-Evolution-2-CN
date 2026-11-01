@@ -15,7 +15,7 @@
   "unchanged_values": [],
   "jar_sha256": "9df646c02bed17a59b461d92e6c82bde6dc84ea572af351d49fbaf42db9b3b4e",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/mffs-5.8.39.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/mffs-5.8.39.jar",
     "jar_sha256": "9df646c02bed17a59b461d92e6c82bde6dc84ea572af351d49fbaf42db9b3b4e",
     "nested_jars": [],
     "resource": "assets/mffs/lang/en_us.json",

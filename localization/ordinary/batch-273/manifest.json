@@ -13,7 +13,7 @@
   "unchanged_values": [],
   "jar_sha256": "6e9921a8b43df68c756e3672dad945f76012edd85d862b2eb78989de84cf2327",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/pipezlagfix-26.1.2-1.1.0.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/pipezlagfix-26.1.2-1.1.0.jar",
     "jar_sha256": "6e9921a8b43df68c756e3672dad945f76012edd85d862b2eb78989de84cf2327",
     "nested_jars": [],
     "resource": "assets/pipezlagfix/lang/en_us.json",

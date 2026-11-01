@@ -13,7 +13,7 @@
   ],
   "jar_sha256": "ef3c4c7c326e429d725108226299da0fe91bbff0bf9fe8fe2bfc287a2c66fca3",
   "resource_binding": {
-    "jar": "/home/astronw/.ftba/instances/ftb evolution 2/mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
+    "jar": "/home/leohearts/workspace/ftbevo2-1.6.3-instance/mods/AE2NetworkAnalyzer-26.1-1.0.0-neoforge.jar",
     "jar_sha256": "ef3c4c7c326e429d725108226299da0fe91bbff0bf9fe8fe2bfc287a2c66fca3",
     "nested_jars": [],
     "resource": "assets/ae2netanalyser/lang/en_us.json",
