@@ -12,7 +12,7 @@
     {
       "namespace": "colossal_reactors",
       "source_keys": 1,
-      "existing_keys": 492,
+      "existing_keys": 536,
       "added_keys": 0,
       "missing": 0,
       "sha256": "1283305e79e113f06e61ff86cd9c711e09be2dcb995c70d82cf82c110956c580"
@@ -47,7 +47,7 @@
       "existing_keys": 1201,
       "added_keys": 0,
       "missing": 0,
-      "sha256": "ca5ec053e028d3f44b83de931c3019773de3204ef077473717337ff39d9d1d7e"
+      "sha256": "7e6b9a2cf8684485633ba085109ad15e32ddcfe600d464e9b462f5f6abca2e30"
     },
     {
       "namespace": "ftb_custom",
@@ -60,7 +60,7 @@
     {
       "namespace": "ftbevolutioncompanion",
       "source_keys": 2,
-      "existing_keys": 518,
+      "existing_keys": 522,
       "added_keys": 0,
       "missing": 0,
       "sha256": "08c4be87fe5f0037ba198d8653b9355981005197874c0ad19d57238660488e43"
@@ -84,7 +84,7 @@
     {
       "namespace": "hephaestus_tools",
       "source_keys": 1,
-      "existing_keys": 618,
+      "existing_keys": 622,
       "added_keys": 0,
       "missing": 0,
       "sha256": "19e7cd3f5b7eb501d8748dd99e098ccb30be8f1f772721f8ee7291116004c9f6"
@@ -156,7 +156,7 @@
     {
       "namespace": "witchery",
       "source_keys": 36,
-      "existing_keys": 472,
+      "existing_keys": 511,
       "added_keys": 0,
       "missing": 0,
       "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"

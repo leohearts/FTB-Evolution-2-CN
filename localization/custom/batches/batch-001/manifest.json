@@ -235,7 +235,7 @@
       "source_path": "kubejs/assets/ftb/lang/en_us.json",
       "output_path": ".minecraft/kubejs/assets/ftb/lang/zh_cn.json",
       "key": "ftb.shopkeeper.jewler",
-      "en": "The Jewler",
+      "en": "The Jeweler",
       "zh": "珠宝商"
     },
     {

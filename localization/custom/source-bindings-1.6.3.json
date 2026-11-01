@@ -1,0 +1,95 @@
+{
+  "target_pack_version": "1.6.3",
+  "sources": {
+    "apotheosis": {
+      "path": "kubejs/assets/apotheosis/lang/en_us.json",
+      "sha256": "9a10c0120b9828bdf7fb993abc48a10d4d78f981c8317924fb4e1ca1f7fe6744"
+    },
+    "colossal_reactors": {
+      "path": "kubejs/assets/colossal_reactors/lang/en_us.json",
+      "sha256": "1283305e79e113f06e61ff86cd9c711e09be2dcb995c70d82cf82c110956c580"
+    },
+    "drones": {
+      "path": "kubejs/assets/drones/lang/en_us.json",
+      "sha256": "cac386d6f40404cbe70c862c39ebb91d42c5db6cddd5e43ee6cb96822d0f017b"
+    },
+    "easy_npc": {
+      "path": "kubejs/assets/easy_npc/lang/en_us.json",
+      "sha256": "7a4624a7de842b971e0cd8988b1a45e9b394a509ff2f26cce6c8a1bed5013abf"
+    },
+    "enderio_evolution": {
+      "path": "kubejs/assets/enderio_evolution/lang/en_us.json",
+      "sha256": "54559704e287ae4b1469ed4f24b3f3f306319d82ce6de6d808db1480d1ea2317"
+    },
+    "ftb": {
+      "path": "kubejs/assets/ftb/lang/en_us.json",
+      "sha256": "7e6b9a2cf8684485633ba085109ad15e32ddcfe600d464e9b462f5f6abca2e30"
+    },
+    "ftbevolutioncompanion": {
+      "path": "kubejs/assets/ftbevolutioncompanion/lang/en_us.json",
+      "sha256": "08c4be87fe5f0037ba198d8653b9355981005197874c0ad19d57238660488e43"
+    },
+    "ftbmaterials": {
+      "path": "kubejs/assets/ftbmaterials/lang/en_us.json",
+      "sha256": "ace0f14ce20bc096fc770c3fef252fb1a75bd8a380cce188b09f2e9022561bc3"
+    },
+    "hats": {
+      "path": "kubejs/assets/hats/lang/en_us.json",
+      "sha256": "d9cdbf71a8363d47dd1b7af060d20e67c38243a64e211e41373446c82a872a7e"
+    },
+    "hephaestus_tools": {
+      "path": "kubejs/assets/hephaestus_tools/lang/en_us.json",
+      "sha256": "19e7cd3f5b7eb501d8748dd99e098ccb30be8f1f772721f8ee7291116004c9f6"
+    },
+    "hostilenetworks": {
+      "path": "kubejs/assets/hostilenetworks/lang/en_us.json",
+      "sha256": "1ce01e3ffb7072fa673d07e5e77f9f963325285073de5c47cf62d312f0361740"
+    },
+    "mysticalagriculture": {
+      "path": "kubejs/assets/mysticalagriculture/lang/en_us.json",
+      "sha256": "4ee30ad74e6be09aa54cbe493d4acf3a27593f6fe553a5ba59a9c9e1d3dad9c7"
+    },
+    "nutritional": {
+      "path": "kubejs/assets/nutritional/lang/en_us.json",
+      "sha256": "5af31c76244766bb05cae9897af3d80cafc32da8640f4c22cf24acb44b01c650"
+    },
+    "productivebees": {
+      "path": "kubejs/assets/productivebees/lang/en_us.json",
+      "sha256": "7c0fd34a5bcb13211ba149f40733b56df8fe52c597047dd837ab05acdda4e8ea"
+    },
+    "sdrp": {
+      "path": "kubejs/assets/sdrp/lang/en_us.json",
+      "sha256": "e27e8bc2ddd17eaf248e1450537900694f513066a1e815c6059521fb9f8f265b"
+    },
+    "thaumaturge": {
+      "path": "kubejs/assets/thaumaturge/lang/en_us.json",
+      "sha256": "df89975f633ec5f67dd689e82c64c9c784a99280ae79b4d2bc7c94acd3f84724"
+    },
+    "utilitarian": {
+      "path": "kubejs/assets/utilitarian/lang/en_us.json",
+      "sha256": "e8413da8f148a1d04703ea894d7fa9e94a13258ca8363daa7db034a2f2b634ba"
+    },
+    "weathergate": {
+      "path": "kubejs/assets/weathergate/lang/en_us.json",
+      "sha256": "1becc98942564383b48680fab9740254af0761dfcddaecd4e1c73fc05deed714"
+    },
+    "witchery": {
+      "path": "kubejs/assets/witchery/lang/en_us.json",
+      "sha256": "bec3d18a1e600f8d223666f44d00c7a41c5d4c449e8d59719125dd5fbade5625"
+    }
+  },
+  "deferred_manual_keys": [
+    {
+      "key": "book.witchery.guidebook.ritual.summon_coven_witch.description",
+      "en": "Call a witch willing to join your coven",
+      "reason": "New handbook prose; deferred to key-manual phase, no translation completion claimed"
+    },
+    {
+      "key": "book.witchery.guidebook.ritual.summon_coven_witch.summon_coven_witch.text",
+      "en": "Sacrifice an ordinary Witch to summon a Coven Witch who can be recruited with a Coven Contract.",
+      "reason": "New handbook prose; deferred to key-manual phase, no translation completion claimed"
+    }
+  ],
+  "review_manifest": "localization/custom/batches/batch-003/manifest.json",
+  "previous_sources": "localization/archive/custom-1.3.2"
+}
